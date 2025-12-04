@@ -1,0 +1,3 @@
+- pkg:cargo/vfio_user@0.1.0
+- pkg:cargo/vfio_user@0.1.1
+- pkg:cargo/vfio_user@0.1.2

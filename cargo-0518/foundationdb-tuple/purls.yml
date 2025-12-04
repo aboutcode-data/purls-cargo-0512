@@ -1,0 +1,2 @@
+- pkg:cargo/foundationdb-tuple@0.10.0
+- pkg:cargo/foundationdb-tuple@0.9.1
