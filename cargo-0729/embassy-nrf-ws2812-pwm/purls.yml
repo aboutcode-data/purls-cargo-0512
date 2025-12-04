@@ -1,0 +1,2 @@
+- pkg:cargo/embassy-nrf-ws2812-pwm@0.1.0
+- pkg:cargo/embassy-nrf-ws2812-pwm@0.1.1

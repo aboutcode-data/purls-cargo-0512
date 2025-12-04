@@ -1,0 +1,4 @@
+- pkg:cargo/asmov-common-tooling@0.0.0
+- pkg:cargo/asmov-common-tooling@0.0.0-deprecated.1
+- pkg:cargo/asmov-common-tooling@0.0.1
+- pkg:cargo/asmov-common-tooling@0.0.2

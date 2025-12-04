@@ -1,0 +1,2 @@
+- pkg:cargo/solana-transaction-status-wasm@2.3.12
+- pkg:cargo/solana-transaction-status-wasm@3.0.10
