@@ -1,0 +1,7 @@
+- pkg:cargo/qcs-sdk-python@0.21.20
+- pkg:cargo/qcs-sdk-python@0.21.20-rc.0
+- pkg:cargo/qcs-sdk-python@0.21.21
+- pkg:cargo/qcs-sdk-python@0.21.21-rc.0
+- pkg:cargo/qcs-sdk-python@0.21.22
+- pkg:cargo/qcs-sdk-python@0.21.22-rc.0
+- pkg:cargo/qcs-sdk-python@0.21.22-rc.1
