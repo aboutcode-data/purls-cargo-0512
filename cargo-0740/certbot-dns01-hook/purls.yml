@@ -1,0 +1,2 @@
+- pkg:cargo/certbot-dns01-hook@0.1.0
+- pkg:cargo/certbot-dns01-hook@0.1.1
