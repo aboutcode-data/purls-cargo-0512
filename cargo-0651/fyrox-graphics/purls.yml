@@ -1,0 +1,4 @@
+- pkg:cargo/fyrox-graphics@0.36.0
+- pkg:cargo/fyrox-graphics@0.36.1
+- pkg:cargo/fyrox-graphics@0.36.2
+- pkg:cargo/fyrox-graphics@1.0.0-rc.1
