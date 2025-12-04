@@ -1,0 +1,4 @@
+- pkg:cargo/bevy_mod_scripting_display@0.15.1
+- pkg:cargo/bevy_mod_scripting_display@0.16.0
+- pkg:cargo/bevy_mod_scripting_display@0.16.1
+- pkg:cargo/bevy_mod_scripting_display@0.17.0
