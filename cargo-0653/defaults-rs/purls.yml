@@ -36,3 +36,4 @@
 - pkg:cargo/defaults-rs@0.7.1
 - pkg:cargo/defaults-rs@1.0.0
 - pkg:cargo/defaults-rs@1.1.0
+- pkg:cargo/defaults-rs@1.2.0
