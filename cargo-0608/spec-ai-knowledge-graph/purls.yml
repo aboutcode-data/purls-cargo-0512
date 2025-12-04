@@ -1,0 +1,4 @@
+- pkg:cargo/spec-ai-knowledge-graph@0.5.1
+- pkg:cargo/spec-ai-knowledge-graph@0.5.1-rc
+- pkg:cargo/spec-ai-knowledge-graph@0.6.0-prerelease
+- pkg:cargo/spec-ai-knowledge-graph@0.6.0-prerelease.1
