@@ -1,0 +1,2 @@
+- pkg:cargo/starknet-native-compile@0.7.1
+- pkg:cargo/starknet-native-compile@0.7.2

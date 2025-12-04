@@ -1,0 +1,3 @@
+- pkg:cargo/stop-cli@0.0.1
+- pkg:cargo/stop-cli@0.0.1-alpha
+- pkg:cargo/stop-cli@0.0.1-beta
