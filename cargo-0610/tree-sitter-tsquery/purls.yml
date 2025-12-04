@@ -1,0 +1,2 @@
+- pkg:cargo/tree-sitter-tsquery@0.7.0
+- pkg:cargo/tree-sitter-tsquery@0.8.0
