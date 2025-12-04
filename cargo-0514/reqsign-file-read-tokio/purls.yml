@@ -1,0 +1,3 @@
+- pkg:cargo/reqsign-file-read-tokio@1.0.0
+- pkg:cargo/reqsign-file-read-tokio@2.0.0
+- pkg:cargo/reqsign-file-read-tokio@2.0.1

@@ -1,0 +1,5 @@
+- pkg:cargo/aws-multipart-upload@0.1.0-alpha.1
+- pkg:cargo/aws-multipart-upload@0.1.0-rc1
+- pkg:cargo/aws-multipart-upload@0.1.0-rc2
+- pkg:cargo/aws-multipart-upload@0.1.0-rc3
+- pkg:cargo/aws-multipart-upload@0.1.0-rc4
