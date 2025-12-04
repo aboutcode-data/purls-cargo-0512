@@ -1,0 +1,4 @@
+- pkg:cargo/cue-sys@1.0.0
+- pkg:cargo/cue-sys@1.1.0
+- pkg:cargo/cue-sys@2.0.0
+- pkg:cargo/cue-sys@2.0.1

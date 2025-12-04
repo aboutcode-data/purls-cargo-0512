@@ -1,0 +1,2 @@
+- pkg:cargo/git-tags-semver@0.3.0
+- pkg:cargo/git-tags-semver@0.4.0
