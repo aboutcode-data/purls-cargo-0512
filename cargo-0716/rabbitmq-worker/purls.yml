@@ -1,0 +1,2 @@
+- pkg:cargo/rabbitmq-worker@0.1.0
+- pkg:cargo/rabbitmq-worker@1.0.0
