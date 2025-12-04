@@ -1,0 +1,5 @@
+- pkg:cargo/clean-dev-dirs@1.0.0
+- pkg:cargo/clean-dev-dirs@2.0.0
+- pkg:cargo/clean-dev-dirs@2.0.1
+- pkg:cargo/clean-dev-dirs@2.1.0
+- pkg:cargo/clean-dev-dirs@2.2.0
