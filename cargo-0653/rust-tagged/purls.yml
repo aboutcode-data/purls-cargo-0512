@@ -6,3 +6,4 @@
 - pkg:cargo/rust-tagged@0.7.0
 - pkg:cargo/rust-tagged@0.8.0
 - pkg:cargo/rust-tagged@1.0.0
+- pkg:cargo/rust-tagged@1.0.1
