@@ -852,6 +852,7 @@
 - pkg:cargo/swc_ecma_preset_env@40.0.0
 - pkg:cargo/swc_ecma_preset_env@41.0.0
 - pkg:cargo/swc_ecma_preset_env@42.0.0
+- pkg:cargo/swc_ecma_preset_env@42.0.1
 - pkg:cargo/swc_ecma_preset_env@5.0.0
 - pkg:cargo/swc_ecma_preset_env@6.0.0
 - pkg:cargo/swc_ecma_preset_env@7.0.0

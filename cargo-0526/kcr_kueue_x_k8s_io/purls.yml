@@ -22,3 +22,4 @@
 - pkg:cargo/kcr_kueue_x_k8s_io@2.20251114.84007
 - pkg:cargo/kcr_kueue_x_k8s_io@2.20251121.84254
 - pkg:cargo/kcr_kueue_x_k8s_io@2.20251128.84237
+- pkg:cargo/kcr_kueue_x_k8s_io@2.20251205.84238
