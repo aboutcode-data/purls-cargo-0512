@@ -13,3 +13,4 @@
 - pkg:cargo/chloro@0.6.8
 - pkg:cargo/chloro@0.7.0
 - pkg:cargo/chloro@0.7.1
+- pkg:cargo/chloro@0.7.2
