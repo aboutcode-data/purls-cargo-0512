@@ -1,5 +1,6 @@
 - pkg:cargo/pocket-ic@1.0.0
 - pkg:cargo/pocket-ic@10.0.0
+- pkg:cargo/pocket-ic@11.0.0
 - pkg:cargo/pocket-ic@2.0.0
 - pkg:cargo/pocket-ic@2.0.1
 - pkg:cargo/pocket-ic@2.1.0
