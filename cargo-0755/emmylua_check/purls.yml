@@ -6,6 +6,7 @@
 - pkg:cargo/emmylua_check@0.15.0
 - pkg:cargo/emmylua_check@0.16.0
 - pkg:cargo/emmylua_check@0.17.0
+- pkg:cargo/emmylua_check@0.18.0
 - pkg:cargo/emmylua_check@0.4.2
 - pkg:cargo/emmylua_check@0.4.3
 - pkg:cargo/emmylua_check@0.4.4
