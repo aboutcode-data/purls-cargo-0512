@@ -23,3 +23,4 @@
 - pkg:cargo/patina_stacktrace@16.0.1
 - pkg:cargo/patina_stacktrace@17.0.0
 - pkg:cargo/patina_stacktrace@17.1.0
+- pkg:cargo/patina_stacktrace@18.0.0

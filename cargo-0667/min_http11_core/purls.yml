@@ -12,3 +12,4 @@
 - pkg:cargo/min_http11_core@0.1.7
 - pkg:cargo/min_http11_core@0.1.8
 - pkg:cargo/min_http11_core@0.1.9
+- pkg:cargo/min_http11_core@0.2.0
