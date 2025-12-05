@@ -9,3 +9,4 @@
 - pkg:cargo/forgejo-api@0.6.0
 - pkg:cargo/forgejo-api@0.7.0
 - pkg:cargo/forgejo-api@0.8.0
+- pkg:cargo/forgejo-api@0.8.1
