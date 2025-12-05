@@ -58,6 +58,7 @@
 - pkg:cargo/rusteron-media-driver@0.1.157
 - pkg:cargo/rusteron-media-driver@0.1.158
 - pkg:cargo/rusteron-media-driver@0.1.159
+- pkg:cargo/rusteron-media-driver@0.1.160
 - pkg:cargo/rusteron-media-driver@0.1.25
 - pkg:cargo/rusteron-media-driver@0.1.26
 - pkg:cargo/rusteron-media-driver@0.1.27
