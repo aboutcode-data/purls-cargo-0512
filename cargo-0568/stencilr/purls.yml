@@ -27,6 +27,7 @@
 - pkg:cargo/stencilr@0.5.30
 - pkg:cargo/stencilr@0.5.31
 - pkg:cargo/stencilr@0.5.32
+- pkg:cargo/stencilr@0.5.33
 - pkg:cargo/stencilr@0.5.4
 - pkg:cargo/stencilr@0.5.5
 - pkg:cargo/stencilr@0.5.6
