@@ -201,6 +201,8 @@
 - pkg:cargo/re_smart_channel@0.27.1-rc.1
 - pkg:cargo/re_smart_channel@0.27.2
 - pkg:cargo/re_smart_channel@0.27.2-rc.2
+- pkg:cargo/re_smart_channel@0.27.3-rc.1
+- pkg:cargo/re_smart_channel@0.27.3-rc.2
 - pkg:cargo/re_smart_channel@0.28.0-alpha.0
 - pkg:cargo/re_smart_channel@0.3.0
 - pkg:cargo/re_smart_channel@0.3.0-alpha.1
