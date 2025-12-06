@@ -73,6 +73,7 @@
 - pkg:cargo/dittolive-ditto-base@4.13.0-rc.4
 - pkg:cargo/dittolive-ditto-base@4.13.1
 - pkg:cargo/dittolive-ditto-base@4.13.1-rc.1
+- pkg:cargo/dittolive-ditto-base@4.14.0-preview.1
 - pkg:cargo/dittolive-ditto-base@4.15.0-experimental-b6835ba.0
 - pkg:cargo/dittolive-ditto-base@4.15.0-experimental-kotlin17.1
 - pkg:cargo/dittolive-ditto-base@4.15.0-rc.2
@@ -108,4 +109,5 @@
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-gha-sdk-publish.2
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-kmp-publishing.23
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-kmp-publishing.3
+- pkg:cargo/dittolive-ditto-base@5.0.0-experimental-publish-script-update.0
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-sdk-cmd-logging.1
