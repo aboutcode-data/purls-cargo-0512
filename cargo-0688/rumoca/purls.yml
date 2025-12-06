@@ -17,6 +17,7 @@
 - pkg:cargo/rumoca@0.7.15
 - pkg:cargo/rumoca@0.7.16
 - pkg:cargo/rumoca@0.7.17
+- pkg:cargo/rumoca@0.7.18
 - pkg:cargo/rumoca@0.7.2
 - pkg:cargo/rumoca@0.7.3
 - pkg:cargo/rumoca@0.7.8
