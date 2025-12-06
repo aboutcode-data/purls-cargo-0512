@@ -21,3 +21,4 @@
 - pkg:cargo/kodegen_tools_git@0.5.4
 - pkg:cargo/kodegen_tools_git@0.6.0
 - pkg:cargo/kodegen_tools_git@0.6.1
+- pkg:cargo/kodegen_tools_git@0.8.0
