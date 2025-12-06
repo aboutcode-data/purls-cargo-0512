@@ -12,6 +12,7 @@
 - pkg:cargo/newton-cli@0.1.24
 - pkg:cargo/newton-cli@0.1.25
 - pkg:cargo/newton-cli@0.1.26
+- pkg:cargo/newton-cli@0.1.27
 - pkg:cargo/newton-cli@0.1.4
 - pkg:cargo/newton-cli@0.1.5
 - pkg:cargo/newton-cli@0.1.6
