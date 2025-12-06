@@ -45,3 +45,4 @@
 - pkg:cargo/term@1.0.2
 - pkg:cargo/term@1.1.0
 - pkg:cargo/term@1.2.0
+- pkg:cargo/term@1.2.1
