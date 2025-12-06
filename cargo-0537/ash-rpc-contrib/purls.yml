@@ -1,3 +1,4 @@
 - pkg:cargo/ash-rpc-contrib@1.0.4
 - pkg:cargo/ash-rpc-contrib@2.0.0
 - pkg:cargo/ash-rpc-contrib@2.0.1
+- pkg:cargo/ash-rpc-contrib@2.1.0
