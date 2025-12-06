@@ -432,4 +432,5 @@
 - pkg:cargo/semantic-release-cargo@2.4.81
 - pkg:cargo/semantic-release-cargo@2.4.82
 - pkg:cargo/semantic-release-cargo@2.4.83
+- pkg:cargo/semantic-release-cargo@2.4.84
 - pkg:cargo/semantic-release-cargo@2.4.9
