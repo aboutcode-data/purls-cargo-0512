@@ -1,1 +1,2 @@
 - pkg:cargo/opentelemetry-lambda-tower@0.1.0
+- pkg:cargo/opentelemetry-lambda-tower@0.1.1
