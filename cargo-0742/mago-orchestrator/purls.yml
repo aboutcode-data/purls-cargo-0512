@@ -1,5 +1,6 @@
 - pkg:cargo/mago-orchestrator@1.0.0-rc.1
 - pkg:cargo/mago-orchestrator@1.0.0-rc.10
+- pkg:cargo/mago-orchestrator@1.0.0-rc.11
 - pkg:cargo/mago-orchestrator@1.0.0-rc.2
 - pkg:cargo/mago-orchestrator@1.0.0-rc.3
 - pkg:cargo/mago-orchestrator@1.0.0-rc.4
