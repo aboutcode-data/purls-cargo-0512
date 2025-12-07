@@ -1,2 +1,4 @@
 - pkg:cargo/brk_rolldown_workspace@0.3.0
 - pkg:cargo/brk_rolldown_workspace@0.4.0
+- pkg:cargo/brk_rolldown_workspace@0.5.0
+- pkg:cargo/brk_rolldown_workspace@0.5.1
