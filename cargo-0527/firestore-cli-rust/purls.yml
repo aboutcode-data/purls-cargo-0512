@@ -1,1 +1,2 @@
 - pkg:cargo/firestore-cli-rust@0.1.0
+- pkg:cargo/firestore-cli-rust@0.2.0
