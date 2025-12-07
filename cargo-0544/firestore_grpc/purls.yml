@@ -217,6 +217,7 @@
 - pkg:cargo/firestore_grpc@0.294.0
 - pkg:cargo/firestore_grpc@0.295.0
 - pkg:cargo/firestore_grpc@0.296.0
+- pkg:cargo/firestore_grpc@0.297.0
 - pkg:cargo/firestore_grpc@0.3.0
 - pkg:cargo/firestore_grpc@0.30.0
 - pkg:cargo/firestore_grpc@0.31.0

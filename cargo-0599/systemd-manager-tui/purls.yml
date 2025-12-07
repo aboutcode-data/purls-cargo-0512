@@ -13,3 +13,4 @@
 - pkg:cargo/systemd-manager-tui@1.0.9
 - pkg:cargo/systemd-manager-tui@1.1.0
 - pkg:cargo/systemd-manager-tui@1.1.1
+- pkg:cargo/systemd-manager-tui@1.2.0
