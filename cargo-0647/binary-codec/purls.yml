@@ -15,3 +15,5 @@
 - pkg:cargo/binary-codec@0.3.0
 - pkg:cargo/binary-codec@0.3.1
 - pkg:cargo/binary-codec@0.3.2
+- pkg:cargo/binary-codec@0.3.3
+- pkg:cargo/binary-codec@0.3.4
