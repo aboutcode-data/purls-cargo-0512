@@ -7,3 +7,4 @@
 - pkg:cargo/light-batched-merkle-tree@0.5.0
 - pkg:cargo/light-batched-merkle-tree@0.6.0
 - pkg:cargo/light-batched-merkle-tree@0.6.1
+- pkg:cargo/light-batched-merkle-tree@0.7.0
