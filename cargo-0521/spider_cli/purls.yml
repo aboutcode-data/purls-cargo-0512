@@ -1526,6 +1526,7 @@
 - pkg:cargo/spider_cli@2.38.61
 - pkg:cargo/spider_cli@2.38.62
 - pkg:cargo/spider_cli@2.38.64
+- pkg:cargo/spider_cli@2.38.67
 - pkg:cargo/spider_cli@2.38.7
 - pkg:cargo/spider_cli@2.38.8
 - pkg:cargo/spider_cli@2.38.9
