@@ -56,3 +56,4 @@
 - pkg:cargo/svgplot@2024.7.0
 - pkg:cargo/svgplot@2024.9.0
 - pkg:cargo/svgplot@2025.0.0
+- pkg:cargo/svgplot@2025.1.0
