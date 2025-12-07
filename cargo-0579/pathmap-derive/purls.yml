@@ -1,1 +1,2 @@
 - pkg:cargo/pathmap-derive@0.2.0-alpha0
+- pkg:cargo/pathmap-derive@0.2.1

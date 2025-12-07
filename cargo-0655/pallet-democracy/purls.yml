@@ -53,6 +53,7 @@
 - pkg:cargo/pallet-democracy@41.0.0
 - pkg:cargo/pallet-democracy@42.0.0
 - pkg:cargo/pallet-democracy@43.0.0
+- pkg:cargo/pallet-democracy@44.0.0
 - pkg:cargo/pallet-democracy@5.0.0
 - pkg:cargo/pallet-democracy@6.0.0
 - pkg:cargo/pallet-democracy@7.0.0

@@ -20,6 +20,7 @@
 - pkg:cargo/pallet-asset-conversion@23.0.0
 - pkg:cargo/pallet-asset-conversion@24.0.0
 - pkg:cargo/pallet-asset-conversion@25.0.0
+- pkg:cargo/pallet-asset-conversion@26.0.0
 - pkg:cargo/pallet-asset-conversion@4.0.0
 - pkg:cargo/pallet-asset-conversion@5.0.0
 - pkg:cargo/pallet-asset-conversion@6.0.0

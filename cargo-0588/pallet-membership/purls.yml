@@ -52,6 +52,7 @@
 - pkg:cargo/pallet-membership@41.0.0
 - pkg:cargo/pallet-membership@42.0.0
 - pkg:cargo/pallet-membership@43.0.0
+- pkg:cargo/pallet-membership@44.0.0
 - pkg:cargo/pallet-membership@5.0.0
 - pkg:cargo/pallet-membership@6.0.0
 - pkg:cargo/pallet-membership@7.0.0

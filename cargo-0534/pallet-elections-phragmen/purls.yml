@@ -53,6 +53,7 @@
 - pkg:cargo/pallet-elections-phragmen@42.0.0
 - pkg:cargo/pallet-elections-phragmen@43.0.0
 - pkg:cargo/pallet-elections-phragmen@44.0.0
+- pkg:cargo/pallet-elections-phragmen@45.0.0
 - pkg:cargo/pallet-elections-phragmen@5.0.0
 - pkg:cargo/pallet-elections-phragmen@6.0.0
 - pkg:cargo/pallet-elections-phragmen@7.0.0

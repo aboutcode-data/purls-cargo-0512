@@ -14,6 +14,7 @@
 - pkg:cargo/pallet-collective-content@0.2.0-dev.1
 - pkg:cargo/pallet-collective-content@0.20.0
 - pkg:cargo/pallet-collective-content@0.21.0
+- pkg:cargo/pallet-collective-content@0.22.0
 - pkg:cargo/pallet-collective-content@0.3.0
 - pkg:cargo/pallet-collective-content@0.4.0
 - pkg:cargo/pallet-collective-content@0.5.0
