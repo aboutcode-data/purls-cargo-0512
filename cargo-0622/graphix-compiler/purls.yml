@@ -15,3 +15,4 @@
 - pkg:cargo/graphix-compiler@0.1.9
 - pkg:cargo/graphix-compiler@0.2.0
 - pkg:cargo/graphix-compiler@0.2.1
+- pkg:cargo/graphix-compiler@0.2.2

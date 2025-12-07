@@ -3,3 +3,4 @@
 - pkg:cargo/dlopen2_derive@0.4.0
 - pkg:cargo/dlopen2_derive@0.4.1
 - pkg:cargo/dlopen2_derive@0.4.2
+- pkg:cargo/dlopen2_derive@0.4.3
