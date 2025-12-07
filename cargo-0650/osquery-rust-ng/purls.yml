@@ -1,1 +1,2 @@
 - pkg:cargo/osquery-rust-ng@1.0.0
+- pkg:cargo/osquery-rust-ng@2.0.0
