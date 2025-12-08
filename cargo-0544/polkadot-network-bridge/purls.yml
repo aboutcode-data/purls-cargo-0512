@@ -19,6 +19,7 @@
 - pkg:cargo/polkadot-network-bridge@24.0.0
 - pkg:cargo/polkadot-network-bridge@25.0.0
 - pkg:cargo/polkadot-network-bridge@26.0.0
+- pkg:cargo/polkadot-network-bridge@27.0.0
 - pkg:cargo/polkadot-network-bridge@3.0.0
 - pkg:cargo/polkadot-network-bridge@3.0.0-dev.1
 - pkg:cargo/polkadot-network-bridge@4.0.0

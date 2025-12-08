@@ -18,6 +18,7 @@
 - pkg:cargo/polkadot-overseer@24.0.0
 - pkg:cargo/polkadot-overseer@25.0.0
 - pkg:cargo/polkadot-overseer@26.0.0
+- pkg:cargo/polkadot-overseer@27.0.0
 - pkg:cargo/polkadot-overseer@3.0.0
 - pkg:cargo/polkadot-overseer@3.0.0-dev.1
 - pkg:cargo/polkadot-overseer@4.0.0
