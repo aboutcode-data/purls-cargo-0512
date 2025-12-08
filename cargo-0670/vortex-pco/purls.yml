@@ -17,3 +17,4 @@
 - pkg:cargo/vortex-pco@0.53.0
 - pkg:cargo/vortex-pco@0.54.0
 - pkg:cargo/vortex-pco@0.56.0
+- pkg:cargo/vortex-pco@0.57.0-rc.0
