@@ -14,3 +14,4 @@
 - pkg:cargo/nominal-streaming@0.5.7
 - pkg:cargo/nominal-streaming@0.5.8
 - pkg:cargo/nominal-streaming@0.6.0
+- pkg:cargo/nominal-streaming@0.7.0
