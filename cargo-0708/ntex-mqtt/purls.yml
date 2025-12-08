@@ -161,3 +161,4 @@
 - pkg:cargo/ntex-mqtt@6.0.0-pre.1
 - pkg:cargo/ntex-mqtt@6.1.0
 - pkg:cargo/ntex-mqtt@6.1.1
+- pkg:cargo/ntex-mqtt@6.2.0
