@@ -108,3 +108,4 @@
 - pkg:cargo/rattler_solve@4.0.0
 - pkg:cargo/rattler_solve@4.0.1
 - pkg:cargo/rattler_solve@4.1.0
+- pkg:cargo/rattler_solve@4.1.1
