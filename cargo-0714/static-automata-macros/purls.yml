@@ -1,1 +1,2 @@
 - pkg:cargo/static-automata-macros@1.0.0
+- pkg:cargo/static-automata-macros@1.0.1
