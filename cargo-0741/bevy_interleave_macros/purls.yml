@@ -13,3 +13,4 @@
 - pkg:cargo/bevy_interleave_macros@0.7.0
 - pkg:cargo/bevy_interleave_macros@0.7.2
 - pkg:cargo/bevy_interleave_macros@0.8.0
+- pkg:cargo/bevy_interleave_macros@0.8.1
