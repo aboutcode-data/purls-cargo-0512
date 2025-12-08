@@ -16,6 +16,7 @@
 - pkg:cargo/cumulus-pallet-session-benchmarking@22.0.0
 - pkg:cargo/cumulus-pallet-session-benchmarking@23.0.0
 - pkg:cargo/cumulus-pallet-session-benchmarking@24.0.0
+- pkg:cargo/cumulus-pallet-session-benchmarking@25.0.0
 - pkg:cargo/cumulus-pallet-session-benchmarking@3.0.0
 - pkg:cargo/cumulus-pallet-session-benchmarking@4.0.0
 - pkg:cargo/cumulus-pallet-session-benchmarking@5.0.0
