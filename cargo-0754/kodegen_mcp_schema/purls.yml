@@ -28,3 +28,4 @@
 - pkg:cargo/kodegen_mcp_schema@0.6.2
 - pkg:cargo/kodegen_mcp_schema@0.8.0
 - pkg:cargo/kodegen_mcp_schema@0.8.1
+- pkg:cargo/kodegen_mcp_schema@0.9.0

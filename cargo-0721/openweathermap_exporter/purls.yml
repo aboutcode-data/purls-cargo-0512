@@ -28,3 +28,4 @@
 - pkg:cargo/openweathermap_exporter@0.7.4
 - pkg:cargo/openweathermap_exporter@0.7.5
 - pkg:cargo/openweathermap_exporter@0.7.6
+- pkg:cargo/openweathermap_exporter@0.7.7
