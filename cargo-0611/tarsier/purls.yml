@@ -16,3 +16,4 @@
 - pkg:cargo/tarsier@1.1.7
 - pkg:cargo/tarsier@1.1.8
 - pkg:cargo/tarsier@1.1.9
+- pkg:cargo/tarsier@1.2.0
