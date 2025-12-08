@@ -53,6 +53,7 @@
 - pkg:cargo/pallet-aura@40.0.0
 - pkg:cargo/pallet-aura@41.0.0
 - pkg:cargo/pallet-aura@42.0.0
+- pkg:cargo/pallet-aura@43.0.0
 - pkg:cargo/pallet-aura@5.0.0
 - pkg:cargo/pallet-aura@6.0.0
 - pkg:cargo/pallet-aura@7.0.0

@@ -40,6 +40,7 @@
 - pkg:cargo/pallet-node-authorization@41.0.0
 - pkg:cargo/pallet-node-authorization@42.0.0
 - pkg:cargo/pallet-node-authorization@43.0.0
+- pkg:cargo/pallet-node-authorization@44.0.0
 - pkg:cargo/pallet-node-authorization@5.0.0
 - pkg:cargo/pallet-node-authorization@6.0.0
 - pkg:cargo/pallet-node-authorization@7.0.0

@@ -21,6 +21,7 @@
 - pkg:cargo/pallet-core-fellowship@26.0.0
 - pkg:cargo/pallet-core-fellowship@26.0.1
 - pkg:cargo/pallet-core-fellowship@27.0.0
+- pkg:cargo/pallet-core-fellowship@28.0.0
 - pkg:cargo/pallet-core-fellowship@4.0.0
 - pkg:cargo/pallet-core-fellowship@5.0.0
 - pkg:cargo/pallet-core-fellowship@5.1.0-dev.2
