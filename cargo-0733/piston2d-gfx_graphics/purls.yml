@@ -87,4 +87,5 @@
 - pkg:cargo/piston2d-gfx_graphics@0.8.0
 - pkg:cargo/piston2d-gfx_graphics@0.80.0
 - pkg:cargo/piston2d-gfx_graphics@0.81.0
+- pkg:cargo/piston2d-gfx_graphics@0.82.0
 - pkg:cargo/piston2d-gfx_graphics@0.9.0
