@@ -96,6 +96,7 @@
 - pkg:cargo/lemmy_db_schema@0.19.12-beta.3
 - pkg:cargo/lemmy_db_schema@0.19.12-beta.4
 - pkg:cargo/lemmy_db_schema@0.19.13-beta.1
+- pkg:cargo/lemmy_db_schema@0.19.14
 - pkg:cargo/lemmy_db_schema@0.19.14-beta.0
 - pkg:cargo/lemmy_db_schema@0.19.14-beta.1
 - pkg:cargo/lemmy_db_schema@0.19.14-beta.2
