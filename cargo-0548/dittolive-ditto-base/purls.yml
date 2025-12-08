@@ -108,6 +108,7 @@
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-gha-sdk-publish-test.1
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-gha-sdk-publish.1
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-gha-sdk-publish.2
+- pkg:cargo/dittolive-ditto-base@5.0.0-experimental-gha-trigger.4
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-kmp-publishing.23
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-kmp-publishing.3
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-publish-script-update.0
