@@ -1,5 +1,6 @@
 - pkg:cargo/uper@0.1.10
 - pkg:cargo/uper@0.1.11
+- pkg:cargo/uper@0.1.12
 - pkg:cargo/uper@0.1.4
 - pkg:cargo/uper@0.1.6
 - pkg:cargo/uper@0.1.7
