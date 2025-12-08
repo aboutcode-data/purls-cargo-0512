@@ -19,6 +19,7 @@
 - pkg:cargo/cumulus-primitives-utility@0.21.0
 - pkg:cargo/cumulus-primitives-utility@0.22.0
 - pkg:cargo/cumulus-primitives-utility@0.23.0
+- pkg:cargo/cumulus-primitives-utility@0.24.0
 - pkg:cargo/cumulus-primitives-utility@0.3.0
 - pkg:cargo/cumulus-primitives-utility@0.3.0-dev.1
 - pkg:cargo/cumulus-primitives-utility@0.4.0
