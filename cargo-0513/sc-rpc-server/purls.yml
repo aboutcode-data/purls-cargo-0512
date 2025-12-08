@@ -31,6 +31,7 @@
 - pkg:cargo/sc-rpc-server@23.0.0
 - pkg:cargo/sc-rpc-server@24.0.0
 - pkg:cargo/sc-rpc-server@25.0.0
+- pkg:cargo/sc-rpc-server@26.0.0
 - pkg:cargo/sc-rpc-server@3.0.0
 - pkg:cargo/sc-rpc-server@4.0.0
 - pkg:cargo/sc-rpc-server@5.0.0
