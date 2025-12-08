@@ -3,3 +3,4 @@
 - pkg:cargo/zel_core@0.2.0
 - pkg:cargo/zel_core@0.2.2
 - pkg:cargo/zel_core@0.3.0
+- pkg:cargo/zel_core@0.3.1
