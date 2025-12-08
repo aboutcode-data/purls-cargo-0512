@@ -4,6 +4,7 @@
 - pkg:cargo/blue_engine_utilities@0.1.5
 - pkg:cargo/blue_engine_utilities@0.1.6
 - pkg:cargo/blue_engine_utilities@0.1.7
+- pkg:cargo/blue_engine_utilities@0.10.0
 - pkg:cargo/blue_engine_utilities@0.5.10
 - pkg:cargo/blue_engine_utilities@0.5.11
 - pkg:cargo/blue_engine_utilities@0.5.12
