@@ -5,6 +5,7 @@
 - pkg:cargo/sampo@0.12.1
 - pkg:cargo/sampo@0.12.2
 - pkg:cargo/sampo@0.12.3
+- pkg:cargo/sampo@0.13.0
 - pkg:cargo/sampo@0.2.0
 - pkg:cargo/sampo@0.4.1
 - pkg:cargo/sampo@0.5.0
