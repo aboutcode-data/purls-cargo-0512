@@ -38,4 +38,5 @@
 - pkg:cargo/subxt-macro@0.42.0
 - pkg:cargo/subxt-macro@0.42.1
 - pkg:cargo/subxt-macro@0.43.0
+- pkg:cargo/subxt-macro@0.43.1
 - pkg:cargo/subxt-macro@0.44.0
