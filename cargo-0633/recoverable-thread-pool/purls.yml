@@ -46,3 +46,4 @@
 - pkg:cargo/recoverable-thread-pool@2.4.5
 - pkg:cargo/recoverable-thread-pool@2.4.6
 - pkg:cargo/recoverable-thread-pool@2.4.7
+- pkg:cargo/recoverable-thread-pool@2.4.8
