@@ -13,3 +13,4 @@
 - pkg:cargo/codedefender-api@0.2.2
 - pkg:cargo/codedefender-api@0.2.4
 - pkg:cargo/codedefender-api@0.2.5
+- pkg:cargo/codedefender-api@0.2.7

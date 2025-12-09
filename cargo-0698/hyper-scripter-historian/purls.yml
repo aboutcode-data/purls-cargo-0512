@@ -20,3 +20,4 @@
 - pkg:cargo/hyper-scripter-historian@0.7.0
 - pkg:cargo/hyper-scripter-historian@0.7.1
 - pkg:cargo/hyper-scripter-historian@0.7.5
+- pkg:cargo/hyper-scripter-historian@0.7.8
