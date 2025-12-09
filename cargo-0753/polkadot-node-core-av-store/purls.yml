@@ -17,6 +17,7 @@
 - pkg:cargo/polkadot-node-core-av-store@24.0.0
 - pkg:cargo/polkadot-node-core-av-store@25.0.0
 - pkg:cargo/polkadot-node-core-av-store@26.0.0
+- pkg:cargo/polkadot-node-core-av-store@27.0.0
 - pkg:cargo/polkadot-node-core-av-store@3.0.0
 - pkg:cargo/polkadot-node-core-av-store@3.0.0-dev.1
 - pkg:cargo/polkadot-node-core-av-store@4.0.0
