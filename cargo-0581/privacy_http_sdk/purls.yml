@@ -7,3 +7,4 @@
 - pkg:cargo/privacy_http_sdk@1.0.6
 - pkg:cargo/privacy_http_sdk@1.0.6-beta
 - pkg:cargo/privacy_http_sdk@1.0.7
+- pkg:cargo/privacy_http_sdk@1.0.8
