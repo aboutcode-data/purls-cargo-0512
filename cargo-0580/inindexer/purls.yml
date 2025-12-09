@@ -12,3 +12,4 @@
 - pkg:cargo/inindexer@4.0.0
 - pkg:cargo/inindexer@4.0.0-rc.1
 - pkg:cargo/inindexer@4.0.1
+- pkg:cargo/inindexer@5.0.0
