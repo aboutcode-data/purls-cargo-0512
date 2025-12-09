@@ -1,2 +1,4 @@
 - pkg:cargo/ruvector-graph@0.1.2
 - pkg:cargo/ruvector-graph@0.1.21
+- pkg:cargo/ruvector-graph@0.1.22
+- pkg:cargo/ruvector-graph@0.1.25
