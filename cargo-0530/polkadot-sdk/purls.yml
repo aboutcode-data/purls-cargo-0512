@@ -17,4 +17,5 @@
 - pkg:cargo/polkadot-sdk@2507.0.0
 - pkg:cargo/polkadot-sdk@2507.1.0
 - pkg:cargo/polkadot-sdk@2507.2.0
+- pkg:cargo/polkadot-sdk@2507.4.0
 - pkg:cargo/polkadot-sdk@2509.0.0
