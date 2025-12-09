@@ -9,3 +9,4 @@
 - pkg:cargo/platform_common@0.3.2
 - pkg:cargo/platform_common@0.3.3
 - pkg:cargo/platform_common@0.3.4
+- pkg:cargo/platform_common@0.4.2

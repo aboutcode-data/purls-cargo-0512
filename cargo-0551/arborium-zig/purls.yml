@@ -1,1 +1,3 @@
+- pkg:cargo/arborium-zig@0.0.0-dev
 - pkg:cargo/arborium-zig@0.1.3
+- pkg:cargo/arborium-zig@0.622.0
