@@ -4,3 +4,4 @@
 - pkg:cargo/dig-wallet@0.3.0
 - pkg:cargo/dig-wallet@0.4.0
 - pkg:cargo/dig-wallet@1.0.0
+- pkg:cargo/dig-wallet@2.0.0
