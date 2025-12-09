@@ -11,3 +11,11 @@
 - pkg:cargo/gencrypt@0.6.0
 - pkg:cargo/gencrypt@0.6.1
 - pkg:cargo/gencrypt@0.7.0
+- pkg:cargo/gencrypt@0.7.5
+- pkg:cargo/gencrypt@0.7.6
+- pkg:cargo/gencrypt@0.7.7
+- pkg:cargo/gencrypt@0.7.8
+- pkg:cargo/gencrypt@0.7.9
+- pkg:cargo/gencrypt@0.8.0
+- pkg:cargo/gencrypt@0.8.1
+- pkg:cargo/gencrypt@0.9.0
