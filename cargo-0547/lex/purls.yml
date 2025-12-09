@@ -2,6 +2,7 @@
 - pkg:cargo/lex@0.11.0
 - pkg:cargo/lex@0.12.0
 - pkg:cargo/lex@0.13.0-rc.1
+- pkg:cargo/lex@0.13.0-rc.2
 - pkg:cargo/lex@0.2.0
 - pkg:cargo/lex@0.3.0
 - pkg:cargo/lex@0.4.0
