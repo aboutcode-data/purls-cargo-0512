@@ -80,3 +80,4 @@
 - pkg:cargo/http-compress@3.0.1
 - pkg:cargo/http-compress@3.0.2
 - pkg:cargo/http-compress@3.0.3
+- pkg:cargo/http-compress@3.0.4

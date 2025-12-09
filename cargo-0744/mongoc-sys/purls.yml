@@ -14,6 +14,7 @@
 - pkg:cargo/mongoc-sys@1.3.6
 - pkg:cargo/mongoc-sys@1.30.3
 - pkg:cargo/mongoc-sys@1.30.4
+- pkg:cargo/mongoc-sys@1.30.5
 - pkg:cargo/mongoc-sys@1.4.0
 - pkg:cargo/mongoc-sys@1.5.3
 - pkg:cargo/mongoc-sys@1.6.3
