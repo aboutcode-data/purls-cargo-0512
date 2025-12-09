@@ -44,6 +44,7 @@
 - pkg:cargo/aws-smithy-types-convert@0.60.0
 - pkg:cargo/aws-smithy-types-convert@0.60.1
 - pkg:cargo/aws-smithy-types-convert@0.60.10
+- pkg:cargo/aws-smithy-types-convert@0.60.11
 - pkg:cargo/aws-smithy-types-convert@0.60.2
 - pkg:cargo/aws-smithy-types-convert@0.60.3
 - pkg:cargo/aws-smithy-types-convert@0.60.4
