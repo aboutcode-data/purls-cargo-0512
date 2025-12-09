@@ -20,3 +20,5 @@
 - pkg:cargo/toolbox@0.2.7
 - pkg:cargo/toolbox@0.2.7-final
 - pkg:cargo/toolbox@0.2.8
+- pkg:cargo/toolbox@0.2.8-final
+- pkg:cargo/toolbox@0.2.9
