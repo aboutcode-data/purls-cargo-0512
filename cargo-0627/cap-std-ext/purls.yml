@@ -25,3 +25,4 @@
 - pkg:cargo/cap-std-ext@4.0.4
 - pkg:cargo/cap-std-ext@4.0.5
 - pkg:cargo/cap-std-ext@4.0.6
+- pkg:cargo/cap-std-ext@4.0.7
