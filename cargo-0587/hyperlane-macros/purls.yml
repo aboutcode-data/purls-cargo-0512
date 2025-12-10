@@ -92,6 +92,7 @@
 - pkg:cargo/hyperlane-macros@10.6.16
 - pkg:cargo/hyperlane-macros@10.6.17
 - pkg:cargo/hyperlane-macros@10.6.18
+- pkg:cargo/hyperlane-macros@10.6.19
 - pkg:cargo/hyperlane-macros@10.6.2
 - pkg:cargo/hyperlane-macros@10.6.3
 - pkg:cargo/hyperlane-macros@10.6.4
