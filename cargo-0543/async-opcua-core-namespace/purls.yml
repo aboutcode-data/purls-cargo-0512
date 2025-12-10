@@ -2,3 +2,4 @@
 - pkg:cargo/async-opcua-core-namespace@0.15.1
 - pkg:cargo/async-opcua-core-namespace@0.16.0
 - pkg:cargo/async-opcua-core-namespace@0.17.0
+- pkg:cargo/async-opcua-core-namespace@0.17.1
