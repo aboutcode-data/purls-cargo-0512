@@ -15,3 +15,4 @@
 - pkg:cargo/redis-cloud@0.7.0
 - pkg:cargo/redis-cloud@0.7.1
 - pkg:cargo/redis-cloud@0.7.2
+- pkg:cargo/redis-cloud@0.7.3

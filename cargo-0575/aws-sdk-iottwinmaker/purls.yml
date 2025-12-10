@@ -130,3 +130,4 @@
 - pkg:cargo/aws-sdk-iottwinmaker@1.89.0
 - pkg:cargo/aws-sdk-iottwinmaker@1.9.0
 - pkg:cargo/aws-sdk-iottwinmaker@1.90.0
+- pkg:cargo/aws-sdk-iottwinmaker@1.91.0

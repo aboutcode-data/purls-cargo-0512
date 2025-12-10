@@ -111,3 +111,4 @@
 - pkg:cargo/aws-sdk-arczonalshift@1.92.0
 - pkg:cargo/aws-sdk-arczonalshift@1.93.0
 - pkg:cargo/aws-sdk-arczonalshift@1.94.0
+- pkg:cargo/aws-sdk-arczonalshift@1.95.0

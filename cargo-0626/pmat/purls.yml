@@ -139,6 +139,8 @@
 - pkg:cargo/pmat@2.209.0
 - pkg:cargo/pmat@2.21.0
 - pkg:cargo/pmat@2.210.0
+- pkg:cargo/pmat@2.211.0
+- pkg:cargo/pmat@2.211.1
 - pkg:cargo/pmat@2.22.0
 - pkg:cargo/pmat@2.23.0
 - pkg:cargo/pmat@2.24.0
