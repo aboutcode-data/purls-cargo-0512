@@ -4,3 +4,5 @@
 - pkg:cargo/ac-keystore@1.16.0
 - pkg:cargo/ac-keystore@1.17.0
 - pkg:cargo/ac-keystore@1.18.0
+- pkg:cargo/ac-keystore@1.19.0
+- pkg:cargo/ac-keystore@1.20.0
