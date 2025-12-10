@@ -11,3 +11,5 @@
 - pkg:cargo/substrate-api-client@1.16.0
 - pkg:cargo/substrate-api-client@1.17.0
 - pkg:cargo/substrate-api-client@1.18.0
+- pkg:cargo/substrate-api-client@1.19.0
+- pkg:cargo/substrate-api-client@1.20.0
