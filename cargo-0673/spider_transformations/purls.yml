@@ -565,6 +565,7 @@
 - pkg:cargo/spider_transformations@2.37.108
 - pkg:cargo/spider_transformations@2.37.109
 - pkg:cargo/spider_transformations@2.37.11
+- pkg:cargo/spider_transformations@2.37.110
 - pkg:cargo/spider_transformations@2.37.12
 - pkg:cargo/spider_transformations@2.37.13
 - pkg:cargo/spider_transformations@2.37.14
