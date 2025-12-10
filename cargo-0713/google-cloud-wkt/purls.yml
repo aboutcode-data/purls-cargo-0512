@@ -11,3 +11,4 @@
 - pkg:cargo/google-cloud-wkt@0.5.4
 - pkg:cargo/google-cloud-wkt@1.0.0
 - pkg:cargo/google-cloud-wkt@1.1.0
+- pkg:cargo/google-cloud-wkt@1.2.0
