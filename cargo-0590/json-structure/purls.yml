@@ -4,3 +4,4 @@
 - pkg:cargo/json-structure@0.5.1
 - pkg:cargo/json-structure@0.5.2
 - pkg:cargo/json-structure@0.5.3
+- pkg:cargo/json-structure@0.5.5
