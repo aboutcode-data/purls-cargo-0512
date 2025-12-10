@@ -159,6 +159,7 @@
 - pkg:cargo/automatic-timezoned@2.0.102
 - pkg:cargo/automatic-timezoned@2.0.103
 - pkg:cargo/automatic-timezoned@2.0.104
+- pkg:cargo/automatic-timezoned@2.0.105
 - pkg:cargo/automatic-timezoned@2.0.11
 - pkg:cargo/automatic-timezoned@2.0.12
 - pkg:cargo/automatic-timezoned@2.0.13
