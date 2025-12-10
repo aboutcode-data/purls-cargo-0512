@@ -22,3 +22,4 @@
 - pkg:cargo/seq-compiler@0.8.3
 - pkg:cargo/seq-compiler@0.8.4
 - pkg:cargo/seq-compiler@0.8.5
+- pkg:cargo/seq-compiler@0.8.6
