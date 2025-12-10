@@ -15,6 +15,7 @@
 - pkg:cargo/encointer-primitives@20.5.0
 - pkg:cargo/encointer-primitives@20.5.1
 - pkg:cargo/encointer-primitives@20.5.2
+- pkg:cargo/encointer-primitives@20.5.3
 - pkg:cargo/encointer-primitives@3.0.0
 - pkg:cargo/encointer-primitives@3.0.1
 - pkg:cargo/encointer-primitives@3.0.2
