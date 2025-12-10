@@ -14,3 +14,4 @@
 - pkg:cargo/deboa-macros@0.0.4-beta.4
 - pkg:cargo/deboa-macros@0.0.5
 - pkg:cargo/deboa-macros@0.0.6
+- pkg:cargo/deboa-macros@0.0.7
