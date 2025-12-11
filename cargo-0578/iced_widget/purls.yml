@@ -12,3 +12,4 @@
 - pkg:cargo/iced_widget@0.13.4
 - pkg:cargo/iced_widget@0.14.0
 - pkg:cargo/iced_widget@0.14.1
+- pkg:cargo/iced_widget@0.14.2
