@@ -4,3 +4,5 @@
 - pkg:cargo/vectorizer-sdk@1.5.1
 - pkg:cargo/vectorizer-sdk@1.7.1
 - pkg:cargo/vectorizer-sdk@2.0.0
+- pkg:cargo/vectorizer-sdk@2.1.0
+- pkg:cargo/vectorizer-sdk@2.2.0
