@@ -19,3 +19,5 @@
 - pkg:cargo/screencapturekit@1.1.0
 - pkg:cargo/screencapturekit@1.2.0
 - pkg:cargo/screencapturekit@1.3.0
+- pkg:cargo/screencapturekit@1.4.0
+- pkg:cargo/screencapturekit@1.4.1
