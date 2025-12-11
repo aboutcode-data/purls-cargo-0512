@@ -1,5 +1,6 @@
 - pkg:cargo/cuvs-sys@24.6.0
 - pkg:cargo/cuvs-sys@25.10.0
+- pkg:cargo/cuvs-sys@25.12.0
 - pkg:cargo/cuvs-sys@25.4.0
 - pkg:cargo/cuvs-sys@25.6.0
 - pkg:cargo/cuvs-sys@25.6.1
