@@ -13,6 +13,7 @@
 - pkg:cargo/dropshot_endpoint@0.16.3
 - pkg:cargo/dropshot_endpoint@0.16.4
 - pkg:cargo/dropshot_endpoint@0.16.5
+- pkg:cargo/dropshot_endpoint@0.16.6
 - pkg:cargo/dropshot_endpoint@0.3.0
 - pkg:cargo/dropshot_endpoint@0.4.0
 - pkg:cargo/dropshot_endpoint@0.5.0
