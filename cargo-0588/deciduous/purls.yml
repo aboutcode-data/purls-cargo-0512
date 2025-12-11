@@ -18,3 +18,6 @@
 - pkg:cargo/deciduous@0.5.2
 - pkg:cargo/deciduous@0.5.3
 - pkg:cargo/deciduous@0.5.4
+- pkg:cargo/deciduous@0.7.0
+- pkg:cargo/deciduous@0.7.1
+- pkg:cargo/deciduous@0.7.2
