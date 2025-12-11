@@ -87,3 +87,4 @@
 - pkg:cargo/cap-std@3.4.3
 - pkg:cargo/cap-std@3.4.4
 - pkg:cargo/cap-std@3.4.5
+- pkg:cargo/cap-std@4.0.0
