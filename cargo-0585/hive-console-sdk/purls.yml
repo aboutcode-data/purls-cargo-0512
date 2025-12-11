@@ -13,6 +13,10 @@
 - pkg:cargo/hive-console-sdk@0.2.1-alpha-20251203164218-546881bd7afae72717a925a9579d8e161104d301
 - pkg:cargo/hive-console-sdk@0.2.1-alpha-20251203181843-3bc8e93800d910cd49ef62a4b8fa3af3232b5be4
 - pkg:cargo/hive-console-sdk@0.2.1-alpha-20251204100231-da348412eff2be2050b125ab968091e6e69aa8df
+- pkg:cargo/hive-console-sdk@0.2.2-alpha-20251211103603-8852efdfb52b3b8f7886f7e228585a29e10f1ff6
+- pkg:cargo/hive-console-sdk@0.2.2-alpha-20251211104355-858af6dac5d56064b35a4e8bfbff7f35ecf32ebc
+- pkg:cargo/hive-console-sdk@0.2.2-alpha-20251211112640-dafcbff4c34d957f36a33f89bc8315b4c4abf336
+- pkg:cargo/hive-console-sdk@0.2.2-alpha-20251211113436-6779bde8abc5a5ffb05f11496e546ba85f83eef2
 - pkg:cargo/hive-console-sdk@0.3.0-alpha-20251205154607-607c0d801d8d38328629d1e3cca855e0f41dd586
 - pkg:cargo/hive-console-sdk@0.3.0-alpha-20251205155522-22fef720d6d0ba76d22ea553acf219a499202de3
 - pkg:cargo/hive-console-sdk@0.3.0-alpha-20251205155813-22182f8b3e54ab5846702ec5e35e229ce790abd2
