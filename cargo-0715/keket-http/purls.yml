@@ -39,6 +39,7 @@
 - pkg:cargo/keket-http@0.19.1
 - pkg:cargo/keket-http@0.19.2
 - pkg:cargo/keket-http@0.19.3
+- pkg:cargo/keket-http@0.19.4
 - pkg:cargo/keket-http@0.6.0
 - pkg:cargo/keket-http@0.6.1
 - pkg:cargo/keket-http@0.6.2
