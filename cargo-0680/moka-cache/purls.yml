@@ -3,3 +3,6 @@
 - pkg:cargo/moka-cache@1.0.3
 - pkg:cargo/moka-cache@1.0.4
 - pkg:cargo/moka-cache@1.0.5
+- pkg:cargo/moka-cache@1.0.6
+- pkg:cargo/moka-cache@1.0.7
+- pkg:cargo/moka-cache@1.0.8
