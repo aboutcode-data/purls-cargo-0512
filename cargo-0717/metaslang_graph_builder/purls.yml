@@ -7,3 +7,4 @@
 - pkg:cargo/metaslang_graph_builder@0.18.2
 - pkg:cargo/metaslang_graph_builder@0.18.3
 - pkg:cargo/metaslang_graph_builder@1.3.0
+- pkg:cargo/metaslang_graph_builder@1.3.1
