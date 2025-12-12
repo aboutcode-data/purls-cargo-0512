@@ -1,3 +1,4 @@
+- pkg:cargo/turm@0.10.0
 - pkg:cargo/turm@0.4.0
 - pkg:cargo/turm@0.6.0
 - pkg:cargo/turm@0.7.0
