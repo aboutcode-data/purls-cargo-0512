@@ -76,5 +76,6 @@
 - pkg:cargo/s2n-quic-transport@0.68.0
 - pkg:cargo/s2n-quic-transport@0.69.0
 - pkg:cargo/s2n-quic-transport@0.7.1
+- pkg:cargo/s2n-quic-transport@0.70.0
 - pkg:cargo/s2n-quic-transport@0.8.0
 - pkg:cargo/s2n-quic-transport@0.9.0

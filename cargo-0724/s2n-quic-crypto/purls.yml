@@ -75,5 +75,6 @@
 - pkg:cargo/s2n-quic-crypto@0.69.0
 - pkg:cargo/s2n-quic-crypto@0.7.0
 - pkg:cargo/s2n-quic-crypto@0.7.1
+- pkg:cargo/s2n-quic-crypto@0.70.0
 - pkg:cargo/s2n-quic-crypto@0.8.0
 - pkg:cargo/s2n-quic-crypto@0.9.0
