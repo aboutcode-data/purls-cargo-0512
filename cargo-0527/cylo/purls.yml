@@ -10,6 +10,7 @@
 - pkg:cargo/cylo@0.10.4
 - pkg:cargo/cylo@0.10.5
 - pkg:cargo/cylo@0.10.6
+- pkg:cargo/cylo@0.10.7
 - pkg:cargo/cylo@0.2.0
 - pkg:cargo/cylo@0.3.0
 - pkg:cargo/cylo@0.3.1
