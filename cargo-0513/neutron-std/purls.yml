@@ -8,3 +8,4 @@
 - pkg:cargo/neutron-std@6.0.0
 - pkg:cargo/neutron-std@8.0.0
 - pkg:cargo/neutron-std@9.0.0
+- pkg:cargo/neutron-std@9.1.0
