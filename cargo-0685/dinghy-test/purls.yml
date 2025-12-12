@@ -88,3 +88,4 @@
 - pkg:cargo/dinghy-test@0.8.0
 - pkg:cargo/dinghy-test@0.8.1
 - pkg:cargo/dinghy-test@0.8.2
+- pkg:cargo/dinghy-test@0.8.4
