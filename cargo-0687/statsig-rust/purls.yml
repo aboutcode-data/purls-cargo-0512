@@ -81,6 +81,7 @@
 - pkg:cargo/statsig-rust@0.13.1-beta.2512102250
 - pkg:cargo/statsig-rust@0.13.1-beta.2512110007
 - pkg:cargo/statsig-rust@0.13.1-beta.2512110242
+- pkg:cargo/statsig-rust@0.13.1-beta.2512120242
 - pkg:cargo/statsig-rust@0.2.0
 - pkg:cargo/statsig-rust@0.2.0-beta.250418
 - pkg:cargo/statsig-rust@0.2.0-beta.250419
