@@ -1,1 +1,2 @@
 - pkg:cargo/configurable_serde@0.1.0
+- pkg:cargo/configurable_serde@0.1.1
