@@ -1,5 +1,6 @@
 - pkg:cargo/scr-axum-cranker-router@0.0.1
 - pkg:cargo/scr-axum-cranker-router@0.0.10
+- pkg:cargo/scr-axum-cranker-router@0.0.11
 - pkg:cargo/scr-axum-cranker-router@0.0.2
 - pkg:cargo/scr-axum-cranker-router@0.0.3
 - pkg:cargo/scr-axum-cranker-router@0.0.4
