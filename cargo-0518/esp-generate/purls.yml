@@ -9,3 +9,4 @@
 - pkg:cargo/esp-generate@0.6.0
 - pkg:cargo/esp-generate@1.0.0
 - pkg:cargo/esp-generate@1.0.1
+- pkg:cargo/esp-generate@1.1.0
