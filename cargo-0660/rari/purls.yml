@@ -8,3 +8,5 @@
 - pkg:cargo/rari@0.5.2
 - pkg:cargo/rari@0.5.4
 - pkg:cargo/rari@0.5.5
+- pkg:cargo/rari@0.5.7
+- pkg:cargo/rari@0.5.9
