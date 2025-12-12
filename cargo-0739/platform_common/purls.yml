@@ -12,3 +12,5 @@
 - pkg:cargo/platform_common@0.4.2
 - pkg:cargo/platform_common@0.4.3
 - pkg:cargo/platform_common@0.4.4
+- pkg:cargo/platform_common@0.4.5
+- pkg:cargo/platform_common@0.4.6

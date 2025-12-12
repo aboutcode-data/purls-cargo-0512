@@ -4,3 +4,4 @@
 - pkg:cargo/zone-update@0.5.2
 - pkg:cargo/zone-update@0.5.3
 - pkg:cargo/zone-update@0.6.0
+- pkg:cargo/zone-update@0.7.0
