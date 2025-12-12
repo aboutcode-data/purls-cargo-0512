@@ -5,6 +5,7 @@
 - pkg:cargo/starbase_shell@0.10.1
 - pkg:cargo/starbase_shell@0.10.2
 - pkg:cargo/starbase_shell@0.10.3
+- pkg:cargo/starbase_shell@0.10.4
 - pkg:cargo/starbase_shell@0.2.0
 - pkg:cargo/starbase_shell@0.2.1
 - pkg:cargo/starbase_shell@0.2.2

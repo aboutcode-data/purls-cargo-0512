@@ -24,3 +24,4 @@
 - pkg:cargo/opentalk-types-signaling@0.40.0
 - pkg:cargo/opentalk-types-signaling@0.41.0
 - pkg:cargo/opentalk-types-signaling@0.42.0
+- pkg:cargo/opentalk-types-signaling@0.43.0
