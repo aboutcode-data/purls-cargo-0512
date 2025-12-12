@@ -1,1 +1,2 @@
 - pkg:cargo/grove-lcd-rgb@0.1.0
+- pkg:cargo/grove-lcd-rgb@0.1.1
