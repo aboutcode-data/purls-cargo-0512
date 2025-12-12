@@ -1,3 +1,5 @@
 - pkg:cargo/lmrc-auth@0.3.12
 - pkg:cargo/lmrc-auth@0.3.13
 - pkg:cargo/lmrc-auth@0.3.14
+- pkg:cargo/lmrc-auth@0.3.15
+- pkg:cargo/lmrc-auth@0.3.16
