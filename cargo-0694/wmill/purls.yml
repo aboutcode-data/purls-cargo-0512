@@ -174,3 +174,5 @@
 - pkg:cargo/wmill@1.591.1
 - pkg:cargo/wmill@1.591.2
 - pkg:cargo/wmill@1.591.3
+- pkg:cargo/wmill@1.591.4
+- pkg:cargo/wmill@1.592.0
