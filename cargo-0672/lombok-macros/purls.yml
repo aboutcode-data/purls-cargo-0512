@@ -20,6 +20,7 @@
 - pkg:cargo/lombok-macros@1.13.13
 - pkg:cargo/lombok-macros@1.13.14
 - pkg:cargo/lombok-macros@1.13.15
+- pkg:cargo/lombok-macros@1.13.16
 - pkg:cargo/lombok-macros@1.13.2
 - pkg:cargo/lombok-macros@1.13.3
 - pkg:cargo/lombok-macros@1.13.4
