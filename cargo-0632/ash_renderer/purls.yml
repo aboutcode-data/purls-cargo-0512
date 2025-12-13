@@ -2,3 +2,6 @@
 - pkg:cargo/ash_renderer@0.1.1
 - pkg:cargo/ash_renderer@0.1.2
 - pkg:cargo/ash_renderer@0.2.0
+- pkg:cargo/ash_renderer@0.2.3
+- pkg:cargo/ash_renderer@0.2.5
+- pkg:cargo/ash_renderer@0.2.7
