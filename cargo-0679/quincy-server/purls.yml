@@ -9,3 +9,4 @@
 - pkg:cargo/quincy-server@1.0.0-beta.7
 - pkg:cargo/quincy-server@1.0.0-beta.8
 - pkg:cargo/quincy-server@1.0.0-beta.9
+- pkg:cargo/quincy-server@1.1.0
