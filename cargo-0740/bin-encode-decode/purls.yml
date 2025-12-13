@@ -33,6 +33,7 @@
 - pkg:cargo/bin-encode-decode@1.1.26
 - pkg:cargo/bin-encode-decode@1.1.27
 - pkg:cargo/bin-encode-decode@1.1.28
+- pkg:cargo/bin-encode-decode@1.1.29
 - pkg:cargo/bin-encode-decode@1.1.3
 - pkg:cargo/bin-encode-decode@1.1.5
 - pkg:cargo/bin-encode-decode@1.1.6
