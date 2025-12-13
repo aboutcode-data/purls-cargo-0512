@@ -1,1 +1,2 @@
 - pkg:cargo/tree-sitter-racket@0.24.7
+- pkg:cargo/tree-sitter-racket@0.24.7-1
