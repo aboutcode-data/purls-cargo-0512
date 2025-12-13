@@ -5,6 +5,7 @@
 - pkg:cargo/micromegas-perfetto@0.14.0
 - pkg:cargo/micromegas-perfetto@0.15.0
 - pkg:cargo/micromegas-perfetto@0.16.0
+- pkg:cargo/micromegas-perfetto@0.17.0
 - pkg:cargo/micromegas-perfetto@0.5.0
 - pkg:cargo/micromegas-perfetto@0.6.0
 - pkg:cargo/micromegas-perfetto@0.7.0
