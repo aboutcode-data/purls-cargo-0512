@@ -283,6 +283,7 @@
 - pkg:cargo/mise@2025.12.0
 - pkg:cargo/mise@2025.12.1
 - pkg:cargo/mise@2025.12.2
+- pkg:cargo/mise@2025.12.3
 - pkg:cargo/mise@2025.2.0
 - pkg:cargo/mise@2025.2.1
 - pkg:cargo/mise@2025.2.2
