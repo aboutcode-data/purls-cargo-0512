@@ -14,3 +14,4 @@
 - pkg:cargo/chess-tui@1.6.1
 - pkg:cargo/chess-tui@1.6.2
 - pkg:cargo/chess-tui@2.0.0
+- pkg:cargo/chess-tui@2.1.0
