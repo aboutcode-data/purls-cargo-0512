@@ -5,3 +5,6 @@
 - pkg:cargo/claude-history@0.1.4
 - pkg:cargo/claude-history@0.1.5
 - pkg:cargo/claude-history@0.1.6
+- pkg:cargo/claude-history@0.1.7
+- pkg:cargo/claude-history@0.1.8
+- pkg:cargo/claude-history@0.1.9
