@@ -30,3 +30,4 @@
 - pkg:cargo/uu_stdbuf@0.2.2
 - pkg:cargo/uu_stdbuf@0.3.0
 - pkg:cargo/uu_stdbuf@0.4.0
+- pkg:cargo/uu_stdbuf@0.5.0
