@@ -19,3 +19,4 @@
 - pkg:cargo/net-shell@0.3.7
 - pkg:cargo/net-shell@0.3.8
 - pkg:cargo/net-shell@0.3.9
+- pkg:cargo/net-shell@0.4.1
