@@ -8,3 +8,4 @@
 - pkg:cargo/compio-buf@0.6.0
 - pkg:cargo/compio-buf@0.7.0
 - pkg:cargo/compio-buf@0.7.1
+- pkg:cargo/compio-buf@0.7.2
