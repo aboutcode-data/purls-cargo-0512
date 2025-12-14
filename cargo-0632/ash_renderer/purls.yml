@@ -12,3 +12,7 @@
 - pkg:cargo/ash_renderer@0.3.2
 - pkg:cargo/ash_renderer@0.3.3
 - pkg:cargo/ash_renderer@0.3.4
+- pkg:cargo/ash_renderer@0.3.6
+- pkg:cargo/ash_renderer@0.3.7
+- pkg:cargo/ash_renderer@0.3.8
+- pkg:cargo/ash_renderer@0.3.9
