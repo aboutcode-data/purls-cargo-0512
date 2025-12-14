@@ -24,6 +24,7 @@
 - pkg:cargo/ristretto_classloader@0.24.0
 - pkg:cargo/ristretto_classloader@0.25.0
 - pkg:cargo/ristretto_classloader@0.26.0
+- pkg:cargo/ristretto_classloader@0.27.0
 - pkg:cargo/ristretto_classloader@0.5.0
 - pkg:cargo/ristretto_classloader@0.6.0
 - pkg:cargo/ristretto_classloader@0.7.0
