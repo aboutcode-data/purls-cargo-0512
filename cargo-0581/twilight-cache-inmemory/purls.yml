@@ -31,6 +31,7 @@
 - pkg:cargo/twilight-cache-inmemory@0.16.0
 - pkg:cargo/twilight-cache-inmemory@0.16.0-rc.1
 - pkg:cargo/twilight-cache-inmemory@0.17.0
+- pkg:cargo/twilight-cache-inmemory@0.17.1
 - pkg:cargo/twilight-cache-inmemory@0.2.0
 - pkg:cargo/twilight-cache-inmemory@0.2.0-beta.0
 - pkg:cargo/twilight-cache-inmemory@0.2.0-beta.1
