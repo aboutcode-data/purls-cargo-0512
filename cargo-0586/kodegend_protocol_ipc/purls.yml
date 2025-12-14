@@ -5,3 +5,4 @@
 - pkg:cargo/kodegend_protocol_ipc@0.10.4
 - pkg:cargo/kodegend_protocol_ipc@0.10.5
 - pkg:cargo/kodegend_protocol_ipc@0.10.6
+- pkg:cargo/kodegend_protocol_ipc@0.10.7

@@ -6,6 +6,7 @@
 - pkg:cargo/kodegen_config_manager@0.10.4
 - pkg:cargo/kodegen_config_manager@0.10.5
 - pkg:cargo/kodegen_config_manager@0.10.6
+- pkg:cargo/kodegen_config_manager@0.10.7
 - pkg:cargo/kodegen_config_manager@0.2.0
 - pkg:cargo/kodegen_config_manager@0.3.0
 - pkg:cargo/kodegen_config_manager@0.3.1
