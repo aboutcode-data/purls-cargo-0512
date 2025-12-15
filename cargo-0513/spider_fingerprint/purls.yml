@@ -89,6 +89,9 @@
 - pkg:cargo/spider_fingerprint@2.37.224
 - pkg:cargo/spider_fingerprint@2.37.225
 - pkg:cargo/spider_fingerprint@2.37.226
+- pkg:cargo/spider_fingerprint@2.37.227
+- pkg:cargo/spider_fingerprint@2.37.228
+- pkg:cargo/spider_fingerprint@2.37.229
 - pkg:cargo/spider_fingerprint@2.37.28
 - pkg:cargo/spider_fingerprint@2.37.29
 - pkg:cargo/spider_fingerprint@2.37.30
