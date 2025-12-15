@@ -20,3 +20,4 @@
 - pkg:cargo/kcr_cluster_x_k8s_io@2.20251102.225526
 - pkg:cargo/kcr_cluster_x_k8s_io@2.20251109.225531
 - pkg:cargo/kcr_cluster_x_k8s_io@2.20251116.225539
+- pkg:cargo/kcr_cluster_x_k8s_io@2.20251214.225530
