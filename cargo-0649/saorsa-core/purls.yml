@@ -49,3 +49,4 @@
 - pkg:cargo/saorsa-core@0.7.7
 - pkg:cargo/saorsa-core@0.7.8
 - pkg:cargo/saorsa-core@0.7.9
+- pkg:cargo/saorsa-core@0.8.0
