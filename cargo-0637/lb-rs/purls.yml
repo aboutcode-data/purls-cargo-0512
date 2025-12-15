@@ -18,4 +18,5 @@
 - pkg:cargo/lb-rs@25.10.7
 - pkg:cargo/lb-rs@25.11.11
 - pkg:cargo/lb-rs@25.12.1
+- pkg:cargo/lb-rs@25.12.15
 - pkg:cargo/lb-rs@25.9.17
