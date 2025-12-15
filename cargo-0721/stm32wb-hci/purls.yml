@@ -5,3 +5,4 @@
 - pkg:cargo/stm32wb-hci@0.17.0
 - pkg:cargo/stm32wb-hci@0.17.1
 - pkg:cargo/stm32wb-hci@0.17.2
+- pkg:cargo/stm32wb-hci@0.17.3
