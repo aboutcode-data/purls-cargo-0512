@@ -22,3 +22,4 @@
 - pkg:cargo/camino@1.1.9
 - pkg:cargo/camino@1.2.0
 - pkg:cargo/camino@1.2.1
+- pkg:cargo/camino@1.2.2
