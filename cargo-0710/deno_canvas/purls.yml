@@ -88,3 +88,4 @@
 - pkg:cargo/deno_canvas@0.9.0
 - pkg:cargo/deno_canvas@0.90.0
 - pkg:cargo/deno_canvas@0.91.0
+- pkg:cargo/deno_canvas@0.92.0
