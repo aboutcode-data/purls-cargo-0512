@@ -54,3 +54,4 @@
 - pkg:cargo/circuit_sequencer_api@0.153.2
 - pkg:cargo/circuit_sequencer_api@0.153.3
 - pkg:cargo/circuit_sequencer_api@0.153.4
+- pkg:cargo/circuit_sequencer_api@0.153.5
