@@ -144,6 +144,7 @@
 - pkg:cargo/substrait@0.61.0
 - pkg:cargo/substrait@0.62.0
 - pkg:cargo/substrait@0.62.1
+- pkg:cargo/substrait@0.62.2
 - pkg:cargo/substrait@0.7.0
 - pkg:cargo/substrait@0.7.1
 - pkg:cargo/substrait@0.7.2
