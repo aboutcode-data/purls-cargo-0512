@@ -31,3 +31,5 @@
 - pkg:cargo/conjure-macros@5.1.0
 - pkg:cargo/conjure-macros@5.2.0
 - pkg:cargo/conjure-macros@5.3.0
+- pkg:cargo/conjure-macros@5.4.0
+- pkg:cargo/conjure-macros@5.4.0-rc1
