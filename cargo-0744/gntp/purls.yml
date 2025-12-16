@@ -1,4 +1,6 @@
 - pkg:cargo/gntp@0.1.1
+- pkg:cargo/gntp@0.1.10
 - pkg:cargo/gntp@0.1.2
 - pkg:cargo/gntp@0.1.3
 - pkg:cargo/gntp@0.1.4
+- pkg:cargo/gntp@0.1.8
