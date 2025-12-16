@@ -14,3 +14,5 @@
 - pkg:cargo/sacp@1.1.1
 - pkg:cargo/sacp@2.0.0
 - pkg:cargo/sacp@3.0.0
+- pkg:cargo/sacp@4.0.0
+- pkg:cargo/sacp@6.0.0
