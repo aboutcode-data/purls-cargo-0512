@@ -9,3 +9,4 @@
 - pkg:cargo/rusmpp@0.2.3
 - pkg:cargo/rusmpp@0.3.0-alpha.0
 - pkg:cargo/rusmpp@0.3.0-alpha.1
+- pkg:cargo/rusmpp@0.4.0
