@@ -1,4 +1,6 @@
 - pkg:cargo/jder_axum@0.1.0
+- pkg:cargo/jder_axum@0.10.0
+- pkg:cargo/jder_axum@0.10.1
 - pkg:cargo/jder_axum@0.2.0
 - pkg:cargo/jder_axum@0.3.0
 - pkg:cargo/jder_axum@0.3.1
