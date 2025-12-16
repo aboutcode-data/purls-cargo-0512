@@ -1,4 +1,5 @@
 - pkg:cargo/seq-compiler@0.10.0
+- pkg:cargo/seq-compiler@0.10.1
 - pkg:cargo/seq-compiler@0.3.2
 - pkg:cargo/seq-compiler@0.3.4
 - pkg:cargo/seq-compiler@0.4.1
