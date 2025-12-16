@@ -41,3 +41,4 @@
 - pkg:cargo/perspective-viewer@3.7.4
 - pkg:cargo/perspective-viewer@3.8.0
 - pkg:cargo/perspective-viewer@4.0.0
+- pkg:cargo/perspective-viewer@4.0.1

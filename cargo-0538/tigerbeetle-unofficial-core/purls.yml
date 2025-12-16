@@ -25,6 +25,7 @@
 - pkg:cargo/tigerbeetle-unofficial-core@0.14.14%2B0.16.64
 - pkg:cargo/tigerbeetle-unofficial-core@0.14.15%2B0.16.65
 - pkg:cargo/tigerbeetle-unofficial-core@0.14.16%2B0.16.66
+- pkg:cargo/tigerbeetle-unofficial-core@0.14.17%2B0.16.67
 - pkg:cargo/tigerbeetle-unofficial-core@0.14.2%2B0.16.52
 - pkg:cargo/tigerbeetle-unofficial-core@0.14.3%2B0.16.53
 - pkg:cargo/tigerbeetle-unofficial-core@0.14.4%2B0.16.54
