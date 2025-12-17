@@ -61,6 +61,8 @@
 - pkg:cargo/nominal-api@0.1035.0
 - pkg:cargo/nominal-api@0.1036.0
 - pkg:cargo/nominal-api@0.1037.0
+- pkg:cargo/nominal-api@0.1038.0
+- pkg:cargo/nominal-api@0.1039.0
 - pkg:cargo/nominal-api@0.594.0
 - pkg:cargo/nominal-api@0.595.0
 - pkg:cargo/nominal-api@0.596.0
