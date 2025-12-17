@@ -9,3 +9,4 @@
 - pkg:cargo/linera-faucet-client@0.15.5
 - pkg:cargo/linera-faucet-client@0.15.6
 - pkg:cargo/linera-faucet-client@0.15.7
+- pkg:cargo/linera-faucet-client@0.15.8

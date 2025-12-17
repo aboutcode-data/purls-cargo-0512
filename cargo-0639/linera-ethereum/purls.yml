@@ -13,3 +13,4 @@
 - pkg:cargo/linera-ethereum@0.15.5
 - pkg:cargo/linera-ethereum@0.15.6
 - pkg:cargo/linera-ethereum@0.15.7
+- pkg:cargo/linera-ethereum@0.15.8
