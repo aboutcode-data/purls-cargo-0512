@@ -35,6 +35,9 @@
 - pkg:cargo/syncable-cli@0.20.0
 - pkg:cargo/syncable-cli@0.21.0
 - pkg:cargo/syncable-cli@0.22.0
+- pkg:cargo/syncable-cli@0.22.1
+- pkg:cargo/syncable-cli@0.22.2
+- pkg:cargo/syncable-cli@0.22.3
 - pkg:cargo/syncable-cli@0.3.0
 - pkg:cargo/syncable-cli@0.4.0
 - pkg:cargo/syncable-cli@0.4.1
