@@ -1,1 +1,2 @@
 - pkg:cargo/nyquest-backend-reqwest@0.1.0
+- pkg:cargo/nyquest-backend-reqwest@0.2.0
