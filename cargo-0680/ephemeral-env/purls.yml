@@ -1,1 +1,2 @@
 - pkg:cargo/ephemeral-env@0.1.0
+- pkg:cargo/ephemeral-env@1.0.0
