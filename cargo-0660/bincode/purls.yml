@@ -70,3 +70,4 @@
 - pkg:cargo/bincode@2.0.0-rc.2
 - pkg:cargo/bincode@2.0.0-rc.3
 - pkg:cargo/bincode@2.0.1
+- pkg:cargo/bincode@3.0.0
