@@ -1,6 +1,7 @@
 - pkg:cargo/mrubyedge-cli@0.9.0-rc1
 - pkg:cargo/mrubyedge-cli@1.0.10
 - pkg:cargo/mrubyedge-cli@1.0.11
+- pkg:cargo/mrubyedge-cli@1.0.12
 - pkg:cargo/mrubyedge-cli@1.0.6
 - pkg:cargo/mrubyedge-cli@1.0.8
 - pkg:cargo/mrubyedge-cli@1.0.9
