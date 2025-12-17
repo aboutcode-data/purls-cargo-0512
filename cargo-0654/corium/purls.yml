@@ -10,3 +10,7 @@
 - pkg:cargo/corium@0.3.2
 - pkg:cargo/corium@0.3.4
 - pkg:cargo/corium@0.3.5
+- pkg:cargo/corium@0.3.7
+- pkg:cargo/corium@0.3.8
+- pkg:cargo/corium@0.3.9
+- pkg:cargo/corium@0.4.0
