@@ -16,3 +16,4 @@
 - pkg:cargo/lindera-wasm@1.1.1
 - pkg:cargo/lindera-wasm@1.2.0
 - pkg:cargo/lindera-wasm@1.2.1
+- pkg:cargo/lindera-wasm@1.2.2
