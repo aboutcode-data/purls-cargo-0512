@@ -1523,6 +1523,7 @@
 - pkg:cargo/spider@2.38.100
 - pkg:cargo/spider@2.38.101
 - pkg:cargo/spider@2.38.102
+- pkg:cargo/spider@2.38.103
 - pkg:cargo/spider@2.38.11
 - pkg:cargo/spider@2.38.12
 - pkg:cargo/spider@2.38.13
