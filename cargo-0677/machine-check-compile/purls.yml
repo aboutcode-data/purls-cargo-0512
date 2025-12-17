@@ -11,3 +11,4 @@
 - pkg:cargo/machine-check-compile@0.7.0-alpha.3
 - pkg:cargo/machine-check-compile@0.7.0-alpha.4
 - pkg:cargo/machine-check-compile@0.7.0-alpha.5
+- pkg:cargo/machine-check-compile@0.7.1
