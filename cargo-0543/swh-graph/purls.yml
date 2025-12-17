@@ -20,3 +20,4 @@
 - pkg:cargo/swh-graph@8.0.8
 - pkg:cargo/swh-graph@8.0.9
 - pkg:cargo/swh-graph@9.0.2
+- pkg:cargo/swh-graph@9.0.3
