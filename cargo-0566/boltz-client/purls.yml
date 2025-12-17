@@ -1,3 +1,4 @@
 - pkg:cargo/boltz-client@0.1.0
 - pkg:cargo/boltz-client@0.1.1
 - pkg:cargo/boltz-client@0.1.2
+- pkg:cargo/boltz-client@0.3.1
