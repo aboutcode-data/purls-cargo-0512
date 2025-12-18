@@ -8,3 +8,4 @@
 - pkg:cargo/ggen-ai@3.4.0
 - pkg:cargo/ggen-ai@3.4.1
 - pkg:cargo/ggen-ai@4.0.0
+- pkg:cargo/ggen-ai@5.0.0

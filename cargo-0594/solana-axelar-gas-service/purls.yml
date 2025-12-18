@@ -4,3 +4,4 @@
 - pkg:cargo/solana-axelar-gas-service@0.1.4
 - pkg:cargo/solana-axelar-gas-service@0.1.5
 - pkg:cargo/solana-axelar-gas-service@0.1.6
+- pkg:cargo/solana-axelar-gas-service@0.1.7
