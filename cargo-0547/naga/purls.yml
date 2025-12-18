@@ -47,3 +47,4 @@
 - pkg:cargo/naga@26.0.0
 - pkg:cargo/naga@27.0.0
 - pkg:cargo/naga@27.0.3
+- pkg:cargo/naga@28.0.0
