@@ -10,3 +10,4 @@
 - pkg:cargo/raylib-ffi@5.0.1
 - pkg:cargo/raylib-ffi@5.0.2
 - pkg:cargo/raylib-ffi@5.5.0
+- pkg:cargo/raylib-ffi@5.5.1
