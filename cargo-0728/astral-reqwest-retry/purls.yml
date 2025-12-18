@@ -1,1 +1,2 @@
 - pkg:cargo/astral-reqwest-retry@0.7.0
+- pkg:cargo/astral-reqwest-retry@0.8.0
