@@ -2,3 +2,5 @@
 - pkg:cargo/readformat@0.1.1
 - pkg:cargo/readformat@0.1.2
 - pkg:cargo/readformat@1.0.1
+- pkg:cargo/readformat@1.0.2
+- pkg:cargo/readformat@1.0.3
