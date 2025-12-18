@@ -4,3 +4,7 @@
 - pkg:cargo/bevy-sensor@0.2.1
 - pkg:cargo/bevy-sensor@0.2.2
 - pkg:cargo/bevy-sensor@0.3.0
+- pkg:cargo/bevy-sensor@0.3.1
+- pkg:cargo/bevy-sensor@0.4.0
+- pkg:cargo/bevy-sensor@0.4.1
+- pkg:cargo/bevy-sensor@0.4.2
