@@ -14,3 +14,4 @@
 - pkg:cargo/cxx-qt-lib@0.7.1
 - pkg:cargo/cxx-qt-lib@0.7.2
 - pkg:cargo/cxx-qt-lib@0.7.3
+- pkg:cargo/cxx-qt-lib@0.8.0
