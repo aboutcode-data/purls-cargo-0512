@@ -13,6 +13,7 @@
 - pkg:cargo/polkadot-parachain-primitives@19.0.0
 - pkg:cargo/polkadot-parachain-primitives@2.0.0
 - pkg:cargo/polkadot-parachain-primitives@2.0.0-dev.1
+- pkg:cargo/polkadot-parachain-primitives@20.0.0
 - pkg:cargo/polkadot-parachain-primitives@3.0.0
 - pkg:cargo/polkadot-parachain-primitives@4.0.0
 - pkg:cargo/polkadot-parachain-primitives@5.0.0
