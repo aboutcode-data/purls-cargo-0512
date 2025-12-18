@@ -10,3 +10,4 @@
 - pkg:cargo/rumqttc-dev-patched@0.24.7-ack-notify
 - pkg:cargo/rumqttc-dev-patched@0.24.8-ack-notify
 - pkg:cargo/rumqttc-dev-patched@0.24.9-ack-notify
+- pkg:cargo/rumqttc-dev-patched@0.25.1-ack-notify
