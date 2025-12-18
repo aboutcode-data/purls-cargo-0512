@@ -55,6 +55,7 @@
 - pkg:cargo/sp-keyring@42.0.0
 - pkg:cargo/sp-keyring@43.0.0
 - pkg:cargo/sp-keyring@44.0.0
+- pkg:cargo/sp-keyring@45.0.0
 - pkg:cargo/sp-keyring@5.0.0
 - pkg:cargo/sp-keyring@6.0.0
 - pkg:cargo/sp-keyring@7.0.0

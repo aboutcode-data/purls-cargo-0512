@@ -52,6 +52,7 @@
 - pkg:cargo/sp-api@38.0.0
 - pkg:cargo/sp-api@39.0.0
 - pkg:cargo/sp-api@4.0.0
+- pkg:cargo/sp-api@40.0.0
 - pkg:cargo/sp-api@5.0.0
 - pkg:cargo/sp-api@6.0.0
 - pkg:cargo/sp-api@7.0.0

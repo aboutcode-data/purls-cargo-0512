@@ -49,6 +49,7 @@
 - pkg:cargo/sp-block-builder@38.0.0
 - pkg:cargo/sp-block-builder@39.0.0
 - pkg:cargo/sp-block-builder@4.0.0
+- pkg:cargo/sp-block-builder@40.0.0
 - pkg:cargo/sp-block-builder@5.0.0
 - pkg:cargo/sp-block-builder@6.0.0
 - pkg:cargo/sp-block-builder@7.0.0

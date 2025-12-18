@@ -43,6 +43,7 @@
 - pkg:cargo/sp-runtime-interface@30.0.0
 - pkg:cargo/sp-runtime-interface@31.0.0
 - pkg:cargo/sp-runtime-interface@32.0.0
+- pkg:cargo/sp-runtime-interface@33.0.0
 - pkg:cargo/sp-runtime-interface@4.0.0
 - pkg:cargo/sp-runtime-interface@5.0.0
 - pkg:cargo/sp-runtime-interface@6.0.0

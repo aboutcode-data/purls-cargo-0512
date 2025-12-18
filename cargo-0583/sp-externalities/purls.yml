@@ -26,6 +26,7 @@
 - pkg:cargo/sp-externalities@0.28.0
 - pkg:cargo/sp-externalities@0.29.0
 - pkg:cargo/sp-externalities@0.30.0
+- pkg:cargo/sp-externalities@0.31.0
 - pkg:cargo/sp-externalities@0.8.0
 - pkg:cargo/sp-externalities@0.8.0-alpha.2
 - pkg:cargo/sp-externalities@0.8.0-alpha.3
