@@ -66,3 +66,4 @@
 - pkg:cargo/wgpu-hal@27.0.2
 - pkg:cargo/wgpu-hal@27.0.3
 - pkg:cargo/wgpu-hal@27.0.4
+- pkg:cargo/wgpu-hal@28.0.0
