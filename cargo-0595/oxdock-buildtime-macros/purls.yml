@@ -1,1 +1,2 @@
 - pkg:cargo/oxdock-buildtime-macros@0.1.0-alpha
+- pkg:cargo/oxdock-buildtime-macros@0.2.0-alpha
