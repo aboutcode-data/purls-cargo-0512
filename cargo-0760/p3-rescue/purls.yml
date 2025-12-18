@@ -14,3 +14,4 @@
 - pkg:cargo/p3-rescue@0.2.3-succinct
 - pkg:cargo/p3-rescue@0.3.0
 - pkg:cargo/p3-rescue@0.4.0
+- pkg:cargo/p3-rescue@0.4.1
