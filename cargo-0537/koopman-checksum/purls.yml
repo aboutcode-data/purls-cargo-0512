@@ -1,3 +1,4 @@
 - pkg:cargo/koopman-checksum@1.0.0
 - pkg:cargo/koopman-checksum@1.0.1
 - pkg:cargo/koopman-checksum@1.0.3
+- pkg:cargo/koopman-checksum@1.0.4
