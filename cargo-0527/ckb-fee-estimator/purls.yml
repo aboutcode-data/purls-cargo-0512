@@ -26,3 +26,4 @@
 - pkg:cargo/ckb-fee-estimator@1.0.0
 - pkg:cargo/ckb-fee-estimator@1.0.0-rc1
 - pkg:cargo/ckb-fee-estimator@1.0.0-rc2
+- pkg:cargo/ckb-fee-estimator@1.0.1
