@@ -48,6 +48,7 @@
 - pkg:cargo/sc-keystore@36.0.0
 - pkg:cargo/sc-keystore@37.0.0
 - pkg:cargo/sc-keystore@38.0.0
+- pkg:cargo/sc-keystore@39.0.0
 - pkg:cargo/sc-keystore@4.0.0
 - pkg:cargo/sc-keystore@5.0.0
 - pkg:cargo/sc-keystore@6.0.0

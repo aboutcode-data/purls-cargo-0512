@@ -35,6 +35,7 @@
 - pkg:cargo/sc-state-db@0.38.0
 - pkg:cargo/sc-state-db@0.39.0
 - pkg:cargo/sc-state-db@0.40.0
+- pkg:cargo/sc-state-db@0.41.0
 - pkg:cargo/sc-state-db@0.8.0
 - pkg:cargo/sc-state-db@0.8.0-alpha.2
 - pkg:cargo/sc-state-db@0.8.0-alpha.3
