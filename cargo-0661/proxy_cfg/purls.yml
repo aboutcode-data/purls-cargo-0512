@@ -8,3 +8,4 @@
 - pkg:cargo/proxy_cfg@0.3.6
 - pkg:cargo/proxy_cfg@0.4.0
 - pkg:cargo/proxy_cfg@0.4.1
+- pkg:cargo/proxy_cfg@0.4.2
