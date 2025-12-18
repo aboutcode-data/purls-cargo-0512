@@ -25,3 +25,4 @@
 - pkg:cargo/provwasm-std@2.7.0
 - pkg:cargo/provwasm-std@2.7.0-rc1
 - pkg:cargo/provwasm-std@2.7.1
+- pkg:cargo/provwasm-std@2.8.0
