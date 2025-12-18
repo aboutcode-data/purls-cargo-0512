@@ -63,6 +63,7 @@
 - pkg:cargo/frame-system@43.0.0
 - pkg:cargo/frame-system@43.0.1
 - pkg:cargo/frame-system@44.0.0
+- pkg:cargo/frame-system@45.0.0
 - pkg:cargo/frame-system@5.0.0
 - pkg:cargo/frame-system@6.0.0
 - pkg:cargo/frame-system@7.0.0
