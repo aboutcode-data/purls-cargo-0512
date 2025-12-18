@@ -57,3 +57,4 @@
 - pkg:cargo/serde_valid_derive@1.0.4
 - pkg:cargo/serde_valid_derive@1.0.5
 - pkg:cargo/serde_valid_derive@2.0.0
+- pkg:cargo/serde_valid_derive@2.0.1
