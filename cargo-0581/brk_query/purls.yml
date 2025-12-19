@@ -56,3 +56,4 @@
 - pkg:cargo/brk_query@0.0.7
 - pkg:cargo/brk_query@0.0.8
 - pkg:cargo/brk_query@0.0.9
+- pkg:cargo/brk_query@0.1.0-alpha.0
