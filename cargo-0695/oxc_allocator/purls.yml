@@ -10,6 +10,7 @@
 - pkg:cargo/oxc_allocator@0.101.0
 - pkg:cargo/oxc_allocator@0.102.0
 - pkg:cargo/oxc_allocator@0.103.0
+- pkg:cargo/oxc_allocator@0.104.0
 - pkg:cargo/oxc_allocator@0.11.0
 - pkg:cargo/oxc_allocator@0.11.1
 - pkg:cargo/oxc_allocator@0.12.1
