@@ -1,3 +1,4 @@
 - pkg:cargo/antegen-client@3.0.0
 - pkg:cargo/antegen-client@3.0.1
 - pkg:cargo/antegen-client@4.0.0
+- pkg:cargo/antegen-client@4.0.2
