@@ -24,6 +24,7 @@
 - pkg:cargo/sc-statement-store@24.1.0
 - pkg:cargo/sc-statement-store@24.2.0
 - pkg:cargo/sc-statement-store@25.0.0
+- pkg:cargo/sc-statement-store@26.0.0
 - pkg:cargo/sc-statement-store@4.0.0
 - pkg:cargo/sc-statement-store@5.0.0
 - pkg:cargo/sc-statement-store@6.0.0
