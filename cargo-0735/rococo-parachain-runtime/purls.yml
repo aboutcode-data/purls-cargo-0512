@@ -18,6 +18,7 @@
 - pkg:cargo/rococo-parachain-runtime@0.23.0
 - pkg:cargo/rococo-parachain-runtime@0.24.0
 - pkg:cargo/rococo-parachain-runtime@0.25.0
+- pkg:cargo/rococo-parachain-runtime@0.26.0
 - pkg:cargo/rococo-parachain-runtime@0.3.0
 - pkg:cargo/rococo-parachain-runtime@0.4.0
 - pkg:cargo/rococo-parachain-runtime@0.5.0
