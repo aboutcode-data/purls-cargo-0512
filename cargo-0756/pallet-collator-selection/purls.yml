@@ -24,6 +24,7 @@
 - pkg:cargo/pallet-collator-selection@23.0.0
 - pkg:cargo/pallet-collator-selection@24.0.0
 - pkg:cargo/pallet-collator-selection@25.0.0
+- pkg:cargo/pallet-collator-selection@26.0.0
 - pkg:cargo/pallet-collator-selection@3.0.0
 - pkg:cargo/pallet-collator-selection@4.0.0
 - pkg:cargo/pallet-collator-selection@5.0.0
