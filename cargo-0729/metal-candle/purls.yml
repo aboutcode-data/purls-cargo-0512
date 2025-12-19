@@ -8,3 +8,4 @@
 - pkg:cargo/metal-candle@1.2.5
 - pkg:cargo/metal-candle@1.2.6
 - pkg:cargo/metal-candle@1.2.7
+- pkg:cargo/metal-candle@1.3.0

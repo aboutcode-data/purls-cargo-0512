@@ -20,6 +20,7 @@
 - pkg:cargo/burn-train@0.20.0-pre.3
 - pkg:cargo/burn-train@0.20.0-pre.4
 - pkg:cargo/burn-train@0.20.0-pre.5
+- pkg:cargo/burn-train@0.20.0-pre.6
 - pkg:cargo/burn-train@0.5.0
 - pkg:cargo/burn-train@0.6.0
 - pkg:cargo/burn-train@0.7.0
