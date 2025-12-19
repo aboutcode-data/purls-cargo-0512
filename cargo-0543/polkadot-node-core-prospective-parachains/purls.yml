@@ -20,6 +20,7 @@
 - pkg:cargo/polkadot-node-core-prospective-parachains@24.0.0
 - pkg:cargo/polkadot-node-core-prospective-parachains@25.0.0
 - pkg:cargo/polkadot-node-core-prospective-parachains@26.0.0
+- pkg:cargo/polkadot-node-core-prospective-parachains@27.0.0
 - pkg:cargo/polkadot-node-core-prospective-parachains@3.0.0
 - pkg:cargo/polkadot-node-core-prospective-parachains@4.0.0
 - pkg:cargo/polkadot-node-core-prospective-parachains@5.0.0
