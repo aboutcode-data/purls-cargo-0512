@@ -103,6 +103,7 @@
 - pkg:cargo/deno_webgpu@0.19.0
 - pkg:cargo/deno_webgpu@0.190.0
 - pkg:cargo/deno_webgpu@0.191.0
+- pkg:cargo/deno_webgpu@0.192.0
 - pkg:cargo/deno_webgpu@0.2.0
 - pkg:cargo/deno_webgpu@0.20.0
 - pkg:cargo/deno_webgpu@0.21.0
