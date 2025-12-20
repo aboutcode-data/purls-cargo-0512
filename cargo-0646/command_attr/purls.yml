@@ -29,3 +29,4 @@
 - pkg:cargo/command_attr@0.5.1
 - pkg:cargo/command_attr@0.5.2
 - pkg:cargo/command_attr@0.5.3
+- pkg:cargo/command_attr@0.5.4
