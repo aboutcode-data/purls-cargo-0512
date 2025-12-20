@@ -1,3 +1,4 @@
 - pkg:cargo/libloong@0.1.0
 - pkg:cargo/libloong@0.6.0
 - pkg:cargo/libloong@0.6.1
+- pkg:cargo/libloong@0.7.0
