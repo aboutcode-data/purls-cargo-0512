@@ -5,3 +5,4 @@
 - pkg:cargo/simplebench-macros@2.0.0
 - pkg:cargo/simplebench-macros@2.1.0
 - pkg:cargo/simplebench-macros@2.1.1
+- pkg:cargo/simplebench-macros@2.2.0
