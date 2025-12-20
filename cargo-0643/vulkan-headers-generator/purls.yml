@@ -1,2 +1,3 @@
 - pkg:cargo/vulkan-headers-generator@0.1.0%2B1.4.336
 - pkg:cargo/vulkan-headers-generator@0.1.1%2B1.4.336
+- pkg:cargo/vulkan-headers-generator@0.1.2%2B1.4.337
