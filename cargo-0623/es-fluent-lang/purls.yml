@@ -1,5 +1,6 @@
 - pkg:cargo/es-fluent-lang@0.2.10
 - pkg:cargo/es-fluent-lang@0.2.11
+- pkg:cargo/es-fluent-lang@0.2.12
 - pkg:cargo/es-fluent-lang@0.2.5
 - pkg:cargo/es-fluent-lang@0.2.6
 - pkg:cargo/es-fluent-lang@0.2.7
