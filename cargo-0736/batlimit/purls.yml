@@ -33,6 +33,7 @@
 - pkg:cargo/batlimit@0.10.8
 - pkg:cargo/batlimit@0.10.9
 - pkg:cargo/batlimit@0.11.1
+- pkg:cargo/batlimit@0.11.2
 - pkg:cargo/batlimit@0.5.0
 - pkg:cargo/batlimit@0.5.1
 - pkg:cargo/batlimit@0.6.0
