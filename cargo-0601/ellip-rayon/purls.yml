@@ -9,3 +9,4 @@
 - pkg:cargo/ellip-rayon@0.5.7
 - pkg:cargo/ellip-rayon@0.5.9
 - pkg:cargo/ellip-rayon@1.0.0
+- pkg:cargo/ellip-rayon@1.0.1
