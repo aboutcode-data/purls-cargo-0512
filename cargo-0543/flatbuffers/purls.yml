@@ -28,5 +28,6 @@
 - pkg:cargo/flatbuffers@24.3.25
 - pkg:cargo/flatbuffers@25.1.21
 - pkg:cargo/flatbuffers@25.1.24
+- pkg:cargo/flatbuffers@25.12.19
 - pkg:cargo/flatbuffers@25.2.10
 - pkg:cargo/flatbuffers@25.9.23
