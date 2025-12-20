@@ -9,6 +9,7 @@
 - pkg:cargo/letmein-systemd@10.3.0
 - pkg:cargo/letmein-systemd@10.4.0
 - pkg:cargo/letmein-systemd@11.0.0
+- pkg:cargo/letmein-systemd@11.1.0
 - pkg:cargo/letmein-systemd@2.0.0
 - pkg:cargo/letmein-systemd@3.0.0
 - pkg:cargo/letmein-systemd@4.0.0

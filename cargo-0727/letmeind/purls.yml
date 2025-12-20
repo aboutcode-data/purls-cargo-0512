@@ -9,6 +9,7 @@
 - pkg:cargo/letmeind@10.3.0
 - pkg:cargo/letmeind@10.4.0
 - pkg:cargo/letmeind@11.0.0
+- pkg:cargo/letmeind@11.1.0
 - pkg:cargo/letmeind@2.0.0
 - pkg:cargo/letmeind@3.0.0
 - pkg:cargo/letmeind@4.0.0
