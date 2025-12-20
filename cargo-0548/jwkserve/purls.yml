@@ -16,6 +16,12 @@
 - pkg:cargo/jwkserve@0.15.0
 - pkg:cargo/jwkserve@0.15.1
 - pkg:cargo/jwkserve@0.16.0
+- pkg:cargo/jwkserve@0.17.0
+- pkg:cargo/jwkserve@0.17.1
+- pkg:cargo/jwkserve@0.17.2
+- pkg:cargo/jwkserve@0.17.3
+- pkg:cargo/jwkserve@0.17.4
+- pkg:cargo/jwkserve@0.18.0
 - pkg:cargo/jwkserve@0.2.0
 - pkg:cargo/jwkserve@0.5.10
 - pkg:cargo/jwkserve@0.5.11
