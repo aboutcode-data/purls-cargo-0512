@@ -9,6 +9,7 @@
 - pkg:cargo/taskwarrior-tui@0.26.2
 - pkg:cargo/taskwarrior-tui@0.26.3
 - pkg:cargo/taskwarrior-tui@0.26.4
+- pkg:cargo/taskwarrior-tui@0.26.5
 - pkg:cargo/taskwarrior-tui@0.3.0
 - pkg:cargo/taskwarrior-tui@0.3.1
 - pkg:cargo/taskwarrior-tui@0.4.0

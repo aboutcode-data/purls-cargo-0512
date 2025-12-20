@@ -12,3 +12,4 @@
 - pkg:cargo/ggen-utils@3.4.1
 - pkg:cargo/ggen-utils@4.0.0
 - pkg:cargo/ggen-utils@5.0.0
+- pkg:cargo/ggen-utils@5.0.1

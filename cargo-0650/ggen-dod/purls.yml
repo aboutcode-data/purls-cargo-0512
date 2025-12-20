@@ -1,3 +1,4 @@
 - pkg:cargo/ggen-dod@3.2.0
 - pkg:cargo/ggen-dod@4.0.0
 - pkg:cargo/ggen-dod@5.0.0
+- pkg:cargo/ggen-dod@5.0.1
