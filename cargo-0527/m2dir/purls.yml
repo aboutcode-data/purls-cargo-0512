@@ -1,3 +1,6 @@
 - pkg:cargo/m2dir@0.0.1
 - pkg:cargo/m2dir@0.1.0
 - pkg:cargo/m2dir@0.1.1
+- pkg:cargo/m2dir@1.0.0
+- pkg:cargo/m2dir@1.0.1
+- pkg:cargo/m2dir@1.0.2
