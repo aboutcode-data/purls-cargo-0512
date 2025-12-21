@@ -54,6 +54,7 @@
 - pkg:cargo/bevy_egui@0.37.0
 - pkg:cargo/bevy_egui@0.37.1
 - pkg:cargo/bevy_egui@0.38.0
+- pkg:cargo/bevy_egui@0.38.1
 - pkg:cargo/bevy_egui@0.4.0
 - pkg:cargo/bevy_egui@0.4.1
 - pkg:cargo/bevy_egui@0.4.2
