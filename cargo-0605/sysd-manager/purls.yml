@@ -89,6 +89,8 @@
 - pkg:cargo/sysd-manager@1.9.4
 - pkg:cargo/sysd-manager@2.0.0
 - pkg:cargo/sysd-manager@2.1.0
+- pkg:cargo/sysd-manager@2.10.5
+- pkg:cargo/sysd-manager@2.10.6
 - pkg:cargo/sysd-manager@2.2.0
 - pkg:cargo/sysd-manager@2.5.1
 - pkg:cargo/sysd-manager@2.6.0
