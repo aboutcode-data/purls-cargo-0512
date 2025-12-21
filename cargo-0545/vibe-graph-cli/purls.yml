@@ -10,3 +10,4 @@
 - pkg:cargo/vibe-graph-cli@0.2.7
 - pkg:cargo/vibe-graph-cli@0.2.8
 - pkg:cargo/vibe-graph-cli@0.2.9
+- pkg:cargo/vibe-graph-cli@1.0.0
