@@ -6,6 +6,7 @@
 - pkg:cargo/omry-service@0.13.1
 - pkg:cargo/omry-service@0.14.0
 - pkg:cargo/omry-service@0.14.1
+- pkg:cargo/omry-service@0.15.0
 - pkg:cargo/omry-service@0.3.0
 - pkg:cargo/omry-service@0.3.1
 - pkg:cargo/omry-service@0.4.0
