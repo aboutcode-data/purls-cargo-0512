@@ -2,3 +2,4 @@
 - pkg:cargo/ggen-node@4.0.0
 - pkg:cargo/ggen-node@5.0.0
 - pkg:cargo/ggen-node@5.0.1
+- pkg:cargo/ggen-node@5.0.2
