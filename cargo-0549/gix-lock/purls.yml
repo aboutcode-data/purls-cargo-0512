@@ -15,6 +15,7 @@
 - pkg:cargo/gix-lock@17.1.0
 - pkg:cargo/gix-lock@18.0.0
 - pkg:cargo/gix-lock@19.0.0
+- pkg:cargo/gix-lock@20.0.0
 - pkg:cargo/gix-lock@3.0.2
 - pkg:cargo/gix-lock@4.0.0
 - pkg:cargo/gix-lock@5.0.0

@@ -17,6 +17,7 @@
 - pkg:cargo/simple-git@0.2.20
 - pkg:cargo/simple-git@0.2.21
 - pkg:cargo/simple-git@0.2.22
+- pkg:cargo/simple-git@0.2.23
 - pkg:cargo/simple-git@0.2.3
 - pkg:cargo/simple-git@0.2.4
 - pkg:cargo/simple-git@0.2.5

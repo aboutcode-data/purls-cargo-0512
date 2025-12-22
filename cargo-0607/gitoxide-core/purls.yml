@@ -51,6 +51,7 @@
 - pkg:cargo/gitoxide-core@0.48.0
 - pkg:cargo/gitoxide-core@0.49.0
 - pkg:cargo/gitoxide-core@0.50.0
+- pkg:cargo/gitoxide-core@0.51.0
 - pkg:cargo/gitoxide-core@0.6.0
 - pkg:cargo/gitoxide-core@0.7.0
 - pkg:cargo/gitoxide-core@0.8.0
