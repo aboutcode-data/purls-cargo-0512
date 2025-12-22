@@ -53,6 +53,8 @@
 - pkg:cargo/claudiofsr_lib@0.18.1
 - pkg:cargo/claudiofsr_lib@0.18.2
 - pkg:cargo/claudiofsr_lib@0.18.3
+- pkg:cargo/claudiofsr_lib@0.19.0
+- pkg:cargo/claudiofsr_lib@0.19.1
 - pkg:cargo/claudiofsr_lib@0.2.0
 - pkg:cargo/claudiofsr_lib@0.2.1
 - pkg:cargo/claudiofsr_lib@0.2.2
