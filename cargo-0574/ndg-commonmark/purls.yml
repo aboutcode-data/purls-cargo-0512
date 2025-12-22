@@ -4,3 +4,4 @@
 - pkg:cargo/ndg-commonmark@2.5.0
 - pkg:cargo/ndg-commonmark@2.5.0-beta4
 - pkg:cargo/ndg-commonmark@2.5.0-beta5
+- pkg:cargo/ndg-commonmark@2.5.1
