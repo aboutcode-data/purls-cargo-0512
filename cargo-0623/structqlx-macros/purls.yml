@@ -1,1 +1,2 @@
 - pkg:cargo/structqlx-macros@0.1.0
+- pkg:cargo/structqlx-macros@0.2.0-alpha.1
