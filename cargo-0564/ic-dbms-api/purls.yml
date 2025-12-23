@@ -1,3 +1,4 @@
 - pkg:cargo/ic-dbms-api@0.0.1
 - pkg:cargo/ic-dbms-api@0.1.0
 - pkg:cargo/ic-dbms-api@0.2.0
+- pkg:cargo/ic-dbms-api@0.2.1
