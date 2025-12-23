@@ -1,4 +1,5 @@
 - pkg:cargo/sofos@0.1.11
+- pkg:cargo/sofos@0.1.12
 - pkg:cargo/sofos@0.1.2
 - pkg:cargo/sofos@0.1.3
 - pkg:cargo/sofos@0.1.4
