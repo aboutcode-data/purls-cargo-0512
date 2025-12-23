@@ -10,3 +10,5 @@
 - pkg:cargo/blockbucket@0.1.9
 - pkg:cargo/blockbucket@0.2.0
 - pkg:cargo/blockbucket@0.2.1
+- pkg:cargo/blockbucket@0.2.2
+- pkg:cargo/blockbucket@0.2.3
