@@ -2,3 +2,4 @@
 - pkg:cargo/cloudpub-sdk@2.4.4
 - pkg:cargo/cloudpub-sdk@2.4.5
 - pkg:cargo/cloudpub-sdk@3.0.1
+- pkg:cargo/cloudpub-sdk@3.0.2
