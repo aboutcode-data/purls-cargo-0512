@@ -6,3 +6,4 @@
 - pkg:cargo/linfa-nn@0.7.1
 - pkg:cargo/linfa-nn@0.7.2
 - pkg:cargo/linfa-nn@0.8.0
+- pkg:cargo/linfa-nn@0.8.1
