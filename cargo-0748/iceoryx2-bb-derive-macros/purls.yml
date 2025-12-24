@@ -4,3 +4,4 @@
 - pkg:cargo/iceoryx2-bb-derive-macros@0.6.0
 - pkg:cargo/iceoryx2-bb-derive-macros@0.6.1
 - pkg:cargo/iceoryx2-bb-derive-macros@0.7.0
+- pkg:cargo/iceoryx2-bb-derive-macros@0.8.0
