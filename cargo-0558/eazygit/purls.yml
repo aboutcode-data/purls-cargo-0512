@@ -17,3 +17,4 @@
 - pkg:cargo/eazygit@0.4.4
 - pkg:cargo/eazygit@0.4.5
 - pkg:cargo/eazygit@0.4.6
+- pkg:cargo/eazygit@0.5.0
