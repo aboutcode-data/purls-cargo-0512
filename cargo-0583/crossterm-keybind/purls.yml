@@ -9,3 +9,6 @@
 - pkg:cargo/crossterm-keybind@0.1.5
 - pkg:cargo/crossterm-keybind@0.1.6
 - pkg:cargo/crossterm-keybind@0.2.0
+- pkg:cargo/crossterm-keybind@0.2.1
+- pkg:cargo/crossterm-keybind@0.3.0
+- pkg:cargo/crossterm-keybind@0.3.1

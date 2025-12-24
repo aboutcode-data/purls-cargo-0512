@@ -8,3 +8,6 @@
 - pkg:cargo/splintr@0.7.0-beta.2
 - pkg:cargo/splintr@0.7.0-beta.3
 - pkg:cargo/splintr@0.7.0-beta.4
+- pkg:cargo/splintr@0.8.0
+- pkg:cargo/splintr@0.8.0-beta.1
+- pkg:cargo/splintr@0.8.0-beta.2
