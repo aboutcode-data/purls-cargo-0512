@@ -13,3 +13,4 @@
 - pkg:cargo/tree-sitter-mage@0.1.4
 - pkg:cargo/tree-sitter-mage@0.1.5
 - pkg:cargo/tree-sitter-mage@0.1.6
+- pkg:cargo/tree-sitter-mage@0.2.0
