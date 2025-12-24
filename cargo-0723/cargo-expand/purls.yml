@@ -75,6 +75,7 @@
 - pkg:cargo/cargo-expand@1.0.116
 - pkg:cargo/cargo-expand@1.0.117
 - pkg:cargo/cargo-expand@1.0.118
+- pkg:cargo/cargo-expand@1.0.119
 - pkg:cargo/cargo-expand@1.0.12
 - pkg:cargo/cargo-expand@1.0.13
 - pkg:cargo/cargo-expand@1.0.14

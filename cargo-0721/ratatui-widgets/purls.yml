@@ -20,3 +20,4 @@
 - pkg:cargo/ratatui-widgets@0.3.0-alpha.4
 - pkg:cargo/ratatui-widgets@0.3.0-alpha.5
 - pkg:cargo/ratatui-widgets@0.3.0-beta.0
+- pkg:cargo/ratatui-widgets@0.3.0-beta.1
