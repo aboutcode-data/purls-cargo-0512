@@ -18,3 +18,4 @@
 - pkg:cargo/ipc-broker@1.1.0
 - pkg:cargo/ipc-broker@1.1.1
 - pkg:cargo/ipc-broker@1.1.2
+- pkg:cargo/ipc-broker@1.1.3
