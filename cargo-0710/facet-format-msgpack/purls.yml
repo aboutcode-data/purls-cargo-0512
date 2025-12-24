@@ -1,1 +1,2 @@
 - pkg:cargo/facet-format-msgpack@0.33.0
+- pkg:cargo/facet-format-msgpack@0.34.0
