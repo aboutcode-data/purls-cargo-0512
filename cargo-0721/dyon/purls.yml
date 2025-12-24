@@ -83,6 +83,7 @@
 - pkg:cargo/dyon@0.50.1
 - pkg:cargo/dyon@0.50.2
 - pkg:cargo/dyon@0.50.3
+- pkg:cargo/dyon@0.51.0
 - pkg:cargo/dyon@0.6.0
 - pkg:cargo/dyon@0.7.0
 - pkg:cargo/dyon@0.8.0
