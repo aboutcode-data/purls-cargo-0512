@@ -28,6 +28,8 @@
 - pkg:cargo/fixlite_derive@0.3.20
 - pkg:cargo/fixlite_derive@0.3.23
 - pkg:cargo/fixlite_derive@0.3.24
+- pkg:cargo/fixlite_derive@0.3.25
+- pkg:cargo/fixlite_derive@0.3.26
 - pkg:cargo/fixlite_derive@0.3.3
 - pkg:cargo/fixlite_derive@0.3.4
 - pkg:cargo/fixlite_derive@0.3.5
