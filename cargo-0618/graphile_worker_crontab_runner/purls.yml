@@ -13,3 +13,4 @@
 - pkg:cargo/graphile_worker_crontab_runner@0.5.9
 - pkg:cargo/graphile_worker_crontab_runner@0.6.0
 - pkg:cargo/graphile_worker_crontab_runner@0.6.1
+- pkg:cargo/graphile_worker_crontab_runner@0.6.2

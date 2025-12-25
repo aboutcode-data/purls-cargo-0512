@@ -6,6 +6,7 @@
 - pkg:cargo/graphile_worker_task_handler@0.4.2
 - pkg:cargo/graphile_worker_task_handler@0.5.0
 - pkg:cargo/graphile_worker_task_handler@0.5.1
+- pkg:cargo/graphile_worker_task_handler@0.5.10
 - pkg:cargo/graphile_worker_task_handler@0.5.2
 - pkg:cargo/graphile_worker_task_handler@0.5.3
 - pkg:cargo/graphile_worker_task_handler@0.5.4
