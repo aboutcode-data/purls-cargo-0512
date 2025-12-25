@@ -25,6 +25,9 @@
 - pkg:cargo/jdt_activity_pub@0.2.101
 - pkg:cargo/jdt_activity_pub@0.2.102
 - pkg:cargo/jdt_activity_pub@0.2.103
+- pkg:cargo/jdt_activity_pub@0.2.104
+- pkg:cargo/jdt_activity_pub@0.2.105
+- pkg:cargo/jdt_activity_pub@0.2.106
 - pkg:cargo/jdt_activity_pub@0.2.11
 - pkg:cargo/jdt_activity_pub@0.2.12
 - pkg:cargo/jdt_activity_pub@0.2.13
