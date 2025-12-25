@@ -41,6 +41,7 @@
 - pkg:cargo/fdev@0.3.33
 - pkg:cargo/fdev@0.3.34
 - pkg:cargo/fdev@0.3.35
+- pkg:cargo/fdev@0.3.36
 - pkg:cargo/fdev@0.3.4
 - pkg:cargo/fdev@0.3.5
 - pkg:cargo/fdev@0.3.6
