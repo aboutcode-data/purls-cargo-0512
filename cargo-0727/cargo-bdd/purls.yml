@@ -1,3 +1,4 @@
 - pkg:cargo/cargo-bdd@0.1.0
 - pkg:cargo/cargo-bdd@0.1.0-alpha4
 - pkg:cargo/cargo-bdd@0.2.0
+- pkg:cargo/cargo-bdd@0.3.0
