@@ -122,6 +122,7 @@
 - pkg:cargo/oma-refresh@0.51.1
 - pkg:cargo/oma-refresh@0.51.2
 - pkg:cargo/oma-refresh@0.51.3
+- pkg:cargo/oma-refresh@0.52.0
 - pkg:cargo/oma-refresh@0.6.0
 - pkg:cargo/oma-refresh@0.6.1
 - pkg:cargo/oma-refresh@0.6.10
