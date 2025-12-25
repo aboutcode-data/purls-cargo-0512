@@ -3,3 +3,4 @@
 - pkg:cargo/oxdock-buildtime-macros@0.3.0-alpha
 - pkg:cargo/oxdock-buildtime-macros@0.4.0-alpha
 - pkg:cargo/oxdock-buildtime-macros@0.5.0-alpha
+- pkg:cargo/oxdock-buildtime-macros@0.6.0-alpha
