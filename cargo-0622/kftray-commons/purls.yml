@@ -35,3 +35,5 @@
 - pkg:cargo/kftray-commons@0.27.1
 - pkg:cargo/kftray-commons@0.27.2
 - pkg:cargo/kftray-commons@0.27.4
+- pkg:cargo/kftray-commons@0.27.5
+- pkg:cargo/kftray-commons@0.27.6
