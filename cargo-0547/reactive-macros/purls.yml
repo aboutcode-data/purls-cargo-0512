@@ -9,3 +9,4 @@
 - pkg:cargo/reactive-macros@0.3.4
 - pkg:cargo/reactive-macros@0.3.5
 - pkg:cargo/reactive-macros@0.4.0-alpha.0
+- pkg:cargo/reactive-macros@0.4.1
