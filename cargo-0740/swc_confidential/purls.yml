@@ -59,3 +59,4 @@
 - pkg:cargo/swc_confidential@0.54.0
 - pkg:cargo/swc_confidential@0.55.0
 - pkg:cargo/swc_confidential@0.56.0
+- pkg:cargo/swc_confidential@0.57.0

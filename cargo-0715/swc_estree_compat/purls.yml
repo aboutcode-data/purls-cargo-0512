@@ -1072,6 +1072,7 @@
 - pkg:cargo/swc_estree_compat@30.0.0
 - pkg:cargo/swc_estree_compat@31.0.0
 - pkg:cargo/swc_estree_compat@32.0.0
+- pkg:cargo/swc_estree_compat@33.0.0
 - pkg:cargo/swc_estree_compat@4.0.0
 - pkg:cargo/swc_estree_compat@5.0.0
 - pkg:cargo/swc_estree_compat@6.0.0
