@@ -1,4 +1,5 @@
 - pkg:cargo/connectrpc-axum@0.0.1
+- pkg:cargo/connectrpc-axum@0.0.10
 - pkg:cargo/connectrpc-axum@0.0.2
 - pkg:cargo/connectrpc-axum@0.0.3
 - pkg:cargo/connectrpc-axum@0.0.4
@@ -6,3 +7,4 @@
 - pkg:cargo/connectrpc-axum@0.0.6
 - pkg:cargo/connectrpc-axum@0.0.7
 - pkg:cargo/connectrpc-axum@0.0.8
+- pkg:cargo/connectrpc-axum@0.0.9
