@@ -19,3 +19,5 @@
 - pkg:cargo/mdedit@0.6.3
 - pkg:cargo/mdedit@0.7.0
 - pkg:cargo/mdedit@1.0.0
+- pkg:cargo/mdedit@2.0.0
+- pkg:cargo/mdedit@2.0.1
