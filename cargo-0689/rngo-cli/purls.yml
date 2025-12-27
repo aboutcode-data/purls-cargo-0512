@@ -4,6 +4,7 @@
 - pkg:cargo/rngo-cli@0.13.0
 - pkg:cargo/rngo-cli@0.14.0
 - pkg:cargo/rngo-cli@0.15.0
+- pkg:cargo/rngo-cli@0.16.0
 - pkg:cargo/rngo-cli@0.2.4
 - pkg:cargo/rngo-cli@0.2.5
 - pkg:cargo/rngo-cli@0.3.0

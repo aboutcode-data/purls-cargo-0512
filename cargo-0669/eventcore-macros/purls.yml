@@ -8,3 +8,4 @@
 - pkg:cargo/eventcore-macros@0.1.8
 - pkg:cargo/eventcore-macros@0.2.0
 - pkg:cargo/eventcore-macros@0.2.1
+- pkg:cargo/eventcore-macros@0.3.0
