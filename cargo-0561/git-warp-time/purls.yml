@@ -30,3 +30,4 @@
 - pkg:cargo/git-warp-time@0.8.3
 - pkg:cargo/git-warp-time@0.8.4
 - pkg:cargo/git-warp-time@0.8.5
+- pkg:cargo/git-warp-time@1.0.0
