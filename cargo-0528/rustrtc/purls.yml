@@ -26,6 +26,7 @@
 - pkg:cargo/rustrtc@0.2.24
 - pkg:cargo/rustrtc@0.2.25
 - pkg:cargo/rustrtc@0.2.26
+- pkg:cargo/rustrtc@0.2.27
 - pkg:cargo/rustrtc@0.2.4
 - pkg:cargo/rustrtc@0.2.5
 - pkg:cargo/rustrtc@0.2.6
