@@ -5,3 +5,4 @@
 - pkg:cargo/leveldb-rs-binding@2.0.0
 - pkg:cargo/leveldb-rs-binding@2.0.1
 - pkg:cargo/leveldb-rs-binding@2.1.0
+- pkg:cargo/leveldb-rs-binding@2.1.1
