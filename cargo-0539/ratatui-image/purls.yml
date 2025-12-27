@@ -28,6 +28,7 @@
 - pkg:cargo/ratatui-image@1.0.5
 - pkg:cargo/ratatui-image@10.0.0
 - pkg:cargo/ratatui-image@10.0.0-beta.0
+- pkg:cargo/ratatui-image@10.0.1
 - pkg:cargo/ratatui-image@2.0.0
 - pkg:cargo/ratatui-image@2.0.1
 - pkg:cargo/ratatui-image@3.0.0
