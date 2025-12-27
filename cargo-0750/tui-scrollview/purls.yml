@@ -26,4 +26,6 @@
 - pkg:cargo/tui-scrollview@0.5.1
 - pkg:cargo/tui-scrollview@0.5.2
 - pkg:cargo/tui-scrollview@0.5.3
+- pkg:cargo/tui-scrollview@0.6.0
 - pkg:cargo/tui-scrollview@0.6.0-alpha.0
+- pkg:cargo/tui-scrollview@0.6.1
