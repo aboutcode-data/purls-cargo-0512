@@ -5,3 +5,5 @@
 - pkg:cargo/git-remote-htree@0.1.6
 - pkg:cargo/git-remote-htree@0.1.7
 - pkg:cargo/git-remote-htree@0.1.8
+- pkg:cargo/git-remote-htree@0.1.9
+- pkg:cargo/git-remote-htree@0.2.0
