@@ -26,3 +26,4 @@
 - pkg:cargo/tui-popup@0.7.0
 - pkg:cargo/tui-popup@0.7.0-alpha.0
 - pkg:cargo/tui-popup@0.7.1
+- pkg:cargo/tui-popup@0.7.2
