@@ -27,3 +27,4 @@
 - pkg:cargo/libobs-wrapper@7.0.2%2B32.0.2
 - pkg:cargo/libobs-wrapper@7.0.3%2B32.0.2
 - pkg:cargo/libobs-wrapper@7.0.5%2B32.0.2
+- pkg:cargo/libobs-wrapper@7.0.6%2B32.0.2
