@@ -4,3 +4,7 @@
 - pkg:cargo/nuch@1.1.0
 - pkg:cargo/nuch@1.1.1
 - pkg:cargo/nuch@1.2.1
+- pkg:cargo/nuch@1.3.0
+- pkg:cargo/nuch@1.3.2
+- pkg:cargo/nuch@1.3.4-beta
+- pkg:cargo/nuch@1.3.5
