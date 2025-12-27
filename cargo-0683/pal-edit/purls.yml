@@ -1,2 +1,5 @@
 - pkg:cargo/pal-edit@1.5.0
 - pkg:cargo/pal-edit@1.6.0
+- pkg:cargo/pal-edit@1.7.0
+- pkg:cargo/pal-edit@2.0.0
+- pkg:cargo/pal-edit@2.0.1
