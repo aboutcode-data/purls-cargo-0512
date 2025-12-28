@@ -63,3 +63,4 @@
 - pkg:cargo/sideko_rest_api@0.8.5
 - pkg:cargo/sideko_rest_api@0.8.6
 - pkg:cargo/sideko_rest_api@0.9.0
+- pkg:cargo/sideko_rest_api@0.9.1
