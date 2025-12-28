@@ -1,3 +1,5 @@
+- pkg:cargo/css_value_definition_parser@0.0.10
+- pkg:cargo/css_value_definition_parser@0.0.10-canary.59b327ba5b
 - pkg:cargo/css_value_definition_parser@0.0.5
 - pkg:cargo/css_value_definition_parser@0.0.6
 - pkg:cargo/css_value_definition_parser@0.0.6-canary.23726265a1
