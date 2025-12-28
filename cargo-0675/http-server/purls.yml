@@ -44,3 +44,4 @@
 - pkg:cargo/http-server@0.8.8
 - pkg:cargo/http-server@0.8.9
 - pkg:cargo/http-server@1.0.0-pre.6fa7635
+- pkg:cargo/http-server@1.0.0-pre.cfad518
