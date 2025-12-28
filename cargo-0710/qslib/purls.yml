@@ -1,3 +1,4 @@
+- pkg:cargo/qslib@0.14.0
 - pkg:cargo/qslib@0.14.0-pre1
 - pkg:cargo/qslib@0.14.0-pre2
 - pkg:cargo/qslib@0.14.0-pre3
