@@ -113,3 +113,4 @@
 - pkg:cargo/stak-util@0.11.9
 - pkg:cargo/stak-util@0.12.0
 - pkg:cargo/stak-util@0.12.1
+- pkg:cargo/stak-util@0.12.2
