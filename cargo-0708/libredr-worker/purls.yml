@@ -9,3 +9,4 @@
 - pkg:cargo/libredr-worker@0.0.19
 - pkg:cargo/libredr-worker@0.0.20
 - pkg:cargo/libredr-worker@0.0.21
+- pkg:cargo/libredr-worker@0.0.22
