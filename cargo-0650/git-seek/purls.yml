@@ -1,3 +1,5 @@
 - pkg:cargo/git-seek@0.1.0
 - pkg:cargo/git-seek@0.1.1
 - pkg:cargo/git-seek@1.0.0
+- pkg:cargo/git-seek@1.1.0
+- pkg:cargo/git-seek@1.2.0

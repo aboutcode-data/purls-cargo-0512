@@ -34,3 +34,4 @@
 - pkg:cargo/idmap@0.3.0-rc.3
 - pkg:cargo/idmap@0.3.0-rc.4
 - pkg:cargo/idmap@0.3.2
+- pkg:cargo/idmap@0.3.3
