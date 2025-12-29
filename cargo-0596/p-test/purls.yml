@@ -9,3 +9,4 @@
 - pkg:cargo/p-test@0.1.8
 - pkg:cargo/p-test@1.0.0
 - pkg:cargo/p-test@1.0.1
+- pkg:cargo/p-test@1.0.2

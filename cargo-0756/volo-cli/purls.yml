@@ -12,6 +12,7 @@
 - pkg:cargo/volo-cli@0.11.3
 - pkg:cargo/volo-cli@0.11.4
 - pkg:cargo/volo-cli@0.12.0
+- pkg:cargo/volo-cli@0.12.1
 - pkg:cargo/volo-cli@0.2.0
 - pkg:cargo/volo-cli@0.2.1
 - pkg:cargo/volo-cli@0.3.0
