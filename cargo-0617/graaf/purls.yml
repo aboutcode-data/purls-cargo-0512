@@ -18,6 +18,8 @@
 - pkg:cargo/graaf@0.110.0
 - pkg:cargo/graaf@0.111.0
 - pkg:cargo/graaf@0.111.1
+- pkg:cargo/graaf@0.111.2
+- pkg:cargo/graaf@0.112.0
 - pkg:cargo/graaf@0.12.0
 - pkg:cargo/graaf@0.12.1
 - pkg:cargo/graaf@0.13.0
