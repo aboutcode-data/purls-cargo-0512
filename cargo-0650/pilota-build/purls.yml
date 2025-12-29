@@ -66,6 +66,7 @@
 - pkg:cargo/pilota-build@0.13.2
 - pkg:cargo/pilota-build@0.13.3
 - pkg:cargo/pilota-build@0.13.4
+- pkg:cargo/pilota-build@0.13.5
 - pkg:cargo/pilota-build@0.2.0
 - pkg:cargo/pilota-build@0.3.0
 - pkg:cargo/pilota-build@0.4.0
