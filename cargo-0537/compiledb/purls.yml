@@ -4,3 +4,4 @@
 - pkg:cargo/compiledb@1.1.0
 - pkg:cargo/compiledb@1.1.1
 - pkg:cargo/compiledb@1.1.2
+- pkg:cargo/compiledb@1.1.3
