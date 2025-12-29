@@ -11,3 +11,4 @@
 - pkg:cargo/tarantool-proc@3.2.0
 - pkg:cargo/tarantool-proc@4.0.0
 - pkg:cargo/tarantool-proc@4.0.1
+- pkg:cargo/tarantool-proc@4.0.2
