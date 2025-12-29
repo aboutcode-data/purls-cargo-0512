@@ -12,3 +12,4 @@
 - pkg:cargo/rustls-cng@0.5.2
 - pkg:cargo/rustls-cng@0.5.3
 - pkg:cargo/rustls-cng@0.6.0
+- pkg:cargo/rustls-cng@0.7.0
