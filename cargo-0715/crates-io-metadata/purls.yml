@@ -1,1 +1,2 @@
 - pkg:cargo/crates-io-metadata@0.1.0
+- pkg:cargo/crates-io-metadata@0.1.1
