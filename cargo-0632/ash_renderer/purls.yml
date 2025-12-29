@@ -23,3 +23,4 @@
 - pkg:cargo/ash_renderer@0.4.4
 - pkg:cargo/ash_renderer@0.4.5
 - pkg:cargo/ash_renderer@0.4.6
+- pkg:cargo/ash_renderer@0.4.7

@@ -30,7 +30,10 @@
 - pkg:cargo/jdt_activity_pub@0.2.106
 - pkg:cargo/jdt_activity_pub@0.2.107
 - pkg:cargo/jdt_activity_pub@0.2.108
+- pkg:cargo/jdt_activity_pub@0.2.109
 - pkg:cargo/jdt_activity_pub@0.2.11
+- pkg:cargo/jdt_activity_pub@0.2.110
+- pkg:cargo/jdt_activity_pub@0.2.111
 - pkg:cargo/jdt_activity_pub@0.2.12
 - pkg:cargo/jdt_activity_pub@0.2.13
 - pkg:cargo/jdt_activity_pub@0.2.14
