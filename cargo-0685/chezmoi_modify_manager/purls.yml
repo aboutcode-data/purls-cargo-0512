@@ -36,3 +36,4 @@
 - pkg:cargo/chezmoi_modify_manager@3.5.2
 - pkg:cargo/chezmoi_modify_manager@3.5.3
 - pkg:cargo/chezmoi_modify_manager@3.6.0
+- pkg:cargo/chezmoi_modify_manager@3.7.0
