@@ -5,3 +5,5 @@
 - pkg:cargo/fluxencrypt-async@0.3.7
 - pkg:cargo/fluxencrypt-async@0.3.8
 - pkg:cargo/fluxencrypt-async@0.3.9
+- pkg:cargo/fluxencrypt-async@0.5.0
+- pkg:cargo/fluxencrypt-async@0.6.0

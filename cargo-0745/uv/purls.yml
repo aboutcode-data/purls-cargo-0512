@@ -9,3 +9,4 @@
 - pkg:cargo/uv@0.9.17
 - pkg:cargo/uv@0.9.18
 - pkg:cargo/uv@0.9.20
+- pkg:cargo/uv@0.9.21

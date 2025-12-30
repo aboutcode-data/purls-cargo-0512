@@ -23,3 +23,4 @@
 - pkg:cargo/bevy_connect@0.16.8
 - pkg:cargo/bevy_connect@0.16.9
 - pkg:cargo/bevy_connect@0.17.0
+- pkg:cargo/bevy_connect@0.17.1

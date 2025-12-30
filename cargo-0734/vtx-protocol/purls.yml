@@ -5,3 +5,8 @@
 - pkg:cargo/vtx-protocol@1.2.6
 - pkg:cargo/vtx-protocol@2.0.6
 - pkg:cargo/vtx-protocol@2.1.0
+- pkg:cargo/vtx-protocol@2.2.1
+- pkg:cargo/vtx-protocol@3.0.0
+- pkg:cargo/vtx-protocol@3.1.0
+- pkg:cargo/vtx-protocol@3.2.0
+- pkg:cargo/vtx-protocol@3.2.1
