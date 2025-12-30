@@ -12,6 +12,7 @@
 - pkg:cargo/sacp@1.0.0-alpha.8
 - pkg:cargo/sacp@1.1.0
 - pkg:cargo/sacp@1.1.1
+- pkg:cargo/sacp@10.0.0
 - pkg:cargo/sacp@10.0.0-alpha.1
 - pkg:cargo/sacp@10.0.0-alpha.2
 - pkg:cargo/sacp@10.0.0-alpha.3
