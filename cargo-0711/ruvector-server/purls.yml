@@ -1,2 +1,3 @@
 - pkg:cargo/ruvector-server@0.1.2
 - pkg:cargo/ruvector-server@0.1.22
+- pkg:cargo/ruvector-server@0.1.29
