@@ -6,4 +6,5 @@
 - pkg:cargo/egui-desktop@0.1.8
 - pkg:cargo/egui-desktop@0.1.9
 - pkg:cargo/egui-desktop@0.2.0
+- pkg:cargo/egui-desktop@0.2.1
 - pkg:cargo/egui-desktop@1.1.1
