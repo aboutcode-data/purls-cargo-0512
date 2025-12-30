@@ -25,6 +25,8 @@
 - pkg:cargo/run_code_rmcp@0.0.31
 - pkg:cargo/run_code_rmcp@0.0.32
 - pkg:cargo/run_code_rmcp@0.0.33
+- pkg:cargo/run_code_rmcp@0.0.34
+- pkg:cargo/run_code_rmcp@0.0.35
 - pkg:cargo/run_code_rmcp@0.0.4
 - pkg:cargo/run_code_rmcp@0.0.5
 - pkg:cargo/run_code_rmcp@0.0.6
