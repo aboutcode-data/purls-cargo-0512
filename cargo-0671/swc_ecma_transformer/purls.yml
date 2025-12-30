@@ -10,3 +10,4 @@
 - pkg:cargo/swc_ecma_transformer@4.0.0
 - pkg:cargo/swc_ecma_transformer@4.0.1
 - pkg:cargo/swc_ecma_transformer@5.0.0
+- pkg:cargo/swc_ecma_transformer@6.0.0
