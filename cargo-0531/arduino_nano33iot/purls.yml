@@ -7,3 +7,4 @@
 - pkg:cargo/arduino_nano33iot@0.7.0
 - pkg:cargo/arduino_nano33iot@0.7.1
 - pkg:cargo/arduino_nano33iot@0.7.2
+- pkg:cargo/arduino_nano33iot@0.8.0
