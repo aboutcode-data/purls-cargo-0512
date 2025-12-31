@@ -3,6 +3,11 @@
 - pkg:cargo/zakat@0.1.2
 - pkg:cargo/zakat@0.1.4
 - pkg:cargo/zakat@0.1.5
+- pkg:cargo/zakat@0.10.0
+- pkg:cargo/zakat@0.11.0
+- pkg:cargo/zakat@0.12.0
+- pkg:cargo/zakat@0.13.0
+- pkg:cargo/zakat@0.14.0
 - pkg:cargo/zakat@0.2.0
 - pkg:cargo/zakat@0.3.0
 - pkg:cargo/zakat@0.4.0
