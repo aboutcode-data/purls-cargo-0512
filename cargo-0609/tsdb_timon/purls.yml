@@ -16,3 +16,4 @@
 - pkg:cargo/tsdb_timon@1.0.85
 - pkg:cargo/tsdb_timon@1.0.9
 - pkg:cargo/tsdb_timon@1.1.0
+- pkg:cargo/tsdb_timon@1.1.1
