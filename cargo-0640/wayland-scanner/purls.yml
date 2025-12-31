@@ -115,6 +115,7 @@
 - pkg:cargo/wayland-scanner@0.31.5
 - pkg:cargo/wayland-scanner@0.31.6
 - pkg:cargo/wayland-scanner@0.31.7
+- pkg:cargo/wayland-scanner@0.31.8
 - pkg:cargo/wayland-scanner@0.5.0
 - pkg:cargo/wayland-scanner@0.5.11
 - pkg:cargo/wayland-scanner@0.5.5

@@ -121,6 +121,7 @@
 - pkg:cargo/wayland-client@0.31.1
 - pkg:cargo/wayland-client@0.31.10
 - pkg:cargo/wayland-client@0.31.11
+- pkg:cargo/wayland-client@0.31.12
 - pkg:cargo/wayland-client@0.31.2
 - pkg:cargo/wayland-client@0.31.3
 - pkg:cargo/wayland-client@0.31.4
