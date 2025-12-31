@@ -1,1 +1,2 @@
 - pkg:cargo/streamweave-tokio@0.4.0
+- pkg:cargo/streamweave-tokio@0.6.0

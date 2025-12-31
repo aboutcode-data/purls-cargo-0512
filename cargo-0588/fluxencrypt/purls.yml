@@ -7,3 +7,4 @@
 - pkg:cargo/fluxencrypt@0.3.9
 - pkg:cargo/fluxencrypt@0.5.0
 - pkg:cargo/fluxencrypt@0.6.0
+- pkg:cargo/fluxencrypt@0.7.0
