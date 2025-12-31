@@ -2,3 +2,4 @@
 - pkg:cargo/facet-path@0.35.0
 - pkg:cargo/facet-path@0.36.0
 - pkg:cargo/facet-path@0.40.0
+- pkg:cargo/facet-path@0.41.0
