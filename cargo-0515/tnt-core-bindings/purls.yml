@@ -8,3 +8,4 @@
 - pkg:cargo/tnt-core-bindings@0.4.7
 - pkg:cargo/tnt-core-bindings@0.4.8
 - pkg:cargo/tnt-core-bindings@0.4.9
+- pkg:cargo/tnt-core-bindings@0.5.0
