@@ -8,3 +8,5 @@
 - pkg:cargo/lockdiff@2.0.1
 - pkg:cargo/lockdiff@2.0.2
 - pkg:cargo/lockdiff@2.0.3
+- pkg:cargo/lockdiff@2.0.4
+- pkg:cargo/lockdiff@2.0.5
