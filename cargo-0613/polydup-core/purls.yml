@@ -25,3 +25,4 @@
 - pkg:cargo/polydup-core@0.6.2
 - pkg:cargo/polydup-core@0.7.0
 - pkg:cargo/polydup-core@0.8.0
+- pkg:cargo/polydup-core@0.8.1
