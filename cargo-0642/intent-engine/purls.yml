@@ -12,6 +12,7 @@
 - pkg:cargo/intent-engine@0.1.9
 - pkg:cargo/intent-engine@0.10.1
 - pkg:cargo/intent-engine@0.10.10
+- pkg:cargo/intent-engine@0.10.11
 - pkg:cargo/intent-engine@0.10.2
 - pkg:cargo/intent-engine@0.10.3
 - pkg:cargo/intent-engine@0.10.4
