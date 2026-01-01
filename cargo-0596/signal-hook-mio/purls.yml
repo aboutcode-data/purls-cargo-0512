@@ -4,3 +4,4 @@
 - pkg:cargo/signal-hook-mio@0.2.3
 - pkg:cargo/signal-hook-mio@0.2.4
 - pkg:cargo/signal-hook-mio@0.2.5
+- pkg:cargo/signal-hook-mio@0.3.0
