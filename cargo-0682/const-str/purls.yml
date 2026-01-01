@@ -27,3 +27,4 @@
 - pkg:cargo/const-str@0.6.4
 - pkg:cargo/const-str@0.7.0
 - pkg:cargo/const-str@0.7.1
+- pkg:cargo/const-str@1.0.0
