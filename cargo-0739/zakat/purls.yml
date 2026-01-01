@@ -10,6 +10,7 @@
 - pkg:cargo/zakat@0.14.0
 - pkg:cargo/zakat@0.16.0
 - pkg:cargo/zakat@0.17.0
+- pkg:cargo/zakat@0.17.1
 - pkg:cargo/zakat@0.2.0
 - pkg:cargo/zakat@0.3.0
 - pkg:cargo/zakat@0.4.0

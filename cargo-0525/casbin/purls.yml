@@ -61,6 +61,7 @@
 - pkg:cargo/casbin@2.18.0
 - pkg:cargo/casbin@2.18.1
 - pkg:cargo/casbin@2.19.0
+- pkg:cargo/casbin@2.19.1
 - pkg:cargo/casbin@2.2.0
 - pkg:cargo/casbin@2.4.0
 - pkg:cargo/casbin@2.5.0
