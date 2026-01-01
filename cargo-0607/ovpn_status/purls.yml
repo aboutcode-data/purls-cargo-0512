@@ -2,3 +2,4 @@
 - pkg:cargo/ovpn_status@0.2.9
 - pkg:cargo/ovpn_status@0.7.1
 - pkg:cargo/ovpn_status@0.7.2
+- pkg:cargo/ovpn_status@0.7.3
