@@ -13,3 +13,4 @@
 - pkg:cargo/brk_rolldown_std_utils@0.5.0
 - pkg:cargo/brk_rolldown_std_utils@0.5.1
 - pkg:cargo/brk_rolldown_std_utils@0.6.0
+- pkg:cargo/brk_rolldown_std_utils@0.7.0
