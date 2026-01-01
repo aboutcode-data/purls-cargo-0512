@@ -10,3 +10,4 @@
 - pkg:cargo/mdbook-djot@0.3.0
 - pkg:cargo/mdbook-djot@0.8.1
 - pkg:cargo/mdbook-djot@0.9.0
+- pkg:cargo/mdbook-djot@0.9.1
