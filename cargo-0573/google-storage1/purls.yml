@@ -49,3 +49,4 @@
 - pkg:cargo/google-storage1@5.0.4%2B20240229
 - pkg:cargo/google-storage1@5.0.5%2B20240621
 - pkg:cargo/google-storage1@6.0.0%2B20240621
+- pkg:cargo/google-storage1@7.0.0%2B20251218

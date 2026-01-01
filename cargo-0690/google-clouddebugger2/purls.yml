@@ -37,3 +37,4 @@
 - pkg:cargo/google-clouddebugger2@5.0.4%2B20230113
 - pkg:cargo/google-clouddebugger2@5.0.5%2B20230113
 - pkg:cargo/google-clouddebugger2@6.0.0%2B20230113
+- pkg:cargo/google-clouddebugger2@7.0.0%2B20230113

@@ -34,3 +34,4 @@
 - pkg:cargo/google-storagetransfer1@5.0.4%2B20240224
 - pkg:cargo/google-storagetransfer1@5.0.5%2B20240622
 - pkg:cargo/google-storagetransfer1@6.0.0%2B20240622
+- pkg:cargo/google-storagetransfer1@7.0.0%2B20251128

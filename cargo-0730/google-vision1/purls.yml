@@ -17,3 +17,4 @@
 - pkg:cargo/google-vision1@5.0.4%2B20240223
 - pkg:cargo/google-vision1@5.0.5%2B20240614
 - pkg:cargo/google-vision1@6.0.0%2B20240614
+- pkg:cargo/google-vision1@7.0.0%2B20251212

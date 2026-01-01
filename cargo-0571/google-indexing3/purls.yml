@@ -18,3 +18,4 @@
 - pkg:cargo/google-indexing3@5.0.4%2B20240227
 - pkg:cargo/google-indexing3@5.0.5%2B20240604
 - pkg:cargo/google-indexing3@6.0.0%2B20240604
+- pkg:cargo/google-indexing3@7.0.0%2B20251208

@@ -47,3 +47,4 @@
 - pkg:cargo/google-calendar3@5.0.4%2B20240223
 - pkg:cargo/google-calendar3@5.0.5%2B20240328
 - pkg:cargo/google-calendar3@6.0.0%2B20240523
+- pkg:cargo/google-calendar3@7.0.0%2B20251214

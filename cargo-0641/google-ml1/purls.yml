@@ -21,3 +21,4 @@
 - pkg:cargo/google-ml1@5.0.4%2B20240127
 - pkg:cargo/google-ml1@5.0.5%2B20240607
 - pkg:cargo/google-ml1@6.0.0%2B20240607
+- pkg:cargo/google-ml1@7.0.0%2B20250920

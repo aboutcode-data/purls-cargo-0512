@@ -46,3 +46,4 @@
 - pkg:cargo/google-bigquery2@5.0.2%2B20230114
 - pkg:cargo/google-bigquery2@5.0.2-beta-1%2B20230114
 - pkg:cargo/google-bigquery2@5.0.3%2B20230114
+- pkg:cargo/google-bigquery2@7.0.0%2B20251130

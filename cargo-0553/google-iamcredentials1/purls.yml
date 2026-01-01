@@ -18,3 +18,4 @@
 - pkg:cargo/google-iamcredentials1@5.0.4%2B20240221
 - pkg:cargo/google-iamcredentials1@5.0.5%2B20240605
 - pkg:cargo/google-iamcredentials1@6.0.0%2B20240605
+- pkg:cargo/google-iamcredentials1@7.0.0%2B20251108

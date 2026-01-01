@@ -19,3 +19,4 @@
 - pkg:cargo/google-runtimeconfig1@5.0.4%2B20240227
 - pkg:cargo/google-runtimeconfig1@5.0.5%2B20240227
 - pkg:cargo/google-runtimeconfig1@6.0.0%2B20240227
+- pkg:cargo/google-runtimeconfig1@7.0.0%2B20251201

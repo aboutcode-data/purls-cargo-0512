@@ -11,3 +11,4 @@
 - pkg:cargo/google-domains1_beta1@5.0.4%2B20240221
 - pkg:cargo/google-domains1_beta1@5.0.5%2B20240610
 - pkg:cargo/google-domains1_beta1@6.0.0%2B20240610
+- pkg:cargo/google-domains1_beta1@7.0.0%2B20250918

@@ -12,3 +12,4 @@
 - pkg:cargo/google-vectortile1@5.0.4%2B20210331
 - pkg:cargo/google-vectortile1@5.0.5%2B20210331
 - pkg:cargo/google-vectortile1@6.0.0%2B20210331
+- pkg:cargo/google-vectortile1@7.0.0%2B20210331

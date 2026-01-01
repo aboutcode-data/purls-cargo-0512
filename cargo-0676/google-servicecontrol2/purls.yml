@@ -11,3 +11,4 @@
 - pkg:cargo/google-servicecontrol2@5.0.4%2B20240223
 - pkg:cargo/google-servicecontrol2@5.0.5%2B20240607
 - pkg:cargo/google-servicecontrol2@6.0.0%2B20240607
+- pkg:cargo/google-servicecontrol2@7.0.0%2B20251125

@@ -27,3 +27,4 @@
 - pkg:cargo/google-cloudtrace1@5.0.4%2B20240223
 - pkg:cargo/google-cloudtrace1@5.0.5%2B20240621
 - pkg:cargo/google-cloudtrace1@6.0.0%2B20240621
+- pkg:cargo/google-cloudtrace1@7.0.0%2B20251212

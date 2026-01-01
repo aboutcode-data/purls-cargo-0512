@@ -16,3 +16,4 @@
 - pkg:cargo/google-cloudscheduler1_beta1@5.0.4%2B20240226
 - pkg:cargo/google-cloudscheduler1_beta1@5.0.5%2B20240615
 - pkg:cargo/google-cloudscheduler1_beta1@6.0.0%2B20240615
+- pkg:cargo/google-cloudscheduler1_beta1@7.0.0%2B20251212
