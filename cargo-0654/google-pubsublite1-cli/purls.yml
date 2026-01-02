@@ -4,3 +4,4 @@
 - pkg:cargo/google-pubsublite1-cli@3.0.0%2B20220301
 - pkg:cargo/google-pubsublite1-cli@5.0.4%2B20240224
 - pkg:cargo/google-pubsublite1-cli@6.0.0%2B20240614
+- pkg:cargo/google-pubsublite1-cli@7.0.0%2B20251212

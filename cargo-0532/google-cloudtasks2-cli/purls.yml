@@ -9,3 +9,4 @@
 - pkg:cargo/google-cloudtasks2-cli@3.1.0%2B20220212
 - pkg:cargo/google-cloudtasks2-cli@5.0.4%2B20240223
 - pkg:cargo/google-cloudtasks2-cli@6.0.0%2B20240614
+- pkg:cargo/google-cloudtasks2-cli@7.0.0%2B20251216

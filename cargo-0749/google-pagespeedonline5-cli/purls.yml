@@ -10,3 +10,4 @@
 - pkg:cargo/google-pagespeedonline5-cli@3.1.0%2B20220302
 - pkg:cargo/google-pagespeedonline5-cli@5.0.4%2B20240229
 - pkg:cargo/google-pagespeedonline5-cli@6.0.0%2B20240624
+- pkg:cargo/google-pagespeedonline5-cli@7.0.0%2B20251229

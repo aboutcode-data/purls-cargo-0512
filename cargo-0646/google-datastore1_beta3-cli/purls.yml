@@ -11,3 +11,4 @@
 - pkg:cargo/google-datastore1_beta3-cli@3.1.0%2B20220221
 - pkg:cargo/google-datastore1_beta3-cli@5.0.4%2B20240226
 - pkg:cargo/google-datastore1_beta3-cli@6.0.0%2B20240617
+- pkg:cargo/google-datastore1_beta3-cli@7.0.0%2B20251216
