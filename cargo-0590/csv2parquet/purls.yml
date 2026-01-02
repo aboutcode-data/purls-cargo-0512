@@ -36,6 +36,9 @@
 - pkg:cargo/csv2parquet@0.22.3
 - pkg:cargo/csv2parquet@0.24.0
 - pkg:cargo/csv2parquet@0.24.1
+- pkg:cargo/csv2parquet@0.24.2
+- pkg:cargo/csv2parquet@0.24.3
+- pkg:cargo/csv2parquet@0.24.4
 - pkg:cargo/csv2parquet@0.3.0
 - pkg:cargo/csv2parquet@0.4.0
 - pkg:cargo/csv2parquet@0.5.0
