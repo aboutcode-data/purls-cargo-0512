@@ -20,3 +20,4 @@
 - pkg:cargo/bevy_fps_controller@0.3.0
 - pkg:cargo/bevy_fps_controller@16.1.0
 - pkg:cargo/bevy_fps_controller@17.0.0
+- pkg:cargo/bevy_fps_controller@17.1.0
