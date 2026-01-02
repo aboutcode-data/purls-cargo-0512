@@ -2,3 +2,4 @@
 - pkg:cargo/gst-plugin-skia@0.14.0
 - pkg:cargo/gst-plugin-skia@0.14.2
 - pkg:cargo/gst-plugin-skia@0.14.3
+- pkg:cargo/gst-plugin-skia@0.15.0-alpha.1

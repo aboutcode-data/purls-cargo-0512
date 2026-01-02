@@ -26,3 +26,4 @@
 - pkg:cargo/gstreamer-net@0.24.0
 - pkg:cargo/gstreamer-net@0.24.2
 - pkg:cargo/gstreamer-net@0.24.4
+- pkg:cargo/gstreamer-net@0.25.0-alpha.1
