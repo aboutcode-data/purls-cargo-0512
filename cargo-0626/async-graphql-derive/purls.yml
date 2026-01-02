@@ -365,3 +365,4 @@
 - pkg:cargo/async-graphql-derive@7.0.7
 - pkg:cargo/async-graphql-derive@7.0.8
 - pkg:cargo/async-graphql-derive@7.0.9
+- pkg:cargo/async-graphql-derive@7.1.0
