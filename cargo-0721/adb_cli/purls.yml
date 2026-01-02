@@ -30,3 +30,4 @@
 - pkg:cargo/adb_cli@2.1.8
 - pkg:cargo/adb_cli@2.1.9
 - pkg:cargo/adb_cli@3.0.0
+- pkg:cargo/adb_cli@3.0.1

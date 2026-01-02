@@ -6,3 +6,4 @@
 - pkg:cargo/crossterm-keybind-core@0.3.1
 - pkg:cargo/crossterm-keybind-core@0.3.2
 - pkg:cargo/crossterm-keybind-core@0.3.3
+- pkg:cargo/crossterm-keybind-core@0.3.4
