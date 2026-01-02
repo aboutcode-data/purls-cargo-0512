@@ -26,3 +26,4 @@
 - pkg:cargo/gix-command@0.6.1
 - pkg:cargo/gix-command@0.6.2
 - pkg:cargo/gix-command@0.6.3
+- pkg:cargo/gix-command@0.6.4
