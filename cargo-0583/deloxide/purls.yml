@@ -4,3 +4,4 @@
 - pkg:cargo/deloxide@0.2.0-pre
 - pkg:cargo/deloxide@0.2.1
 - pkg:cargo/deloxide@0.3.0
+- pkg:cargo/deloxide@1.0.0
