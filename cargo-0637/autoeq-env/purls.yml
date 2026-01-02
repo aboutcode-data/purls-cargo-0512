@@ -1,3 +1,4 @@
 - pkg:cargo/autoeq-env@0.2.2
 - pkg:cargo/autoeq-env@0.2.3
 - pkg:cargo/autoeq-env@0.2.4
+- pkg:cargo/autoeq-env@0.3.0
