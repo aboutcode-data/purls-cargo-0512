@@ -12,6 +12,7 @@
 - pkg:cargo/kodegen_mcp_schema@0.10.11
 - pkg:cargo/kodegen_mcp_schema@0.10.12
 - pkg:cargo/kodegen_mcp_schema@0.10.13
+- pkg:cargo/kodegen_mcp_schema@0.10.14
 - pkg:cargo/kodegen_mcp_schema@0.10.2
 - pkg:cargo/kodegen_mcp_schema@0.10.3
 - pkg:cargo/kodegen_mcp_schema@0.10.4
