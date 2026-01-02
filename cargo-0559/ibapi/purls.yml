@@ -41,3 +41,5 @@
 - pkg:cargo/ibapi@2.2.1
 - pkg:cargo/ibapi@2.2.2
 - pkg:cargo/ibapi@2.3.0
+- pkg:cargo/ibapi@2.4.0
+- pkg:cargo/ibapi@2.5.0
