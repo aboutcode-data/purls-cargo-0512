@@ -15,6 +15,7 @@
 - pkg:cargo/gtl@0.4.2
 - pkg:cargo/gtl@0.5.0
 - pkg:cargo/gtl@0.5.1
+- pkg:cargo/gtl@0.5.10
 - pkg:cargo/gtl@0.5.2
 - pkg:cargo/gtl@0.5.4
 - pkg:cargo/gtl@0.5.5
