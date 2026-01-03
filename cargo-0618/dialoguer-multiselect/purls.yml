@@ -1,1 +1,5 @@
 - pkg:cargo/dialoguer-multiselect@0.12.0
+- pkg:cargo/dialoguer-multiselect@0.13.0
+- pkg:cargo/dialoguer-multiselect@0.13.1
+- pkg:cargo/dialoguer-multiselect@0.13.2
+- pkg:cargo/dialoguer-multiselect@0.13.3
