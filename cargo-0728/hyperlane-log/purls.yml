@@ -122,6 +122,7 @@
 - pkg:cargo/hyperlane-log@1.19.5
 - pkg:cargo/hyperlane-log@1.19.6
 - pkg:cargo/hyperlane-log@1.19.7
+- pkg:cargo/hyperlane-log@1.19.8
 - pkg:cargo/hyperlane-log@1.2.0
 - pkg:cargo/hyperlane-log@1.2.1
 - pkg:cargo/hyperlane-log@1.2.2
