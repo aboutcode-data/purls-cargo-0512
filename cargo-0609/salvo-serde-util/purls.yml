@@ -50,3 +50,4 @@
 - pkg:cargo/salvo-serde-util@0.86.0
 - pkg:cargo/salvo-serde-util@0.87.0
 - pkg:cargo/salvo-serde-util@0.87.1
+- pkg:cargo/salvo-serde-util@0.88.0
