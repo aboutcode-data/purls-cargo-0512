@@ -1,1 +1,2 @@
 - pkg:cargo/cargo-workspace-deps@0.1.0
+- pkg:cargo/cargo-workspace-deps@0.1.1
