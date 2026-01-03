@@ -17,6 +17,7 @@
 - pkg:cargo/rari@0.5.2
 - pkg:cargo/rari@0.5.21
 - pkg:cargo/rari@0.5.22
+- pkg:cargo/rari@0.5.23
 - pkg:cargo/rari@0.5.4
 - pkg:cargo/rari@0.5.5
 - pkg:cargo/rari@0.5.7
