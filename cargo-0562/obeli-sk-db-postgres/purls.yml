@@ -1,2 +1,3 @@
 - pkg:cargo/obeli-sk-db-postgres@0.32.0
 - pkg:cargo/obeli-sk-db-postgres@0.32.1
+- pkg:cargo/obeli-sk-db-postgres@0.33.0
