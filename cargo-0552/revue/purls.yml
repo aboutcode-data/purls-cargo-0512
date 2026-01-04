@@ -1,3 +1,4 @@
 - pkg:cargo/revue@1.0.0
 - pkg:cargo/revue@1.0.7
 - pkg:cargo/revue@1.0.8
+- pkg:cargo/revue@2.0.0
