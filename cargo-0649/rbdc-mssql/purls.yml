@@ -47,3 +47,4 @@
 - pkg:cargo/rbdc-mssql@4.6.2
 - pkg:cargo/rbdc-mssql@4.6.3
 - pkg:cargo/rbdc-mssql@4.6.4
+- pkg:cargo/rbdc-mssql@4.7.0

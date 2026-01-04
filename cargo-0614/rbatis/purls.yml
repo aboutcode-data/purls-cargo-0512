@@ -403,6 +403,7 @@
 - pkg:cargo/rbatis@4.6.12
 - pkg:cargo/rbatis@4.6.13
 - pkg:cargo/rbatis@4.6.14
+- pkg:cargo/rbatis@4.6.15
 - pkg:cargo/rbatis@4.6.2
 - pkg:cargo/rbatis@4.6.3
 - pkg:cargo/rbatis@4.6.4
