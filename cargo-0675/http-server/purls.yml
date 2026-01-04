@@ -47,3 +47,4 @@
 - pkg:cargo/http-server@1.0.0-pre.320f067
 - pkg:cargo/http-server@1.0.0-pre.6fa7635
 - pkg:cargo/http-server@1.0.0-pre.cfad518
+- pkg:cargo/http-server@1.0.0-pre.e025b58

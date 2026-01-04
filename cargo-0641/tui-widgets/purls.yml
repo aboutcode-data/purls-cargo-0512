@@ -20,3 +20,4 @@
 - pkg:cargo/tui-widgets@0.6.0
 - pkg:cargo/tui-widgets@0.6.1
 - pkg:cargo/tui-widgets@0.6.2
+- pkg:cargo/tui-widgets@0.7.0
