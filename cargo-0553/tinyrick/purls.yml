@@ -10,6 +10,7 @@
 - pkg:cargo/tinyrick@0.0.2
 - pkg:cargo/tinyrick@0.0.20
 - pkg:cargo/tinyrick@0.0.21
+- pkg:cargo/tinyrick@0.0.22
 - pkg:cargo/tinyrick@0.0.3
 - pkg:cargo/tinyrick@0.0.4
 - pkg:cargo/tinyrick@0.0.5
