@@ -13,5 +13,6 @@
 - pkg:cargo/tiny-encrypt@1.9.1
 - pkg:cargo/tiny-encrypt@1.9.14
 - pkg:cargo/tiny-encrypt@1.9.2
+- pkg:cargo/tiny-encrypt@1.9.20
 - pkg:cargo/tiny-encrypt@1.9.3
 - pkg:cargo/tiny-encrypt@1.9.8
