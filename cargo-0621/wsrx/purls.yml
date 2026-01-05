@@ -44,6 +44,7 @@
 - pkg:cargo/wsrx@0.5.10
 - pkg:cargo/wsrx@0.5.11
 - pkg:cargo/wsrx@0.5.14
+- pkg:cargo/wsrx@0.5.15
 - pkg:cargo/wsrx@0.5.3
 - pkg:cargo/wsrx@0.5.4
 - pkg:cargo/wsrx@0.5.5
