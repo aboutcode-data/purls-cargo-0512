@@ -187,6 +187,7 @@
 - pkg:cargo/ra_ap_ide@0.0.310
 - pkg:cargo/ra_ap_ide@0.0.311
 - pkg:cargo/ra_ap_ide@0.0.312
+- pkg:cargo/ra_ap_ide@0.0.313
 - pkg:cargo/ra_ap_ide@0.0.32
 - pkg:cargo/ra_ap_ide@0.0.33
 - pkg:cargo/ra_ap_ide@0.0.34
