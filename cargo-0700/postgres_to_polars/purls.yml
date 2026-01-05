@@ -14,3 +14,4 @@
 - pkg:cargo/postgres_to_polars@0.5.5
 - pkg:cargo/postgres_to_polars@0.5.6
 - pkg:cargo/postgres_to_polars@0.5.7
+- pkg:cargo/postgres_to_polars@0.5.8
