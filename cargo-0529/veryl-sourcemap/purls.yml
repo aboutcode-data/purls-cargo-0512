@@ -21,3 +21,4 @@
 - pkg:cargo/veryl-sourcemap@0.16.5
 - pkg:cargo/veryl-sourcemap@0.17.0
 - pkg:cargo/veryl-sourcemap@0.17.1
+- pkg:cargo/veryl-sourcemap@0.17.2
