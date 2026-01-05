@@ -105,6 +105,7 @@
 - pkg:cargo/dua-cli@2.32.0
 - pkg:cargo/dua-cli@2.32.1
 - pkg:cargo/dua-cli@2.32.2
+- pkg:cargo/dua-cli@2.33.0
 - pkg:cargo/dua-cli@2.4.0
 - pkg:cargo/dua-cli@2.4.1
 - pkg:cargo/dua-cli@2.5.0
