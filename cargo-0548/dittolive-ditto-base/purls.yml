@@ -113,6 +113,7 @@
 - pkg:cargo/dittolive-ditto-base@5.0.0-dev-weekly.20251215.141
 - pkg:cargo/dittolive-ditto-base@5.0.0-dev-weekly.20251222.151
 - pkg:cargo/dittolive-ditto-base@5.0.0-dev-weekly.20251229.155
+- pkg:cargo/dittolive-ditto-base@5.0.0-dev-weekly.20260105.156
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-gha-sdk-publish-test.1
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-gha-sdk-publish-test.19
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-gha-sdk-publish-test.22
