@@ -136,6 +136,7 @@
 - pkg:cargo/rustrict@0.7.35
 - pkg:cargo/rustrict@0.7.36
 - pkg:cargo/rustrict@0.7.37
+- pkg:cargo/rustrict@0.7.38
 - pkg:cargo/rustrict@0.7.4
 - pkg:cargo/rustrict@0.7.5
 - pkg:cargo/rustrict@0.7.6
