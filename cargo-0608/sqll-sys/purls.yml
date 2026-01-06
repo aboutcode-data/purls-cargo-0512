@@ -16,3 +16,5 @@
 - pkg:cargo/sqll-sys@0.4.0%2Bsqlite-3.51.1
 - pkg:cargo/sqll-sys@0.5.0%2Bsqlite-3.51.1
 - pkg:cargo/sqll-sys@0.5.1%2Bsqlite-3.51.1
+- pkg:cargo/sqll-sys@0.6.0%2Bsqlite3.51.1
+- pkg:cargo/sqll-sys@0.7.0%2Bsqlite3.51.1
