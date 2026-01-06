@@ -10,3 +10,4 @@
 - pkg:cargo/rat-reloc@1.4.0
 - pkg:cargo/rat-reloc@2.0.0
 - pkg:cargo/rat-reloc@2.0.1
+- pkg:cargo/rat-reloc@2.0.2
