@@ -5,6 +5,7 @@
 - pkg:cargo/tinyrick_extras@0.0.13
 - pkg:cargo/tinyrick_extras@0.0.14
 - pkg:cargo/tinyrick_extras@0.0.15
+- pkg:cargo/tinyrick_extras@0.0.19
 - pkg:cargo/tinyrick_extras@0.0.2
 - pkg:cargo/tinyrick_extras@0.0.3
 - pkg:cargo/tinyrick_extras@0.0.4

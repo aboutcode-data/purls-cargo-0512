@@ -11,6 +11,7 @@
 - pkg:cargo/lumina-node@0.15.2
 - pkg:cargo/lumina-node@0.16.0
 - pkg:cargo/lumina-node@0.17.0
+- pkg:cargo/lumina-node@0.18.0
 - pkg:cargo/lumina-node@0.2.0
 - pkg:cargo/lumina-node@0.3.0
 - pkg:cargo/lumina-node@0.3.1
