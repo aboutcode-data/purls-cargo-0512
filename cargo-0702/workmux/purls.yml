@@ -70,5 +70,6 @@
 - pkg:cargo/workmux@0.1.72
 - pkg:cargo/workmux@0.1.73
 - pkg:cargo/workmux@0.1.74
+- pkg:cargo/workmux@0.1.75
 - pkg:cargo/workmux@0.1.8
 - pkg:cargo/workmux@0.1.9

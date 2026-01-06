@@ -19,3 +19,4 @@
 - pkg:cargo/bevy_material_wizard@0.16.3
 - pkg:cargo/bevy_material_wizard@0.16.4
 - pkg:cargo/bevy_material_wizard@0.16.5
+- pkg:cargo/bevy_material_wizard@0.17.0
