@@ -8,3 +8,4 @@
 - pkg:cargo/lv_bevy_ecs@0.6.1
 - pkg:cargo/lv_bevy_ecs@0.6.2
 - pkg:cargo/lv_bevy_ecs@0.6.3
+- pkg:cargo/lv_bevy_ecs@0.6.4
