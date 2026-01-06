@@ -14,5 +14,6 @@
 - pkg:cargo/greentic-messaging-test@0.4.22
 - pkg:cargo/greentic-messaging-test@0.4.23
 - pkg:cargo/greentic-messaging-test@0.4.27
+- pkg:cargo/greentic-messaging-test@0.4.29
 - pkg:cargo/greentic-messaging-test@0.4.3
 - pkg:cargo/greentic-messaging-test@0.4.5

@@ -1,0 +1,4 @@
+- pkg:cargo/sciformats_serde_json@0.0.148
+- pkg:cargo/sciformats_serde_json@0.0.3
+- pkg:cargo/sciformats_serde_json@0.0.4
+- pkg:cargo/sciformats_serde_json@1.0.148
