@@ -1,1 +1,2 @@
 - pkg:cargo/lemmy_db_schema_file@1.0.0-alpha.5
+- pkg:cargo/lemmy_db_schema_file@1.0.0-test-arm-rasky-v1.0
