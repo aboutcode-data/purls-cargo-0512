@@ -1,1 +1,2 @@
 - pkg:cargo/rspack_plugin_case_sensitive@0.7.0
+- pkg:cargo/rspack_plugin_case_sensitive@0.7.1
