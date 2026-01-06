@@ -8,6 +8,7 @@
 - pkg:cargo/microcad@0.2.18
 - pkg:cargo/microcad@0.2.19
 - pkg:cargo/microcad@0.2.2
+- pkg:cargo/microcad@0.2.20
 - pkg:cargo/microcad@0.2.3
 - pkg:cargo/microcad@0.2.4
 - pkg:cargo/microcad@0.2.5
