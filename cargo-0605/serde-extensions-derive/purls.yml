@@ -1,1 +1,2 @@
 - pkg:cargo/serde-extensions-derive@0.1.0
+- pkg:cargo/serde-extensions-derive@1.0.0
