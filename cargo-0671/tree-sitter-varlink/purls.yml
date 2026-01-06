@@ -2,3 +2,4 @@
 - pkg:cargo/tree-sitter-varlink@0.1.1
 - pkg:cargo/tree-sitter-varlink@0.2.0
 - pkg:cargo/tree-sitter-varlink@0.3.0
+- pkg:cargo/tree-sitter-varlink@0.4.0
