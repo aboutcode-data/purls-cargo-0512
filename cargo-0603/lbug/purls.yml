@@ -2,3 +2,4 @@
 - pkg:cargo/lbug@0.12.0
 - pkg:cargo/lbug@0.12.2
 - pkg:cargo/lbug@0.13.0
+- pkg:cargo/lbug@0.14.0
