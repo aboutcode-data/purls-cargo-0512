@@ -2,3 +2,4 @@
 - pkg:cargo/eventql-parser@0.1.1
 - pkg:cargo/eventql-parser@0.1.1-alpha
 - pkg:cargo/eventql-parser@0.1.2
+- pkg:cargo/eventql-parser@0.1.3

@@ -6,3 +6,4 @@
 - pkg:cargo/rtc-srtp@0.4.0
 - pkg:cargo/rtc-srtp@0.5.0
 - pkg:cargo/rtc-srtp@0.5.1
+- pkg:cargo/rtc-srtp@0.5.2
