@@ -18,3 +18,4 @@
 - pkg:cargo/avr-device@0.6.0
 - pkg:cargo/avr-device@0.7.0
 - pkg:cargo/avr-device@0.8.0
+- pkg:cargo/avr-device@0.8.1
