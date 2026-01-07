@@ -1,1 +1,2 @@
 - pkg:cargo/winit_app@0.31.0
+- pkg:cargo/winit_app@0.31.1
