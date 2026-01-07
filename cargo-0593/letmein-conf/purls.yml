@@ -10,6 +10,7 @@
 - pkg:cargo/letmein-conf@10.4.0
 - pkg:cargo/letmein-conf@11.0.0
 - pkg:cargo/letmein-conf@11.1.0
+- pkg:cargo/letmein-conf@12.0.0
 - pkg:cargo/letmein-conf@2.0.0
 - pkg:cargo/letmein-conf@3.0.0
 - pkg:cargo/letmein-conf@4.0.0
