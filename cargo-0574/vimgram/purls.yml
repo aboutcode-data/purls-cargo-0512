@@ -7,3 +7,5 @@
 - pkg:cargo/vimgram@0.1.6
 - pkg:cargo/vimgram@0.1.8
 - pkg:cargo/vimgram@0.1.9
+- pkg:cargo/vimgram@0.2.0
+- pkg:cargo/vimgram@0.2.1
