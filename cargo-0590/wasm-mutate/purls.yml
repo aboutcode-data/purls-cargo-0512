@@ -109,3 +109,4 @@
 - pkg:cargo/wasm-mutate@0.241.2
 - pkg:cargo/wasm-mutate@0.242.0
 - pkg:cargo/wasm-mutate@0.243.0
+- pkg:cargo/wasm-mutate@0.244.0
