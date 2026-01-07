@@ -8,6 +8,7 @@
 - pkg:cargo/groan_rs@0.10.0-dev.6
 - pkg:cargo/groan_rs@0.11.0
 - pkg:cargo/groan_rs@0.11.1
+- pkg:cargo/groan_rs@0.11.2
 - pkg:cargo/groan_rs@0.2.0
 - pkg:cargo/groan_rs@0.3.0
 - pkg:cargo/groan_rs@0.3.1
