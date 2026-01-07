@@ -37,3 +37,4 @@
 - pkg:cargo/ordermap@0.5.8
 - pkg:cargo/ordermap@0.5.9
 - pkg:cargo/ordermap@1.0.0
+- pkg:cargo/ordermap@1.1.0
