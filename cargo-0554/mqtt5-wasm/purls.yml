@@ -10,3 +10,4 @@
 - pkg:cargo/mqtt5-wasm@0.7.0
 - pkg:cargo/mqtt5-wasm@0.7.1
 - pkg:cargo/mqtt5-wasm@0.7.2
+- pkg:cargo/mqtt5-wasm@0.8.0
