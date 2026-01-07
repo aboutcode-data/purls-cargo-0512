@@ -13,3 +13,4 @@
 - pkg:cargo/agtrace-sdk@0.5.3
 - pkg:cargo/agtrace-sdk@0.5.4
 - pkg:cargo/agtrace-sdk@0.5.5
+- pkg:cargo/agtrace-sdk@0.5.6
