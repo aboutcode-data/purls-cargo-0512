@@ -39,3 +39,4 @@
 - pkg:cargo/sentry-tracing@0.44.0
 - pkg:cargo/sentry-tracing@0.45.0
 - pkg:cargo/sentry-tracing@0.46.0
+- pkg:cargo/sentry-tracing@0.46.1
