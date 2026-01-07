@@ -8,3 +8,6 @@
 - pkg:cargo/ggen-marketplace@5.0.0
 - pkg:cargo/ggen-marketplace@5.0.1
 - pkg:cargo/ggen-marketplace@5.0.2
+- pkg:cargo/ggen-marketplace@5.1.0
+- pkg:cargo/ggen-marketplace@5.1.2
+- pkg:cargo/ggen-marketplace@5.1.3
