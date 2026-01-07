@@ -435,3 +435,4 @@
 - pkg:cargo/mise@2025.9.7
 - pkg:cargo/mise@2025.9.8
 - pkg:cargo/mise@2025.9.9
+- pkg:cargo/mise@2026.1.0
