@@ -28,3 +28,4 @@
 - pkg:cargo/patina_macro@18.0.0
 - pkg:cargo/patina_macro@18.1.0
 - pkg:cargo/patina_macro@19.0.0
+- pkg:cargo/patina_macro@19.0.1
