@@ -17,6 +17,7 @@
 - pkg:cargo/futures-async-stream-macro@0.2.10
 - pkg:cargo/futures-async-stream-macro@0.2.11
 - pkg:cargo/futures-async-stream-macro@0.2.12
+- pkg:cargo/futures-async-stream-macro@0.2.13
 - pkg:cargo/futures-async-stream-macro@0.2.2
 - pkg:cargo/futures-async-stream-macro@0.2.3
 - pkg:cargo/futures-async-stream-macro@0.2.4
