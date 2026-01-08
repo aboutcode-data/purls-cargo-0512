@@ -9,3 +9,4 @@
 - pkg:cargo/solana-stream-sdk@1.0.1
 - pkg:cargo/solana-stream-sdk@1.1.0
 - pkg:cargo/solana-stream-sdk@1.1.1
+- pkg:cargo/solana-stream-sdk@1.1.2
