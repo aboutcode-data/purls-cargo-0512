@@ -16,3 +16,4 @@
 - pkg:cargo/vtx-protocol@3.4.2
 - pkg:cargo/vtx-protocol@3.5.1
 - pkg:cargo/vtx-protocol@3.5.2
+- pkg:cargo/vtx-protocol@3.6.0
