@@ -5,3 +5,4 @@
 - pkg:cargo/macro-asm-builder@1.0.3
 - pkg:cargo/macro-asm-builder@1.1.0
 - pkg:cargo/macro-asm-builder@1.1.1
+- pkg:cargo/macro-asm-builder@1.2.0
