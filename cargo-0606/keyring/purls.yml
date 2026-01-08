@@ -67,4 +67,5 @@
 - pkg:cargo/keyring@4.0.0-alpha.5
 - pkg:cargo/keyring@4.0.0-beta.1
 - pkg:cargo/keyring@4.0.0-beta.2
+- pkg:cargo/keyring@4.0.0-beta.3
 - pkg:cargo/keyring@4.0.0-rc.1

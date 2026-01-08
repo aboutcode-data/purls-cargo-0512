@@ -4,6 +4,7 @@
 - pkg:cargo/sqll-macros@0.10.3
 - pkg:cargo/sqll-macros@0.11.0
 - pkg:cargo/sqll-macros@0.11.1
+- pkg:cargo/sqll-macros@0.11.2
 - pkg:cargo/sqll-macros@0.2.10
 - pkg:cargo/sqll-macros@0.2.11
 - pkg:cargo/sqll-macros@0.2.12
