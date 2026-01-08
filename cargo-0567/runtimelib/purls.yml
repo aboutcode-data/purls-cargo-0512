@@ -40,3 +40,4 @@
 - pkg:cargo/runtimelib@0.8.0
 - pkg:cargo/runtimelib@0.8.1
 - pkg:cargo/runtimelib@0.9.0
+- pkg:cargo/runtimelib@1.0.0

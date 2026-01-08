@@ -16,3 +16,4 @@
 - pkg:cargo/call_logger@0.6.6
 - pkg:cargo/call_logger@0.6.7
 - pkg:cargo/call_logger@1.0.0
+- pkg:cargo/call_logger@1.0.1
