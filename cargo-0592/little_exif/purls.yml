@@ -38,6 +38,7 @@
 - pkg:cargo/little_exif@0.6.19
 - pkg:cargo/little_exif@0.6.2
 - pkg:cargo/little_exif@0.6.20
+- pkg:cargo/little_exif@0.6.21
 - pkg:cargo/little_exif@0.6.3
 - pkg:cargo/little_exif@0.6.4
 - pkg:cargo/little_exif@0.6.5
