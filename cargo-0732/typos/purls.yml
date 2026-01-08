@@ -33,6 +33,7 @@
 - pkg:cargo/typos@0.10.36
 - pkg:cargo/typos@0.10.37
 - pkg:cargo/typos@0.10.38
+- pkg:cargo/typos@0.10.39
 - pkg:cargo/typos@0.10.4
 - pkg:cargo/typos@0.10.5
 - pkg:cargo/typos@0.10.6
