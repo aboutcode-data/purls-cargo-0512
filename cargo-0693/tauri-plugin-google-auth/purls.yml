@@ -11,3 +11,4 @@
 - pkg:cargo/tauri-plugin-google-auth@0.3.4
 - pkg:cargo/tauri-plugin-google-auth@0.3.5
 - pkg:cargo/tauri-plugin-google-auth@0.3.6
+- pkg:cargo/tauri-plugin-google-auth@0.4.1
