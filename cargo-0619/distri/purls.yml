@@ -5,3 +5,4 @@
 - pkg:cargo/distri@0.2.7
 - pkg:cargo/distri@0.2.8
 - pkg:cargo/distri@0.2.9
+- pkg:cargo/distri@0.3.1
