@@ -24,6 +24,7 @@
 - pkg:cargo/lancelot@0.8.4
 - pkg:cargo/lancelot@0.8.5
 - pkg:cargo/lancelot@0.8.6
+- pkg:cargo/lancelot@0.9.10
 - pkg:cargo/lancelot@0.9.5
 - pkg:cargo/lancelot@0.9.6
 - pkg:cargo/lancelot@0.9.7
