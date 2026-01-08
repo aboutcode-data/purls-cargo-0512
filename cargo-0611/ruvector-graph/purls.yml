@@ -3,3 +3,4 @@
 - pkg:cargo/ruvector-graph@0.1.22
 - pkg:cargo/ruvector-graph@0.1.25
 - pkg:cargo/ruvector-graph@0.1.30
+- pkg:cargo/ruvector-graph@0.1.31
