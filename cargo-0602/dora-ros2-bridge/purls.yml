@@ -4,3 +4,4 @@
 - pkg:cargo/dora-ros2-bridge@0.3.12
 - pkg:cargo/dora-ros2-bridge@0.3.12-rc1
 - pkg:cargo/dora-ros2-bridge@0.3.13
+- pkg:cargo/dora-ros2-bridge@0.4.0-rc0
