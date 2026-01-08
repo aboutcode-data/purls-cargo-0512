@@ -78,5 +78,6 @@
 - pkg:cargo/s2n-quic-tls-default@0.7.1
 - pkg:cargo/s2n-quic-tls-default@0.70.0
 - pkg:cargo/s2n-quic-tls-default@0.71.0
+- pkg:cargo/s2n-quic-tls-default@0.72.0
 - pkg:cargo/s2n-quic-tls-default@0.8.0
 - pkg:cargo/s2n-quic-tls-default@0.9.0

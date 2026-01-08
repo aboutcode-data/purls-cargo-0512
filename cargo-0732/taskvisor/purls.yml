@@ -2,6 +2,7 @@
 - pkg:cargo/taskvisor@0.0.10
 - pkg:cargo/taskvisor@0.0.11
 - pkg:cargo/taskvisor@0.0.12
+- pkg:cargo/taskvisor@0.0.13
 - pkg:cargo/taskvisor@0.0.2
 - pkg:cargo/taskvisor@0.0.3
 - pkg:cargo/taskvisor@0.0.4
