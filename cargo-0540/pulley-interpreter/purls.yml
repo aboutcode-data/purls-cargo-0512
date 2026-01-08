@@ -39,3 +39,4 @@
 - pkg:cargo/pulley-interpreter@39.0.0
 - pkg:cargo/pulley-interpreter@39.0.1
 - pkg:cargo/pulley-interpreter@40.0.0
+- pkg:cargo/pulley-interpreter@40.0.1
