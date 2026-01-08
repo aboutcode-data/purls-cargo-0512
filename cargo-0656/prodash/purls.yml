@@ -80,6 +80,7 @@
 - pkg:cargo/prodash@3.6.3
 - pkg:cargo/prodash@30.0.0
 - pkg:cargo/prodash@30.0.1
+- pkg:cargo/prodash@31.0.0
 - pkg:cargo/prodash@4.0.0
 - pkg:cargo/prodash@4.0.1
 - pkg:cargo/prodash@4.0.2
