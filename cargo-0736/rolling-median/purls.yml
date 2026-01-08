@@ -8,3 +8,4 @@
 - pkg:cargo/rolling-median@1.5.2
 - pkg:cargo/rolling-median@1.5.3
 - pkg:cargo/rolling-median@1.5.4
+- pkg:cargo/rolling-median@1.5.5
