@@ -5,6 +5,7 @@
 - pkg:cargo/ed448-goldilocks@0.14.0-pre.4
 - pkg:cargo/ed448-goldilocks@0.14.0-pre.5
 - pkg:cargo/ed448-goldilocks@0.14.0-pre.6
+- pkg:cargo/ed448-goldilocks@0.14.0-pre.7
 - pkg:cargo/ed448-goldilocks@0.4.0
 - pkg:cargo/ed448-goldilocks@0.5.0
 - pkg:cargo/ed448-goldilocks@0.6.0

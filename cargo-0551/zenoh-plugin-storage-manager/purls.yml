@@ -39,3 +39,4 @@
 - pkg:cargo/zenoh-plugin-storage-manager@1.6.2
 - pkg:cargo/zenoh-plugin-storage-manager@1.7.0
 - pkg:cargo/zenoh-plugin-storage-manager@1.7.1
+- pkg:cargo/zenoh-plugin-storage-manager@1.7.2
