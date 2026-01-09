@@ -7,3 +7,5 @@
 - pkg:cargo/bacnet-emb@0.13.18
 - pkg:cargo/bacnet-emb@0.13.19
 - pkg:cargo/bacnet-emb@0.13.20
+- pkg:cargo/bacnet-emb@0.13.22
+- pkg:cargo/bacnet-emb@0.13.23
