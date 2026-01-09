@@ -820,6 +820,8 @@
 - pkg:cargo/spider_utils@2.38.121
 - pkg:cargo/spider_utils@2.38.122
 - pkg:cargo/spider_utils@2.38.123
+- pkg:cargo/spider_utils@2.38.124
+- pkg:cargo/spider_utils@2.38.125
 - pkg:cargo/spider_utils@2.38.13
 - pkg:cargo/spider_utils@2.38.14
 - pkg:cargo/spider_utils@2.38.15
