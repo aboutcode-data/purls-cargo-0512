@@ -1,1 +1,2 @@
 - pkg:cargo/cuenv-secrets@0.16.0
+- pkg:cargo/cuenv-secrets@0.26.2
