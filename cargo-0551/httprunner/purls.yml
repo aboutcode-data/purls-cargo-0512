@@ -16,3 +16,4 @@
 - pkg:cargo/httprunner@0.3.32
 - pkg:cargo/httprunner@0.3.33
 - pkg:cargo/httprunner@0.4.34
+- pkg:cargo/httprunner@0.5.35
