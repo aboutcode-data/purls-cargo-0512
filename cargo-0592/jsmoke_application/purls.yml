@@ -1,2 +1,3 @@
 - pkg:cargo/jsmoke_application@0.1.0
 - pkg:cargo/jsmoke_application@1.0.0
+- pkg:cargo/jsmoke_application@1.0.1
