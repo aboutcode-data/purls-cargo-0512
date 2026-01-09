@@ -20,3 +20,4 @@
 - pkg:cargo/bssh@1.5.0
 - pkg:cargo/bssh@1.5.1
 - pkg:cargo/bssh@1.6.0
+- pkg:cargo/bssh@1.7.0
