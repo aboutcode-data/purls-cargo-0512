@@ -29,6 +29,7 @@
 - pkg:cargo/tree-sitter-inference@0.0.35
 - pkg:cargo/tree-sitter-inference@0.0.36
 - pkg:cargo/tree-sitter-inference@0.0.37
+- pkg:cargo/tree-sitter-inference@0.0.38
 - pkg:cargo/tree-sitter-inference@0.0.4
 - pkg:cargo/tree-sitter-inference@0.0.5
 - pkg:cargo/tree-sitter-inference@0.0.6
