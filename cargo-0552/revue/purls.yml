@@ -12,6 +12,8 @@
 - pkg:cargo/revue@2.13.1
 - pkg:cargo/revue@2.14.0
 - pkg:cargo/revue@2.15.0
+- pkg:cargo/revue@2.16.0
+- pkg:cargo/revue@2.17.0
 - pkg:cargo/revue@2.2.0
 - pkg:cargo/revue@2.3.0
 - pkg:cargo/revue@2.4.0
