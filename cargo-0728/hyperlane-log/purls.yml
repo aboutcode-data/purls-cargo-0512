@@ -138,3 +138,6 @@
 - pkg:cargo/hyperlane-log@1.7.0
 - pkg:cargo/hyperlane-log@1.8.0
 - pkg:cargo/hyperlane-log@1.9.0
+- pkg:cargo/hyperlane-log@2.0.0
+- pkg:cargo/hyperlane-log@2.1.0
+- pkg:cargo/hyperlane-log@3.0.1

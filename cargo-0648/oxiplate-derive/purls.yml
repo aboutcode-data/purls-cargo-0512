@@ -29,6 +29,8 @@
 - pkg:cargo/oxiplate-derive@0.14.0
 - pkg:cargo/oxiplate-derive@0.15.0
 - pkg:cargo/oxiplate-derive@0.15.1
+- pkg:cargo/oxiplate-derive@0.15.10
+- pkg:cargo/oxiplate-derive@0.15.11
 - pkg:cargo/oxiplate-derive@0.15.2
 - pkg:cargo/oxiplate-derive@0.15.3
 - pkg:cargo/oxiplate-derive@0.15.4
