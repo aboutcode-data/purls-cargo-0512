@@ -32,6 +32,7 @@
 - pkg:cargo/deciduous@0.8.21
 - pkg:cargo/deciduous@0.8.22
 - pkg:cargo/deciduous@0.8.23
+- pkg:cargo/deciduous@0.8.25
 - pkg:cargo/deciduous@0.8.3
 - pkg:cargo/deciduous@0.8.5
 - pkg:cargo/deciduous@0.8.6
