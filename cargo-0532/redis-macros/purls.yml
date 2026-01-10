@@ -17,3 +17,4 @@
 - pkg:cargo/redis-macros@1.0.0
 - pkg:cargo/redis-macros@1.0.0-rc.0
 - pkg:cargo/redis-macros@1.0.0-rc.1
+- pkg:cargo/redis-macros@1.0.1
