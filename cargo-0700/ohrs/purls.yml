@@ -42,3 +42,4 @@
 - pkg:cargo/ohrs@1.1.4
 - pkg:cargo/ohrs@1.2.0
 - pkg:cargo/ohrs@1.3.0
+- pkg:cargo/ohrs@1.3.1
