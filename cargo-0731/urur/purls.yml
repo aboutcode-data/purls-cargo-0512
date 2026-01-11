@@ -3,6 +3,8 @@
 - pkg:cargo/urur@0.2.1
 - pkg:cargo/urur@0.2.10
 - pkg:cargo/urur@0.2.13
+- pkg:cargo/urur@0.2.14
+- pkg:cargo/urur@0.2.15
 - pkg:cargo/urur@0.2.2
 - pkg:cargo/urur@0.2.3
 - pkg:cargo/urur@0.2.4
