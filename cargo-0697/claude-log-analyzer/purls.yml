@@ -1,1 +1,2 @@
 - pkg:cargo/claude-log-analyzer@1.4.7
+- pkg:cargo/claude-log-analyzer@1.4.8
