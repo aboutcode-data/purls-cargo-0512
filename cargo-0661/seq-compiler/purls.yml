@@ -31,6 +31,7 @@
 - pkg:cargo/seq-compiler@0.19.4
 - pkg:cargo/seq-compiler@0.19.5
 - pkg:cargo/seq-compiler@0.19.6
+- pkg:cargo/seq-compiler@0.19.7
 - pkg:cargo/seq-compiler@0.3.2
 - pkg:cargo/seq-compiler@0.3.4
 - pkg:cargo/seq-compiler@0.4.1
