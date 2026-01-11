@@ -14,3 +14,4 @@
 - pkg:cargo/ros_pointcloud2@0.5.2
 - pkg:cargo/ros_pointcloud2@0.6.0
 - pkg:cargo/ros_pointcloud2@1.0.0-rc.1
+- pkg:cargo/ros_pointcloud2@1.0.0-rc.2
