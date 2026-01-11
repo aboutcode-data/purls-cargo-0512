@@ -1,1 +1,2 @@
 - pkg:cargo/hdbconnect-arrow@0.1.0
+- pkg:cargo/hdbconnect-arrow@0.1.1
