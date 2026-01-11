@@ -56,3 +56,5 @@
 - pkg:cargo/schemat@0.4.7
 - pkg:cargo/schemat@0.4.8
 - pkg:cargo/schemat@0.4.9
+- pkg:cargo/schemat@0.5.0
+- pkg:cargo/schemat@0.5.1
