@@ -50,3 +50,4 @@
 - pkg:cargo/arrow-integration-test@56.2.0
 - pkg:cargo/arrow-integration-test@57.0.0
 - pkg:cargo/arrow-integration-test@57.1.0
+- pkg:cargo/arrow-integration-test@57.2.0
