@@ -27,3 +27,4 @@
 - pkg:cargo/futures-concurrency@7.6.1
 - pkg:cargo/futures-concurrency@7.6.2
 - pkg:cargo/futures-concurrency@7.6.3
+- pkg:cargo/futures-concurrency@7.7.0
