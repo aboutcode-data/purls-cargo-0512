@@ -4,3 +4,4 @@
 - pkg:cargo/zeldhash-miner-gpu@0.2.2
 - pkg:cargo/zeldhash-miner-gpu@0.2.3
 - pkg:cargo/zeldhash-miner-gpu@0.2.5
+- pkg:cargo/zeldhash-miner-gpu@0.3.0
