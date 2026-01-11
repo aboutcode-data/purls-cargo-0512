@@ -1,1 +1,2 @@
 - pkg:cargo/dsl_cli_macro@0.1.0
+- pkg:cargo/dsl_cli_macro@0.2.0

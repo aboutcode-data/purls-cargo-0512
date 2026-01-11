@@ -9,6 +9,7 @@
 - pkg:cargo/plotly_kaleido@0.13.3
 - pkg:cargo/plotly_kaleido@0.13.4
 - pkg:cargo/plotly_kaleido@0.13.5
+- pkg:cargo/plotly_kaleido@0.13.6
 - pkg:cargo/plotly_kaleido@0.2.0
 - pkg:cargo/plotly_kaleido@0.3.0
 - pkg:cargo/plotly_kaleido@0.8.3

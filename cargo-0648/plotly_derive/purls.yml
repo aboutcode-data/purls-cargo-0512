@@ -8,6 +8,7 @@
 - pkg:cargo/plotly_derive@0.13.3
 - pkg:cargo/plotly_derive@0.13.4
 - pkg:cargo/plotly_derive@0.13.5
+- pkg:cargo/plotly_derive@0.14.0
 - pkg:cargo/plotly_derive@0.8.0
 - pkg:cargo/plotly_derive@0.8.1
 - pkg:cargo/plotly_derive@0.8.2
