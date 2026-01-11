@@ -1,2 +1,3 @@
 - pkg:cargo/prunist@0.12.0
 - pkg:cargo/prunist@0.13.0
+- pkg:cargo/prunist@0.13.1
