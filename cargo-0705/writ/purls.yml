@@ -1,5 +1,8 @@
 - pkg:cargo/writ@0.1.0
 - pkg:cargo/writ@0.10.0
+- pkg:cargo/writ@0.10.1
+- pkg:cargo/writ@0.10.2
+- pkg:cargo/writ@0.10.3
 - pkg:cargo/writ@0.2.0
 - pkg:cargo/writ@0.3.0
 - pkg:cargo/writ@0.3.1
