@@ -4,3 +4,4 @@
 - pkg:cargo/datafusion-pruning@50.2.0
 - pkg:cargo/datafusion-pruning@50.3.0
 - pkg:cargo/datafusion-pruning@51.0.0
+- pkg:cargo/datafusion-pruning@52.0.0

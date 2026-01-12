@@ -11,3 +11,4 @@
 - pkg:cargo/kcr_networking_k8s_aws@2.20250922.134055
 - pkg:cargo/kcr_networking_k8s_aws@2.20250929.134203
 - pkg:cargo/kcr_networking_k8s_aws@2.20251222.134744
+- pkg:cargo/kcr_networking_k8s_aws@3.20260112.135418

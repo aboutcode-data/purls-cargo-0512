@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_rocketmq_apache_org@2.20250915.175915
 - pkg:cargo/kcr_rocketmq_apache_org@2.20250922.175859
 - pkg:cargo/kcr_rocketmq_apache_org@2.20250929.175912
+- pkg:cargo/kcr_rocketmq_apache_org@3.20260112.175904

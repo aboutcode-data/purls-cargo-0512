@@ -8,3 +8,4 @@
 - pkg:cargo/kcr_clustertemplate_openshift_io@2.20250915.155815
 - pkg:cargo/kcr_clustertemplate_openshift_io@2.20250922.155818
 - pkg:cargo/kcr_clustertemplate_openshift_io@2.20250929.155833
+- pkg:cargo/kcr_clustertemplate_openshift_io@3.20260112.160114

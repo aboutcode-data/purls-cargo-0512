@@ -30,3 +30,4 @@
 - pkg:cargo/deltalake-core@0.29.3
 - pkg:cargo/deltalake-core@0.29.4
 - pkg:cargo/deltalake-core@0.30.0
+- pkg:cargo/deltalake-core@0.30.1
