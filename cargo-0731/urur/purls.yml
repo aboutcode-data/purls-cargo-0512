@@ -16,7 +16,12 @@
 - pkg:cargo/urur@0.2.23
 - pkg:cargo/urur@0.2.24
 - pkg:cargo/urur@0.2.25
+- pkg:cargo/urur@0.2.26
+- pkg:cargo/urur@0.2.27
+- pkg:cargo/urur@0.2.28
+- pkg:cargo/urur@0.2.29
 - pkg:cargo/urur@0.2.3
+- pkg:cargo/urur@0.2.30
 - pkg:cargo/urur@0.2.4
 - pkg:cargo/urur@0.2.5
 - pkg:cargo/urur@0.2.6
