@@ -39,6 +39,7 @@
 - pkg:cargo/cryptocol@0.19.3
 - pkg:cargo/cryptocol@0.19.4
 - pkg:cargo/cryptocol@0.19.5
+- pkg:cargo/cryptocol@0.19.6
 - pkg:cargo/cryptocol@0.5.0
 - pkg:cargo/cryptocol@0.6.0
 - pkg:cargo/cryptocol@0.6.2
