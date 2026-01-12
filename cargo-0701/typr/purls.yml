@@ -28,6 +28,7 @@
 - pkg:cargo/typr@0.4.13
 - pkg:cargo/typr@0.4.14
 - pkg:cargo/typr@0.4.15
+- pkg:cargo/typr@0.4.16
 - pkg:cargo/typr@0.4.6
 - pkg:cargo/typr@0.4.7
 - pkg:cargo/typr@0.4.8
