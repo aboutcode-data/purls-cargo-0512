@@ -14,6 +14,7 @@
 - pkg:cargo/cdk-mint-rpc@0.14.2
 - pkg:cargo/cdk-mint-rpc@0.14.2-rc.3
 - pkg:cargo/cdk-mint-rpc@0.14.2-rc.5
+- pkg:cargo/cdk-mint-rpc@0.14.3
 - pkg:cargo/cdk-mint-rpc@0.7.0
 - pkg:cargo/cdk-mint-rpc@0.7.1
 - pkg:cargo/cdk-mint-rpc@0.8.0
