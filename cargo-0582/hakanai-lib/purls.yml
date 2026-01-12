@@ -78,6 +78,7 @@
 - pkg:cargo/hakanai-lib@2.20.0
 - pkg:cargo/hakanai-lib@2.20.1
 - pkg:cargo/hakanai-lib@2.20.2
+- pkg:cargo/hakanai-lib@2.20.3
 - pkg:cargo/hakanai-lib@2.3.0
 - pkg:cargo/hakanai-lib@2.4.0
 - pkg:cargo/hakanai-lib@2.4.4
