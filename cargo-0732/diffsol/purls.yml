@@ -16,6 +16,7 @@
 - pkg:cargo/diffsol@0.1.7
 - pkg:cargo/diffsol@0.1.8
 - pkg:cargo/diffsol@0.1.9
+- pkg:cargo/diffsol@0.10.0
 - pkg:cargo/diffsol@0.2.0
 - pkg:cargo/diffsol@0.2.1
 - pkg:cargo/diffsol@0.3.0
