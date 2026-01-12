@@ -112,3 +112,4 @@
 - pkg:cargo/holochain_client@0.9.0-dev.4
 - pkg:cargo/holochain_client@0.9.0-dev.5
 - pkg:cargo/holochain_client@0.9.0-dev.6
+- pkg:cargo/holochain_client@0.9.0-dev.7
