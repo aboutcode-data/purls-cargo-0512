@@ -1,3 +1,4 @@
 - pkg:cargo/git-hook-installer@1.0.0
 - pkg:cargo/git-hook-installer@1.0.2
 - pkg:cargo/git-hook-installer@2.0.0
+- pkg:cargo/git-hook-installer@3.0.0
