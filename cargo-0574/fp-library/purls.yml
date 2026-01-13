@@ -20,3 +20,4 @@
 - pkg:cargo/fp-library@0.0.7
 - pkg:cargo/fp-library@0.0.8
 - pkg:cargo/fp-library@0.0.9
+- pkg:cargo/fp-library@0.1.0
