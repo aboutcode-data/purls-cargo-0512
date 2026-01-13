@@ -10,3 +10,4 @@
 - pkg:cargo/ort_custom_op@0.7.0
 - pkg:cargo/ort_custom_op@0.7.1
 - pkg:cargo/ort_custom_op@0.7.2
+- pkg:cargo/ort_custom_op@0.8.0
