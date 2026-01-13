@@ -99,3 +99,5 @@
 - pkg:cargo/graphannis@3.8.3
 - pkg:cargo/graphannis@4.0.0
 - pkg:cargo/graphannis@4.0.1
+- pkg:cargo/graphannis@4.1.0
+- pkg:cargo/graphannis@4.1.1
