@@ -65,3 +65,4 @@
 - pkg:cargo/ruchy-wasm@3.212.0
 - pkg:cargo/ruchy-wasm@3.213.0
 - pkg:cargo/ruchy-wasm@4.0.0
+- pkg:cargo/ruchy-wasm@4.0.1
