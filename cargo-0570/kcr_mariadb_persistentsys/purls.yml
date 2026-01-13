@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_mariadb_persistentsys@2.20250916.33244
 - pkg:cargo/kcr_mariadb_persistentsys@2.20250923.33333
 - pkg:cargo/kcr_mariadb_persistentsys@2.20250930.33451
+- pkg:cargo/kcr_mariadb_persistentsys@3.20260113.40600
