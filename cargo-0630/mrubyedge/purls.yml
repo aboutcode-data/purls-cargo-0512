@@ -30,6 +30,7 @@
 - pkg:cargo/mrubyedge@1.0.17
 - pkg:cargo/mrubyedge@1.0.17-rc1
 - pkg:cargo/mrubyedge@1.0.18
+- pkg:cargo/mrubyedge@1.0.19-rc1
 - pkg:cargo/mrubyedge@1.0.2
 - pkg:cargo/mrubyedge@1.0.3
 - pkg:cargo/mrubyedge@1.0.4

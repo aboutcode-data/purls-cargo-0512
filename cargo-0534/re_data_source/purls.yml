@@ -196,6 +196,7 @@
 - pkg:cargo/re_data_source@0.28.2-rc.2
 - pkg:cargo/re_data_source@0.29.0-alpha.1
 - pkg:cargo/re_data_source@0.29.0-alpha.2
+- pkg:cargo/re_data_source@0.29.0-alpha.3
 - pkg:cargo/re_data_source@0.9.0
 - pkg:cargo/re_data_source@0.9.0-alpha.10
 - pkg:cargo/re_data_source@0.9.0-alpha.5
