@@ -96,6 +96,7 @@
 - pkg:cargo/pijul@1.0.0-alpha.9
 - pkg:cargo/pijul@1.0.0-beta
 - pkg:cargo/pijul@1.0.0-beta.1
+- pkg:cargo/pijul@1.0.0-beta.11
 - pkg:cargo/pijul@1.0.0-beta.2
 - pkg:cargo/pijul@1.0.0-beta.3
 - pkg:cargo/pijul@1.0.0-beta.4
