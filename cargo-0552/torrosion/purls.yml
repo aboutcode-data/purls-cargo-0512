@@ -12,3 +12,5 @@
 - pkg:cargo/torrosion@0.3.3
 - pkg:cargo/torrosion@0.3.4
 - pkg:cargo/torrosion@0.3.5
+- pkg:cargo/torrosion@0.3.6
+- pkg:cargo/torrosion@0.4.0
