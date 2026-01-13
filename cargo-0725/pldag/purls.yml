@@ -14,3 +14,4 @@
 - pkg:cargo/pldag@3.1.1
 - pkg:cargo/pldag@4.0.0
 - pkg:cargo/pldag@4.0.1
+- pkg:cargo/pldag@4.0.2
