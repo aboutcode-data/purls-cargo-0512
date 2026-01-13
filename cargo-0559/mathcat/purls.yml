@@ -90,3 +90,4 @@
 - pkg:cargo/mathcat@0.7.4
 - pkg:cargo/mathcat@0.7.5
 - pkg:cargo/mathcat@0.7.6-beta.1
+- pkg:cargo/mathcat@0.7.6-beta.2
