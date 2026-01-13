@@ -6,3 +6,4 @@
 - pkg:cargo/arti-ureq@0.35.0
 - pkg:cargo/arti-ureq@0.36.0
 - pkg:cargo/arti-ureq@0.37.0
+- pkg:cargo/arti-ureq@0.38.0
