@@ -11,3 +11,4 @@
 - pkg:cargo/sentinel-proxy@0.2.3
 - pkg:cargo/sentinel-proxy@0.2.4
 - pkg:cargo/sentinel-proxy@0.2.5
+- pkg:cargo/sentinel-proxy@0.3.1
