@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_zookeeper_pravega_io@2.20250915.185457
 - pkg:cargo/kcr_zookeeper_pravega_io@2.20250922.185523
 - pkg:cargo/kcr_zookeeper_pravega_io@2.20250929.185530
+- pkg:cargo/kcr_zookeeper_pravega_io@3.20260112.190300
