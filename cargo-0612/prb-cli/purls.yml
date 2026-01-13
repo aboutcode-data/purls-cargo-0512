@@ -4,3 +4,5 @@
 - pkg:cargo/prb-cli@1.0.0
 - pkg:cargo/prb-cli@1.1.0
 - pkg:cargo/prb-cli@1.1.1
+- pkg:cargo/prb-cli@1.1.2
+- pkg:cargo/prb-cli@1.1.3
