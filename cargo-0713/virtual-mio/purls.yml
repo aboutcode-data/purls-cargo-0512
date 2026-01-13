@@ -12,3 +12,4 @@
 - pkg:cargo/virtual-mio@0.601.0-rc.3
 - pkg:cargo/virtual-mio@0.601.0-rc.5
 - pkg:cargo/virtual-mio@0.7.0
+- pkg:cargo/virtual-mio@0.700.0-alpha.2
