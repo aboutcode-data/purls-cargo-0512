@@ -42,3 +42,4 @@
 - pkg:cargo/near-vm-compiler@0.34.1
 - pkg:cargo/near-vm-compiler@0.34.2
 - pkg:cargo/near-vm-compiler@0.34.3
+- pkg:cargo/near-vm-compiler@0.34.4
