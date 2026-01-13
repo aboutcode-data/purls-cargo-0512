@@ -22,6 +22,7 @@
 - pkg:cargo/xml_schema_generator@0.6.2
 - pkg:cargo/xml_schema_generator@0.6.20
 - pkg:cargo/xml_schema_generator@0.6.21
+- pkg:cargo/xml_schema_generator@0.6.22
 - pkg:cargo/xml_schema_generator@0.6.3
 - pkg:cargo/xml_schema_generator@0.6.4
 - pkg:cargo/xml_schema_generator@0.6.5
