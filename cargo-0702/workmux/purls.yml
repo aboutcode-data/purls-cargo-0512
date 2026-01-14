@@ -85,4 +85,6 @@
 - pkg:cargo/workmux@0.1.86
 - pkg:cargo/workmux@0.1.87
 - pkg:cargo/workmux@0.1.88
+- pkg:cargo/workmux@0.1.89
 - pkg:cargo/workmux@0.1.9
+- pkg:cargo/workmux@0.1.90
