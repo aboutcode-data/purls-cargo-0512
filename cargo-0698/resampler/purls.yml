@@ -10,3 +10,4 @@
 - pkg:cargo/resampler@0.3.7
 - pkg:cargo/resampler@0.3.8
 - pkg:cargo/resampler@0.4.0
+- pkg:cargo/resampler@0.4.1
