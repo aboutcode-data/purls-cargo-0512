@@ -1,3 +1,5 @@
 - pkg:cargo/purlu@1.0.0
 - pkg:cargo/purlu@1.1.0
 - pkg:cargo/purlu@2.0.0
+- pkg:cargo/purlu@2.0.1
+- pkg:cargo/purlu@2.0.2
