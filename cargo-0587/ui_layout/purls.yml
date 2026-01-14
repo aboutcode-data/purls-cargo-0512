@@ -10,3 +10,4 @@
 - pkg:cargo/ui_layout@0.4.6
 - pkg:cargo/ui_layout@0.5.0
 - pkg:cargo/ui_layout@0.6.0
+- pkg:cargo/ui_layout@0.6.1
