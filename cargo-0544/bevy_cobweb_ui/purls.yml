@@ -36,6 +36,7 @@
 - pkg:cargo/bevy_cobweb_ui@0.21.1
 - pkg:cargo/bevy_cobweb_ui@0.22.0
 - pkg:cargo/bevy_cobweb_ui@0.22.1
+- pkg:cargo/bevy_cobweb_ui@0.22.2
 - pkg:cargo/bevy_cobweb_ui@0.3.0
 - pkg:cargo/bevy_cobweb_ui@0.4.0
 - pkg:cargo/bevy_cobweb_ui@0.4.1

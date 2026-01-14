@@ -12,3 +12,4 @@
 - pkg:cargo/bevy_args@1.7.1
 - pkg:cargo/bevy_args@1.8.0
 - pkg:cargo/bevy_args@2.0.0
+- pkg:cargo/bevy_args@3.0.0
