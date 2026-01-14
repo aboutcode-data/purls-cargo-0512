@@ -6,3 +6,4 @@
 - pkg:cargo/bevy_entity_uuid@0.16.4
 - pkg:cargo/bevy_entity_uuid@0.16.5
 - pkg:cargo/bevy_entity_uuid@0.17.0
+- pkg:cargo/bevy_entity_uuid@0.18.0
