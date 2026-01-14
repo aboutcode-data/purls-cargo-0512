@@ -8,6 +8,7 @@
 - pkg:cargo/linera-client@0.14.2
 - pkg:cargo/linera-client@0.15.0
 - pkg:cargo/linera-client@0.15.1
+- pkg:cargo/linera-client@0.15.10
 - pkg:cargo/linera-client@0.15.2
 - pkg:cargo/linera-client@0.15.3
 - pkg:cargo/linera-client@0.15.4
@@ -15,3 +16,4 @@
 - pkg:cargo/linera-client@0.15.6
 - pkg:cargo/linera-client@0.15.7
 - pkg:cargo/linera-client@0.15.8
+- pkg:cargo/linera-client@0.15.9
