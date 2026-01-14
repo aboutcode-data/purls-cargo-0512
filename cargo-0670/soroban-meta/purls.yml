@@ -5,3 +5,4 @@
 - pkg:cargo/soroban-meta@23.2.1
 - pkg:cargo/soroban-meta@23.3.0
 - pkg:cargo/soroban-meta@23.4.0
+- pkg:cargo/soroban-meta@25.0.0-rc.1

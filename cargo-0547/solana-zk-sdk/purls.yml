@@ -80,3 +80,4 @@
 - pkg:cargo/solana-zk-sdk@2.3.9
 - pkg:cargo/solana-zk-sdk@3.0.0
 - pkg:cargo/solana-zk-sdk@4.0.0
+- pkg:cargo/solana-zk-sdk@5.0.0
