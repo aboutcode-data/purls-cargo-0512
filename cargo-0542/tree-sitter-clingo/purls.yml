@@ -15,3 +15,4 @@
 - pkg:cargo/tree-sitter-clingo@0.2.0
 - pkg:cargo/tree-sitter-clingo@1.0.1
 - pkg:cargo/tree-sitter-clingo@1.0.3
+- pkg:cargo/tree-sitter-clingo@1.0.4
