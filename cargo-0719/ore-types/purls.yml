@@ -28,7 +28,11 @@
 - pkg:cargo/ore-types@0.0.35
 - pkg:cargo/ore-types@0.0.36
 - pkg:cargo/ore-types@0.0.37
+- pkg:cargo/ore-types@0.0.39
 - pkg:cargo/ore-types@0.0.4
+- pkg:cargo/ore-types@0.0.40
+- pkg:cargo/ore-types@0.0.41
+- pkg:cargo/ore-types@0.0.42
 - pkg:cargo/ore-types@0.0.5
 - pkg:cargo/ore-types@0.0.6
 - pkg:cargo/ore-types@0.0.7

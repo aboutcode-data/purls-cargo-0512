@@ -3,3 +3,4 @@
 - pkg:cargo/vermouth@0.2.1
 - pkg:cargo/vermouth@0.4.0
 - pkg:cargo/vermouth@0.5.0
+- pkg:cargo/vermouth@0.5.1
