@@ -5,6 +5,8 @@
 - pkg:cargo/wasm-bindgen-macro-support@0.2.104
 - pkg:cargo/wasm-bindgen-macro-support@0.2.105
 - pkg:cargo/wasm-bindgen-macro-support@0.2.106
+- pkg:cargo/wasm-bindgen-macro-support@0.2.107
+- pkg:cargo/wasm-bindgen-macro-support@0.2.108
 - pkg:cargo/wasm-bindgen-macro-support@0.2.16
 - pkg:cargo/wasm-bindgen-macro-support@0.2.17
 - pkg:cargo/wasm-bindgen-macro-support@0.2.18
