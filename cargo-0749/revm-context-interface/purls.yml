@@ -19,6 +19,7 @@
 - pkg:cargo/revm-context-interface@12.1.0
 - pkg:cargo/revm-context-interface@13.0.0
 - pkg:cargo/revm-context-interface@13.1.0
+- pkg:cargo/revm-context-interface@14.0.0
 - pkg:cargo/revm-context-interface@2.0.0
 - pkg:cargo/revm-context-interface@3.0.0
 - pkg:cargo/revm-context-interface@4.0.0
