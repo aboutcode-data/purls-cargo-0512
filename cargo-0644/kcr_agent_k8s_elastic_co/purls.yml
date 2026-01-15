@@ -14,3 +14,4 @@
 - pkg:cargo/kcr_agent_k8s_elastic_co@2.20250917.200128
 - pkg:cargo/kcr_agent_k8s_elastic_co@2.20250924.200144
 - pkg:cargo/kcr_agent_k8s_elastic_co@2.20251001.200146
+- pkg:cargo/kcr_agent_k8s_elastic_co@3.20260114.200902
