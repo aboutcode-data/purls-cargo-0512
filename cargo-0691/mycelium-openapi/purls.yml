@@ -50,3 +50,4 @@
 - pkg:cargo/mycelium-openapi@8.2.1-rc.5
 - pkg:cargo/mycelium-openapi@8.2.2-beta.1
 - pkg:cargo/mycelium-openapi@8.2.2-beta.2
+- pkg:cargo/mycelium-openapi@8.3.0%2Bbeta
