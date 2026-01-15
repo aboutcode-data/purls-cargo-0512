@@ -17,6 +17,7 @@
 - pkg:cargo/minimap2@0.1.26%2Bminimap2.2.30
 - pkg:cargo/minimap2@0.1.27%2Bminimap2.2.30
 - pkg:cargo/minimap2@0.1.28%2Bminimap2.2.30
+- pkg:cargo/minimap2@0.1.30%2Bminimap2.2.30
 - pkg:cargo/minimap2@0.1.5
 - pkg:cargo/minimap2@0.1.6
 - pkg:cargo/minimap2@0.1.7
