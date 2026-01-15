@@ -10,3 +10,4 @@
 - pkg:cargo/exn@0.1.4
 - pkg:cargo/exn@0.2.0
 - pkg:cargo/exn@0.2.1
+- pkg:cargo/exn@0.3.0-rc.1
