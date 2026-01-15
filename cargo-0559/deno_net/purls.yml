@@ -131,6 +131,7 @@
 - pkg:cargo/deno_net@0.216.0
 - pkg:cargo/deno_net@0.217.0
 - pkg:cargo/deno_net@0.218.0
+- pkg:cargo/deno_net@0.219.0
 - pkg:cargo/deno_net@0.22.0
 - pkg:cargo/deno_net@0.23.0
 - pkg:cargo/deno_net@0.24.0
