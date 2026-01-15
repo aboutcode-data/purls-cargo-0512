@@ -45,3 +45,4 @@
 - pkg:cargo/wavs-wasi-utils@2.3.0
 - pkg:cargo/wavs-wasi-utils@2.4.0
 - pkg:cargo/wavs-wasi-utils@2.5.0
+- pkg:cargo/wavs-wasi-utils@2.6.0
