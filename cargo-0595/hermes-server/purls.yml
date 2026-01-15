@@ -8,6 +8,11 @@
 - pkg:cargo/hermes-server@0.3.7
 - pkg:cargo/hermes-server@0.4.0
 - pkg:cargo/hermes-server@0.4.1
+- pkg:cargo/hermes-server@0.4.10
 - pkg:cargo/hermes-server@0.4.2
 - pkg:cargo/hermes-server@0.4.3
 - pkg:cargo/hermes-server@0.4.4
+- pkg:cargo/hermes-server@0.4.6
+- pkg:cargo/hermes-server@0.4.7
+- pkg:cargo/hermes-server@0.4.8
+- pkg:cargo/hermes-server@0.4.9
