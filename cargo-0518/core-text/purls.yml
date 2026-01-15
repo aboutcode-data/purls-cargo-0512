@@ -27,6 +27,7 @@
 - pkg:cargo/core-text@20.0.0
 - pkg:cargo/core-text@20.1.0
 - pkg:cargo/core-text@21.0.0
+- pkg:cargo/core-text@21.1.0
 - pkg:cargo/core-text@3.0.0
 - pkg:cargo/core-text@4.0.0
 - pkg:cargo/core-text@5.0.0
