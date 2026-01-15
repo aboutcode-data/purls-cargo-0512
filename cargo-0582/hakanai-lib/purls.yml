@@ -109,3 +109,4 @@
 - pkg:cargo/hakanai-lib@2.9.6
 - pkg:cargo/hakanai-lib@2.9.7
 - pkg:cargo/hakanai-lib@2.9.8
+- pkg:cargo/hakanai-lib@3.0.0
