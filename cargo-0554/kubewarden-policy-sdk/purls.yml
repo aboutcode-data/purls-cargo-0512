@@ -21,6 +21,7 @@
 - pkg:cargo/kubewarden-policy-sdk@0.14.6
 - pkg:cargo/kubewarden-policy-sdk@0.14.7
 - pkg:cargo/kubewarden-policy-sdk@0.15.0
+- pkg:cargo/kubewarden-policy-sdk@0.15.1
 - pkg:cargo/kubewarden-policy-sdk@0.2.0
 - pkg:cargo/kubewarden-policy-sdk@0.2.1
 - pkg:cargo/kubewarden-policy-sdk@0.2.2
