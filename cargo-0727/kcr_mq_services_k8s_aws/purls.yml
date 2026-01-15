@@ -8,3 +8,4 @@
 - pkg:cargo/kcr_mq_services_k8s_aws@2.20250918.52502
 - pkg:cargo/kcr_mq_services_k8s_aws@2.20250925.52624
 - pkg:cargo/kcr_mq_services_k8s_aws@2.20251002.52514
+- pkg:cargo/kcr_mq_services_k8s_aws@3.20260115.53521
