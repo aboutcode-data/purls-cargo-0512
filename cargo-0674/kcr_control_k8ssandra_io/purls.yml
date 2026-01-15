@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_control_k8ssandra_io@2.20250918.143553
 - pkg:cargo/kcr_control_k8ssandra_io@2.20250925.143937
 - pkg:cargo/kcr_control_k8ssandra_io@2.20251002.143628
+- pkg:cargo/kcr_control_k8ssandra_io@3.20260115.144457

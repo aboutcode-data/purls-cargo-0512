@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_externaldns_k8s_io@2.20250918.134711
 - pkg:cargo/kcr_externaldns_k8s_io@2.20250925.134842
 - pkg:cargo/kcr_externaldns_k8s_io@2.20251002.134613
+- pkg:cargo/kcr_externaldns_k8s_io@3.20260115.135959
