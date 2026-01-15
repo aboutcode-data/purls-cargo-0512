@@ -9,6 +9,7 @@
 - pkg:cargo/pubky-testnet@0.5.2
 - pkg:cargo/pubky-testnet@0.5.3
 - pkg:cargo/pubky-testnet@0.5.4
+- pkg:cargo/pubky-testnet@0.6.0
 - pkg:cargo/pubky-testnet@0.6.0-rc.1
 - pkg:cargo/pubky-testnet@0.6.0-rc.2
 - pkg:cargo/pubky-testnet@0.6.0-rc.3
