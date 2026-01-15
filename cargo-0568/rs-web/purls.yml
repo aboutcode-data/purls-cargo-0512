@@ -6,3 +6,4 @@
 - pkg:cargo/rs-web@0.0.7
 - pkg:cargo/rs-web@0.0.8
 - pkg:cargo/rs-web@0.0.9
+- pkg:cargo/rs-web@0.1.0
