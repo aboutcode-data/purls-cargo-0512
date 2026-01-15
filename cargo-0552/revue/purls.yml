@@ -23,6 +23,8 @@
 - pkg:cargo/revue@2.23.0
 - pkg:cargo/revue@2.24.0
 - pkg:cargo/revue@2.25.0
+- pkg:cargo/revue@2.26.0
+- pkg:cargo/revue@2.27.0
 - pkg:cargo/revue@2.3.0
 - pkg:cargo/revue@2.4.0
 - pkg:cargo/revue@2.5.0
