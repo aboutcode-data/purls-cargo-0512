@@ -904,6 +904,9 @@
 - pkg:cargo/spider_utils@2.38.98
 - pkg:cargo/spider_utils@2.38.99
 - pkg:cargo/spider_utils@2.39.0
+- pkg:cargo/spider_utils@2.39.1
+- pkg:cargo/spider_utils@2.39.3
+- pkg:cargo/spider_utils@2.39.4
 - pkg:cargo/spider_utils@2.4.0
 - pkg:cargo/spider_utils@2.4.1
 - pkg:cargo/spider_utils@2.4.2

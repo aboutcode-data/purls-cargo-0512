@@ -1,1 +1,2 @@
 - pkg:cargo/drasi-source-postgres@0.1.0
+- pkg:cargo/drasi-source-postgres@0.1.1
