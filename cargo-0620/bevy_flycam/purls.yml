@@ -12,6 +12,7 @@
 - pkg:cargo/bevy_flycam@0.15.0
 - pkg:cargo/bevy_flycam@0.16.1
 - pkg:cargo/bevy_flycam@0.17.0
+- pkg:cargo/bevy_flycam@0.18.0
 - pkg:cargo/bevy_flycam@0.2.0
 - pkg:cargo/bevy_flycam@0.2.1
 - pkg:cargo/bevy_flycam@0.3.0
