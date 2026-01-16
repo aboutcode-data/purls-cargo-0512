@@ -30,6 +30,11 @@
 - pkg:cargo/revue@2.3.0
 - pkg:cargo/revue@2.30.0
 - pkg:cargo/revue@2.31.0
+- pkg:cargo/revue@2.31.1
+- pkg:cargo/revue@2.31.2
+- pkg:cargo/revue@2.31.3
+- pkg:cargo/revue@2.31.4
+- pkg:cargo/revue@2.31.5
 - pkg:cargo/revue@2.4.0
 - pkg:cargo/revue@2.5.0
 - pkg:cargo/revue@2.5.1
