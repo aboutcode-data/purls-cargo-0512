@@ -36,3 +36,4 @@
 - pkg:cargo/referencing@0.37.4
 - pkg:cargo/referencing@0.38.0
 - pkg:cargo/referencing@0.38.1
+- pkg:cargo/referencing@0.39.0
