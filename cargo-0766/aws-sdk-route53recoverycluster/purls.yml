@@ -135,3 +135,4 @@
 - pkg:cargo/aws-sdk-route53recoverycluster@1.9.0
 - pkg:cargo/aws-sdk-route53recoverycluster@1.90.0
 - pkg:cargo/aws-sdk-route53recoverycluster@1.91.0
+- pkg:cargo/aws-sdk-route53recoverycluster@1.92.0

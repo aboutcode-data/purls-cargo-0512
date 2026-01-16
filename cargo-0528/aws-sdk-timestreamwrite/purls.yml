@@ -103,3 +103,4 @@
 - pkg:cargo/aws-sdk-timestreamwrite@1.90.0
 - pkg:cargo/aws-sdk-timestreamwrite@1.91.0
 - pkg:cargo/aws-sdk-timestreamwrite@1.92.0
+- pkg:cargo/aws-sdk-timestreamwrite@1.93.0

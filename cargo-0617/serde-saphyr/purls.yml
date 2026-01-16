@@ -4,6 +4,7 @@
 - pkg:cargo/serde-saphyr@0.0.12
 - pkg:cargo/serde-saphyr@0.0.13
 - pkg:cargo/serde-saphyr@0.0.14
+- pkg:cargo/serde-saphyr@0.0.15
 - pkg:cargo/serde-saphyr@0.0.2
 - pkg:cargo/serde-saphyr@0.0.3
 - pkg:cargo/serde-saphyr@0.0.4

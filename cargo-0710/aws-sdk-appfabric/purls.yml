@@ -101,3 +101,4 @@
 - pkg:cargo/aws-sdk-appfabric@1.9.0
 - pkg:cargo/aws-sdk-appfabric@1.90.0
 - pkg:cargo/aws-sdk-appfabric@1.91.0
+- pkg:cargo/aws-sdk-appfabric@1.92.0
