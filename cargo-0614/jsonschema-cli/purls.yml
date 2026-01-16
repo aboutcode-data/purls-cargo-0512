@@ -38,3 +38,4 @@
 - pkg:cargo/jsonschema-cli@0.37.4
 - pkg:cargo/jsonschema-cli@0.38.0
 - pkg:cargo/jsonschema-cli@0.38.1
+- pkg:cargo/jsonschema-cli@0.39.0
