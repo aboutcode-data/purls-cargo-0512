@@ -28,3 +28,4 @@
 - pkg:cargo/cosmian_findex@7.0.0
 - pkg:cargo/cosmian_findex@7.1.0
 - pkg:cargo/cosmian_findex@8.0.0
+- pkg:cargo/cosmian_findex@8.0.1
