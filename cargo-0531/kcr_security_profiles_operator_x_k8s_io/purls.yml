@@ -14,3 +14,4 @@
 - pkg:cargo/kcr_security_profiles_operator_x_k8s_io@2.20250912.143442
 - pkg:cargo/kcr_security_profiles_operator_x_k8s_io@2.20250919.143537
 - pkg:cargo/kcr_security_profiles_operator_x_k8s_io@2.20250926.143352
+- pkg:cargo/kcr_security_profiles_operator_x_k8s_io@3.20260116.144345
