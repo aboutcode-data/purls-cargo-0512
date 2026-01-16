@@ -322,6 +322,7 @@
 - pkg:cargo/swc_ecma_quote@30.0.0
 - pkg:cargo/swc_ecma_quote@31.0.0
 - pkg:cargo/swc_ecma_quote@32.0.0
+- pkg:cargo/swc_ecma_quote@33.0.0
 - pkg:cargo/swc_ecma_quote@4.0.0
 - pkg:cargo/swc_ecma_quote@5.0.0
 - pkg:cargo/swc_ecma_quote@6.0.0

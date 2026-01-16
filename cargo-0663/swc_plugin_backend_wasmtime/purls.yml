@@ -6,3 +6,4 @@
 - pkg:cargo/swc_plugin_backend_wasmtime@3.0.0
 - pkg:cargo/swc_plugin_backend_wasmtime@4.0.0
 - pkg:cargo/swc_plugin_backend_wasmtime@5.0.0
+- pkg:cargo/swc_plugin_backend_wasmtime@6.0.0
