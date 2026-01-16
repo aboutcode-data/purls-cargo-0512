@@ -1,2 +1,3 @@
 - pkg:cargo/kellnr-db-testcontainer@5.10.0
 - pkg:cargo/kellnr-db-testcontainer@5.10.1
+- pkg:cargo/kellnr-db-testcontainer@5.11.0
