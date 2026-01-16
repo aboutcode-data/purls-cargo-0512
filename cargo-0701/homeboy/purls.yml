@@ -7,3 +7,5 @@
 - pkg:cargo/homeboy@0.20.5
 - pkg:cargo/homeboy@0.20.7
 - pkg:cargo/homeboy@0.20.9
+- pkg:cargo/homeboy@0.21.0
+- pkg:cargo/homeboy@0.22.1
