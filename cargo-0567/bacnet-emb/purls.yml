@@ -9,3 +9,4 @@
 - pkg:cargo/bacnet-emb@0.13.20
 - pkg:cargo/bacnet-emb@0.13.22
 - pkg:cargo/bacnet-emb@0.13.23
+- pkg:cargo/bacnet-emb@0.13.24
