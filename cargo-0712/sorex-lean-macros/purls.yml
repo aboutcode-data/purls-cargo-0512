@@ -1,2 +1,3 @@
 - pkg:cargo/sorex-lean-macros@0.2.4
 - pkg:cargo/sorex-lean-macros@0.2.5
+- pkg:cargo/sorex-lean-macros@1.0.0
