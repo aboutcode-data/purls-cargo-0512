@@ -3,6 +3,7 @@
 - pkg:cargo/notan_extra@0.12.0
 - pkg:cargo/notan_extra@0.12.1
 - pkg:cargo/notan_extra@0.13.0
+- pkg:cargo/notan_extra@0.14.0
 - pkg:cargo/notan_extra@0.6.0
 - pkg:cargo/notan_extra@0.7.0
 - pkg:cargo/notan_extra@0.7.1
