@@ -5,3 +5,4 @@
 - pkg:cargo/image_hasher@1.2.0
 - pkg:cargo/image_hasher@2.0.0
 - pkg:cargo/image_hasher@3.0.0
+- pkg:cargo/image_hasher@3.1.0
