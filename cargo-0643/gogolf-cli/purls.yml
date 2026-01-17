@@ -1,0 +1,4 @@
+- pkg:cargo/gogolf-cli@0.0.1-alpha
+- pkg:cargo/gogolf-cli@0.0.1-dev
+- pkg:cargo/gogolf-cli@0.0.1-rc-beta
+- pkg:cargo/gogolf-cli@0.0.1-rc-charlie

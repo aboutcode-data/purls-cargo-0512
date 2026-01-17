@@ -2,6 +2,8 @@
 - pkg:cargo/jdb_xorf@0.12.5
 - pkg:cargo/jdb_xorf@0.12.6
 - pkg:cargo/jdb_xorf@0.13.1
+- pkg:cargo/jdb_xorf@0.13.10
+- pkg:cargo/jdb_xorf@0.13.11
 - pkg:cargo/jdb_xorf@0.13.2
 - pkg:cargo/jdb_xorf@0.13.3
 - pkg:cargo/jdb_xorf@0.13.4
