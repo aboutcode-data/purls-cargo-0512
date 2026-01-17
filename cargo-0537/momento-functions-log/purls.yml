@@ -13,3 +13,4 @@
 - pkg:cargo/momento-functions-log@0.6.0
 - pkg:cargo/momento-functions-log@0.7.0
 - pkg:cargo/momento-functions-log@0.8.0
+- pkg:cargo/momento-functions-log@0.9.1
