@@ -35,6 +35,7 @@
 - pkg:cargo/greentic-types@0.4.31
 - pkg:cargo/greentic-types@0.4.32
 - pkg:cargo/greentic-types@0.4.33
+- pkg:cargo/greentic-types@0.4.34
 - pkg:cargo/greentic-types@0.4.4
 - pkg:cargo/greentic-types@0.4.5
 - pkg:cargo/greentic-types@0.4.6
