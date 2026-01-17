@@ -38,6 +38,8 @@
 - pkg:cargo/zalo@0.2.44
 - pkg:cargo/zalo@0.2.45
 - pkg:cargo/zalo@0.2.46
+- pkg:cargo/zalo@0.2.47
+- pkg:cargo/zalo@0.2.48
 - pkg:cargo/zalo@0.2.5
 - pkg:cargo/zalo@0.2.6
 - pkg:cargo/zalo@0.2.8
