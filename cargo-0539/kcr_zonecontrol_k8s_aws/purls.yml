@@ -7,3 +7,4 @@
 - pkg:cargo/kcr_zonecontrol_k8s_aws@1.20250823.34914
 - pkg:cargo/kcr_zonecontrol_k8s_aws@2.20250913.33909
 - pkg:cargo/kcr_zonecontrol_k8s_aws@2.20250927.34330
+- pkg:cargo/kcr_zonecontrol_k8s_aws@3.20260117.40648

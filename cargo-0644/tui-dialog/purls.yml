@@ -2,3 +2,4 @@
 - pkg:cargo/tui-dialog@0.2.0
 - pkg:cargo/tui-dialog@0.3.0
 - pkg:cargo/tui-dialog@0.4.0
+- pkg:cargo/tui-dialog@0.5.0

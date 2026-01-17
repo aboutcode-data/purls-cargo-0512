@@ -7,3 +7,4 @@
 - pkg:cargo/kcr_acmpca_services_k8s_aws@1.20250823.41407
 - pkg:cargo/kcr_acmpca_services_k8s_aws@2.20250913.41306
 - pkg:cargo/kcr_acmpca_services_k8s_aws@2.20250927.41421
+- pkg:cargo/kcr_acmpca_services_k8s_aws@3.20260117.42557
