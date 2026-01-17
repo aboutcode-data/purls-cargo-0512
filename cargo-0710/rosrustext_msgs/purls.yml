@@ -2,3 +2,4 @@
 - pkg:cargo/rosrustext_msgs@0.1.1
 - pkg:cargo/rosrustext_msgs@0.1.2
 - pkg:cargo/rosrustext_msgs@0.1.3
+- pkg:cargo/rosrustext_msgs@0.2.0
