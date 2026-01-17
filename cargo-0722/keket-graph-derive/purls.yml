@@ -17,3 +17,4 @@
 - pkg:cargo/keket-graph-derive@0.19.2
 - pkg:cargo/keket-graph-derive@0.19.3
 - pkg:cargo/keket-graph-derive@0.19.4
+- pkg:cargo/keket-graph-derive@0.20.1
