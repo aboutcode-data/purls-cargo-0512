@@ -7,3 +7,5 @@
 - pkg:cargo/missive@0.3.4
 - pkg:cargo/missive@0.4.0
 - pkg:cargo/missive@0.5.0
+- pkg:cargo/missive@0.6.0
+- pkg:cargo/missive@0.6.1
