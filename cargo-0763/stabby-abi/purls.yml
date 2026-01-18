@@ -49,3 +49,4 @@
 - pkg:cargo/stabby-abi@6.2.2
 - pkg:cargo/stabby-abi@6.4.1-rc1
 - pkg:cargo/stabby-abi@72.1.1
+- pkg:cargo/stabby-abi@72.1.2-rc1
