@@ -35,3 +35,4 @@
 - pkg:cargo/ferroid-tonic-server@0.8.8
 - pkg:cargo/ferroid-tonic-server@0.8.9
 - pkg:cargo/ferroid-tonic-server@1.0.0
+- pkg:cargo/ferroid-tonic-server@1.0.1
