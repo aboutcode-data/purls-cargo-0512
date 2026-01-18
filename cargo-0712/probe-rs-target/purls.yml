@@ -24,3 +24,4 @@
 - pkg:cargo/probe-rs-target@0.29.0
 - pkg:cargo/probe-rs-target@0.29.1
 - pkg:cargo/probe-rs-target@0.30.0
+- pkg:cargo/probe-rs-target@0.31.0
