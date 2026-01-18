@@ -12,6 +12,7 @@
 - pkg:cargo/nu-table@0.108.0
 - pkg:cargo/nu-table@0.109.0
 - pkg:cargo/nu-table@0.109.1
+- pkg:cargo/nu-table@0.110.0
 - pkg:cargo/nu-table@0.16.0
 - pkg:cargo/nu-table@0.17.0
 - pkg:cargo/nu-table@0.18.0

@@ -12,6 +12,7 @@
 - pkg:cargo/nu-json@0.108.0
 - pkg:cargo/nu-json@0.109.0
 - pkg:cargo/nu-json@0.109.1
+- pkg:cargo/nu-json@0.110.0
 - pkg:cargo/nu-json@0.23.0
 - pkg:cargo/nu-json@0.24.0
 - pkg:cargo/nu-json@0.24.1

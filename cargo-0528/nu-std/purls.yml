@@ -12,6 +12,7 @@
 - pkg:cargo/nu-std@0.108.0
 - pkg:cargo/nu-std@0.109.0
 - pkg:cargo/nu-std@0.109.1
+- pkg:cargo/nu-std@0.110.0
 - pkg:cargo/nu-std@0.79.0
 - pkg:cargo/nu-std@0.80.0
 - pkg:cargo/nu-std@0.81.0
