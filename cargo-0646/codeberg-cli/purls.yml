@@ -19,4 +19,5 @@
 - pkg:cargo/codeberg-cli@0.5.1
 - pkg:cargo/codeberg-cli@0.5.2
 - pkg:cargo/codeberg-cli@0.5.3
+- pkg:cargo/codeberg-cli@0.5.4
 - pkg:cargo/codeberg-cli@1.0.0
