@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_ipam_cluster_x_k8s_io@1.20250823.195136
 - pkg:cargo/kcr_ipam_cluster_x_k8s_io@2.20250913.195136
 - pkg:cargo/kcr_ipam_cluster_x_k8s_io@2.20250927.195132
+- pkg:cargo/kcr_ipam_cluster_x_k8s_io@3.20260117.195126
