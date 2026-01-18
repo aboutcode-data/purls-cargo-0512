@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_kmm_sigs_x_k8s_io@2.20250914.64033
 - pkg:cargo/kcr_kmm_sigs_x_k8s_io@2.20250928.64128
 - pkg:cargo/kcr_kmm_sigs_x_k8s_io@2.20251116.64439
+- pkg:cargo/kcr_kmm_sigs_x_k8s_io@3.20260118.64852

@@ -8,3 +8,4 @@
 - pkg:cargo/kcr_kinesis_services_k8s_aws@1.20250824.115106
 - pkg:cargo/kcr_kinesis_services_k8s_aws@2.20250914.115124
 - pkg:cargo/kcr_kinesis_services_k8s_aws@2.20250928.115132
+- pkg:cargo/kcr_kinesis_services_k8s_aws@3.20260118.115118
