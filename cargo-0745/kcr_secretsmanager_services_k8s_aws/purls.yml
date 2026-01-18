@@ -7,3 +7,4 @@
 - pkg:cargo/kcr_secretsmanager_services_k8s_aws@1.20250824.130238
 - pkg:cargo/kcr_secretsmanager_services_k8s_aws@2.20250914.125659
 - pkg:cargo/kcr_secretsmanager_services_k8s_aws@2.20250928.125924
+- pkg:cargo/kcr_secretsmanager_services_k8s_aws@3.20260118.130731
