@@ -78,6 +78,7 @@
 - pkg:cargo/thiserror@2.0.15
 - pkg:cargo/thiserror@2.0.16
 - pkg:cargo/thiserror@2.0.17
+- pkg:cargo/thiserror@2.0.18
 - pkg:cargo/thiserror@2.0.2
 - pkg:cargo/thiserror@2.0.3
 - pkg:cargo/thiserror@2.0.4
