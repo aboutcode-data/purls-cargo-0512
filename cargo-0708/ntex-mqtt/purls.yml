@@ -173,3 +173,4 @@
 - pkg:cargo/ntex-mqtt@6.4.1
 - pkg:cargo/ntex-mqtt@6.5.0
 - pkg:cargo/ntex-mqtt@6.6.0
+- pkg:cargo/ntex-mqtt@6.6.1
