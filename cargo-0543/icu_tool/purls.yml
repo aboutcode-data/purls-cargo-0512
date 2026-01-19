@@ -23,3 +23,4 @@
 - pkg:cargo/icu_tool@0.1.7
 - pkg:cargo/icu_tool@0.1.8
 - pkg:cargo/icu_tool@0.1.9
+- pkg:cargo/icu_tool@0.2.0
