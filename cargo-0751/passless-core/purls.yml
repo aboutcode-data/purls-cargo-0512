@@ -15,3 +15,4 @@
 - pkg:cargo/passless-core@0.6.5
 - pkg:cargo/passless-core@0.6.6
 - pkg:cargo/passless-core@0.7.0
+- pkg:cargo/passless-core@0.7.1

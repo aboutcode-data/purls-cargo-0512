@@ -1,5 +1,6 @@
 - pkg:cargo/charms-client@0.10.0
 - pkg:cargo/charms-client@0.10.2
+- pkg:cargo/charms-client@0.11.0
 - pkg:cargo/charms-client@0.4.1
 - pkg:cargo/charms-client@0.5.1
 - pkg:cargo/charms-client@0.5.2

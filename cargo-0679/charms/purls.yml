@@ -9,6 +9,7 @@
 - pkg:cargo/charms@0.1.9
 - pkg:cargo/charms@0.10.0
 - pkg:cargo/charms@0.10.2
+- pkg:cargo/charms@0.11.0
 - pkg:cargo/charms@0.2.0
 - pkg:cargo/charms@0.3.0
 - pkg:cargo/charms@0.3.0-dev
