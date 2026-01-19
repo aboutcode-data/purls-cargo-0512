@@ -209,6 +209,7 @@
 - pkg:cargo/datavzrd@2.61.9
 - pkg:cargo/datavzrd@2.62.0
 - pkg:cargo/datavzrd@2.62.1
+- pkg:cargo/datavzrd@2.63.0
 - pkg:cargo/datavzrd@2.7.0
 - pkg:cargo/datavzrd@2.7.1
 - pkg:cargo/datavzrd@2.7.2

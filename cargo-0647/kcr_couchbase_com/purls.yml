@@ -11,3 +11,4 @@
 - pkg:cargo/kcr_couchbase_com@2.20250915.93914
 - pkg:cargo/kcr_couchbase_com@2.20250922.93949
 - pkg:cargo/kcr_couchbase_com@2.20250929.93935
+- pkg:cargo/kcr_couchbase_com@3.20260119.95357

@@ -11,3 +11,4 @@
 - pkg:cargo/kcr_frrk8s_metallb_io@2.20250915.83557
 - pkg:cargo/kcr_frrk8s_metallb_io@2.20250922.83709
 - pkg:cargo/kcr_frrk8s_metallb_io@2.20250929.83835
+- pkg:cargo/kcr_frrk8s_metallb_io@3.20260119.84830

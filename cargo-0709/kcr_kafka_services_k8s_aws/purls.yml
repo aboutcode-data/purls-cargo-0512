@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_kafka_services_k8s_aws@2.20250915.85139
 - pkg:cargo/kcr_kafka_services_k8s_aws@2.20250922.85301
 - pkg:cargo/kcr_kafka_services_k8s_aws@2.20250929.85323
+- pkg:cargo/kcr_kafka_services_k8s_aws@3.20260119.90214
