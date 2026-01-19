@@ -20,3 +20,4 @@
 - pkg:cargo/opentalk-types-signaling-shared-folder@0.40.0
 - pkg:cargo/opentalk-types-signaling-shared-folder@0.41.0
 - pkg:cargo/opentalk-types-signaling-shared-folder@0.42.0
+- pkg:cargo/opentalk-types-signaling-shared-folder@0.43.0
