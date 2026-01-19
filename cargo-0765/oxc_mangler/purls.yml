@@ -7,6 +7,7 @@
 - pkg:cargo/oxc_mangler@0.106.0
 - pkg:cargo/oxc_mangler@0.107.0
 - pkg:cargo/oxc_mangler@0.108.0
+- pkg:cargo/oxc_mangler@0.109.0
 - pkg:cargo/oxc_mangler@0.20.0
 - pkg:cargo/oxc_mangler@0.21.0
 - pkg:cargo/oxc_mangler@0.22.0
