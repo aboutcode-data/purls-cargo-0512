@@ -4,3 +4,4 @@
 - pkg:cargo/iceberg-catalog-hms@0.5.1
 - pkg:cargo/iceberg-catalog-hms@0.6.0
 - pkg:cargo/iceberg-catalog-hms@0.7.0
+- pkg:cargo/iceberg-catalog-hms@0.8.0
