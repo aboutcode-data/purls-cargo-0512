@@ -1,3 +1,4 @@
 - pkg:cargo/otlp2pipeline@0.2.0
 - pkg:cargo/otlp2pipeline@0.3.0
 - pkg:cargo/otlp2pipeline@0.3.1
+- pkg:cargo/otlp2pipeline@0.3.2
