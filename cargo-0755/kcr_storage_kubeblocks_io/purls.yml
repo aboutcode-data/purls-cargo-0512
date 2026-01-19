@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_storage_kubeblocks_io@2.20250915.25920
 - pkg:cargo/kcr_storage_kubeblocks_io@2.20250922.25902
 - pkg:cargo/kcr_storage_kubeblocks_io@2.20250929.25444
+- pkg:cargo/kcr_storage_kubeblocks_io@3.20260119.32721
