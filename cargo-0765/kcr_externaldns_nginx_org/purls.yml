@@ -6,3 +6,4 @@
 - pkg:cargo/kcr_externaldns_nginx_org@1.20250824.194320
 - pkg:cargo/kcr_externaldns_nginx_org@2.20250914.194331
 - pkg:cargo/kcr_externaldns_nginx_org@2.20250928.194329
+- pkg:cargo/kcr_externaldns_nginx_org@3.20260118.194316

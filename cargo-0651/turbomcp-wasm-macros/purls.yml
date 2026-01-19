@@ -1,1 +1,2 @@
+- pkg:cargo/turbomcp-wasm-macros@3.0.0-beta.1
 - pkg:cargo/turbomcp-wasm-macros@3.0.0-exp.2

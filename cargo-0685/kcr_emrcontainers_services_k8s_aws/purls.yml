@@ -7,3 +7,4 @@
 - pkg:cargo/kcr_emrcontainers_services_k8s_aws@1.20250824.215549
 - pkg:cargo/kcr_emrcontainers_services_k8s_aws@2.20250914.215611
 - pkg:cargo/kcr_emrcontainers_services_k8s_aws@2.20250928.215609
+- pkg:cargo/kcr_emrcontainers_services_k8s_aws@3.20260118.215558

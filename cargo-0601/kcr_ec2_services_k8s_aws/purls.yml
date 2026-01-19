@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_ec2_services_k8s_aws@2.20250914.224712
 - pkg:cargo/kcr_ec2_services_k8s_aws@2.20250928.224729
 - pkg:cargo/kcr_ec2_services_k8s_aws@2.20251005.224703
+- pkg:cargo/kcr_ec2_services_k8s_aws@3.20260118.225048
