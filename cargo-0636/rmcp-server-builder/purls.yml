@@ -1,2 +1,3 @@
 - pkg:cargo/rmcp-server-builder@0.1.2
 - pkg:cargo/rmcp-server-builder@0.1.3
+- pkg:cargo/rmcp-server-builder@0.1.4
