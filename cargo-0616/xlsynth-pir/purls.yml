@@ -18,6 +18,7 @@
 - pkg:cargo/xlsynth-pir@0.23.0
 - pkg:cargo/xlsynth-pir@0.24.0
 - pkg:cargo/xlsynth-pir@0.25.0
+- pkg:cargo/xlsynth-pir@0.26.0
 - pkg:cargo/xlsynth-pir@0.3.0
 - pkg:cargo/xlsynth-pir@0.5.0
 - pkg:cargo/xlsynth-pir@0.6.0
