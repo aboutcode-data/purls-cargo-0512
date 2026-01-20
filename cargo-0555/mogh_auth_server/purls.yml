@@ -1,3 +1,6 @@
 - pkg:cargo/mogh_auth_server@0.1.0
 - pkg:cargo/mogh_auth_server@0.2.0
 - pkg:cargo/mogh_auth_server@1.0.0
+- pkg:cargo/mogh_auth_server@1.1.0
+- pkg:cargo/mogh_auth_server@1.1.1
+- pkg:cargo/mogh_auth_server@1.1.2
