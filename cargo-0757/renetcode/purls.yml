@@ -11,3 +11,4 @@
 - pkg:cargo/renetcode@0.0.8
 - pkg:cargo/renetcode@0.0.9
 - pkg:cargo/renetcode@1.0.0
+- pkg:cargo/renetcode@2.0.0
