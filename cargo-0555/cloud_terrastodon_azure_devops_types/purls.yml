@@ -20,4 +20,5 @@
 - pkg:cargo/cloud_terrastodon_azure_devops_types@0.29.0
 - pkg:cargo/cloud_terrastodon_azure_devops_types@0.30.0
 - pkg:cargo/cloud_terrastodon_azure_devops_types@0.31.0
+- pkg:cargo/cloud_terrastodon_azure_devops_types@0.32.0
 - pkg:cargo/cloud_terrastodon_azure_devops_types@0.9.0
