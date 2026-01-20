@@ -65,6 +65,7 @@
 - pkg:cargo/frankenstein@0.44.0
 - pkg:cargo/frankenstein@0.45.0
 - pkg:cargo/frankenstein@0.46.0
+- pkg:cargo/frankenstein@0.46.1
 - pkg:cargo/frankenstein@0.5.0
 - pkg:cargo/frankenstein@0.5.1
 - pkg:cargo/frankenstein@0.5.2
