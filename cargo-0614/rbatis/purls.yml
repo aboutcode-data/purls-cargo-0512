@@ -412,3 +412,4 @@
 - pkg:cargo/rbatis@4.6.7
 - pkg:cargo/rbatis@4.6.8
 - pkg:cargo/rbatis@4.6.9
+- pkg:cargo/rbatis@4.7.0
