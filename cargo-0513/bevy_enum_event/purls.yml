@@ -1,2 +1,4 @@
 - pkg:cargo/bevy_enum_event@0.1.0
 - pkg:cargo/bevy_enum_event@0.2.0
+- pkg:cargo/bevy_enum_event@0.3.0
+- pkg:cargo/bevy_enum_event@0.3.1

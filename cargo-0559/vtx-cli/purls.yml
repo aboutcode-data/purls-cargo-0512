@@ -10,6 +10,7 @@
 - pkg:cargo/vtx-cli@0.2.18
 - pkg:cargo/vtx-cli@0.2.19
 - pkg:cargo/vtx-cli@0.2.2
+- pkg:cargo/vtx-cli@0.2.20
 - pkg:cargo/vtx-cli@0.2.3
 - pkg:cargo/vtx-cli@0.2.5
 - pkg:cargo/vtx-cli@0.2.7
