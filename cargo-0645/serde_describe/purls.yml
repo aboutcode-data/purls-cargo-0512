@@ -4,3 +4,4 @@
 - pkg:cargo/serde_describe@0.0.5
 - pkg:cargo/serde_describe@0.1.6
 - pkg:cargo/serde_describe@0.2.0
+- pkg:cargo/serde_describe@0.2.1
