@@ -17,3 +17,4 @@
 - pkg:cargo/lzgit@0.3.5
 - pkg:cargo/lzgit@0.3.6
 - pkg:cargo/lzgit@0.3.7
+- pkg:cargo/lzgit@0.3.8
