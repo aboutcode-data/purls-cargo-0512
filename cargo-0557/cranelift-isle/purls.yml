@@ -82,6 +82,7 @@
 - pkg:cargo/cranelift-isle@0.127.0
 - pkg:cargo/cranelift-isle@0.127.1
 - pkg:cargo/cranelift-isle@0.127.2
+- pkg:cargo/cranelift-isle@0.128.0
 - pkg:cargo/cranelift-isle@0.79.0
 - pkg:cargo/cranelift-isle@0.79.1
 - pkg:cargo/cranelift-isle@0.80.0
