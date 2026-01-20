@@ -3,3 +3,4 @@
 - pkg:cargo/s2-cli@0.23.2
 - pkg:cargo/s2-cli@0.24.0
 - pkg:cargo/s2-cli@0.24.1
+- pkg:cargo/s2-cli@0.24.2
