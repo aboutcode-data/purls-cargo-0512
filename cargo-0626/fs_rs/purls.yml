@@ -16,3 +16,5 @@
 - pkg:cargo/fs_rs@0.2.4
 - pkg:cargo/fs_rs@0.2.5
 - pkg:cargo/fs_rs@0.2.7
+- pkg:cargo/fs_rs@0.2.8
+- pkg:cargo/fs_rs@0.2.9

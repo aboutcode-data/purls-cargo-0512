@@ -9,6 +9,7 @@
 - pkg:cargo/writ@0.11.0
 - pkg:cargo/writ@0.11.1
 - pkg:cargo/writ@0.11.2
+- pkg:cargo/writ@0.12.0
 - pkg:cargo/writ@0.2.0
 - pkg:cargo/writ@0.3.0
 - pkg:cargo/writ@0.3.1
