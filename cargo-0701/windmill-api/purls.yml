@@ -212,3 +212,5 @@
 - pkg:cargo/windmill-api@1.610.1
 - pkg:cargo/windmill-api@1.611.0
 - pkg:cargo/windmill-api@1.612.0
+- pkg:cargo/windmill-api@1.612.1
+- pkg:cargo/windmill-api@1.612.2
