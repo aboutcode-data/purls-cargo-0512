@@ -16,3 +16,5 @@
 - pkg:cargo/neo3@0.4.4
 - pkg:cargo/neo3@0.5.0
 - pkg:cargo/neo3@0.5.3
+- pkg:cargo/neo3@1.0.0
+- pkg:cargo/neo3@1.0.1
