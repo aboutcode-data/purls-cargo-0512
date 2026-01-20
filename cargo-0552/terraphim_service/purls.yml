@@ -2,3 +2,4 @@
 - pkg:cargo/terraphim_service@1.0.0
 - pkg:cargo/terraphim_service@1.4.10
 - pkg:cargo/terraphim_service@1.4.7
+- pkg:cargo/terraphim_service@1.5.2
