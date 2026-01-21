@@ -51,3 +51,4 @@
 - pkg:cargo/glycin@3.0.7
 - pkg:cargo/glycin@3.1.0-alpha
 - pkg:cargo/glycin@3.1.0-alpha.2
+- pkg:cargo/glycin@3.1.0-alpha.3
