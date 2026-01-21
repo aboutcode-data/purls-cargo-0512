@@ -1,4 +1,5 @@
 - pkg:cargo/jetstream_quic@11.0.0
+- pkg:cargo/jetstream_quic@11.0.2
 - pkg:cargo/jetstream_quic@9.1.0
 - pkg:cargo/jetstream_quic@9.1.1
 - pkg:cargo/jetstream_quic@9.1.2
