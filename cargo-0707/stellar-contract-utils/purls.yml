@@ -1,3 +1,4 @@
 - pkg:cargo/stellar-contract-utils@0.4.0
 - pkg:cargo/stellar-contract-utils@0.4.1
 - pkg:cargo/stellar-contract-utils@0.5.0
+- pkg:cargo/stellar-contract-utils@0.6.0
