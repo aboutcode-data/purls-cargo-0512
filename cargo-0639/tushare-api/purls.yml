@@ -8,3 +8,5 @@
 - pkg:cargo/tushare-api@1.1.4
 - pkg:cargo/tushare-api@1.1.5
 - pkg:cargo/tushare-api@1.2.5
+- pkg:cargo/tushare-api@1.2.6
+- pkg:cargo/tushare-api@1.2.7

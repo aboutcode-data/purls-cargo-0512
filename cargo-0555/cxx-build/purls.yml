@@ -134,6 +134,8 @@
 - pkg:cargo/cxx-build@1.0.190
 - pkg:cargo/cxx-build@1.0.191
 - pkg:cargo/cxx-build@1.0.192
+- pkg:cargo/cxx-build@1.0.193
+- pkg:cargo/cxx-build@1.0.194
 - pkg:cargo/cxx-build@1.0.2
 - pkg:cargo/cxx-build@1.0.20
 - pkg:cargo/cxx-build@1.0.21
