@@ -3,6 +3,8 @@
 - pkg:cargo/decompression-plz@0.0.11
 - pkg:cargo/decompression-plz@0.0.12
 - pkg:cargo/decompression-plz@0.0.13
+- pkg:cargo/decompression-plz@0.0.14
+- pkg:cargo/decompression-plz@0.0.15
 - pkg:cargo/decompression-plz@0.0.2
 - pkg:cargo/decompression-plz@0.0.3
 - pkg:cargo/decompression-plz@0.0.4
