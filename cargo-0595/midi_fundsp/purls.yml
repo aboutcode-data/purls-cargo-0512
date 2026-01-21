@@ -33,3 +33,4 @@
 - pkg:cargo/midi_fundsp@0.6.8
 - pkg:cargo/midi_fundsp@0.6.9
 - pkg:cargo/midi_fundsp@0.7.0
+- pkg:cargo/midi_fundsp@0.7.1
