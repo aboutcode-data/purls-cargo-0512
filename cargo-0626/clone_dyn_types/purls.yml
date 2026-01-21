@@ -24,3 +24,4 @@
 - pkg:cargo/clone_dyn_types@0.41.0
 - pkg:cargo/clone_dyn_types@0.42.0
 - pkg:cargo/clone_dyn_types@0.43.0
+- pkg:cargo/clone_dyn_types@0.44.0
