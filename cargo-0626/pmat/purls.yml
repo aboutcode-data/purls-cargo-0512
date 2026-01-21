@@ -146,6 +146,9 @@
 - pkg:cargo/pmat@2.213.1
 - pkg:cargo/pmat@2.213.10
 - pkg:cargo/pmat@2.213.11
+- pkg:cargo/pmat@2.213.12
+- pkg:cargo/pmat@2.213.13
+- pkg:cargo/pmat@2.213.14
 - pkg:cargo/pmat@2.213.3
 - pkg:cargo/pmat@2.213.4
 - pkg:cargo/pmat@2.213.5
