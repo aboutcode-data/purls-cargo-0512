@@ -1,1 +1,2 @@
 - pkg:cargo/axum-webtools-pgsql-migrate@0.1.31
+- pkg:cargo/axum-webtools-pgsql-migrate@0.1.32
