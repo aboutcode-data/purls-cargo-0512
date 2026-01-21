@@ -6,3 +6,4 @@
 - pkg:cargo/rclone-sdk@1.0.17
 - pkg:cargo/rclone-sdk@1.0.18
 - pkg:cargo/rclone-sdk@1.72.0
+- pkg:cargo/rclone-sdk@1.72.1

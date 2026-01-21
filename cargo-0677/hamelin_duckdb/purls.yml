@@ -4,3 +4,5 @@
 - pkg:cargo/hamelin_duckdb@0.3.2
 - pkg:cargo/hamelin_duckdb@0.3.3
 - pkg:cargo/hamelin_duckdb@0.3.4
+- pkg:cargo/hamelin_duckdb@0.3.6
+- pkg:cargo/hamelin_duckdb@0.3.7
