@@ -2,3 +2,4 @@
 - pkg:cargo/phoscat@0.4.10
 - pkg:cargo/phoscat@0.4.8
 - pkg:cargo/phoscat@0.4.9
+- pkg:cargo/phoscat@0.5.0
