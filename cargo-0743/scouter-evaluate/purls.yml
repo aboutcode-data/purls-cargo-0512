@@ -1,1 +1,2 @@
 - pkg:cargo/scouter-evaluate@0.13.0
+- pkg:cargo/scouter-evaluate@0.15.0

@@ -1,1 +1,2 @@
 - pkg:cargo/oxidite-middleware@0.1.0
+- pkg:cargo/oxidite-middleware@2.0.0

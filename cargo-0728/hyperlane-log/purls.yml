@@ -146,3 +146,4 @@
 - pkg:cargo/hyperlane-log@4.0.0
 - pkg:cargo/hyperlane-log@4.0.1
 - pkg:cargo/hyperlane-log@4.0.2
+- pkg:cargo/hyperlane-log@4.0.3

@@ -1,3 +1,4 @@
 - pkg:cargo/scouter-state@0.12.0
 - pkg:cargo/scouter-state@0.13.0
 - pkg:cargo/scouter-state@0.14.0
+- pkg:cargo/scouter-state@0.15.0

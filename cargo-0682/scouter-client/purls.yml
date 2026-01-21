@@ -1,5 +1,6 @@
 - pkg:cargo/scouter-client@0.10.0
 - pkg:cargo/scouter-client@0.13.0
+- pkg:cargo/scouter-client@0.15.0
 - pkg:cargo/scouter-client@0.5.5
 - pkg:cargo/scouter-client@0.5.6
 - pkg:cargo/scouter-client@0.6.2
