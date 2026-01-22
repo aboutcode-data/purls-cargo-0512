@@ -5,3 +5,4 @@
 - pkg:cargo/micronfig@0.3.0
 - pkg:cargo/micronfig@1.0.0
 - pkg:cargo/micronfig@1.0.1
+- pkg:cargo/micronfig@2.0.1
