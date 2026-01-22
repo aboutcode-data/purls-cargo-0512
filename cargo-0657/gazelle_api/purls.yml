@@ -25,4 +25,5 @@
 - pkg:cargo/gazelle_api@0.9.0
 - pkg:cargo/gazelle_api@0.9.0-alpha.1
 - pkg:cargo/gazelle_api@0.9.0-alpha.2
+- pkg:cargo/gazelle_api@0.9.1
 - pkg:cargo/gazelle_api@0.9.1-alpha.1
