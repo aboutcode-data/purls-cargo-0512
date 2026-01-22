@@ -55,6 +55,7 @@
 - pkg:cargo/sc-transaction-pool@42.0.0
 - pkg:cargo/sc-transaction-pool@43.0.0
 - pkg:cargo/sc-transaction-pool@44.0.0
+- pkg:cargo/sc-transaction-pool@44.1.0
 - pkg:cargo/sc-transaction-pool@5.0.0
 - pkg:cargo/sc-transaction-pool@6.0.0
 - pkg:cargo/sc-transaction-pool@7.0.0
