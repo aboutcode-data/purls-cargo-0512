@@ -14,6 +14,7 @@
 - pkg:cargo/mountpoint-s3-crt@0.13.3
 - pkg:cargo/mountpoint-s3-crt@0.13.4
 - pkg:cargo/mountpoint-s3-crt@0.13.5
+- pkg:cargo/mountpoint-s3-crt@0.13.6
 - pkg:cargo/mountpoint-s3-crt@0.2.1
 - pkg:cargo/mountpoint-s3-crt@0.2.2
 - pkg:cargo/mountpoint-s3-crt@0.3.0
