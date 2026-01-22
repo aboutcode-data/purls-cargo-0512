@@ -8,6 +8,7 @@
 - pkg:cargo/triton-profiler@0.25.1
 - pkg:cargo/triton-profiler@0.28.0
 - pkg:cargo/triton-profiler@0.30.0
+- pkg:cargo/triton-profiler@0.31.0
 - pkg:cargo/triton-profiler@0.7.0
 - pkg:cargo/triton-profiler@0.7.2
 - pkg:cargo/triton-profiler@0.8.0

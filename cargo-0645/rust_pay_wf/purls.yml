@@ -5,6 +5,7 @@
 - pkg:cargo/rust_pay_wf@0.10.5
 - pkg:cargo/rust_pay_wf@0.10.6
 - pkg:cargo/rust_pay_wf@0.10.7
+- pkg:cargo/rust_pay_wf@0.10.8
 - pkg:cargo/rust_pay_wf@0.4.5
 - pkg:cargo/rust_pay_wf@0.4.6
 - pkg:cargo/rust_pay_wf@0.4.7
