@@ -2,3 +2,4 @@
 - pkg:cargo/sdl3-image-src@3.2.2
 - pkg:cargo/sdl3-image-src@3.2.4
 - pkg:cargo/sdl3-image-src@3.2.6
+- pkg:cargo/sdl3-image-src@3.4.0
