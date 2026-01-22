@@ -30,6 +30,7 @@
 - pkg:cargo/gix-refspec@0.33.0
 - pkg:cargo/gix-refspec@0.34.0
 - pkg:cargo/gix-refspec@0.35.0
+- pkg:cargo/gix-refspec@0.36.0
 - pkg:cargo/gix-refspec@0.7.2
 - pkg:cargo/gix-refspec@0.7.3
 - pkg:cargo/gix-refspec@0.8.0
