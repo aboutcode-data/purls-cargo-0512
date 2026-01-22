@@ -24,3 +24,4 @@
 - pkg:cargo/zebrad@3.0.0
 - pkg:cargo/zebrad@3.0.0-rc.0
 - pkg:cargo/zebrad@3.1.0
+- pkg:cargo/zebrad@4.0.0
