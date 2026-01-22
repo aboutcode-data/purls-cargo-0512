@@ -51,4 +51,5 @@
 - pkg:cargo/holochain_nonce@0.6.0-dev.4
 - pkg:cargo/holochain_nonce@0.6.0-dev.5
 - pkg:cargo/holochain_nonce@0.6.0-rc.0
+- pkg:cargo/holochain_nonce@0.6.1-rc.0
 - pkg:cargo/holochain_nonce@0.7.0-dev.0
