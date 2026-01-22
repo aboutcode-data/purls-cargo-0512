@@ -7,3 +7,4 @@
 - pkg:cargo/keccak@0.1.5
 - pkg:cargo/keccak@0.2.0-pre.0
 - pkg:cargo/keccak@0.2.0-rc.0
+- pkg:cargo/keccak@0.2.0-rc.1
