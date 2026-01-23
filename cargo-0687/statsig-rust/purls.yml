@@ -101,10 +101,12 @@
 - pkg:cargo/statsig-rust@0.14.2-beta.2601170240
 - pkg:cargo/statsig-rust@0.14.2-beta.2601210246
 - pkg:cargo/statsig-rust@0.14.2-beta.2601220251
+- pkg:cargo/statsig-rust@0.14.2-beta.2601230247
 - pkg:cargo/statsig-rust@0.14.2-rc.2512230135
 - pkg:cargo/statsig-rust@0.14.2-rc.2601062017
 - pkg:cargo/statsig-rust@0.14.2-rc.2601130135
 - pkg:cargo/statsig-rust@0.14.2-rc.2601200136
+- pkg:cargo/statsig-rust@0.14.2-rc.2601230113
 - pkg:cargo/statsig-rust@0.2.0
 - pkg:cargo/statsig-rust@0.2.0-beta.250418
 - pkg:cargo/statsig-rust@0.2.0-beta.250419
