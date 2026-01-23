@@ -1,1 +1,2 @@
 - pkg:cargo/sqlx-exasol-impl@0.9.0
+- pkg:cargo/sqlx-exasol-impl@0.9.1

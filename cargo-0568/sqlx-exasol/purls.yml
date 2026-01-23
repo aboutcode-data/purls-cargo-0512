@@ -10,3 +10,4 @@
 - pkg:cargo/sqlx-exasol@0.8.6-hotfix1
 - pkg:cargo/sqlx-exasol@0.8.6-hotifx1
 - pkg:cargo/sqlx-exasol@0.9.0
+- pkg:cargo/sqlx-exasol@0.9.1
