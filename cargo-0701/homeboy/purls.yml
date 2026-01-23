@@ -69,9 +69,12 @@
 - pkg:cargo/homeboy@0.32.6
 - pkg:cargo/homeboy@0.33.10
 - pkg:cargo/homeboy@0.33.11
+- pkg:cargo/homeboy@0.33.12
 - pkg:cargo/homeboy@0.33.4
 - pkg:cargo/homeboy@0.33.5
 - pkg:cargo/homeboy@0.33.6
 - pkg:cargo/homeboy@0.33.7
 - pkg:cargo/homeboy@0.33.8
 - pkg:cargo/homeboy@0.33.9
+- pkg:cargo/homeboy@0.34.0
+- pkg:cargo/homeboy@0.34.1
