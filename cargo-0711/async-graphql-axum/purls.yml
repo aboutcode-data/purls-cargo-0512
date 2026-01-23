@@ -117,3 +117,4 @@
 - pkg:cargo/async-graphql-axum@7.1.0
 - pkg:cargo/async-graphql-axum@7.2.0
 - pkg:cargo/async-graphql-axum@7.2.1
+- pkg:cargo/async-graphql-axum@8.0.0-rc.1

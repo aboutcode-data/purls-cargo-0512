@@ -9,3 +9,4 @@
 - pkg:cargo/facet-assert@0.40.0
 - pkg:cargo/facet-assert@0.41.0
 - pkg:cargo/facet-assert@0.42.0
+- pkg:cargo/facet-assert@0.43.0
