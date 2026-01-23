@@ -182,6 +182,7 @@
 - pkg:cargo/re_viewer_context@0.29.0-alpha.4
 - pkg:cargo/re_viewer_context@0.29.0-alpha.5
 - pkg:cargo/re_viewer_context@0.29.0-alpha.6
+- pkg:cargo/re_viewer_context@0.29.0-alpha.7
 - pkg:cargo/re_viewer_context@0.6.0
 - pkg:cargo/re_viewer_context@0.6.0-alpha.1
 - pkg:cargo/re_viewer_context@0.6.0-alpha.2
