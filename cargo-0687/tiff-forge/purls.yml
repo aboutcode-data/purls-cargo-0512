@@ -6,3 +6,6 @@
 - pkg:cargo/tiff-forge@0.4.5
 - pkg:cargo/tiff-forge@0.4.6
 - pkg:cargo/tiff-forge@0.4.7
+- pkg:cargo/tiff-forge@0.5.0
+- pkg:cargo/tiff-forge@0.5.1
+- pkg:cargo/tiff-forge@0.5.2
