@@ -1,6 +1,7 @@
 - pkg:cargo/lrwn_filters@4.10.0-test.1
 - pkg:cargo/lrwn_filters@4.12.0
 - pkg:cargo/lrwn_filters@4.15.0
+- pkg:cargo/lrwn_filters@4.16.0
 - pkg:cargo/lrwn_filters@4.3.2
 - pkg:cargo/lrwn_filters@4.3.3-test.1
 - pkg:cargo/lrwn_filters@4.4.3
