@@ -47,6 +47,7 @@
 - pkg:cargo/trustfall_rustdoc@0.35.0
 - pkg:cargo/trustfall_rustdoc@0.36.0
 - pkg:cargo/trustfall_rustdoc@0.37.0
+- pkg:cargo/trustfall_rustdoc@0.38.0
 - pkg:cargo/trustfall_rustdoc@0.4.0
 - pkg:cargo/trustfall_rustdoc@0.5.0
 - pkg:cargo/trustfall_rustdoc@0.6.0

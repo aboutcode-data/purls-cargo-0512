@@ -50,3 +50,4 @@
 - pkg:cargo/rustrtc@0.3.4
 - pkg:cargo/rustrtc@0.3.5
 - pkg:cargo/rustrtc@0.3.6
+- pkg:cargo/rustrtc@0.3.7
