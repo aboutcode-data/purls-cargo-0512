@@ -62,6 +62,7 @@
 - pkg:cargo/rasn-smime@0.28.4
 - pkg:cargo/rasn-smime@0.28.5
 - pkg:cargo/rasn-smime@0.28.6
+- pkg:cargo/rasn-smime@0.28.7
 - pkg:cargo/rasn-smime@0.5.0
 - pkg:cargo/rasn-smime@0.6.0
 - pkg:cargo/rasn-smime@0.7.0
