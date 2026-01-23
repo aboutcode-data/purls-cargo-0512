@@ -109,3 +109,4 @@
 - pkg:cargo/protobuf-codegen@4.33.2-release
 - pkg:cargo/protobuf-codegen@4.33.3-release
 - pkg:cargo/protobuf-codegen@4.33.4-release
+- pkg:cargo/protobuf-codegen@4.34.0-rc.1
