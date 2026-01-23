@@ -25,3 +25,4 @@
 - pkg:cargo/datafusion-functions@50.3.0
 - pkg:cargo/datafusion-functions@51.0.0
 - pkg:cargo/datafusion-functions@52.0.0
+- pkg:cargo/datafusion-functions@52.1.0
