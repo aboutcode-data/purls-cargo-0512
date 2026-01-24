@@ -20,3 +20,6 @@
 - pkg:cargo/rumtk-web@0.4.3
 - pkg:cargo/rumtk-web@0.4.4
 - pkg:cargo/rumtk-web@0.4.5
+- pkg:cargo/rumtk-web@0.4.6
+- pkg:cargo/rumtk-web@0.4.7
+- pkg:cargo/rumtk-web@0.4.8
