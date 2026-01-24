@@ -50,3 +50,4 @@
 - pkg:cargo/oil-api@0.5.9
 - pkg:cargo/oil-api@0.6.0
 - pkg:cargo/oil-api@0.6.1
+- pkg:cargo/oil-api@0.6.2
