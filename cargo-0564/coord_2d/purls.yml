@@ -33,3 +33,5 @@
 - pkg:cargo/coord_2d@0.3.5
 - pkg:cargo/coord_2d@0.3.6
 - pkg:cargo/coord_2d@0.3.7
+- pkg:cargo/coord_2d@0.4.0
+- pkg:cargo/coord_2d@0.4.1
