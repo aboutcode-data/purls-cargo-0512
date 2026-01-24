@@ -6,3 +6,5 @@
 - pkg:cargo/ash-rpc-contrib@3.1.0
 - pkg:cargo/ash-rpc-contrib@3.2.0
 - pkg:cargo/ash-rpc-contrib@3.2.1
+- pkg:cargo/ash-rpc-contrib@3.2.2
+- pkg:cargo/ash-rpc-contrib@3.3.0
