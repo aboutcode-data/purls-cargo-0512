@@ -294,6 +294,7 @@
 - pkg:cargo/deno_core@0.380.1
 - pkg:cargo/deno_core@0.381.0
 - pkg:cargo/deno_core@0.381.1
+- pkg:cargo/deno_core@0.382.0
 - pkg:cargo/deno_core@0.39.0
 - pkg:cargo/deno_core@0.40.0
 - pkg:cargo/deno_core@0.41.0
