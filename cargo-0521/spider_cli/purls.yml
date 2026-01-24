@@ -1604,6 +1604,9 @@
 - pkg:cargo/spider_cli@2.4.0
 - pkg:cargo/spider_cli@2.4.1
 - pkg:cargo/spider_cli@2.4.2
+- pkg:cargo/spider_cli@2.40.0
+- pkg:cargo/spider_cli@2.40.1
+- pkg:cargo/spider_cli@2.40.2
 - pkg:cargo/spider_cli@2.5.0
 - pkg:cargo/spider_cli@2.5.1
 - pkg:cargo/spider_cli@2.5.2
