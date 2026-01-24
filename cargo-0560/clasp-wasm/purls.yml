@@ -1,2 +1,3 @@
 - pkg:cargo/clasp-wasm@0.1.1
 - pkg:cargo/clasp-wasm@0.1.5
+- pkg:cargo/clasp-wasm@3.0.1
