@@ -13,3 +13,4 @@
 - pkg:cargo/lief@0.17.0
 - pkg:cargo/lief@0.17.1
 - pkg:cargo/lief@0.17.2
+- pkg:cargo/lief@0.17.3
