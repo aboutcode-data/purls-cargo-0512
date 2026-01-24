@@ -1,2 +1,3 @@
 - pkg:cargo/lightyear_raw_connection@0.25.5
 - pkg:cargo/lightyear_raw_connection@0.26.0
+- pkg:cargo/lightyear_raw_connection@0.26.1
