@@ -6,3 +6,4 @@
 - pkg:cargo/strid-macros@5.0.0
 - pkg:cargo/strid-macros@6.0.0
 - pkg:cargo/strid-macros@7.0.0
+- pkg:cargo/strid-macros@8.0.0
