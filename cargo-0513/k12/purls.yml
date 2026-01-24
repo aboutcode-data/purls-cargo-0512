@@ -5,3 +5,4 @@
 - pkg:cargo/k12@0.2.1
 - pkg:cargo/k12@0.3.0
 - pkg:cargo/k12@0.4.0-rc.0
+- pkg:cargo/k12@0.4.0-rc.1

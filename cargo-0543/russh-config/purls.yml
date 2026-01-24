@@ -3,6 +3,7 @@
 - pkg:cargo/russh-config@0.54.0
 - pkg:cargo/russh-config@0.54.5
 - pkg:cargo/russh-config@0.56.0
+- pkg:cargo/russh-config@0.57.0
 - pkg:cargo/russh-config@0.7.0
 - pkg:cargo/russh-config@0.7.0-beta.1
 - pkg:cargo/russh-config@0.7.1
