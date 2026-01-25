@@ -14,3 +14,4 @@
 - pkg:cargo/ui_layout@0.6.2
 - pkg:cargo/ui_layout@0.6.3
 - pkg:cargo/ui_layout@0.7.0
+- pkg:cargo/ui_layout@0.8.0

@@ -1,4 +1,8 @@
 - pkg:cargo/hyperlane_app@0.1.0
+- pkg:cargo/hyperlane_app@9.2.10
+- pkg:cargo/hyperlane_app@9.2.11
 - pkg:cargo/hyperlane_app@9.2.4
 - pkg:cargo/hyperlane_app@9.2.5
 - pkg:cargo/hyperlane_app@9.2.6
+- pkg:cargo/hyperlane_app@9.2.7
+- pkg:cargo/hyperlane_app@9.2.8
