@@ -118,3 +118,5 @@
 - pkg:cargo/hugo-build@0.154.3
 - pkg:cargo/hugo-build@0.154.4
 - pkg:cargo/hugo-build@0.154.5
+- pkg:cargo/hugo-build@0.154.5-hf1
+- pkg:cargo/hugo-build@0.154.5-hf2
