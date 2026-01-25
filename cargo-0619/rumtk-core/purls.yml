@@ -4,6 +4,10 @@
 - pkg:cargo/rumtk-core@0.10.2
 - pkg:cargo/rumtk-core@0.10.3
 - pkg:cargo/rumtk-core@0.10.4
+- pkg:cargo/rumtk-core@0.10.5
+- pkg:cargo/rumtk-core@0.10.6
+- pkg:cargo/rumtk-core@0.10.7
+- pkg:cargo/rumtk-core@0.10.8
 - pkg:cargo/rumtk-core@0.2.0
 - pkg:cargo/rumtk-core@0.3.0
 - pkg:cargo/rumtk-core@0.3.1
