@@ -15,3 +15,4 @@
 - pkg:cargo/tauri-plugin-mcp-bridge@0.6.5
 - pkg:cargo/tauri-plugin-mcp-bridge@0.7.0
 - pkg:cargo/tauri-plugin-mcp-bridge@0.8.0
+- pkg:cargo/tauri-plugin-mcp-bridge@0.8.1
