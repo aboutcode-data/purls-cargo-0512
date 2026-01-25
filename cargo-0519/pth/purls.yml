@@ -17,3 +17,4 @@
 - pkg:cargo/pth@0.31.0
 - pkg:cargo/pth@0.32.0
 - pkg:cargo/pth@0.34.0
+- pkg:cargo/pth@0.35.0
