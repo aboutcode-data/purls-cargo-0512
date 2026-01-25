@@ -17,6 +17,8 @@
 - pkg:cargo/hexasphere@15.0.0
 - pkg:cargo/hexasphere@15.1.0
 - pkg:cargo/hexasphere@16.0.0
+- pkg:cargo/hexasphere@16.1.0
+- pkg:cargo/hexasphere@17.0.0
 - pkg:cargo/hexasphere@2.0.0
 - pkg:cargo/hexasphere@2.1.0
 - pkg:cargo/hexasphere@3.0.0
