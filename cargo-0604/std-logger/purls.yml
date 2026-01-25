@@ -21,3 +21,4 @@
 - pkg:cargo/std-logger@0.5.5
 - pkg:cargo/std-logger@0.5.6
 - pkg:cargo/std-logger@0.5.7
+- pkg:cargo/std-logger@0.5.8
