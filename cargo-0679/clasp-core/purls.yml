@@ -3,3 +3,4 @@
 - pkg:cargo/clasp-core@0.1.5
 - pkg:cargo/clasp-core@0.1.8
 - pkg:cargo/clasp-core@3.0.1
+- pkg:cargo/clasp-core@3.1.0
