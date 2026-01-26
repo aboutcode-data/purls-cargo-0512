@@ -225,6 +225,7 @@
 - pkg:cargo/dittolive-ditto-sys@5.0.0-dev-weekly.20260105.156
 - pkg:cargo/dittolive-ditto-sys@5.0.0-dev-weekly.20260112.159
 - pkg:cargo/dittolive-ditto-sys@5.0.0-dev-weekly.20260119.165
+- pkg:cargo/dittolive-ditto-sys@5.0.0-dev-weekly.20260126.180
 - pkg:cargo/dittolive-ditto-sys@5.0.0-experimental-gha-sdk-publish-test.1
 - pkg:cargo/dittolive-ditto-sys@5.0.0-experimental-gha-sdk-publish-test.19
 - pkg:cargo/dittolive-ditto-sys@5.0.0-experimental-gha-sdk-publish-test.22
