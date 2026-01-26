@@ -90,6 +90,7 @@
 - pkg:cargo/chirpstack_api@4.14.1
 - pkg:cargo/chirpstack_api@4.15.0
 - pkg:cargo/chirpstack_api@4.16.0
+- pkg:cargo/chirpstack_api@4.16.1
 - pkg:cargo/chirpstack_api@4.2.0
 - pkg:cargo/chirpstack_api@4.2.0-test.1
 - pkg:cargo/chirpstack_api@4.3.0
