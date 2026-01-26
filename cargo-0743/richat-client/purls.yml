@@ -20,3 +20,4 @@
 - pkg:cargo/richat-client@6.0.0
 - pkg:cargo/richat-client@6.1.0
 - pkg:cargo/richat-client@7.0.0
+- pkg:cargo/richat-client@8.0.0
