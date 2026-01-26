@@ -2,3 +2,4 @@
 - pkg:cargo/firewheel-web-audio@0.2.0
 - pkg:cargo/firewheel-web-audio@0.3.0
 - pkg:cargo/firewheel-web-audio@0.3.0-rc.1
+- pkg:cargo/firewheel-web-audio@0.4.0
