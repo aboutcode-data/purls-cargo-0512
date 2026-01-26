@@ -3,3 +3,5 @@
 - pkg:cargo/sacp-cbor@0.2.1
 - pkg:cargo/sacp-cbor@0.2.2
 - pkg:cargo/sacp-cbor@0.3.0
+- pkg:cargo/sacp-cbor@0.4.0
+- pkg:cargo/sacp-cbor@0.4.1
