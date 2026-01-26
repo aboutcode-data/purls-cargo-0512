@@ -7,3 +7,4 @@
 - pkg:cargo/axum-jwt-auth@0.6.0
 - pkg:cargo/axum-jwt-auth@0.6.1
 - pkg:cargo/axum-jwt-auth@0.6.2
+- pkg:cargo/axum-jwt-auth@0.6.3
