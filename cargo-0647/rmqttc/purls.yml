@@ -9,3 +9,4 @@
 - pkg:cargo/rmqttc@1.0.9
 - pkg:cargo/rmqttc@1.1.0
 - pkg:cargo/rmqttc@1.1.1
+- pkg:cargo/rmqttc@1.1.2
