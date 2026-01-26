@@ -1,1 +1,2 @@
 - pkg:cargo/sbom-model-spdx@0.0.1
+- pkg:cargo/sbom-model-spdx@0.0.2
