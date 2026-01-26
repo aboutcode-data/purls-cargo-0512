@@ -4,6 +4,7 @@
 - pkg:cargo/reqtls@0.0.13
 - pkg:cargo/reqtls@0.0.14
 - pkg:cargo/reqtls@0.0.15
+- pkg:cargo/reqtls@0.0.16
 - pkg:cargo/reqtls@0.0.5
 - pkg:cargo/reqtls@0.0.6
 - pkg:cargo/reqtls@0.0.7
