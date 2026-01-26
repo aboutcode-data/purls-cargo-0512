@@ -16,3 +16,4 @@
 - pkg:cargo/k8s-crds-traefik@3.5.0
 - pkg:cargo/k8s-crds-traefik@3.5.3
 - pkg:cargo/k8s-crds-traefik@3.6.0
+- pkg:cargo/k8s-crds-traefik@3.6.7
