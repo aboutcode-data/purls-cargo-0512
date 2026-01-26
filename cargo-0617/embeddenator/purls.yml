@@ -1,1 +1,3 @@
 - pkg:cargo/embeddenator@0.20.0-alpha.1
+- pkg:cargo/embeddenator@0.21.0
+- pkg:cargo/embeddenator@0.21.1

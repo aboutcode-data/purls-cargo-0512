@@ -490,3 +490,4 @@
 - pkg:cargo/solana-faucet@3.1.5
 - pkg:cargo/solana-faucet@3.1.6
 - pkg:cargo/solana-faucet@3.1.7
+- pkg:cargo/solana-faucet@3.1.8

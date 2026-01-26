@@ -100,4 +100,5 @@
 - pkg:cargo/solana-curve25519@3.1.5
 - pkg:cargo/solana-curve25519@3.1.6
 - pkg:cargo/solana-curve25519@3.1.7
+- pkg:cargo/solana-curve25519@3.1.8
 - pkg:cargo/solana-curve25519@4.0.0

@@ -21,3 +21,4 @@
 - pkg:cargo/solana-svm-measure@3.1.5
 - pkg:cargo/solana-svm-measure@3.1.6
 - pkg:cargo/solana-svm-measure@3.1.7
+- pkg:cargo/solana-svm-measure@3.1.8
