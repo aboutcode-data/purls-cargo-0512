@@ -92,6 +92,7 @@
 - pkg:cargo/sea-orm-migration@2.0.0-rc.28
 - pkg:cargo/sea-orm-migration@2.0.0-rc.29
 - pkg:cargo/sea-orm-migration@2.0.0-rc.3
+- pkg:cargo/sea-orm-migration@2.0.0-rc.30
 - pkg:cargo/sea-orm-migration@2.0.0-rc.4
 - pkg:cargo/sea-orm-migration@2.0.0-rc.5
 - pkg:cargo/sea-orm-migration@2.0.0-rc.6
