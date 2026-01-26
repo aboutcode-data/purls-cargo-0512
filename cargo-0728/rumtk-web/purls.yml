@@ -27,6 +27,8 @@
 - pkg:cargo/rumtk-web@0.4.18
 - pkg:cargo/rumtk-web@0.4.19
 - pkg:cargo/rumtk-web@0.4.2
+- pkg:cargo/rumtk-web@0.4.20
+- pkg:cargo/rumtk-web@0.4.21
 - pkg:cargo/rumtk-web@0.4.3
 - pkg:cargo/rumtk-web@0.4.4
 - pkg:cargo/rumtk-web@0.4.5
