@@ -4,3 +4,4 @@
 - pkg:cargo/vulkan-headers-generator@0.2.0%2Bvulkan-1.4.337
 - pkg:cargo/vulkan-headers-generator@0.2.1%2Bvulkan-1.4.338
 - pkg:cargo/vulkan-headers-generator@0.2.2%2Bvulkan-1.4.339
+- pkg:cargo/vulkan-headers-generator@0.2.3%2Bvulkan-1.4.341
