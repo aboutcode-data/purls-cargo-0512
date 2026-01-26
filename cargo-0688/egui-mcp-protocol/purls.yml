@@ -1,3 +1,4 @@
 - pkg:cargo/egui-mcp-protocol@0.0.0
 - pkg:cargo/egui-mcp-protocol@0.0.1
 - pkg:cargo/egui-mcp-protocol@0.0.2
+- pkg:cargo/egui-mcp-protocol@0.0.3
