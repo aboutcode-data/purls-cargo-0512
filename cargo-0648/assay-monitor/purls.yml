@@ -1,3 +1,4 @@
 - pkg:cargo/assay-monitor@2.1.15
 - pkg:cargo/assay-monitor@2.2.2
 - pkg:cargo/assay-monitor@2.3.1
+- pkg:cargo/assay-monitor@2.4.0
