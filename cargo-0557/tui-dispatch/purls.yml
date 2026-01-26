@@ -7,3 +7,4 @@
 - pkg:cargo/tui-dispatch@0.3.3
 - pkg:cargo/tui-dispatch@0.4.0
 - pkg:cargo/tui-dispatch@0.5.3
+- pkg:cargo/tui-dispatch@0.5.4
