@@ -78,6 +78,7 @@
 - pkg:cargo/tauri-plugin-android-fs@24.2.0
 - pkg:cargo/tauri-plugin-android-fs@24.2.1
 - pkg:cargo/tauri-plugin-android-fs@24.2.2
+- pkg:cargo/tauri-plugin-android-fs@25.0.0
 - pkg:cargo/tauri-plugin-android-fs@3.0.0
 - pkg:cargo/tauri-plugin-android-fs@3.0.1
 - pkg:cargo/tauri-plugin-android-fs@4.0.0
