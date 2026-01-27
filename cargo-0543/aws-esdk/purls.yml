@@ -5,3 +5,4 @@
 - pkg:cargo/aws-esdk@1.1.1
 - pkg:cargo/aws-esdk@1.2.0
 - pkg:cargo/aws-esdk@1.2.1
+- pkg:cargo/aws-esdk@1.2.2
