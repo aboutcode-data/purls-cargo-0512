@@ -4,3 +4,4 @@
 - pkg:cargo/clasp-cli@3.0.1
 - pkg:cargo/clasp-cli@3.1.0
 - pkg:cargo/clasp-cli@3.2.0
+- pkg:cargo/clasp-cli@3.3.0
