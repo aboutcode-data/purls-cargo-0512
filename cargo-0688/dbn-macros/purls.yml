@@ -63,6 +63,7 @@
 - pkg:cargo/dbn-macros@0.45.0
 - pkg:cargo/dbn-macros@0.46.0
 - pkg:cargo/dbn-macros@0.47.0
+- pkg:cargo/dbn-macros@0.48.0
 - pkg:cargo/dbn-macros@0.5.0
 - pkg:cargo/dbn-macros@0.5.1
 - pkg:cargo/dbn-macros@0.6.0
