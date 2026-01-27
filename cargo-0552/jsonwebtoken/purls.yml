@@ -12,6 +12,7 @@
 - pkg:cargo/jsonwebtoken@10.0.0
 - pkg:cargo/jsonwebtoken@10.1.0
 - pkg:cargo/jsonwebtoken@10.2.0
+- pkg:cargo/jsonwebtoken@10.3.0
 - pkg:cargo/jsonwebtoken@2.0.0
 - pkg:cargo/jsonwebtoken@2.0.0-beta-1
 - pkg:cargo/jsonwebtoken@2.0.1
