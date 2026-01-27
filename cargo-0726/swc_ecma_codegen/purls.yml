@@ -595,6 +595,7 @@
 - pkg:cargo/swc_ecma_codegen@20.0.2
 - pkg:cargo/swc_ecma_codegen@21.0.0
 - pkg:cargo/swc_ecma_codegen@22.0.0
+- pkg:cargo/swc_ecma_codegen@23.0.0
 - pkg:cargo/swc_ecma_codegen@3.0.0
 - pkg:cargo/swc_ecma_codegen@4.0.0
 - pkg:cargo/swc_ecma_codegen@4.0.1

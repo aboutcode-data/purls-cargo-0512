@@ -94,6 +94,7 @@
 - pkg:cargo/kcl-lib@0.2.12
 - pkg:cargo/kcl-lib@0.2.120
 - pkg:cargo/kcl-lib@0.2.121
+- pkg:cargo/kcl-lib@0.2.122
 - pkg:cargo/kcl-lib@0.2.13
 - pkg:cargo/kcl-lib@0.2.15
 - pkg:cargo/kcl-lib@0.2.16

@@ -61,3 +61,4 @@
 - pkg:cargo/alloy-core@1.5.0
 - pkg:cargo/alloy-core@1.5.1
 - pkg:cargo/alloy-core@1.5.2
+- pkg:cargo/alloy-core@1.5.3
