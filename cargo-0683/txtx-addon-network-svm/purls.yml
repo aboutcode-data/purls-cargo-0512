@@ -41,6 +41,7 @@
 - pkg:cargo/txtx-addon-network-svm@0.3.16
 - pkg:cargo/txtx-addon-network-svm@0.3.17
 - pkg:cargo/txtx-addon-network-svm@0.3.18
+- pkg:cargo/txtx-addon-network-svm@0.3.19
 - pkg:cargo/txtx-addon-network-svm@0.3.2
 - pkg:cargo/txtx-addon-network-svm@0.3.3
 - pkg:cargo/txtx-addon-network-svm@0.3.4
