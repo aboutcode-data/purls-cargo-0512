@@ -23,6 +23,7 @@
 - pkg:cargo/poketex@1.16.1
 - pkg:cargo/poketex@1.16.2
 - pkg:cargo/poketex@1.16.3
+- pkg:cargo/poketex@1.16.4
 - pkg:cargo/poketex@1.2.0
 - pkg:cargo/poketex@1.3.0
 - pkg:cargo/poketex@1.4.0
