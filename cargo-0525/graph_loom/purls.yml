@@ -1,3 +1,5 @@
 - pkg:cargo/graph_loom@0.1.0
 - pkg:cargo/graph_loom@1.0.0
 - pkg:cargo/graph_loom@1.8.2
+- pkg:cargo/graph_loom@1.9.1
+- pkg:cargo/graph_loom@1.9.2
