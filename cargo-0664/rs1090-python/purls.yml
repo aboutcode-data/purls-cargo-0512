@@ -23,3 +23,4 @@
 - pkg:cargo/rs1090-python@0.4.4
 - pkg:cargo/rs1090-python@0.4.7
 - pkg:cargo/rs1090-python@0.4.8
+- pkg:cargo/rs1090-python@0.5.0
