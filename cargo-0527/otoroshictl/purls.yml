@@ -3,6 +3,7 @@
 - pkg:cargo/otoroshictl@0.0.12
 - pkg:cargo/otoroshictl@0.0.13
 - pkg:cargo/otoroshictl@0.0.14
+- pkg:cargo/otoroshictl@0.0.15
 - pkg:cargo/otoroshictl@0.0.5
 - pkg:cargo/otoroshictl@0.0.6
 - pkg:cargo/otoroshictl@0.0.7
