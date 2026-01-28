@@ -8,3 +8,4 @@
 - pkg:cargo/dampen-cli@0.2.6
 - pkg:cargo/dampen-cli@0.2.7
 - pkg:cargo/dampen-cli@0.2.8
+- pkg:cargo/dampen-cli@3.0.0
