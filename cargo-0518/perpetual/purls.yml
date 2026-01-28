@@ -67,6 +67,10 @@
 - pkg:cargo/perpetual@1.0.35
 - pkg:cargo/perpetual@1.0.37
 - pkg:cargo/perpetual@1.0.38
+- pkg:cargo/perpetual@1.0.39
+- pkg:cargo/perpetual@1.0.40
+- pkg:cargo/perpetual@1.0.41
+- pkg:cargo/perpetual@1.0.43
 - pkg:cargo/perpetual@1.0.7
 - pkg:cargo/perpetual@1.0.8
 - pkg:cargo/perpetual@1.0.9
