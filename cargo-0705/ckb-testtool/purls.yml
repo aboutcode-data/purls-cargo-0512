@@ -27,3 +27,4 @@
 - pkg:cargo/ckb-testtool@0.9.0
 - pkg:cargo/ckb-testtool@0.9.1
 - pkg:cargo/ckb-testtool@1.0.0
+- pkg:cargo/ckb-testtool@1.0.1
