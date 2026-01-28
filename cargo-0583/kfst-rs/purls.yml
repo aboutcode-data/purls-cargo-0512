@@ -8,3 +8,4 @@
 - pkg:cargo/kfst-rs@1.0.0-beta
 - pkg:cargo/kfst-rs@1.0.0-beta-2
 - pkg:cargo/kfst-rs@1.0.0-beta-3
+- pkg:cargo/kfst-rs@1.0.1
