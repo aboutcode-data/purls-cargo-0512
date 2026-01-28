@@ -4,6 +4,7 @@
 - pkg:cargo/webcomposer@0.11.1
 - pkg:cargo/webcomposer@0.12.0
 - pkg:cargo/webcomposer@0.12.1
+- pkg:cargo/webcomposer@0.12.2
 - pkg:cargo/webcomposer@0.7.0
 - pkg:cargo/webcomposer@0.8.0
 - pkg:cargo/webcomposer@0.8.1
