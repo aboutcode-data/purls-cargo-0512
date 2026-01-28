@@ -104,3 +104,4 @@
 - pkg:cargo/lance-index@0.9.9
 - pkg:cargo/lance-index@1.0.0
 - pkg:cargo/lance-index@1.0.1
+- pkg:cargo/lance-index@1.0.2
