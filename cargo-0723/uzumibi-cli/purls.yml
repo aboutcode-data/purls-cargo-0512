@@ -3,3 +3,4 @@
 - pkg:cargo/uzumibi-cli@0.1.0-rc2
 - pkg:cargo/uzumibi-cli@0.1.0-rc3
 - pkg:cargo/uzumibi-cli@0.3.0
+- pkg:cargo/uzumibi-cli@0.3.1
