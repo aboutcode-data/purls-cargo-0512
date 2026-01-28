@@ -5,3 +5,4 @@
 - pkg:cargo/mpdclient@0.1.2-rc.3
 - pkg:cargo/mpdclient@0.1.2-rc.4
 - pkg:cargo/mpdclient@0.1.2-rc1
+- pkg:cargo/mpdclient@0.2.0
