@@ -2,3 +2,4 @@
 - pkg:cargo/cuda-interposer-sys@0.13.0
 - pkg:cargo/cuda-interposer-sys@0.13.1
 - pkg:cargo/cuda-interposer-sys@0.13.2
+- pkg:cargo/cuda-interposer-sys@0.13.3
