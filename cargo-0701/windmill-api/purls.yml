@@ -236,3 +236,4 @@
 - pkg:cargo/windmill-api@1.620.1
 - pkg:cargo/windmill-api@1.621.0
 - pkg:cargo/windmill-api@1.621.1
+- pkg:cargo/windmill-api@1.621.2
