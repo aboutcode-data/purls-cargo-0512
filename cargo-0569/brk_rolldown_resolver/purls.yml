@@ -15,3 +15,4 @@
 - pkg:cargo/brk_rolldown_resolver@0.6.0
 - pkg:cargo/brk_rolldown_resolver@0.7.0
 - pkg:cargo/brk_rolldown_resolver@0.8.0
+- pkg:cargo/brk_rolldown_resolver@1.0.0-rc.2

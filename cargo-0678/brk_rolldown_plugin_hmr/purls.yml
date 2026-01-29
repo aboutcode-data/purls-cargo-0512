@@ -13,3 +13,4 @@
 - pkg:cargo/brk_rolldown_plugin_hmr@0.6.0
 - pkg:cargo/brk_rolldown_plugin_hmr@0.7.0
 - pkg:cargo/brk_rolldown_plugin_hmr@0.8.0
+- pkg:cargo/brk_rolldown_plugin_hmr@1.0.0-rc.2

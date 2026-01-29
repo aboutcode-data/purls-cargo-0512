@@ -1,1 +1,2 @@
 - pkg:cargo/brk_rolldown_plugin_utils@0.8.0
+- pkg:cargo/brk_rolldown_plugin_utils@1.0.0-rc.2
