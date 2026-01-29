@@ -18,3 +18,4 @@
 - pkg:cargo/stellar-ledger@23.4.0
 - pkg:cargo/stellar-ledger@23.4.1
 - pkg:cargo/stellar-ledger@25.0.0
+- pkg:cargo/stellar-ledger@25.1.0
