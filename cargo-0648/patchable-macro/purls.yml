@@ -4,3 +4,4 @@
 - pkg:cargo/patchable-macro@0.4.0
 - pkg:cargo/patchable-macro@0.4.1
 - pkg:cargo/patchable-macro@0.5.0
+- pkg:cargo/patchable-macro@0.5.1
