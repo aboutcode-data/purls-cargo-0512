@@ -43,6 +43,7 @@
 - pkg:cargo/lumen@2.19.0
 - pkg:cargo/lumen@2.2.0
 - pkg:cargo/lumen@2.2.1
+- pkg:cargo/lumen@2.20.0
 - pkg:cargo/lumen@2.3.0
 - pkg:cargo/lumen@2.4.0
 - pkg:cargo/lumen@2.5.0
