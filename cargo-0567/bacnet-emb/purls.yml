@@ -10,3 +10,6 @@
 - pkg:cargo/bacnet-emb@0.13.22
 - pkg:cargo/bacnet-emb@0.13.23
 - pkg:cargo/bacnet-emb@0.13.24
+- pkg:cargo/bacnet-emb@0.13.25
+- pkg:cargo/bacnet-emb@0.13.26
+- pkg:cargo/bacnet-emb@0.13.27
