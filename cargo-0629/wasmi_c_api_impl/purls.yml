@@ -44,3 +44,4 @@
 - pkg:cargo/wasmi_c_api_impl@1.0.5
 - pkg:cargo/wasmi_c_api_impl@1.0.6
 - pkg:cargo/wasmi_c_api_impl@1.0.7
+- pkg:cargo/wasmi_c_api_impl@1.0.8
