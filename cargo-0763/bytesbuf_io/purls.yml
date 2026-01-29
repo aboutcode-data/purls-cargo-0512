@@ -1,1 +1,2 @@
 - pkg:cargo/bytesbuf_io@0.1.1
+- pkg:cargo/bytesbuf_io@0.2.0
