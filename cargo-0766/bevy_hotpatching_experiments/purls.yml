@@ -1,1 +1,2 @@
 - pkg:cargo/bevy_hotpatching_experiments@0.3.0
+- pkg:cargo/bevy_hotpatching_experiments@0.4.0
