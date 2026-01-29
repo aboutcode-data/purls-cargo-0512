@@ -26,6 +26,7 @@
 - pkg:cargo/wadm@0.20.2
 - pkg:cargo/wadm@0.20.3
 - pkg:cargo/wadm@0.21.0
+- pkg:cargo/wadm@0.21.1
 - pkg:cargo/wadm@0.4.0
 - pkg:cargo/wadm@0.4.0-alpha.2
 - pkg:cargo/wadm@0.4.0-alpha.3

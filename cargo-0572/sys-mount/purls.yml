@@ -16,3 +16,4 @@
 - pkg:cargo/sys-mount@2.1.1
 - pkg:cargo/sys-mount@3.0.0
 - pkg:cargo/sys-mount@3.0.1
+- pkg:cargo/sys-mount@3.1.0
