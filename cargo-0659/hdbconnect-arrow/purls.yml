@@ -5,3 +5,4 @@
 - pkg:cargo/hdbconnect-arrow@0.2.0
 - pkg:cargo/hdbconnect-arrow@0.2.1
 - pkg:cargo/hdbconnect-arrow@0.2.3
+- pkg:cargo/hdbconnect-arrow@0.2.4
