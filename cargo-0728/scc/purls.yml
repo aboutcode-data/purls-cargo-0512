@@ -222,3 +222,4 @@
 - pkg:cargo/scc@3.5.0
 - pkg:cargo/scc@3.5.1
 - pkg:cargo/scc@3.5.2
+- pkg:cargo/scc@3.5.3
