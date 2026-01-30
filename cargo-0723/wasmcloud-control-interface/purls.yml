@@ -60,3 +60,4 @@
 - pkg:cargo/wasmcloud-control-interface@2.3.0
 - pkg:cargo/wasmcloud-control-interface@2.4.0
 - pkg:cargo/wasmcloud-control-interface@3.0.0
+- pkg:cargo/wasmcloud-control-interface@3.0.1
