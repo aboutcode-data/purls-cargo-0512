@@ -2,3 +2,5 @@
 - pkg:cargo/trojan@0.1.4
 - pkg:cargo/trojan@0.1.8
 - pkg:cargo/trojan@0.2.0
+- pkg:cargo/trojan@0.2.3
+- pkg:cargo/trojan@0.3.0
