@@ -1,1 +1,2 @@
 - pkg:cargo/private-state-manager-shared@0.1.0
+- pkg:cargo/private-state-manager-shared@0.12.6
