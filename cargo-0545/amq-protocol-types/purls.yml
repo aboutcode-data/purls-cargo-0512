@@ -26,6 +26,7 @@
 - pkg:cargo/amq-protocol-types@1.1.0
 - pkg:cargo/amq-protocol-types@1.1.1
 - pkg:cargo/amq-protocol-types@1.2.0
+- pkg:cargo/amq-protocol-types@10.0.0
 - pkg:cargo/amq-protocol-types@10.0.0-beta.1
 - pkg:cargo/amq-protocol-types@10.0.0-beta.2
 - pkg:cargo/amq-protocol-types@10.0.0-beta.3
