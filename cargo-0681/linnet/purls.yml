@@ -12,6 +12,7 @@
 - pkg:cargo/linnet@0.15.1
 - pkg:cargo/linnet@0.16.0
 - pkg:cargo/linnet@0.16.1
+- pkg:cargo/linnet@0.17.0
 - pkg:cargo/linnet@0.2.0
 - pkg:cargo/linnet@0.2.1
 - pkg:cargo/linnet@0.2.2
