@@ -1,2 +1,3 @@
 - pkg:cargo/watchbird_api@0.1.0
 - pkg:cargo/watchbird_api@0.2.0-rc.0
+- pkg:cargo/watchbird_api@0.2.1-rc.0
