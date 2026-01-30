@@ -35,5 +35,6 @@
 - pkg:cargo/ntp-proto@1.6.0
 - pkg:cargo/ntp-proto@1.6.1
 - pkg:cargo/ntp-proto@1.6.2
+- pkg:cargo/ntp-proto@1.7.0
 - pkg:cargo/ntp-proto@1.7.0-alpha.20251003
 - pkg:cargo/ntp-proto@1.7.0-alpha.20260122
