@@ -41,3 +41,4 @@
 - pkg:cargo/sp1-curves@5.2.2
 - pkg:cargo/sp1-curves@5.2.3
 - pkg:cargo/sp1-curves@5.2.4
+- pkg:cargo/sp1-curves@6.0.0-beta.1
