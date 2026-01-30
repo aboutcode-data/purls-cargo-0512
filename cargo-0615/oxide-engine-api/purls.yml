@@ -6,3 +6,5 @@
 - pkg:cargo/oxide-engine-api@0.13.2
 - pkg:cargo/oxide-engine-api@0.13.3
 - pkg:cargo/oxide-engine-api@0.14.3
+- pkg:cargo/oxide-engine-api@0.15.0
+- pkg:cargo/oxide-engine-api@0.16.0
