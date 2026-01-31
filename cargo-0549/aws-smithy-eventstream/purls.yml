@@ -54,6 +54,7 @@
 - pkg:cargo/aws-smithy-eventstream@0.60.14
 - pkg:cargo/aws-smithy-eventstream@0.60.15
 - pkg:cargo/aws-smithy-eventstream@0.60.16
+- pkg:cargo/aws-smithy-eventstream@0.60.17
 - pkg:cargo/aws-smithy-eventstream@0.60.2
 - pkg:cargo/aws-smithy-eventstream@0.60.3
 - pkg:cargo/aws-smithy-eventstream@0.60.4
