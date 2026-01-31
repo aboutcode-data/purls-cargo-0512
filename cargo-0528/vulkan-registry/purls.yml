@@ -5,3 +5,4 @@
 - pkg:cargo/vulkan-registry@0.2.1%2Bvulkan-1.4.338
 - pkg:cargo/vulkan-registry@0.2.2%2Bvulkan-1.4.339
 - pkg:cargo/vulkan-registry@0.2.3%2Bvulkan-1.4.341
+- pkg:cargo/vulkan-registry@0.2.4%2Bvulkan-1.4.342
