@@ -21,3 +21,4 @@
 - pkg:cargo/asimov-sdk@24.0.0-dev.7
 - pkg:cargo/asimov-sdk@24.0.0-dev.8
 - pkg:cargo/asimov-sdk@24.0.0-dev.9
+- pkg:cargo/asimov-sdk@25.1.0
