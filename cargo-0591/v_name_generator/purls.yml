@@ -3,3 +3,5 @@
 - pkg:cargo/v_name_generator@1.0.5
 - pkg:cargo/v_name_generator@1.1.0
 - pkg:cargo/v_name_generator@1.2.0
+- pkg:cargo/v_name_generator@1.3.0
+- pkg:cargo/v_name_generator@1.3.1
