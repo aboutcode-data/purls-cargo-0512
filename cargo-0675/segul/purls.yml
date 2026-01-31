@@ -24,6 +24,8 @@
 - pkg:cargo/segul@0.21.3
 - pkg:cargo/segul@0.22.0
 - pkg:cargo/segul@0.22.1
+- pkg:cargo/segul@0.23.0
+- pkg:cargo/segul@0.23.2
 - pkg:cargo/segul@0.3.0
 - pkg:cargo/segul@0.3.1
 - pkg:cargo/segul@0.3.10
