@@ -5,6 +5,7 @@
 - pkg:cargo/workmux@0.1.101
 - pkg:cargo/workmux@0.1.102
 - pkg:cargo/workmux@0.1.103
+- pkg:cargo/workmux@0.1.104
 - pkg:cargo/workmux@0.1.11
 - pkg:cargo/workmux@0.1.13
 - pkg:cargo/workmux@0.1.14
