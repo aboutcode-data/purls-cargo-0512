@@ -78,3 +78,5 @@
 - pkg:cargo/arri_repr@1.1.7
 - pkg:cargo/arri_repr@1.1.8
 - pkg:cargo/arri_repr@1.1.9
+- pkg:cargo/arri_repr@1.2.0
+- pkg:cargo/arri_repr@1.2.0-dev.db5bbc7

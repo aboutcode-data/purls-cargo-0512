@@ -24,3 +24,5 @@
 - pkg:cargo/arri_common@1.1.36
 - pkg:cargo/arri_common@1.1.37-dev.838b2d7
 - pkg:cargo/arri_common@1.1.37-dev.b3495c6
+- pkg:cargo/arri_common@1.2.0
+- pkg:cargo/arri_common@1.2.0-dev.db5bbc7
