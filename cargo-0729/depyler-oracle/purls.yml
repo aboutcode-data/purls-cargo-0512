@@ -1,2 +1,3 @@
 - pkg:cargo/depyler-oracle@3.22.0
 - pkg:cargo/depyler-oracle@3.23.0
+- pkg:cargo/depyler-oracle@3.24.0
