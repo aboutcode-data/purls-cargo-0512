@@ -40,7 +40,15 @@
 - pkg:cargo/rumtk-web@0.4.3
 - pkg:cargo/rumtk-web@0.4.30
 - pkg:cargo/rumtk-web@0.4.31
+- pkg:cargo/rumtk-web@0.4.33
+- pkg:cargo/rumtk-web@0.4.34
+- pkg:cargo/rumtk-web@0.4.35
+- pkg:cargo/rumtk-web@0.4.36
+- pkg:cargo/rumtk-web@0.4.37
+- pkg:cargo/rumtk-web@0.4.38
+- pkg:cargo/rumtk-web@0.4.39
 - pkg:cargo/rumtk-web@0.4.4
+- pkg:cargo/rumtk-web@0.4.40
 - pkg:cargo/rumtk-web@0.4.5
 - pkg:cargo/rumtk-web@0.4.6
 - pkg:cargo/rumtk-web@0.4.7
