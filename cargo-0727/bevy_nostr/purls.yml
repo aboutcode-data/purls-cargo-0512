@@ -1,1 +1,2 @@
 - pkg:cargo/bevy_nostr@0.1.4
+- pkg:cargo/bevy_nostr@0.1.6
