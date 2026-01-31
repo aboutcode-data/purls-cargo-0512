@@ -20,3 +20,4 @@
 - pkg:cargo/ensembler@0.2.8
 - pkg:cargo/ensembler@0.2.9
 - pkg:cargo/ensembler@0.3.0
+- pkg:cargo/ensembler@1.0.0
