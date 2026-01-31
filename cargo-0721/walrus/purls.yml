@@ -30,6 +30,7 @@
 - pkg:cargo/walrus@0.24.2
 - pkg:cargo/walrus@0.24.3
 - pkg:cargo/walrus@0.24.4
+- pkg:cargo/walrus@0.24.5
 - pkg:cargo/walrus@0.3.0
 - pkg:cargo/walrus@0.4.0
 - pkg:cargo/walrus@0.5.0
