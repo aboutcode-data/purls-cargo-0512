@@ -5,3 +5,5 @@
 - pkg:cargo/standout-dispatch@3.4.0
 - pkg:cargo/standout-dispatch@3.5.0
 - pkg:cargo/standout-dispatch@3.6.0
+- pkg:cargo/standout-dispatch@3.6.1
+- pkg:cargo/standout-dispatch@3.7.0
