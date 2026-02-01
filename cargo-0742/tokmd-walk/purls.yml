@@ -1,1 +1,2 @@
 - pkg:cargo/tokmd-walk@1.2.0
+- pkg:cargo/tokmd-walk@1.3.0
