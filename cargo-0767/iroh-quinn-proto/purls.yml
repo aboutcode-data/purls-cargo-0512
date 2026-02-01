@@ -6,3 +6,4 @@
 - pkg:cargo/iroh-quinn-proto@0.13.0
 - pkg:cargo/iroh-quinn-proto@0.14.0
 - pkg:cargo/iroh-quinn-proto@0.15.0
+- pkg:cargo/iroh-quinn-proto@0.15.1
