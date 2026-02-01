@@ -28,3 +28,4 @@
 - pkg:cargo/malachite-float@0.7.1
 - pkg:cargo/malachite-float@0.8.0
 - pkg:cargo/malachite-float@0.9.0
+- pkg:cargo/malachite-float@0.9.1

@@ -1,3 +1,4 @@
 - pkg:cargo/omnipair-decoder@0.0.1-rc.7
 - pkg:cargo/omnipair-decoder@0.2.0
 - pkg:cargo/omnipair-decoder@0.2.1
+- pkg:cargo/omnipair-decoder@0.3.0
