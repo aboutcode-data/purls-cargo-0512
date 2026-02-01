@@ -10,3 +10,4 @@
 - pkg:cargo/rusty-cdk@0.6.2
 - pkg:cargo/rusty-cdk@0.6.3
 - pkg:cargo/rusty-cdk@0.7.0
+- pkg:cargo/rusty-cdk@0.8.0
