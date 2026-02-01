@@ -1,5 +1,6 @@
 - pkg:cargo/webrtc-mdns@0.0.0
 - pkg:cargo/webrtc-mdns@0.10.0
+- pkg:cargo/webrtc-mdns@0.17.0
 - pkg:cargo/webrtc-mdns@0.2.10
 - pkg:cargo/webrtc-mdns@0.2.11
 - pkg:cargo/webrtc-mdns@0.2.12
