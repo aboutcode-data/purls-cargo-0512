@@ -149,6 +149,7 @@
 - pkg:cargo/hyperlane-macros@11.0.8
 - pkg:cargo/hyperlane-macros@12.0.0
 - pkg:cargo/hyperlane-macros@13.1.1
+- pkg:cargo/hyperlane-macros@13.1.2
 - pkg:cargo/hyperlane-macros@2.0.0
 - pkg:cargo/hyperlane-macros@3.0.0
 - pkg:cargo/hyperlane-macros@4.0.0
