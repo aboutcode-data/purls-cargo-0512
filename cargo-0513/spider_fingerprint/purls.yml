@@ -164,3 +164,4 @@
 - pkg:cargo/spider_fingerprint@2.37.97
 - pkg:cargo/spider_fingerprint@2.37.98
 - pkg:cargo/spider_fingerprint@2.37.99
+- pkg:cargo/spider_fingerprint@2.38.0
