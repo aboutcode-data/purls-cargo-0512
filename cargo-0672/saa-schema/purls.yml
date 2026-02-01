@@ -68,4 +68,6 @@
 - pkg:cargo/saa-schema@0.26.0
 - pkg:cargo/saa-schema@0.26.0-beta
 - pkg:cargo/saa-schema@0.26.10
+- pkg:cargo/saa-schema@0.26.12
 - pkg:cargo/saa-schema@0.27.0
+- pkg:cargo/saa-schema@0.27.1
