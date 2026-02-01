@@ -20,5 +20,6 @@
 - pkg:cargo/par-term-emu-core-rust@0.22.0
 - pkg:cargo/par-term-emu-core-rust@0.22.1
 - pkg:cargo/par-term-emu-core-rust@0.23.0
+- pkg:cargo/par-term-emu-core-rust@0.25.0
 - pkg:cargo/par-term-emu-core-rust@0.9.0
 - pkg:cargo/par-term-emu-core-rust@0.9.1
