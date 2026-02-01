@@ -1,5 +1,6 @@
 - pkg:cargo/ranged_integers@0.10.0
 - pkg:cargo/ranged_integers@0.10.1
+- pkg:cargo/ranged_integers@0.11.0
 - pkg:cargo/ranged_integers@0.3.0
 - pkg:cargo/ranged_integers@0.3.1
 - pkg:cargo/ranged_integers@0.4.0
