@@ -40,3 +40,4 @@
 - pkg:cargo/serde_rusqlite@0.40.0
 - pkg:cargo/serde_rusqlite@0.40.1
 - pkg:cargo/serde_rusqlite@0.41.0
+- pkg:cargo/serde_rusqlite@0.41.1
