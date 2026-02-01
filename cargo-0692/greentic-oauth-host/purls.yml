@@ -8,6 +8,7 @@
 - pkg:cargo/greentic-oauth-host@0.4.19
 - pkg:cargo/greentic-oauth-host@0.4.20
 - pkg:cargo/greentic-oauth-host@0.4.21
+- pkg:cargo/greentic-oauth-host@0.4.22
 - pkg:cargo/greentic-oauth-host@0.4.6
 - pkg:cargo/greentic-oauth-host@0.4.7
 - pkg:cargo/greentic-oauth-host@0.4.9
