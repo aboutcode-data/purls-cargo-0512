@@ -189,6 +189,7 @@
 - pkg:cargo/ra_ap_project_model@0.0.315
 - pkg:cargo/ra_ap_project_model@0.0.316
 - pkg:cargo/ra_ap_project_model@0.0.317
+- pkg:cargo/ra_ap_project_model@0.0.318
 - pkg:cargo/ra_ap_project_model@0.0.35
 - pkg:cargo/ra_ap_project_model@0.0.37
 - pkg:cargo/ra_ap_project_model@0.0.38
