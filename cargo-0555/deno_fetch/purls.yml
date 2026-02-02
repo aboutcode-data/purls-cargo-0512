@@ -176,6 +176,7 @@
 - pkg:cargo/deno_fetch@0.251.0
 - pkg:cargo/deno_fetch@0.252.0
 - pkg:cargo/deno_fetch@0.253.0
+- pkg:cargo/deno_fetch@0.254.0
 - pkg:cargo/deno_fetch@0.26.0
 - pkg:cargo/deno_fetch@0.27.0
 - pkg:cargo/deno_fetch@0.28.0

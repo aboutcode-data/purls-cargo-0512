@@ -67,6 +67,7 @@
 - pkg:cargo/deno_napi@0.159.0
 - pkg:cargo/deno_napi@0.16.0
 - pkg:cargo/deno_napi@0.160.0
+- pkg:cargo/deno_napi@0.161.0
 - pkg:cargo/deno_napi@0.17.0
 - pkg:cargo/deno_napi@0.18.0
 - pkg:cargo/deno_napi@0.19.0
