@@ -98,3 +98,4 @@
 - pkg:cargo/tauri-codegen@2.5.0
 - pkg:cargo/tauri-codegen@2.5.1
 - pkg:cargo/tauri-codegen@2.5.2
+- pkg:cargo/tauri-codegen@2.5.3
