@@ -10,3 +10,4 @@
 - pkg:cargo/sql_docs@1.0.7
 - pkg:cargo/sql_docs@1.0.8
 - pkg:cargo/sql_docs@1.0.9
+- pkg:cargo/sql_docs@1.1.0
