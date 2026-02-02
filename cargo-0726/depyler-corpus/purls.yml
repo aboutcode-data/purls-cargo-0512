@@ -1,1 +1,2 @@
 - pkg:cargo/depyler-corpus@3.22.0
+- pkg:cargo/depyler-corpus@3.25.0
