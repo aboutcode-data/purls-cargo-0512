@@ -24,6 +24,7 @@
 - pkg:cargo/sha1@0.11.0-rc.2
 - pkg:cargo/sha1@0.11.0-rc.3
 - pkg:cargo/sha1@0.11.0-rc.4
+- pkg:cargo/sha1@0.11.0-rc.5
 - pkg:cargo/sha1@0.2.0
 - pkg:cargo/sha1@0.3.0
 - pkg:cargo/sha1@0.4.0

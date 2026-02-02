@@ -48,5 +48,6 @@
 - pkg:cargo/wasmer-wasix-types@0.700.0-alpha.2
 - pkg:cargo/wasmer-wasix-types@0.700.0-rc.1
 - pkg:cargo/wasmer-wasix-types@0.700.0-rc.2
+- pkg:cargo/wasmer-wasix-types@0.700.1
 - pkg:cargo/wasmer-wasix-types@0.8.0
 - pkg:cargo/wasmer-wasix-types@0.9.0
