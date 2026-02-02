@@ -6,3 +6,4 @@
 - pkg:cargo/eventql-parser@0.1.4
 - pkg:cargo/eventql-parser@0.1.5
 - pkg:cargo/eventql-parser@0.1.6
+- pkg:cargo/eventql-parser@0.1.7
