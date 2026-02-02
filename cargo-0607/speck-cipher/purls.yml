@@ -1,3 +1,4 @@
 - pkg:cargo/speck-cipher@0.0.0
 - pkg:cargo/speck-cipher@0.0.1
 - pkg:cargo/speck-cipher@0.1.0-rc.2
+- pkg:cargo/speck-cipher@0.1.0-rc.3
