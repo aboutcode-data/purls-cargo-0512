@@ -23,3 +23,6 @@
 - pkg:cargo/rexile@0.4.8
 - pkg:cargo/rexile@0.4.9
 - pkg:cargo/rexile@0.5.0
+- pkg:cargo/rexile@0.5.1
+- pkg:cargo/rexile@0.5.2
+- pkg:cargo/rexile@0.5.3
