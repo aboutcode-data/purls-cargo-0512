@@ -4,3 +4,5 @@
 - pkg:cargo/colgrep@0.7.1
 - pkg:cargo/colgrep@0.8.4
 - pkg:cargo/colgrep@0.8.5
+- pkg:cargo/colgrep@0.8.6
+- pkg:cargo/colgrep@0.8.7
