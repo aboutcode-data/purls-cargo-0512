@@ -13,3 +13,4 @@
 - pkg:cargo/splice@0.5.3
 - pkg:cargo/splice@2.0.0
 - pkg:cargo/splice@2.2.2
+- pkg:cargo/splice@2.2.3
