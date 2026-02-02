@@ -239,3 +239,4 @@
 - pkg:cargo/dittolive-ditto-sys@5.0.0-experimental-kmp-publishing.3
 - pkg:cargo/dittolive-ditto-sys@5.0.0-experimental-sdk-cmd-logging.1
 - pkg:cargo/dittolive-ditto-sys@5.0.0-experimental-sdk-test-suite.1
+- pkg:cargo/dittolive-ditto-sys@5.0.0-experimental-sprint-demo.1
