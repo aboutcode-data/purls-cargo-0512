@@ -10,3 +10,4 @@
 - pkg:cargo/distributed-topic-tracker@0.2.3
 - pkg:cargo/distributed-topic-tracker@0.2.4
 - pkg:cargo/distributed-topic-tracker@0.2.5
+- pkg:cargo/distributed-topic-tracker@0.2.7
