@@ -8,3 +8,4 @@
 - pkg:cargo/tagged-vec@0.3.5
 - pkg:cargo/tagged-vec@0.3.6
 - pkg:cargo/tagged-vec@0.4.0
+- pkg:cargo/tagged-vec@0.4.1
