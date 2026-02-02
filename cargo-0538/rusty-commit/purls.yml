@@ -7,4 +7,6 @@
 - pkg:cargo/rusty-commit@1.0.21
 - pkg:cargo/rusty-commit@1.0.22
 - pkg:cargo/rusty-commit@1.0.24
+- pkg:cargo/rusty-commit@1.0.25
+- pkg:cargo/rusty-commit@1.0.26
 - pkg:cargo/rusty-commit@1.0.6
