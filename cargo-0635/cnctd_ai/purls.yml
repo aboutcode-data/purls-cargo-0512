@@ -4,7 +4,10 @@
 - pkg:cargo/cnctd_ai@0.1.13
 - pkg:cargo/cnctd_ai@0.1.14
 - pkg:cargo/cnctd_ai@0.1.15
+- pkg:cargo/cnctd_ai@0.1.17
+- pkg:cargo/cnctd_ai@0.1.18
 - pkg:cargo/cnctd_ai@0.1.2
+- pkg:cargo/cnctd_ai@0.1.20
 - pkg:cargo/cnctd_ai@0.1.4
 - pkg:cargo/cnctd_ai@0.1.6
 - pkg:cargo/cnctd_ai@0.1.7
