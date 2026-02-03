@@ -6,4 +6,5 @@
 - pkg:cargo/dusk-bytes@0.1.5
 - pkg:cargo/dusk-bytes@0.1.6
 - pkg:cargo/dusk-bytes@0.1.7
+- pkg:cargo/dusk-bytes@0.1.8-rc.0
 - pkg:cargo/dusk-bytes@0.2.0
