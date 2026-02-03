@@ -99,6 +99,7 @@
 - pkg:cargo/web30@1.12.2
 - pkg:cargo/web30@1.12.3
 - pkg:cargo/web30@1.12.4
+- pkg:cargo/web30@1.13.0
 - pkg:cargo/web30@1.2.0
 - pkg:cargo/web30@1.4.0
 - pkg:cargo/web30@1.4.1
