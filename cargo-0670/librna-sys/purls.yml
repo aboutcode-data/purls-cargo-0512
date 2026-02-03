@@ -12,3 +12,4 @@
 - pkg:cargo/librna-sys@0.2.3
 - pkg:cargo/librna-sys@0.3.0
 - pkg:cargo/librna-sys@0.3.0-pre.2
+- pkg:cargo/librna-sys@0.3.1
