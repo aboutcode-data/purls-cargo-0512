@@ -32,6 +32,7 @@
 - pkg:cargo/tor-llcrypto@0.36.0
 - pkg:cargo/tor-llcrypto@0.37.0
 - pkg:cargo/tor-llcrypto@0.38.0
+- pkg:cargo/tor-llcrypto@0.39.0
 - pkg:cargo/tor-llcrypto@0.4.0
 - pkg:cargo/tor-llcrypto@0.4.1
 - pkg:cargo/tor-llcrypto@0.4.2
