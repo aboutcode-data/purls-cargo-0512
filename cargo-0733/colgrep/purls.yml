@@ -6,3 +6,4 @@
 - pkg:cargo/colgrep@0.8.5
 - pkg:cargo/colgrep@0.8.6
 - pkg:cargo/colgrep@0.8.7
+- pkg:cargo/colgrep@0.9.0
