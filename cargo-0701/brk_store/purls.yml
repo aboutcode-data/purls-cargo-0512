@@ -73,3 +73,4 @@
 - pkg:cargo/brk_store@0.1.0-beta.1
 - pkg:cargo/brk_store@0.1.1
 - pkg:cargo/brk_store@0.1.2
+- pkg:cargo/brk_store@0.1.3
