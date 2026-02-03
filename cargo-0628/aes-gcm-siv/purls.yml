@@ -14,6 +14,7 @@
 - pkg:cargo/aes-gcm-siv@0.12.0-rc.0
 - pkg:cargo/aes-gcm-siv@0.12.0-rc.1
 - pkg:cargo/aes-gcm-siv@0.12.0-rc.2
+- pkg:cargo/aes-gcm-siv@0.12.0-rc.3
 - pkg:cargo/aes-gcm-siv@0.2.0
 - pkg:cargo/aes-gcm-siv@0.2.1
 - pkg:cargo/aes-gcm-siv@0.3.0
