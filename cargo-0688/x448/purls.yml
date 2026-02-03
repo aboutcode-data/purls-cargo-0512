@@ -7,6 +7,7 @@
 - pkg:cargo/x448@0.14.0-pre.4
 - pkg:cargo/x448@0.14.0-pre.5
 - pkg:cargo/x448@0.14.0-pre.6
+- pkg:cargo/x448@0.14.0-pre.7
 - pkg:cargo/x448@0.2.0
 - pkg:cargo/x448@0.3.0
 - pkg:cargo/x448@0.4.0
