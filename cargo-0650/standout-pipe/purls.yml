@@ -1,1 +1,3 @@
 - pkg:cargo/standout-pipe@3.7.0
+- pkg:cargo/standout-pipe@3.8.0
+- pkg:cargo/standout-pipe@4.0.0

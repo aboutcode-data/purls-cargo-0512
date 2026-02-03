@@ -10,6 +10,7 @@
 - pkg:cargo/bcrypt-pbkdf@0.11.0-rc.1
 - pkg:cargo/bcrypt-pbkdf@0.11.0-rc.2
 - pkg:cargo/bcrypt-pbkdf@0.11.0-rc.3
+- pkg:cargo/bcrypt-pbkdf@0.11.0-rc.6
 - pkg:cargo/bcrypt-pbkdf@0.2.0
 - pkg:cargo/bcrypt-pbkdf@0.2.1
 - pkg:cargo/bcrypt-pbkdf@0.3.0
