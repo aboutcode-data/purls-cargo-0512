@@ -1,1 +1,5 @@
 - pkg:cargo/qmd-cli@0.2.4
+- pkg:cargo/qmd-cli@0.2.5
+- pkg:cargo/qmd-cli@0.3.0
+- pkg:cargo/qmd-cli@0.3.1
+- pkg:cargo/qmd-cli@0.3.2
