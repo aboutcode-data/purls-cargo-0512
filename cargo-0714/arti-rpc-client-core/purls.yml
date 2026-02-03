@@ -16,3 +16,4 @@
 - pkg:cargo/arti-rpc-client-core@0.36.0
 - pkg:cargo/arti-rpc-client-core@0.37.0
 - pkg:cargo/arti-rpc-client-core@0.38.0
+- pkg:cargo/arti-rpc-client-core@0.39.0
