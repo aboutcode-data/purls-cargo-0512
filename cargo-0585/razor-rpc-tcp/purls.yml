@@ -1,1 +1,2 @@
 - pkg:cargo/razor-rpc-tcp@0.3.0
+- pkg:cargo/razor-rpc-tcp@0.4.0
