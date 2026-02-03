@@ -76,3 +76,5 @@
 - pkg:cargo/opencode-cloud@6.4.0
 - pkg:cargo/opencode-cloud@6.4.1
 - pkg:cargo/opencode-cloud@7.0.0
+- pkg:cargo/opencode-cloud@7.0.1
+- pkg:cargo/opencode-cloud@7.1.0
