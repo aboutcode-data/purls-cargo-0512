@@ -3,3 +3,4 @@
 - pkg:cargo/llmgrep@1.1.1
 - pkg:cargo/llmgrep@1.2.0
 - pkg:cargo/llmgrep@1.4.0
+- pkg:cargo/llmgrep@2.1.0
