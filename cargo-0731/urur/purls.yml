@@ -44,6 +44,7 @@
 - pkg:cargo/urur@0.3.0
 - pkg:cargo/urur@0.3.1
 - pkg:cargo/urur@0.3.11
+- pkg:cargo/urur@0.3.12
 - pkg:cargo/urur@0.3.2
 - pkg:cargo/urur@0.3.3
 - pkg:cargo/urur@0.3.4
