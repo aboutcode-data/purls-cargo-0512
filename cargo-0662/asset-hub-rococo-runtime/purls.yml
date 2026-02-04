@@ -35,6 +35,7 @@
 - pkg:cargo/asset-hub-rococo-runtime@0.28.1
 - pkg:cargo/asset-hub-rococo-runtime@0.29.0
 - pkg:cargo/asset-hub-rococo-runtime@0.30.0
+- pkg:cargo/asset-hub-rococo-runtime@0.30.1
 - pkg:cargo/asset-hub-rococo-runtime@0.31.0
 - pkg:cargo/asset-hub-rococo-runtime@0.31.1
 - pkg:cargo/asset-hub-rococo-runtime@0.9.420
