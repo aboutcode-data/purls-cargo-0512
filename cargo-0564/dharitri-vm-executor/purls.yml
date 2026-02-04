@@ -10,3 +10,4 @@
 - pkg:cargo/dharitri-vm-executor@1.0.6
 - pkg:cargo/dharitri-vm-executor@1.0.7
 - pkg:cargo/dharitri-vm-executor@1.0.8
+- pkg:cargo/dharitri-vm-executor@2.0.0
