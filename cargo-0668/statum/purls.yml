@@ -43,3 +43,6 @@
 - pkg:cargo/statum@0.1.7
 - pkg:cargo/statum@0.1.8
 - pkg:cargo/statum@0.1.9
+- pkg:cargo/statum@0.3.0
+- pkg:cargo/statum@0.3.1
+- pkg:cargo/statum@0.3.2
