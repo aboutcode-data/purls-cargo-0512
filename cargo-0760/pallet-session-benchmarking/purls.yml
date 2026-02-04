@@ -53,6 +53,7 @@
 - pkg:cargo/pallet-session-benchmarking@42.0.0
 - pkg:cargo/pallet-session-benchmarking@43.0.0
 - pkg:cargo/pallet-session-benchmarking@44.0.0
+- pkg:cargo/pallet-session-benchmarking@44.0.1
 - pkg:cargo/pallet-session-benchmarking@45.0.0
 - pkg:cargo/pallet-session-benchmarking@5.0.0
 - pkg:cargo/pallet-session-benchmarking@6.0.0

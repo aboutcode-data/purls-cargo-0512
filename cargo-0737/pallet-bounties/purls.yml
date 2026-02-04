@@ -44,6 +44,7 @@
 - pkg:cargo/pallet-bounties@41.0.0
 - pkg:cargo/pallet-bounties@42.0.0
 - pkg:cargo/pallet-bounties@43.0.0
+- pkg:cargo/pallet-bounties@43.0.1
 - pkg:cargo/pallet-bounties@44.0.0
 - pkg:cargo/pallet-bounties@5.0.0
 - pkg:cargo/pallet-bounties@6.0.0
