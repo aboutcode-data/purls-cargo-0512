@@ -24,6 +24,7 @@
 - pkg:cargo/opencode-cloud@12.0.0
 - pkg:cargo/opencode-cloud@12.0.1
 - pkg:cargo/opencode-cloud@12.0.2
+- pkg:cargo/opencode-cloud@13.0.0
 - pkg:cargo/opencode-cloud@2.0.0
 - pkg:cargo/opencode-cloud@2.1.0
 - pkg:cargo/opencode-cloud@2.1.1
