@@ -1694,6 +1694,7 @@
 - pkg:cargo/spider@2.44.2
 - pkg:cargo/spider@2.44.3
 - pkg:cargo/spider@2.44.4
+- pkg:cargo/spider@2.44.5
 - pkg:cargo/spider@2.5.0
 - pkg:cargo/spider@2.5.1
 - pkg:cargo/spider@2.5.2
