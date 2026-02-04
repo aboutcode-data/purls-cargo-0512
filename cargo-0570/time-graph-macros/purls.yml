@@ -1,3 +1,4 @@
 - pkg:cargo/time-graph-macros@0.1.0
 - pkg:cargo/time-graph-macros@0.3.0
 - pkg:cargo/time-graph-macros@0.3.2
+- pkg:cargo/time-graph-macros@0.3.3
