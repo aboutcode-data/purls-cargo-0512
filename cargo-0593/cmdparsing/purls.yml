@@ -4,3 +4,5 @@
 - pkg:cargo/cmdparsing@1.0.0
 - pkg:cargo/cmdparsing@1.0.1
 - pkg:cargo/cmdparsing@1.1.0
+- pkg:cargo/cmdparsing@2.0.0
+- pkg:cargo/cmdparsing@2.0.1
