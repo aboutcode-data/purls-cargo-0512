@@ -49,6 +49,7 @@
 - pkg:cargo/aws-sdk-iotsitewise@0.9.0
 - pkg:cargo/aws-sdk-iotsitewise@1.1.0
 - pkg:cargo/aws-sdk-iotsitewise@1.10.0
+- pkg:cargo/aws-sdk-iotsitewise@1.100.0
 - pkg:cargo/aws-sdk-iotsitewise@1.11.0
 - pkg:cargo/aws-sdk-iotsitewise@1.12.0
 - pkg:cargo/aws-sdk-iotsitewise@1.13.0

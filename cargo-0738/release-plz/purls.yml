@@ -126,6 +126,7 @@
 - pkg:cargo/release-plz@0.3.151
 - pkg:cargo/release-plz@0.3.152
 - pkg:cargo/release-plz@0.3.153
+- pkg:cargo/release-plz@0.3.154
 - pkg:cargo/release-plz@0.3.16
 - pkg:cargo/release-plz@0.3.17
 - pkg:cargo/release-plz@0.3.18

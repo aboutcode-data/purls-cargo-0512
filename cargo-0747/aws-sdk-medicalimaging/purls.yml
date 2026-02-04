@@ -105,3 +105,4 @@
 - pkg:cargo/aws-sdk-medicalimaging@1.96.0
 - pkg:cargo/aws-sdk-medicalimaging@1.97.0
 - pkg:cargo/aws-sdk-medicalimaging@1.98.0
+- pkg:cargo/aws-sdk-medicalimaging@1.99.0

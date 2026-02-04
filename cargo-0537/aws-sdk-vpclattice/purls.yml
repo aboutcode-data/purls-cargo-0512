@@ -110,3 +110,4 @@
 - pkg:cargo/aws-sdk-vpclattice@1.94.0
 - pkg:cargo/aws-sdk-vpclattice@1.95.0
 - pkg:cargo/aws-sdk-vpclattice@1.96.0
+- pkg:cargo/aws-sdk-vpclattice@1.97.0
