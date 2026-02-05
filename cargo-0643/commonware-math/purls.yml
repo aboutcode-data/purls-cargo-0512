@@ -1,3 +1,4 @@
 - pkg:cargo/commonware-math@0.0.1
 - pkg:cargo/commonware-math@0.0.64
 - pkg:cargo/commonware-math@0.0.65
+- pkg:cargo/commonware-math@2026.2.0

@@ -6,3 +6,4 @@
 - pkg:cargo/qp-wormhole-circuit@0.1.7
 - pkg:cargo/qp-wormhole-circuit@0.2.1
 - pkg:cargo/qp-wormhole-circuit@1.0.0
+- pkg:cargo/qp-wormhole-circuit@1.0.1

@@ -11,3 +11,4 @@
 - pkg:cargo/localize_it@1.4.2
 - pkg:cargo/localize_it@1.4.3
 - pkg:cargo/localize_it@1.4.4
+- pkg:cargo/localize_it@1.5.0
