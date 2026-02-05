@@ -36,6 +36,8 @@
 - pkg:cargo/rari@0.7.9
 - pkg:cargo/rari@0.8.0
 - pkg:cargo/rari@0.8.1
+- pkg:cargo/rari@0.8.10
+- pkg:cargo/rari@0.8.11
 - pkg:cargo/rari@0.8.2
 - pkg:cargo/rari@0.8.4
 - pkg:cargo/rari@0.8.6
