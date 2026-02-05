@@ -24,3 +24,4 @@
 - pkg:cargo/redis-cloud@0.9.1
 - pkg:cargo/redis-cloud@0.9.2
 - pkg:cargo/redis-cloud@0.9.3
+- pkg:cargo/redis-cloud@0.9.4
