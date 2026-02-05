@@ -9,3 +9,4 @@
 - pkg:cargo/token-gateway-primitives@2503.2.0
 - pkg:cargo/token-gateway-primitives@2506.0.0
 - pkg:cargo/token-gateway-primitives@2506.1.0
+- pkg:cargo/token-gateway-primitives@2512.0.0
