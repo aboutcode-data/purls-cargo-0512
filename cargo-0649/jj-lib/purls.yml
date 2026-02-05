@@ -29,5 +29,6 @@
 - pkg:cargo/jj-lib@0.35.0
 - pkg:cargo/jj-lib@0.36.0
 - pkg:cargo/jj-lib@0.37.0
+- pkg:cargo/jj-lib@0.38.0
 - pkg:cargo/jj-lib@0.8.0
 - pkg:cargo/jj-lib@0.9.0

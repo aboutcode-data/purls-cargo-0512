@@ -7,4 +7,5 @@
 - pkg:cargo/linear-cli@0.2.6
 - pkg:cargo/linear-cli@0.2.7
 - pkg:cargo/linear-cli@0.2.8
+- pkg:cargo/linear-cli@0.2.9
 - pkg:cargo/linear-cli@0.3.0

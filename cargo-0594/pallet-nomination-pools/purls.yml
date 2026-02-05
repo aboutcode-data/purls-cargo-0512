@@ -55,6 +55,7 @@
 - pkg:cargo/pallet-nomination-pools@42.0.1
 - pkg:cargo/pallet-nomination-pools@43.0.0
 - pkg:cargo/pallet-nomination-pools@43.0.1
+- pkg:cargo/pallet-nomination-pools@43.0.2
 - pkg:cargo/pallet-nomination-pools@5.0.0
 - pkg:cargo/pallet-nomination-pools@6.0.0
 - pkg:cargo/pallet-nomination-pools@7.0.0
