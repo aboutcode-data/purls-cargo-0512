@@ -20,3 +20,4 @@
 - pkg:cargo/ismp-parachain@2506.1.0
 - pkg:cargo/ismp-parachain@2506.2.0
 - pkg:cargo/ismp-parachain@2506.3.0
+- pkg:cargo/ismp-parachain@2512.0.0
