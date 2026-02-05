@@ -28,6 +28,7 @@
 - pkg:cargo/gstreamer-video-sys@0.24.1
 - pkg:cargo/gstreamer-video-sys@0.24.4
 - pkg:cargo/gstreamer-video-sys@0.25.0-alpha.1
+- pkg:cargo/gstreamer-video-sys@0.25.0-alpha.2
 - pkg:cargo/gstreamer-video-sys@0.3.0
 - pkg:cargo/gstreamer-video-sys@0.4.0
 - pkg:cargo/gstreamer-video-sys@0.5.0

@@ -16,3 +16,4 @@
 - pkg:cargo/gstreamer-gl-x11-sys@0.24.0
 - pkg:cargo/gstreamer-gl-x11-sys@0.24.4
 - pkg:cargo/gstreamer-gl-x11-sys@0.25.0-alpha.1
+- pkg:cargo/gstreamer-gl-x11-sys@0.25.0-alpha.2
