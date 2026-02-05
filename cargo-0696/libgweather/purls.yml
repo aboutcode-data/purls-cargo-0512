@@ -6,3 +6,4 @@
 - pkg:cargo/libgweather@4.5.0
 - pkg:cargo/libgweather@4.6.0
 - pkg:cargo/libgweather@4.7.0
+- pkg:cargo/libgweather@4.8.0-alpha.0
