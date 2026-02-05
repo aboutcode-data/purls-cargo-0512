@@ -30,3 +30,4 @@
 - pkg:cargo/pest_debugger@2.8.3
 - pkg:cargo/pest_debugger@2.8.4
 - pkg:cargo/pest_debugger@2.8.5
+- pkg:cargo/pest_debugger@2.8.6
