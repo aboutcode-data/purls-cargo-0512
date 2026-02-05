@@ -4,3 +4,4 @@
 - pkg:cargo/wilhelm_renderer@0.2.2
 - pkg:cargo/wilhelm_renderer@0.5.0
 - pkg:cargo/wilhelm_renderer@0.6.0
+- pkg:cargo/wilhelm_renderer@0.6.1
