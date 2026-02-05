@@ -23,6 +23,8 @@
 - pkg:cargo/bcmr@0.3.23
 - pkg:cargo/bcmr@0.3.24
 - pkg:cargo/bcmr@0.3.25
+- pkg:cargo/bcmr@0.3.26
+- pkg:cargo/bcmr@0.3.27
 - pkg:cargo/bcmr@0.3.3
 - pkg:cargo/bcmr@0.3.4
 - pkg:cargo/bcmr@0.3.5
