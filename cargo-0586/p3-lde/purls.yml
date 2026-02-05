@@ -11,3 +11,5 @@
 - pkg:cargo/p3-lde@0.2.2-succinct
 - pkg:cargo/p3-lde@0.2.3-succinct
 - pkg:cargo/p3-lde@0.2.4-succinct
+- pkg:cargo/p3-lde@0.3.0-succinct
+- pkg:cargo/p3-lde@0.3.1-succinct
