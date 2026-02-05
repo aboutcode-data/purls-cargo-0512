@@ -7,3 +7,4 @@
 - pkg:cargo/solana-sysvar@3.0.0
 - pkg:cargo/solana-sysvar@3.1.0
 - pkg:cargo/solana-sysvar@3.1.1
+- pkg:cargo/solana-sysvar@4.0.0
