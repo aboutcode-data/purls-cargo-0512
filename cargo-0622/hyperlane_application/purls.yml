@@ -5,6 +5,8 @@
 - pkg:cargo/hyperlane_application@14.0.14
 - pkg:cargo/hyperlane_application@14.0.15
 - pkg:cargo/hyperlane_application@14.0.16
+- pkg:cargo/hyperlane_application@14.0.17
+- pkg:cargo/hyperlane_application@14.0.18
 - pkg:cargo/hyperlane_application@14.0.7
 - pkg:cargo/hyperlane_application@14.0.8
 - pkg:cargo/hyperlane_application@14.0.9

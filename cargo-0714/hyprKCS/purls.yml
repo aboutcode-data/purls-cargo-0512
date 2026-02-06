@@ -24,3 +24,4 @@
 - pkg:cargo/hyprKCS@1.23.6
 - pkg:cargo/hyprKCS@1.23.7
 - pkg:cargo/hyprKCS@1.23.8
+- pkg:cargo/hyprKCS@1.24.0
