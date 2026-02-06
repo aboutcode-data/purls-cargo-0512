@@ -306,3 +306,5 @@
 - pkg:cargo/taskcluster@96.0.0
 - pkg:cargo/taskcluster@96.1.0
 - pkg:cargo/taskcluster@96.2.1
+- pkg:cargo/taskcluster@96.2.2
+- pkg:cargo/taskcluster@96.2.3
