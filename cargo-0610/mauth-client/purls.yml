@@ -6,3 +6,4 @@
 - pkg:cargo/mauth-client@0.6.0
 - pkg:cargo/mauth-client@0.6.1
 - pkg:cargo/mauth-client@0.7.0
+- pkg:cargo/mauth-client@0.7.1

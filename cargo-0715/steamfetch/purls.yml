@@ -1,3 +1,8 @@
 - pkg:cargo/steamfetch@0.2.1
 - pkg:cargo/steamfetch@0.2.3
 - pkg:cargo/steamfetch@0.2.4
+- pkg:cargo/steamfetch@0.2.5
+- pkg:cargo/steamfetch@0.2.6
+- pkg:cargo/steamfetch@0.2.7
+- pkg:cargo/steamfetch@0.2.9
+- pkg:cargo/steamfetch@0.3.0

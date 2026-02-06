@@ -30,6 +30,7 @@
 - pkg:cargo/opencode-cloud@15.0.0
 - pkg:cargo/opencode-cloud@15.1.0
 - pkg:cargo/opencode-cloud@15.2.0
+- pkg:cargo/opencode-cloud@16.0.0
 - pkg:cargo/opencode-cloud@2.0.0
 - pkg:cargo/opencode-cloud@2.1.0
 - pkg:cargo/opencode-cloud@2.1.1
