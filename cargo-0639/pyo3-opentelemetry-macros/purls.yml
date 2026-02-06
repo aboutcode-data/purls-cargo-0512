@@ -11,3 +11,4 @@
 - pkg:cargo/pyo3-opentelemetry-macros@0.3.2-rc.0
 - pkg:cargo/pyo3-opentelemetry-macros@0.3.4
 - pkg:cargo/pyo3-opentelemetry-macros@0.4.0
+- pkg:cargo/pyo3-opentelemetry-macros@0.5.0

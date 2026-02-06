@@ -1,5 +1,6 @@
 - pkg:cargo/uv@0.0.0
 - pkg:cargo/uv@0.0.1
+- pkg:cargo/uv@0.10.0
 - pkg:cargo/uv@0.9.11
 - pkg:cargo/uv@0.9.12
 - pkg:cargo/uv@0.9.13
