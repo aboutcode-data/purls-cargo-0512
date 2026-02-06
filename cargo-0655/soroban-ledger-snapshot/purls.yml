@@ -97,3 +97,4 @@
 - pkg:cargo/soroban-ledger-snapshot@25.0.0-rc.2
 - pkg:cargo/soroban-ledger-snapshot@25.0.1
 - pkg:cargo/soroban-ledger-snapshot@25.0.2
+- pkg:cargo/soroban-ledger-snapshot@25.1.0
