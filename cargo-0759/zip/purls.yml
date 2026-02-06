@@ -116,3 +116,4 @@
 - pkg:cargo/zip@7.2.0
 - pkg:cargo/zip@7.3.0
 - pkg:cargo/zip@7.3.0-pre1
+- pkg:cargo/zip@7.4.0

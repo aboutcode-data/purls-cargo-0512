@@ -5,3 +5,4 @@
 - pkg:cargo/rustdf@0.3.4
 - pkg:cargo/rustdf@0.3.5
 - pkg:cargo/rustdf@0.4.0
+- pkg:cargo/rustdf@0.4.1
