@@ -14,3 +14,4 @@
 - pkg:cargo/ml-kem@0.3.0-pre.5
 - pkg:cargo/ml-kem@0.3.0-pre.6
 - pkg:cargo/ml-kem@0.3.0-pre.7
+- pkg:cargo/ml-kem@0.3.0-rc.0
