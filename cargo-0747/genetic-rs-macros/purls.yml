@@ -6,3 +6,4 @@
 - pkg:cargo/genetic-rs-macros@0.5.4
 - pkg:cargo/genetic-rs-macros@0.6.0
 - pkg:cargo/genetic-rs-macros@1.0.0
+- pkg:cargo/genetic-rs-macros@1.1.0
