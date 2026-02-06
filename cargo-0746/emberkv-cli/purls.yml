@@ -1,3 +1,4 @@
 - pkg:cargo/emberkv-cli@0.1.3
 - pkg:cargo/emberkv-cli@0.1.4
 - pkg:cargo/emberkv-cli@0.2.0
+- pkg:cargo/emberkv-cli@0.2.1
