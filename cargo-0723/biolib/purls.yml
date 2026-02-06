@@ -1,1 +1,5 @@
 - pkg:cargo/biolib@0.1.0
+- pkg:cargo/biolib@1.3.23
+- pkg:cargo/biolib@1.3.27
+- pkg:cargo/biolib@1.3.32
+- pkg:cargo/biolib@1.3.34

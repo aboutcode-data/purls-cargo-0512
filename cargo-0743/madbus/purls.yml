@@ -9,3 +9,4 @@
 - pkg:cargo/madbus@0.6.0
 - pkg:cargo/madbus@0.7.0
 - pkg:cargo/madbus@0.7.5
+- pkg:cargo/madbus@0.8.0

@@ -55,3 +55,5 @@
 - pkg:cargo/ntex-service@3.7.3
 - pkg:cargo/ntex-service@3.8.0
 - pkg:cargo/ntex-service@4.0.0
+- pkg:cargo/ntex-service@4.1.0
+- pkg:cargo/ntex-service@4.2.0
