@@ -2,9 +2,11 @@
 - pkg:cargo/ptars@0.0.10
 - pkg:cargo/ptars@0.0.10-rc2
 - pkg:cargo/ptars@0.0.10-rc3
+- pkg:cargo/ptars@0.0.11
 - pkg:cargo/ptars@0.0.11-rc0
 - pkg:cargo/ptars@0.0.11-rc1
 - pkg:cargo/ptars@0.0.11-rc2
+- pkg:cargo/ptars@0.0.11-rc3
 - pkg:cargo/ptars@0.0.7
 - pkg:cargo/ptars@0.0.8
 - pkg:cargo/ptars@0.0.9
