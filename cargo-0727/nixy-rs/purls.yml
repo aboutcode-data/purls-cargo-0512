@@ -18,3 +18,5 @@
 - pkg:cargo/nixy-rs@0.2.2
 - pkg:cargo/nixy-rs@0.2.3
 - pkg:cargo/nixy-rs@0.2.6
+- pkg:cargo/nixy-rs@0.2.7
+- pkg:cargo/nixy-rs@0.3.0
