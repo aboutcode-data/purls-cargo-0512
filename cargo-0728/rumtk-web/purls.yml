@@ -50,6 +50,8 @@
 - pkg:cargo/rumtk-web@0.4.4
 - pkg:cargo/rumtk-web@0.4.40
 - pkg:cargo/rumtk-web@0.4.401
+- pkg:cargo/rumtk-web@0.4.43
+- pkg:cargo/rumtk-web@0.4.44
 - pkg:cargo/rumtk-web@0.4.5
 - pkg:cargo/rumtk-web@0.4.6
 - pkg:cargo/rumtk-web@0.4.7

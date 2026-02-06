@@ -16,6 +16,7 @@
 - pkg:cargo/rumtk-hl7-v2@0.8.10
 - pkg:cargo/rumtk-hl7-v2@0.8.11
 - pkg:cargo/rumtk-hl7-v2@0.8.12
+- pkg:cargo/rumtk-hl7-v2@0.8.13
 - pkg:cargo/rumtk-hl7-v2@0.8.2
 - pkg:cargo/rumtk-hl7-v2@0.8.3
 - pkg:cargo/rumtk-hl7-v2@0.8.4
