@@ -2,3 +2,4 @@
 - pkg:cargo/s2n-quic-dc-metrics@0.70.0
 - pkg:cargo/s2n-quic-dc-metrics@0.71.0
 - pkg:cargo/s2n-quic-dc-metrics@0.72.0
+- pkg:cargo/s2n-quic-dc-metrics@0.73.0
