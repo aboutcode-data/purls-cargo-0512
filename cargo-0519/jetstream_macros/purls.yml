@@ -5,6 +5,7 @@
 - pkg:cargo/jetstream_macros@12.1.0
 - pkg:cargo/jetstream_macros@13.0.0
 - pkg:cargo/jetstream_macros@14.0.0
+- pkg:cargo/jetstream_macros@14.1.0
 - pkg:cargo/jetstream_macros@6.5.0
 - pkg:cargo/jetstream_macros@6.6.0
 - pkg:cargo/jetstream_macros@6.6.1

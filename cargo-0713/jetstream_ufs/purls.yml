@@ -5,6 +5,7 @@
 - pkg:cargo/jetstream_ufs@12.1.0
 - pkg:cargo/jetstream_ufs@13.0.0
 - pkg:cargo/jetstream_ufs@14.0.0
+- pkg:cargo/jetstream_ufs@14.1.0
 - pkg:cargo/jetstream_ufs@5.0.0
 - pkg:cargo/jetstream_ufs@5.3.0
 - pkg:cargo/jetstream_ufs@5.4.0
