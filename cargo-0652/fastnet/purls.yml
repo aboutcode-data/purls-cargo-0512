@@ -14,3 +14,7 @@
 - pkg:cargo/fastnet@0.2.4
 - pkg:cargo/fastnet@0.2.5
 - pkg:cargo/fastnet@0.2.6
+- pkg:cargo/fastnet@0.2.7
+- pkg:cargo/fastnet@0.2.8
+- pkg:cargo/fastnet@0.3.0
+- pkg:cargo/fastnet@0.3.1

@@ -17,6 +17,7 @@
 - pkg:cargo/testcontainers-modules@0.13.0
 - pkg:cargo/testcontainers-modules@0.14.0
 - pkg:cargo/testcontainers-modules@0.14.0-beta.1
+- pkg:cargo/testcontainers-modules@0.15.0
 - pkg:cargo/testcontainers-modules@0.2.0
 - pkg:cargo/testcontainers-modules@0.2.1
 - pkg:cargo/testcontainers-modules@0.3.0

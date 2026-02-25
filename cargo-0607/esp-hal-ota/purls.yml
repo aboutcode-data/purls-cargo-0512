@@ -13,3 +13,4 @@
 - pkg:cargo/esp-hal-ota@0.4.3
 - pkg:cargo/esp-hal-ota@0.4.4
 - pkg:cargo/esp-hal-ota@0.4.5
+- pkg:cargo/esp-hal-ota@0.4.6

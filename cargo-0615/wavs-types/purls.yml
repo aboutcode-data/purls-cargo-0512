@@ -32,6 +32,7 @@
 - pkg:cargo/wavs-types@1.4.2
 - pkg:cargo/wavs-types@1.5.0
 - pkg:cargo/wavs-types@1.5.1
+- pkg:cargo/wavs-types@1.5.2
 - pkg:cargo/wavs-types@2.0.0-alpha.1
 - pkg:cargo/wavs-types@2.0.0-alpha.2
 - pkg:cargo/wavs-types@2.0.0-alpha.4
@@ -41,6 +42,7 @@
 - pkg:cargo/wavs-types@2.0.0-rc.10
 - pkg:cargo/wavs-types@2.0.0-rc.11
 - pkg:cargo/wavs-types@2.0.0-rc.12
+- pkg:cargo/wavs-types@2.0.0-rc.13
 - pkg:cargo/wavs-types@2.0.0-rc.2
 - pkg:cargo/wavs-types@2.0.0-rc.3
 - pkg:cargo/wavs-types@2.0.0-rc.4
