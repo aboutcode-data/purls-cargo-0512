@@ -61,3 +61,7 @@
 - pkg:cargo/gitstack@3.0.7
 - pkg:cargo/gitstack@3.0.8
 - pkg:cargo/gitstack@3.0.9
+- pkg:cargo/gitstack@4.0.0
+- pkg:cargo/gitstack@4.0.1
+- pkg:cargo/gitstack@5.0.0
+- pkg:cargo/gitstack@5.0.1

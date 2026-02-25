@@ -39,3 +39,5 @@
 - pkg:cargo/gix-traverse@0.51.0
 - pkg:cargo/gix-traverse@0.51.1
 - pkg:cargo/gix-traverse@0.52.0
+- pkg:cargo/gix-traverse@0.53.0
+- pkg:cargo/gix-traverse@0.54.0

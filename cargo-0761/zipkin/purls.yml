@@ -21,3 +21,4 @@
 - pkg:cargo/zipkin@0.4.1
 - pkg:cargo/zipkin@0.4.2
 - pkg:cargo/zipkin@1.0.0
+- pkg:cargo/zipkin@1.1.0

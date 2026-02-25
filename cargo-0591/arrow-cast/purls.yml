@@ -50,3 +50,4 @@
 - pkg:cargo/arrow-cast@57.1.0
 - pkg:cargo/arrow-cast@57.2.0
 - pkg:cargo/arrow-cast@57.3.0
+- pkg:cargo/arrow-cast@58.0.0

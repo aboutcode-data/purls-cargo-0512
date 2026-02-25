@@ -70,3 +70,4 @@
 - pkg:cargo/freecs@1.3.4
 - pkg:cargo/freecs@1.4.0
 - pkg:cargo/freecs@1.5.0
+- pkg:cargo/freecs@1.6.0

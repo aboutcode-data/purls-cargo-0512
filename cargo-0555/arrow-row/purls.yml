@@ -47,3 +47,4 @@
 - pkg:cargo/arrow-row@57.1.0
 - pkg:cargo/arrow-row@57.2.0
 - pkg:cargo/arrow-row@57.3.0
+- pkg:cargo/arrow-row@58.0.0

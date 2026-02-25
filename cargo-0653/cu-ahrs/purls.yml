@@ -1,1 +1,2 @@
 - pkg:cargo/cu-ahrs@0.12.0
+- pkg:cargo/cu-ahrs@0.13.0

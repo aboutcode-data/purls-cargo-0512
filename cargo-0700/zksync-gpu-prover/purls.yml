@@ -47,3 +47,6 @@
 - pkg:cargo/zksync-gpu-prover@0.155.4
 - pkg:cargo/zksync-gpu-prover@0.155.5
 - pkg:cargo/zksync-gpu-prover@0.155.6
+- pkg:cargo/zksync-gpu-prover@0.155.7
+- pkg:cargo/zksync-gpu-prover@0.155.8
+- pkg:cargo/zksync-gpu-prover@0.155.9

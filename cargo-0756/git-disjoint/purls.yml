@@ -263,6 +263,11 @@
 - pkg:cargo/git-disjoint@0.10.331
 - pkg:cargo/git-disjoint@0.10.332
 - pkg:cargo/git-disjoint@0.10.333
+- pkg:cargo/git-disjoint@0.10.334
+- pkg:cargo/git-disjoint@0.10.335
+- pkg:cargo/git-disjoint@0.10.336
+- pkg:cargo/git-disjoint@0.10.337
+- pkg:cargo/git-disjoint@0.10.338
 - pkg:cargo/git-disjoint@0.10.34
 - pkg:cargo/git-disjoint@0.10.35
 - pkg:cargo/git-disjoint@0.10.36

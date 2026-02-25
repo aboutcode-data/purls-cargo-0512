@@ -1,8 +1,12 @@
 - pkg:cargo/mqtt5-wasm@0.1.0
 - pkg:cargo/mqtt5-wasm@0.10.0
 - pkg:cargo/mqtt5-wasm@0.10.1
+- pkg:cargo/mqtt5-wasm@0.10.10
 - pkg:cargo/mqtt5-wasm@0.10.2
 - pkg:cargo/mqtt5-wasm@0.10.3
+- pkg:cargo/mqtt5-wasm@0.10.5
+- pkg:cargo/mqtt5-wasm@0.10.8
+- pkg:cargo/mqtt5-wasm@0.10.9
 - pkg:cargo/mqtt5-wasm@0.2.2
 - pkg:cargo/mqtt5-wasm@0.2.4
 - pkg:cargo/mqtt5-wasm@0.3.0

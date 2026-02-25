@@ -35,5 +35,7 @@
 - pkg:cargo/gix-mailmap@0.28.1
 - pkg:cargo/gix-mailmap@0.29.0
 - pkg:cargo/gix-mailmap@0.30.0
+- pkg:cargo/gix-mailmap@0.31.0
+- pkg:cargo/gix-mailmap@0.32.0
 - pkg:cargo/gix-mailmap@0.9.2
 - pkg:cargo/gix-mailmap@0.9.3
