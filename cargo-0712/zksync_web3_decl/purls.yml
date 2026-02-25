@@ -19,6 +19,7 @@
 - pkg:cargo/zksync_web3_decl@29.1.1-non-semver-compat
 - pkg:cargo/zksync_web3_decl@29.1.2-non-semver-compat
 - pkg:cargo/zksync_web3_decl@29.11.0-non-semver-compat
+- pkg:cargo/zksync_web3_decl@29.11.1-non-semver-compat
 - pkg:cargo/zksync_web3_decl@29.2.0-non-semver-compat
 - pkg:cargo/zksync_web3_decl@29.3.0-non-semver-compat
 - pkg:cargo/zksync_web3_decl@29.4.0-non-semver-compat
