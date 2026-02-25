@@ -24,3 +24,4 @@
 - pkg:cargo/agtrace-engine@0.5.7
 - pkg:cargo/agtrace-engine@0.6.0
 - pkg:cargo/agtrace-engine@0.7.0
+- pkg:cargo/agtrace-engine@0.7.1

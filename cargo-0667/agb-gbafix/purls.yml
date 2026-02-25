@@ -24,3 +24,5 @@
 - pkg:cargo/agb-gbafix@0.22.4
 - pkg:cargo/agb-gbafix@0.22.5
 - pkg:cargo/agb-gbafix@0.22.6
+- pkg:cargo/agb-gbafix@0.23.0
+- pkg:cargo/agb-gbafix@0.23.1

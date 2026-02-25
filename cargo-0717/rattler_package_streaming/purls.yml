@@ -104,6 +104,7 @@
 - pkg:cargo/rattler_package_streaming@0.23.23
 - pkg:cargo/rattler_package_streaming@0.23.24
 - pkg:cargo/rattler_package_streaming@0.23.25
+- pkg:cargo/rattler_package_streaming@0.23.26
 - pkg:cargo/rattler_package_streaming@0.23.3
 - pkg:cargo/rattler_package_streaming@0.23.4
 - pkg:cargo/rattler_package_streaming@0.23.5
@@ -111,6 +112,8 @@
 - pkg:cargo/rattler_package_streaming@0.23.7
 - pkg:cargo/rattler_package_streaming@0.23.8
 - pkg:cargo/rattler_package_streaming@0.23.9
+- pkg:cargo/rattler_package_streaming@0.24.0
+- pkg:cargo/rattler_package_streaming@0.24.1
 - pkg:cargo/rattler_package_streaming@0.3.0
 - pkg:cargo/rattler_package_streaming@0.4.0
 - pkg:cargo/rattler_package_streaming@0.5.0

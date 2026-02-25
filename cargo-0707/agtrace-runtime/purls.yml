@@ -24,3 +24,4 @@
 - pkg:cargo/agtrace-runtime@0.5.7
 - pkg:cargo/agtrace-runtime@0.6.0
 - pkg:cargo/agtrace-runtime@0.7.0
+- pkg:cargo/agtrace-runtime@0.7.1

@@ -60,6 +60,7 @@
 - pkg:cargo/ttdl@4.20.0
 - pkg:cargo/ttdl@4.21.0
 - pkg:cargo/ttdl@4.22.0
+- pkg:cargo/ttdl@4.23.0
 - pkg:cargo/ttdl@4.3.0
 - pkg:cargo/ttdl@4.4.0
 - pkg:cargo/ttdl@4.4.1

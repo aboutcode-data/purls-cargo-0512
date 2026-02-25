@@ -114,3 +114,5 @@
 - pkg:cargo/rattler_solve@4.2.1
 - pkg:cargo/rattler_solve@4.2.2
 - pkg:cargo/rattler_solve@4.2.3
+- pkg:cargo/rattler_solve@4.2.4
+- pkg:cargo/rattler_solve@4.2.5

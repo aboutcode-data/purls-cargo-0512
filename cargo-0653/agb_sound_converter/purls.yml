@@ -31,3 +31,5 @@
 - pkg:cargo/agb_sound_converter@0.22.4
 - pkg:cargo/agb_sound_converter@0.22.5
 - pkg:cargo/agb_sound_converter@0.22.6
+- pkg:cargo/agb_sound_converter@0.23.0
+- pkg:cargo/agb_sound_converter@0.23.1
