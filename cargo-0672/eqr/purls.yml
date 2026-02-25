@@ -111,7 +111,12 @@
 - pkg:cargo/eqr@1.9.46
 - pkg:cargo/eqr@1.9.47
 - pkg:cargo/eqr@1.9.48
+- pkg:cargo/eqr@1.9.49
 - pkg:cargo/eqr@1.9.5
+- pkg:cargo/eqr@1.9.50
+- pkg:cargo/eqr@1.9.51
+- pkg:cargo/eqr@1.9.52
+- pkg:cargo/eqr@1.9.53
 - pkg:cargo/eqr@1.9.6
 - pkg:cargo/eqr@1.9.7
 - pkg:cargo/eqr@1.9.8

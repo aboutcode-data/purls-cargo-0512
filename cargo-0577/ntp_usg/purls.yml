@@ -1,0 +1,8 @@
+- pkg:cargo/ntp_usg@0.7.1
+- pkg:cargo/ntp_usg@0.8.0
+- pkg:cargo/ntp_usg@0.9.0
+- pkg:cargo/ntp_usg@1.0.0
+- pkg:cargo/ntp_usg@1.1.0
+- pkg:cargo/ntp_usg@2.0.2
+- pkg:cargo/ntp_usg@2.0.3
+- pkg:cargo/ntp_usg@3.0.1

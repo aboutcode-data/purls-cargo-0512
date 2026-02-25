@@ -233,3 +233,4 @@
 - pkg:cargo/napi@3.8.0
 - pkg:cargo/napi@3.8.1
 - pkg:cargo/napi@3.8.2
+- pkg:cargo/napi@3.8.3

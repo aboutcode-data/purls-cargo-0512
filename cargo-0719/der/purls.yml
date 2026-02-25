@@ -45,11 +45,14 @@
 - pkg:cargo/der@0.7.7
 - pkg:cargo/der@0.7.8
 - pkg:cargo/der@0.7.9
+- pkg:cargo/der@0.8.0
 - pkg:cargo/der@0.8.0-pre
 - pkg:cargo/der@0.8.0-pre.0
 - pkg:cargo/der@0.8.0-rc.0
 - pkg:cargo/der@0.8.0-rc.1
 - pkg:cargo/der@0.8.0-rc.10
+- pkg:cargo/der@0.8.0-rc.11
+- pkg:cargo/der@0.8.0-rc.12
 - pkg:cargo/der@0.8.0-rc.2
 - pkg:cargo/der@0.8.0-rc.3
 - pkg:cargo/der@0.8.0-rc.4

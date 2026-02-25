@@ -11,6 +11,7 @@
 - pkg:cargo/navi@2.2.0
 - pkg:cargo/navi@2.20.1
 - pkg:cargo/navi@2.23.0
+- pkg:cargo/navi@2.24.0
 - pkg:cargo/navi@2.5.0
 - pkg:cargo/navi@2.5.1
 - pkg:cargo/navi@2.6.1

@@ -4,3 +4,6 @@
 - pkg:cargo/unobtanium-segmenter@0.2.1
 - pkg:cargo/unobtanium-segmenter@0.3.0
 - pkg:cargo/unobtanium-segmenter@0.4.0
+- pkg:cargo/unobtanium-segmenter@0.5.0
+- pkg:cargo/unobtanium-segmenter@0.5.1
+- pkg:cargo/unobtanium-segmenter@0.5.2

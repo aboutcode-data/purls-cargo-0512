@@ -3,6 +3,7 @@
 - pkg:cargo/unhwp@0.1.14
 - pkg:cargo/unhwp@0.1.15
 - pkg:cargo/unhwp@0.1.16
+- pkg:cargo/unhwp@0.1.17
 - pkg:cargo/unhwp@0.1.3
 - pkg:cargo/unhwp@0.1.4
 - pkg:cargo/unhwp@0.1.5
@@ -10,3 +11,5 @@
 - pkg:cargo/unhwp@0.1.7
 - pkg:cargo/unhwp@0.1.8
 - pkg:cargo/unhwp@0.1.9
+- pkg:cargo/unhwp@0.2.0
+- pkg:cargo/unhwp@0.2.2
