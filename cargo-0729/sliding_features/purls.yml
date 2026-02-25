@@ -37,3 +37,5 @@
 - pkg:cargo/sliding_features@7.0.2
 - pkg:cargo/sliding_features@7.1.0
 - pkg:cargo/sliding_features@7.1.1
+- pkg:cargo/sliding_features@7.1.2
+- pkg:cargo/sliding_features@7.1.3

@@ -16,6 +16,10 @@
 - pkg:cargo/netrun@0.23.0
 - pkg:cargo/netrun@0.24.0
 - pkg:cargo/netrun@0.25.0
+- pkg:cargo/netrun@0.26.0
+- pkg:cargo/netrun@0.27.0
+- pkg:cargo/netrun@0.28.0
+- pkg:cargo/netrun@0.29.0
 - pkg:cargo/netrun@0.3.0
 - pkg:cargo/netrun@0.4.0
 - pkg:cargo/netrun@0.5.0

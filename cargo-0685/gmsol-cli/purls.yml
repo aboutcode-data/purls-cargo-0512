@@ -5,3 +5,4 @@
 - pkg:cargo/gmsol-cli@0.7.0-beta.2
 - pkg:cargo/gmsol-cli@0.7.1
 - pkg:cargo/gmsol-cli@0.8.0
+- pkg:cargo/gmsol-cli@0.9.0

@@ -1,2 +1,5 @@
 - pkg:cargo/gaia-assembler@0.0.0
 - pkg:cargo/gaia-assembler@0.0.4
+- pkg:cargo/gaia-assembler@0.0.5
+- pkg:cargo/gaia-assembler@0.0.6
+- pkg:cargo/gaia-assembler@0.0.7

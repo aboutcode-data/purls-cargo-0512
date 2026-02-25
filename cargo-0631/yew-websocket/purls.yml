@@ -4,3 +4,4 @@
 - pkg:cargo/yew-websocket@1.0.0
 - pkg:cargo/yew-websocket@1.0.1
 - pkg:cargo/yew-websocket@1.21.0
+- pkg:cargo/yew-websocket@1.22.0

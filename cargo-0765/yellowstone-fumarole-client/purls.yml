@@ -15,3 +15,9 @@
 - pkg:cargo/yellowstone-fumarole-client@0.2.0-rc8%2Bsolana.2
 - pkg:cargo/yellowstone-fumarole-client@0.2.1%2Bsolana.2
 - pkg:cargo/yellowstone-fumarole-client@0.2.2%2Bsolana.2
+- pkg:cargo/yellowstone-fumarole-client@0.2.3%2Bsolana.2
+- pkg:cargo/yellowstone-fumarole-client@0.2.4%2Bsolana.2
+- pkg:cargo/yellowstone-fumarole-client@0.2.4-rc1%2Bsolana.2
+- pkg:cargo/yellowstone-fumarole-client@0.3.0%2Bsolana.3
+- pkg:cargo/yellowstone-fumarole-client@0.3.1-rc1%2Bsolana.3
+- pkg:cargo/yellowstone-fumarole-client@0.3.2%2Bsolana.3

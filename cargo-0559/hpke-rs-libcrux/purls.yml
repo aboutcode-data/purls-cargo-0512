@@ -6,3 +6,5 @@
 - pkg:cargo/hpke-rs-libcrux@0.5.0
 - pkg:cargo/hpke-rs-libcrux@0.5.1
 - pkg:cargo/hpke-rs-libcrux@0.5.1-beta.1
+- pkg:cargo/hpke-rs-libcrux@0.6.0
+- pkg:cargo/hpke-rs-libcrux@0.6.0-rc.1

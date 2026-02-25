@@ -40,3 +40,4 @@
 - pkg:cargo/ctrlc@3.4.7
 - pkg:cargo/ctrlc@3.5.0
 - pkg:cargo/ctrlc@3.5.1
+- pkg:cargo/ctrlc@3.5.2

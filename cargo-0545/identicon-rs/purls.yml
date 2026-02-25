@@ -36,3 +36,4 @@
 - pkg:cargo/identicon-rs@6.0.2
 - pkg:cargo/identicon-rs@7.0.0
 - pkg:cargo/identicon-rs@7.0.1
+- pkg:cargo/identicon-rs@7.1.0

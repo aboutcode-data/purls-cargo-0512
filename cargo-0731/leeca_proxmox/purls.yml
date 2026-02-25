@@ -1,2 +1,5 @@
 - pkg:cargo/leeca_proxmox@0.1.0
 - pkg:cargo/leeca_proxmox@0.1.1
+- pkg:cargo/leeca_proxmox@0.1.2
+- pkg:cargo/leeca_proxmox@0.2.0
+- pkg:cargo/leeca_proxmox@0.3.0
