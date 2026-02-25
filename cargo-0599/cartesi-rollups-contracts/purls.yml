@@ -30,3 +30,6 @@
 - pkg:cargo/cartesi-rollups-contracts@2.1.1-alpha.2
 - pkg:cargo/cartesi-rollups-contracts@2.1.1-alpha.3
 - pkg:cargo/cartesi-rollups-contracts@2.1.1-alpha.4
+- pkg:cargo/cartesi-rollups-contracts@2.2.0
+- pkg:cargo/cartesi-rollups-contracts@2.2.1-alpha.0
+- pkg:cargo/cartesi-rollups-contracts@2.2.1-alpha.1

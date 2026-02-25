@@ -63,3 +63,6 @@
 - pkg:cargo/rudof_lib@0.1.94
 - pkg:cargo/rudof_lib@0.1.95
 - pkg:cargo/rudof_lib@0.1.98
+- pkg:cargo/rudof_lib@0.2.0
+- pkg:cargo/rudof_lib@0.2.1
+- pkg:cargo/rudof_lib@0.2.2

@@ -11,3 +11,6 @@
 - pkg:cargo/trueno-rag@0.1.7
 - pkg:cargo/trueno-rag@0.1.8
 - pkg:cargo/trueno-rag@0.1.9
+- pkg:cargo/trueno-rag@0.2.0
+- pkg:cargo/trueno-rag@0.2.1
+- pkg:cargo/trueno-rag@0.2.2

@@ -15,6 +15,7 @@
 - pkg:cargo/tract-tflite@0.21.11
 - pkg:cargo/tract-tflite@0.21.12
 - pkg:cargo/tract-tflite@0.21.13
+- pkg:cargo/tract-tflite@0.21.14
 - pkg:cargo/tract-tflite@0.21.2
 - pkg:cargo/tract-tflite@0.21.3
 - pkg:cargo/tract-tflite@0.21.4
@@ -24,3 +25,6 @@
 - pkg:cargo/tract-tflite@0.21.8
 - pkg:cargo/tract-tflite@0.21.9
 - pkg:cargo/tract-tflite@0.22.0
+- pkg:cargo/tract-tflite@0.22.1
+- pkg:cargo/tract-tflite@0.23.0-dev.1
+- pkg:cargo/tract-tflite@0.23.0-dev.2

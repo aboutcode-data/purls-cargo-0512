@@ -1,0 +1,2 @@
+- pkg:cargo/rustssh2@8.0.0
+- pkg:cargo/rustssh2@9.0.0

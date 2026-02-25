@@ -1,2 +1,4 @@
 - pkg:cargo/trql-client@0.1.0
 - pkg:cargo/trql-client@0.4.0
+- pkg:cargo/trql-client@0.5.0
+- pkg:cargo/trql-client@0.6.0

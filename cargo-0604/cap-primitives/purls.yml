@@ -89,3 +89,5 @@
 - pkg:cargo/cap-primitives@3.4.4
 - pkg:cargo/cap-primitives@3.4.5
 - pkg:cargo/cap-primitives@4.0.0
+- pkg:cargo/cap-primitives@4.0.1
+- pkg:cargo/cap-primitives@4.0.2

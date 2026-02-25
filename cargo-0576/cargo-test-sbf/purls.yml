@@ -1,1 +1,2 @@
 - pkg:cargo/cargo-test-sbf@3.1.5
+- pkg:cargo/cargo-test-sbf@4.0.0

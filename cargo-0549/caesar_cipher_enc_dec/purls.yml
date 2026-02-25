@@ -12,3 +12,5 @@
 - pkg:cargo/caesar_cipher_enc_dec@0.6.2
 - pkg:cargo/caesar_cipher_enc_dec@1.0.0
 - pkg:cargo/caesar_cipher_enc_dec@1.0.1
+- pkg:cargo/caesar_cipher_enc_dec@1.0.3
+- pkg:cargo/caesar_cipher_enc_dec@1.0.4

@@ -8,3 +8,6 @@
 - pkg:cargo/ruvector-postgres@0.2.5
 - pkg:cargo/ruvector-postgres@0.2.6
 - pkg:cargo/ruvector-postgres@2.0.1
+- pkg:cargo/ruvector-postgres@2.0.2
+- pkg:cargo/ruvector-postgres@2.0.3
+- pkg:cargo/ruvector-postgres@2.0.4

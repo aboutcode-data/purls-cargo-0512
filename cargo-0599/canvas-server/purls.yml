@@ -1,1 +1,4 @@
 - pkg:cargo/canvas-server@0.1.2
+- pkg:cargo/canvas-server@0.1.3
+- pkg:cargo/canvas-server@0.1.4
+- pkg:cargo/canvas-server@0.2.0
