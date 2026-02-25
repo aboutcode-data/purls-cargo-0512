@@ -1,2 +1,5 @@
 - pkg:cargo/log-insight-tui@0.1.0
 - pkg:cargo/log-insight-tui@0.2.0
+- pkg:cargo/log-insight-tui@1.0.0
+- pkg:cargo/log-insight-tui@1.1.0
+- pkg:cargo/log-insight-tui@1.1.1

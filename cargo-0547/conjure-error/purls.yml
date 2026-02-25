@@ -64,9 +64,11 @@
 - pkg:cargo/conjure-error@5.0.0-rc4
 - pkg:cargo/conjure-error@5.0.0-rc5
 - pkg:cargo/conjure-error@5.1.0
+- pkg:cargo/conjure-error@5.10.0
 - pkg:cargo/conjure-error@5.2.0
 - pkg:cargo/conjure-error@5.3.0
 - pkg:cargo/conjure-error@5.4.0
 - pkg:cargo/conjure-error@5.4.0-rc1
 - pkg:cargo/conjure-error@5.5.0
 - pkg:cargo/conjure-error@5.6.0
+- pkg:cargo/conjure-error@5.9.0

@@ -112,6 +112,7 @@
 - pkg:cargo/llm-toolkit-macros@0.60.1
 - pkg:cargo/llm-toolkit-macros@0.61.0
 - pkg:cargo/llm-toolkit-macros@0.61.1
+- pkg:cargo/llm-toolkit-macros@0.62.1
 - pkg:cargo/llm-toolkit-macros@0.7.0
 - pkg:cargo/llm-toolkit-macros@0.8.0
 - pkg:cargo/llm-toolkit-macros@0.8.1

@@ -30,3 +30,5 @@
 - pkg:cargo/compact_jwt@0.5.1-dev
 - pkg:cargo/compact_jwt@0.5.2-dev
 - pkg:cargo/compact_jwt@0.5.3-dev
+- pkg:cargo/compact_jwt@0.5.4
+- pkg:cargo/compact_jwt@0.5.5

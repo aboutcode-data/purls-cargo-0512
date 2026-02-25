@@ -20,6 +20,7 @@
 - pkg:cargo/goup-rs@0.15.1
 - pkg:cargo/goup-rs@0.16.0
 - pkg:cargo/goup-rs@0.16.1
+- pkg:cargo/goup-rs@0.16.10
 - pkg:cargo/goup-rs@0.16.2
 - pkg:cargo/goup-rs@0.16.3
 - pkg:cargo/goup-rs@0.16.4
@@ -27,6 +28,7 @@
 - pkg:cargo/goup-rs@0.16.6
 - pkg:cargo/goup-rs@0.16.7
 - pkg:cargo/goup-rs@0.16.8
+- pkg:cargo/goup-rs@0.16.9
 - pkg:cargo/goup-rs@0.2.5
 - pkg:cargo/goup-rs@0.2.7
 - pkg:cargo/goup-rs@0.2.8

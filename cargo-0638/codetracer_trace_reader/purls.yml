@@ -1,2 +1,3 @@
 - pkg:cargo/codetracer_trace_reader@0.16.0
 - pkg:cargo/codetracer_trace_reader@0.17.0
+- pkg:cargo/codetracer_trace_reader@0.17.1

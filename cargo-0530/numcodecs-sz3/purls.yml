@@ -8,3 +8,6 @@
 - pkg:cargo/numcodecs-sz3@0.7.0
 - pkg:cargo/numcodecs-sz3@0.8.0
 - pkg:cargo/numcodecs-sz3@0.8.1
+- pkg:cargo/numcodecs-sz3@0.8.2
+- pkg:cargo/numcodecs-sz3@0.8.3
+- pkg:cargo/numcodecs-sz3@0.8.4

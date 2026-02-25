@@ -2,9 +2,15 @@
 - pkg:cargo/localsnd@0.4.1
 - pkg:cargo/localsnd@0.5.0
 - pkg:cargo/localsnd@0.5.1
+- pkg:cargo/localsnd@0.5.10
+- pkg:cargo/localsnd@0.5.11
+- pkg:cargo/localsnd@0.5.12
+- pkg:cargo/localsnd@0.5.13
 - pkg:cargo/localsnd@0.5.2
 - pkg:cargo/localsnd@0.5.3
 - pkg:cargo/localsnd@0.5.4
 - pkg:cargo/localsnd@0.5.5
 - pkg:cargo/localsnd@0.5.6
 - pkg:cargo/localsnd@0.5.7
+- pkg:cargo/localsnd@0.5.8
+- pkg:cargo/localsnd@0.5.9
