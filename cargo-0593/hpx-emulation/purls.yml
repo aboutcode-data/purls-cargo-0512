@@ -1,3 +1,4 @@
 - pkg:cargo/hpx-emulation@2.1.0
 - pkg:cargo/hpx-emulation@2.2.0
 - pkg:cargo/hpx-emulation@2.3.0
+- pkg:cargo/hpx-emulation@2.3.1
