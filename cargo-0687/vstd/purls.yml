@@ -12,3 +12,7 @@
 - pkg:cargo/vstd@0.0.0-2026-01-04-0057
 - pkg:cargo/vstd@0.0.0-2026-01-11-0057
 - pkg:cargo/vstd@0.0.0-2026-01-25-0057
+- pkg:cargo/vstd@0.0.0-2026-02-08-0120
+- pkg:cargo/vstd@0.0.0-2026-02-15-0106
+- pkg:cargo/vstd@0.0.0-2026-02-22-0103
+- pkg:cargo/vstd@0.0.0-2026-02-24-1505

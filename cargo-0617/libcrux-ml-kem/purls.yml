@@ -13,3 +13,6 @@
 - pkg:cargo/libcrux-ml-kem@0.0.5-pre.1
 - pkg:cargo/libcrux-ml-kem@0.0.6
 - pkg:cargo/libcrux-ml-kem@0.0.6-pre.1
+- pkg:cargo/libcrux-ml-kem@0.0.7
+- pkg:cargo/libcrux-ml-kem@0.0.7-pre.1
+- pkg:cargo/libcrux-ml-kem@0.0.7-pre.2

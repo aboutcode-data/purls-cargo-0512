@@ -1,1 +1,2 @@
 - pkg:cargo/minotari_node_wallet_client@5.1.0
+- pkg:cargo/minotari_node_wallet_client@5.2.1

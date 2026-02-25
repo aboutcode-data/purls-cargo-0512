@@ -3,3 +3,4 @@
 - pkg:cargo/limnus-scheduler-runner@0.0.18
 - pkg:cargo/limnus-scheduler-runner@0.0.19
 - pkg:cargo/limnus-scheduler-runner@0.0.20
+- pkg:cargo/limnus-scheduler-runner@0.1.0

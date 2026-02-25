@@ -2,3 +2,11 @@
 - pkg:cargo/innodb-utils@1.2.0
 - pkg:cargo/innodb-utils@1.2.1
 - pkg:cargo/innodb-utils@1.2.2
+- pkg:cargo/innodb-utils@1.2.3
+- pkg:cargo/innodb-utils@1.2.4
+- pkg:cargo/innodb-utils@1.3.0
+- pkg:cargo/innodb-utils@1.4.0
+- pkg:cargo/innodb-utils@2.0.0
+- pkg:cargo/innodb-utils@2.1.0
+- pkg:cargo/innodb-utils@3.0.0
+- pkg:cargo/innodb-utils@3.1.0

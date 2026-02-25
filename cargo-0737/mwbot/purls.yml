@@ -33,3 +33,4 @@
 - pkg:cargo/mwbot@0.7.0-rc.2
 - pkg:cargo/mwbot@0.7.0-rc.3
 - pkg:cargo/mwbot@0.7.1
+- pkg:cargo/mwbot@0.8.0-rc.1

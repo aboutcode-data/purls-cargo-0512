@@ -5,3 +5,5 @@
 - pkg:cargo/mindmap-cli@0.3.1
 - pkg:cargo/mindmap-cli@0.4.0
 - pkg:cargo/mindmap-cli@0.4.1
+- pkg:cargo/mindmap-cli@0.6.0
+- pkg:cargo/mindmap-cli@0.8.0

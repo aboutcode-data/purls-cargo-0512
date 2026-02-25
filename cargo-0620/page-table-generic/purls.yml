@@ -16,3 +16,7 @@
 - pkg:cargo/page-table-generic@0.5.3
 - pkg:cargo/page-table-generic@0.6.0
 - pkg:cargo/page-table-generic@0.6.1
+- pkg:cargo/page-table-generic@0.6.2
+- pkg:cargo/page-table-generic@0.6.3
+- pkg:cargo/page-table-generic@0.6.4
+- pkg:cargo/page-table-generic@0.7.0

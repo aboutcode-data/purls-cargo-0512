@@ -9,3 +9,4 @@
 - pkg:cargo/pacx@0.5.7
 - pkg:cargo/pacx@0.6.0
 - pkg:cargo/pacx@0.6.1
+- pkg:cargo/pacx@0.6.2

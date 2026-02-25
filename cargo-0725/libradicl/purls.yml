@@ -1,4 +1,5 @@
 - pkg:cargo/libradicl@0.10.0
+- pkg:cargo/libradicl@0.11.0
 - pkg:cargo/libradicl@0.4.0
 - pkg:cargo/libradicl@0.4.1
 - pkg:cargo/libradicl@0.4.2

@@ -59,3 +59,4 @@
 - pkg:cargo/license@3.5.1%2B3.25.0
 - pkg:cargo/license@3.6.0%2B3.26.0
 - pkg:cargo/license@3.7.0%2B3.27.0
+- pkg:cargo/license@3.8.0%2B3.28.0
