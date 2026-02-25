@@ -12,3 +12,7 @@
 - pkg:cargo/celes@2.4.0
 - pkg:cargo/celes@2.5.0
 - pkg:cargo/celes@2.6.0
+- pkg:cargo/celes@2.7.0
+- pkg:cargo/celes@2.8.0
+- pkg:cargo/celes@2.8.1
+- pkg:cargo/celes@2.8.2

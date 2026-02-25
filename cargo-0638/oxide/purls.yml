@@ -4,6 +4,7 @@
 - pkg:cargo/oxide@0.12.0%2B20250604.0.0
 - pkg:cargo/oxide@0.13.0%2B20250730.0.0
 - pkg:cargo/oxide@0.14.0%2B20251008.0.0
+- pkg:cargo/oxide@0.15.0%2B2026021301.0.0
 - pkg:cargo/oxide@0.2.0
 - pkg:cargo/oxide@0.3.0%2B0.0.6
 - pkg:cargo/oxide@0.4.0%2B20240327.0

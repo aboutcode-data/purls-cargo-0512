@@ -8,3 +8,4 @@
 - pkg:cargo/sval_nested@2.14.1
 - pkg:cargo/sval_nested@2.15.0
 - pkg:cargo/sval_nested@2.16.0
+- pkg:cargo/sval_nested@2.17.0

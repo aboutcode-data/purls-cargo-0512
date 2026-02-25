@@ -1,0 +1,2 @@
+- pkg:cargo/spicedb-grpc-tonic@0.1.0
+- pkg:cargo/spicedb-grpc-tonic@0.2.0

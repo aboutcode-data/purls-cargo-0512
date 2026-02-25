@@ -1,1 +1,4 @@
 - pkg:cargo/grift_arena_embedded@1.2.0
+- pkg:cargo/grift_arena_embedded@1.3.0
+- pkg:cargo/grift_arena_embedded@1.3.2
+- pkg:cargo/grift_arena_embedded@1.4.0

@@ -5,6 +5,7 @@
 - pkg:cargo/graphile_worker_migrations@0.4.10
 - pkg:cargo/graphile_worker_migrations@0.4.11
 - pkg:cargo/graphile_worker_migrations@0.4.12
+- pkg:cargo/graphile_worker_migrations@0.4.13
 - pkg:cargo/graphile_worker_migrations@0.4.2
 - pkg:cargo/graphile_worker_migrations@0.4.3
 - pkg:cargo/graphile_worker_migrations@0.4.4

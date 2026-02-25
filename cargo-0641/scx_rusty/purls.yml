@@ -19,6 +19,7 @@
 - pkg:cargo/scx_rusty@1.0.18
 - pkg:cargo/scx_rusty@1.0.19
 - pkg:cargo/scx_rusty@1.0.2
+- pkg:cargo/scx_rusty@1.0.20
 - pkg:cargo/scx_rusty@1.0.3
 - pkg:cargo/scx_rusty@1.0.4
 - pkg:cargo/scx_rusty@1.0.5

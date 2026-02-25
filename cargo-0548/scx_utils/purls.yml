@@ -29,6 +29,7 @@
 - pkg:cargo/scx_utils@1.0.22
 - pkg:cargo/scx_utils@1.0.24
 - pkg:cargo/scx_utils@1.0.25
+- pkg:cargo/scx_utils@1.0.26
 - pkg:cargo/scx_utils@1.0.3
 - pkg:cargo/scx_utils@1.0.4
 - pkg:cargo/scx_utils@1.0.5
