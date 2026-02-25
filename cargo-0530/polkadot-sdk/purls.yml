@@ -23,3 +23,7 @@
 - pkg:cargo/polkadot-sdk@2512.0.0
 - pkg:cargo/polkadot-sdk@2512.1.0
 - pkg:cargo/polkadot-sdk@2512.2.0
+- pkg:cargo/polkadot-sdk@2512.3.0
+- pkg:cargo/polkadot-sdk@2512.3.1
+- pkg:cargo/polkadot-sdk@2512.3.2
+- pkg:cargo/polkadot-sdk@2512.3.3

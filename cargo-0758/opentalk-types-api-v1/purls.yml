@@ -23,6 +23,8 @@
 - pkg:cargo/opentalk-types-api-v1@0.45.0
 - pkg:cargo/opentalk-types-api-v1@0.46.0
 - pkg:cargo/opentalk-types-api-v1@0.46.1
+- pkg:cargo/opentalk-types-api-v1@0.46.2
+- pkg:cargo/opentalk-types-api-v1@0.46.3
 - pkg:cargo/opentalk-types-api-v1@0.47.0
 - pkg:cargo/opentalk-types-api-v1@0.47.1
 - pkg:cargo/opentalk-types-api-v1@0.48.0
@@ -34,3 +36,7 @@
 - pkg:cargo/opentalk-types-api-v1@0.51.2
 - pkg:cargo/opentalk-types-api-v1@0.51.3
 - pkg:cargo/opentalk-types-api-v1@0.52.1
+- pkg:cargo/opentalk-types-api-v1@0.52.2
+- pkg:cargo/opentalk-types-api-v1@0.52.3
+- pkg:cargo/opentalk-types-api-v1@0.52.4
+- pkg:cargo/opentalk-types-api-v1@0.53.0

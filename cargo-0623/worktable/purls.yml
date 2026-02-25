@@ -42,6 +42,7 @@
 - pkg:cargo/worktable@0.8.20
 - pkg:cargo/worktable@0.8.21
 - pkg:cargo/worktable@0.8.22
+- pkg:cargo/worktable@0.8.23
 - pkg:cargo/worktable@0.8.3
 - pkg:cargo/worktable@0.8.4
 - pkg:cargo/worktable@0.8.5

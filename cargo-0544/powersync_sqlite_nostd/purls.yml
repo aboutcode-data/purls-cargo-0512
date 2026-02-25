@@ -1,3 +1,4 @@
 - pkg:cargo/powersync_sqlite_nostd@0.4.10
+- pkg:cargo/powersync_sqlite_nostd@0.4.11
 - pkg:cargo/powersync_sqlite_nostd@0.4.8
 - pkg:cargo/powersync_sqlite_nostd@0.4.9

@@ -1,5 +1,8 @@
 - pkg:cargo/openworkers-cli@0.2.10
 - pkg:cargo/openworkers-cli@0.2.11
+- pkg:cargo/openworkers-cli@0.2.12
+- pkg:cargo/openworkers-cli@0.2.13
+- pkg:cargo/openworkers-cli@0.2.15
 - pkg:cargo/openworkers-cli@0.2.3
 - pkg:cargo/openworkers-cli@0.2.4
 - pkg:cargo/openworkers-cli@0.2.5
@@ -7,3 +10,7 @@
 - pkg:cargo/openworkers-cli@0.2.7
 - pkg:cargo/openworkers-cli@0.2.8
 - pkg:cargo/openworkers-cli@0.2.9
+- pkg:cargo/openworkers-cli@0.3.0
+- pkg:cargo/openworkers-cli@0.3.1
+- pkg:cargo/openworkers-cli@0.3.4
+- pkg:cargo/openworkers-cli@0.3.8

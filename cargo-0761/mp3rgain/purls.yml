@@ -22,3 +22,5 @@
 - pkg:cargo/mp3rgain@1.3.2
 - pkg:cargo/mp3rgain@1.4.0
 - pkg:cargo/mp3rgain@1.5.0
+- pkg:cargo/mp3rgain@1.6.0
+- pkg:cargo/mp3rgain@1.7.0
