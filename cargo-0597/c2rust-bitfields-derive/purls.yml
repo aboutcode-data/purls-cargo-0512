@@ -7,3 +7,4 @@
 - pkg:cargo/c2rust-bitfields-derive@0.20.0
 - pkg:cargo/c2rust-bitfields-derive@0.21.0
 - pkg:cargo/c2rust-bitfields-derive@0.22.0
+- pkg:cargo/c2rust-bitfields-derive@0.22.1

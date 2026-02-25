@@ -1,3 +1,4 @@
 - pkg:cargo/bevy_trenchbroom_avian@0.10.0
 - pkg:cargo/bevy_trenchbroom_avian@0.11.0
 - pkg:cargo/bevy_trenchbroom_avian@0.12.0
+- pkg:cargo/bevy_trenchbroom_avian@0.13.0-rc.1

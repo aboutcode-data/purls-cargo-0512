@@ -1,2 +1,5 @@
 - pkg:cargo/darksouls3@0.11.0
 - pkg:cargo/darksouls3@0.12.0
+- pkg:cargo/darksouls3@0.13.0
+- pkg:cargo/darksouls3@0.13.1
+- pkg:cargo/darksouls3@0.13.2

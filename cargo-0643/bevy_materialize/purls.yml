@@ -1,4 +1,5 @@
 - pkg:cargo/bevy_materialize@0.1.0
+- pkg:cargo/bevy_materialize@0.10.0
 - pkg:cargo/bevy_materialize@0.2.0
 - pkg:cargo/bevy_materialize@0.3.0
 - pkg:cargo/bevy_materialize@0.3.1

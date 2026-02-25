@@ -23,3 +23,4 @@
 - pkg:cargo/zebra-consensus@3.1.0
 - pkg:cargo/zebra-consensus@3.1.1
 - pkg:cargo/zebra-consensus@3.1.2
+- pkg:cargo/zebra-consensus@4.0.0

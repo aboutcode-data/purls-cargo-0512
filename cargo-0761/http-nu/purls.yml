@@ -2,6 +2,8 @@
 - pkg:cargo/http-nu@0.10.0
 - pkg:cargo/http-nu@0.10.1
 - pkg:cargo/http-nu@0.10.2
+- pkg:cargo/http-nu@0.11.0
+- pkg:cargo/http-nu@0.12.0
 - pkg:cargo/http-nu@0.2.0
 - pkg:cargo/http-nu@0.3.0
 - pkg:cargo/http-nu@0.4.0
