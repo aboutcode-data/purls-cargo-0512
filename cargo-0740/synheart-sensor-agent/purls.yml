@@ -1,1 +1,4 @@
 - pkg:cargo/synheart-sensor-agent@0.1.1
+- pkg:cargo/synheart-sensor-agent@0.2.0
+- pkg:cargo/synheart-sensor-agent@0.2.1
+- pkg:cargo/synheart-sensor-agent@0.2.2

@@ -4,3 +4,6 @@
 - pkg:cargo/lucia-lasm@1.0.2
 - pkg:cargo/lucia-lasm@1.0.3
 - pkg:cargo/lucia-lasm@1.0.4
+- pkg:cargo/lucia-lasm@2.0.0
+- pkg:cargo/lucia-lasm@2.0.1
+- pkg:cargo/lucia-lasm@2.1.0

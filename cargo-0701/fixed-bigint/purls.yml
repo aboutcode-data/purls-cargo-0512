@@ -16,3 +16,7 @@
 - pkg:cargo/fixed-bigint@0.1.7
 - pkg:cargo/fixed-bigint@0.1.8
 - pkg:cargo/fixed-bigint@0.1.9
+- pkg:cargo/fixed-bigint@0.2.0
+- pkg:cargo/fixed-bigint@0.2.1
+- pkg:cargo/fixed-bigint@0.2.2
+- pkg:cargo/fixed-bigint@0.2.3

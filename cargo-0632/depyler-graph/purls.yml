@@ -1,1 +1,2 @@
 - pkg:cargo/depyler-graph@3.23.0
+- pkg:cargo/depyler-graph@4.1.1

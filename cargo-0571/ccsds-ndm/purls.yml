@@ -3,3 +3,6 @@
 - pkg:cargo/ccsds-ndm@0.0.3
 - pkg:cargo/ccsds-ndm@0.0.4
 - pkg:cargo/ccsds-ndm@0.0.5
+- pkg:cargo/ccsds-ndm@0.0.6
+- pkg:cargo/ccsds-ndm@0.0.7
+- pkg:cargo/ccsds-ndm@0.0.8

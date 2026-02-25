@@ -17,3 +17,5 @@
 - pkg:cargo/fiddler-cli@4.2.0
 - pkg:cargo/fiddler-cli@4.2.1
 - pkg:cargo/fiddler-cli@4.3.0
+- pkg:cargo/fiddler-cli@4.4.0
+- pkg:cargo/fiddler-cli@4.4.1

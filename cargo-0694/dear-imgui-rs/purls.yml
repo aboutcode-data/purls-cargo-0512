@@ -1,3 +1,6 @@
+- pkg:cargo/dear-imgui-rs@0.10.0
+- pkg:cargo/dear-imgui-rs@0.10.1
+- pkg:cargo/dear-imgui-rs@0.10.2
 - pkg:cargo/dear-imgui-rs@0.3.0
 - pkg:cargo/dear-imgui-rs@0.4.0
 - pkg:cargo/dear-imgui-rs@0.4.1
@@ -6,3 +9,4 @@
 - pkg:cargo/dear-imgui-rs@0.7.0
 - pkg:cargo/dear-imgui-rs@0.7.1
 - pkg:cargo/dear-imgui-rs@0.8.0
+- pkg:cargo/dear-imgui-rs@0.9.0
