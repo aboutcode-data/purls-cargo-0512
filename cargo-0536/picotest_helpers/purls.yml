@@ -15,3 +15,4 @@
 - pkg:cargo/picotest_helpers@1.7.2
 - pkg:cargo/picotest_helpers@1.8.0
 - pkg:cargo/picotest_helpers@1.8.1
+- pkg:cargo/picotest_helpers@1.9.0

@@ -2,3 +2,5 @@
 - pkg:cargo/pindakaas-cadical@0.2.0
 - pkg:cargo/pindakaas-cadical@0.2.1
 - pkg:cargo/pindakaas-cadical@0.3.0
+- pkg:cargo/pindakaas-cadical@0.3.1
+- pkg:cargo/pindakaas-cadical@0.3.2

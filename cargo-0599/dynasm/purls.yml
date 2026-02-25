@@ -39,3 +39,4 @@
 - pkg:cargo/dynasm@4.0.0
 - pkg:cargo/dynasm@4.0.1
 - pkg:cargo/dynasm@4.0.2
+- pkg:cargo/dynasm@5.0.0

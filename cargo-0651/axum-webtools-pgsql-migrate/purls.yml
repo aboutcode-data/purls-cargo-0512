@@ -8,3 +8,9 @@
 - pkg:cargo/axum-webtools-pgsql-migrate@0.1.38
 - pkg:cargo/axum-webtools-pgsql-migrate@0.1.39
 - pkg:cargo/axum-webtools-pgsql-migrate@0.1.40
+- pkg:cargo/axum-webtools-pgsql-migrate@0.1.41
+- pkg:cargo/axum-webtools-pgsql-migrate@0.1.42
+- pkg:cargo/axum-webtools-pgsql-migrate@0.1.43
+- pkg:cargo/axum-webtools-pgsql-migrate@0.1.44
+- pkg:cargo/axum-webtools-pgsql-migrate@0.1.45
+- pkg:cargo/axum-webtools-pgsql-migrate@0.1.46

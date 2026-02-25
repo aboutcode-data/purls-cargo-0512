@@ -38,3 +38,4 @@
 - pkg:cargo/dynasmrt@4.0.0
 - pkg:cargo/dynasmrt@4.0.1
 - pkg:cargo/dynasmrt@4.0.2
+- pkg:cargo/dynasmrt@5.0.0

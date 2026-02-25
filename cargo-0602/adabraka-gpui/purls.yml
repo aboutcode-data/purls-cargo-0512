@@ -1,1 +1,5 @@
 - pkg:cargo/adabraka-gpui@0.3.0
+- pkg:cargo/adabraka-gpui@0.4.0
+- pkg:cargo/adabraka-gpui@0.4.1
+- pkg:cargo/adabraka-gpui@0.5.0
+- pkg:cargo/adabraka-gpui@0.5.1

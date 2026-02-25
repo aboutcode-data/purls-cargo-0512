@@ -5,3 +5,6 @@
 - pkg:cargo/bbdd@0.1.4
 - pkg:cargo/bbdd@0.1.5
 - pkg:cargo/bbdd@0.1.6
+- pkg:cargo/bbdd@0.1.8
+- pkg:cargo/bbdd@0.1.9
+- pkg:cargo/bbdd@0.2.0

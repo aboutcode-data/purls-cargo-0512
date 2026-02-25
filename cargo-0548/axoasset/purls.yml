@@ -26,3 +26,5 @@
 - pkg:cargo/axoasset@1.3.0
 - pkg:cargo/axoasset@1.4.0
 - pkg:cargo/axoasset@1.5.0
+- pkg:cargo/axoasset@2.0.0
+- pkg:cargo/axoasset@2.0.1

@@ -1,3 +1,10 @@
+- pkg:cargo/pragmastat@10.0.0
+- pkg:cargo/pragmastat@10.0.1
+- pkg:cargo/pragmastat@10.0.2
+- pkg:cargo/pragmastat@10.0.3
+- pkg:cargo/pragmastat@10.0.4
+- pkg:cargo/pragmastat@10.0.5
+- pkg:cargo/pragmastat@10.0.6
 - pkg:cargo/pragmastat@3.1.11
 - pkg:cargo/pragmastat@3.1.12
 - pkg:cargo/pragmastat@3.1.13
@@ -35,3 +42,7 @@
 - pkg:cargo/pragmastat@5.2.1
 - pkg:cargo/pragmastat@6.0.0
 - pkg:cargo/pragmastat@6.0.1
+- pkg:cargo/pragmastat@7.0.0
+- pkg:cargo/pragmastat@7.0.1
+- pkg:cargo/pragmastat@8.0.0
+- pkg:cargo/pragmastat@9.0.0
