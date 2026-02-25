@@ -12,3 +12,4 @@
 - pkg:cargo/serde-encrypted-value@0.4.6
 - pkg:cargo/serde-encrypted-value@0.4.7
 - pkg:cargo/serde-encrypted-value@1.0.0
+- pkg:cargo/serde-encrypted-value@1.1.0

@@ -20,6 +20,7 @@
 - pkg:cargo/aws-sdk-ssmsap@0.9.1
 - pkg:cargo/aws-sdk-ssmsap@1.1.0
 - pkg:cargo/aws-sdk-ssmsap@1.10.0
+- pkg:cargo/aws-sdk-ssmsap@1.100.0
 - pkg:cargo/aws-sdk-ssmsap@1.11.0
 - pkg:cargo/aws-sdk-ssmsap@1.12.0
 - pkg:cargo/aws-sdk-ssmsap@1.13.0
@@ -116,3 +117,4 @@
 - pkg:cargo/aws-sdk-ssmsap@1.96.0
 - pkg:cargo/aws-sdk-ssmsap@1.97.0
 - pkg:cargo/aws-sdk-ssmsap@1.98.0
+- pkg:cargo/aws-sdk-ssmsap@1.99.0

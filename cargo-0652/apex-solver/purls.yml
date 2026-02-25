@@ -2,3 +2,5 @@
 - pkg:cargo/apex-solver@0.1.5
 - pkg:cargo/apex-solver@0.1.6
 - pkg:cargo/apex-solver@1.0.0
+- pkg:cargo/apex-solver@1.1.0
+- pkg:cargo/apex-solver@1.2.0

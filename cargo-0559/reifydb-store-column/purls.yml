@@ -7,3 +7,4 @@
 - pkg:cargo/reifydb-store-column@0.1.6
 - pkg:cargo/reifydb-store-column@0.1.7
 - pkg:cargo/reifydb-store-column@0.2.0
+- pkg:cargo/reifydb-store-column@0.3.0

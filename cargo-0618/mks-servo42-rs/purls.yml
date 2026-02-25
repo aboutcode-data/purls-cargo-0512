@@ -1,2 +1,6 @@
 - pkg:cargo/mks-servo42-rs@0.3.0
 - pkg:cargo/mks-servo42-rs@0.4.0
+- pkg:cargo/mks-servo42-rs@1.0.0
+- pkg:cargo/mks-servo42-rs@1.0.1
+- pkg:cargo/mks-servo42-rs@1.0.2
+- pkg:cargo/mks-servo42-rs@1.0.3

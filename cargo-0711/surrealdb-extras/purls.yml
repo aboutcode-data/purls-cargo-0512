@@ -9,6 +9,10 @@
 - pkg:cargo/surrealdb-extras@2.0.0
 - pkg:cargo/surrealdb-extras@2.0.1
 - pkg:cargo/surrealdb-extras@2.0.10
+- pkg:cargo/surrealdb-extras@2.0.11
+- pkg:cargo/surrealdb-extras@2.0.12
+- pkg:cargo/surrealdb-extras@2.0.13
+- pkg:cargo/surrealdb-extras@2.0.15
 - pkg:cargo/surrealdb-extras@2.0.2
 - pkg:cargo/surrealdb-extras@2.0.3
 - pkg:cargo/surrealdb-extras@2.0.4
