@@ -24,3 +24,4 @@
 - pkg:cargo/xmtp-cli@0.5.2
 - pkg:cargo/xmtp-cli@0.5.3
 - pkg:cargo/xmtp-cli@0.6.0
+- pkg:cargo/xmtp-cli@0.6.1
