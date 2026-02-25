@@ -1,4 +1,10 @@
 - pkg:cargo/phaier_markdown@0.0.1
+- pkg:cargo/phaier_markdown@0.0.10
+- pkg:cargo/phaier_markdown@0.0.11
+- pkg:cargo/phaier_markdown@0.0.12
+- pkg:cargo/phaier_markdown@0.0.13
+- pkg:cargo/phaier_markdown@0.0.14
+- pkg:cargo/phaier_markdown@0.0.15
 - pkg:cargo/phaier_markdown@0.0.2
 - pkg:cargo/phaier_markdown@0.0.3
 - pkg:cargo/phaier_markdown@0.0.4

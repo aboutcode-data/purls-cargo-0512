@@ -25,3 +25,4 @@
 - pkg:cargo/solana-transaction-error@2.2.1
 - pkg:cargo/solana-transaction-error@3.0.0
 - pkg:cargo/solana-transaction-error@3.0.0-canary.7040146
+- pkg:cargo/solana-transaction-error@3.1.0

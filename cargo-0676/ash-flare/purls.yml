@@ -4,3 +4,5 @@
 - pkg:cargo/ash-flare@1.0.3
 - pkg:cargo/ash-flare@1.0.4
 - pkg:cargo/ash-flare@1.1.0
+- pkg:cargo/ash-flare@2.0.0
+- pkg:cargo/ash-flare@2.2.0

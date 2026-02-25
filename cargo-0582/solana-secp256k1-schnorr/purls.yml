@@ -5,3 +5,4 @@
 - pkg:cargo/solana-secp256k1-schnorr@0.2.3
 - pkg:cargo/solana-secp256k1-schnorr@0.2.4
 - pkg:cargo/solana-secp256k1-schnorr@0.2.5
+- pkg:cargo/solana-secp256k1-schnorr@0.2.6

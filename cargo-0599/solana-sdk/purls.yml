@@ -511,3 +511,5 @@
 - pkg:cargo/solana-sdk@2.3.0
 - pkg:cargo/solana-sdk@2.3.1
 - pkg:cargo/solana-sdk@3.0.0
+- pkg:cargo/solana-sdk@4.0.0
+- pkg:cargo/solana-sdk@4.0.1

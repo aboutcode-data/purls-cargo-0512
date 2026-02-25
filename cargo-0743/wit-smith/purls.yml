@@ -91,3 +91,5 @@
 - pkg:cargo/wit-smith@0.242.0
 - pkg:cargo/wit-smith@0.243.0
 - pkg:cargo/wit-smith@0.244.0
+- pkg:cargo/wit-smith@0.245.0
+- pkg:cargo/wit-smith@0.245.1

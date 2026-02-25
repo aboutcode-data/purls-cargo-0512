@@ -3,3 +3,6 @@
 - pkg:cargo/easy_init_newrelic_opentelemetry@0.1.2
 - pkg:cargo/easy_init_newrelic_opentelemetry@0.2.0
 - pkg:cargo/easy_init_newrelic_opentelemetry@0.3.0
+- pkg:cargo/easy_init_newrelic_opentelemetry@0.4.0
+- pkg:cargo/easy_init_newrelic_opentelemetry@0.4.1
+- pkg:cargo/easy_init_newrelic_opentelemetry@0.4.2

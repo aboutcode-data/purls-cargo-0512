@@ -11,3 +11,5 @@
 - pkg:cargo/harper-python@1.4.1
 - pkg:cargo/harper-python@1.5.1
 - pkg:cargo/harper-python@1.6.0
+- pkg:cargo/harper-python@1.7.0
+- pkg:cargo/harper-python@1.8.0

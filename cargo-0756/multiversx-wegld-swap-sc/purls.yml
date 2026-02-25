@@ -83,3 +83,4 @@
 - pkg:cargo/multiversx-wegld-swap-sc@0.63.3
 - pkg:cargo/multiversx-wegld-swap-sc@0.64.0
 - pkg:cargo/multiversx-wegld-swap-sc@0.64.1
+- pkg:cargo/multiversx-wegld-swap-sc@0.64.2

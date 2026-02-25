@@ -24,3 +24,4 @@
 - pkg:cargo/haply@0.6.5
 - pkg:cargo/haply@0.6.6
 - pkg:cargo/haply@0.7.1
+- pkg:cargo/haply@0.8.0

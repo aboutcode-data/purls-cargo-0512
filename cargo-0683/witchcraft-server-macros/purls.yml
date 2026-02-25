@@ -37,3 +37,4 @@
 - pkg:cargo/witchcraft-server-macros@6.0.0-rc2
 - pkg:cargo/witchcraft-server-macros@6.1.0
 - pkg:cargo/witchcraft-server-macros@6.2.0
+- pkg:cargo/witchcraft-server-macros@6.3.0

@@ -37,3 +37,4 @@
 - pkg:cargo/witchcraft-server@6.0.0-rc2
 - pkg:cargo/witchcraft-server@6.1.0
 - pkg:cargo/witchcraft-server@6.2.0
+- pkg:cargo/witchcraft-server@6.3.0
