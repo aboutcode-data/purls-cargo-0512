@@ -1,1 +1,3 @@
 - pkg:cargo/claude-code-rust@0.2.0
+- pkg:cargo/claude-code-rust@0.3.0
+- pkg:cargo/claude-code-rust@3.0.0
