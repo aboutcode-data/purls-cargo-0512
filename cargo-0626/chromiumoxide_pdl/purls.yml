@@ -14,3 +14,4 @@
 - pkg:cargo/chromiumoxide_pdl@0.7.0
 - pkg:cargo/chromiumoxide_pdl@0.8.0
 - pkg:cargo/chromiumoxide_pdl@0.9.0
+- pkg:cargo/chromiumoxide_pdl@0.9.1
