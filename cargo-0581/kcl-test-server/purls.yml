@@ -107,3 +107,4 @@
 - pkg:cargo/kcl-test-server@0.1.98
 - pkg:cargo/kcl-test-server@0.1.99
 - pkg:cargo/kcl-test-server@0.2.129
+- pkg:cargo/kcl-test-server@0.2.130
