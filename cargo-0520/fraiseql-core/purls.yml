@@ -4,6 +4,7 @@
 - pkg:cargo/fraiseql-core@2.0.0-beta.3
 - pkg:cargo/fraiseql-core@2.0.0-rc.1
 - pkg:cargo/fraiseql-core@2.0.0-rc.11
+- pkg:cargo/fraiseql-core@2.0.0-rc.12
 - pkg:cargo/fraiseql-core@2.0.0-rc.2
 - pkg:cargo/fraiseql-core@2.0.0-rc.6
 - pkg:cargo/fraiseql-core@2.0.0-rc.7
