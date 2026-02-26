@@ -1,6 +1,8 @@
+- pkg:cargo/rustodo@2.11.0
 - pkg:cargo/rustodo@2.8.1
 - pkg:cargo/rustodo@2.8.11
 - pkg:cargo/rustodo@2.8.5
 - pkg:cargo/rustodo@2.8.6
 - pkg:cargo/rustodo@2.8.7
 - pkg:cargo/rustodo@2.8.8
+- pkg:cargo/rustodo@2.9.0
