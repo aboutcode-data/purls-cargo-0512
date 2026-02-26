@@ -41,3 +41,4 @@
 - pkg:cargo/linked_macros@1.0.5
 - pkg:cargo/linked_macros@1.0.6
 - pkg:cargo/linked_macros@1.0.7
+- pkg:cargo/linked_macros@1.0.8
