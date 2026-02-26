@@ -19,6 +19,7 @@
 - pkg:cargo/rudo-gc@0.8.13
 - pkg:cargo/rudo-gc@0.8.14
 - pkg:cargo/rudo-gc@0.8.15
+- pkg:cargo/rudo-gc@0.8.16
 - pkg:cargo/rudo-gc@0.8.2
 - pkg:cargo/rudo-gc@0.8.3
 - pkg:cargo/rudo-gc@0.8.4
