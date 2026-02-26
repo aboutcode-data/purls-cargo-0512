@@ -1,2 +1,3 @@
 - pkg:cargo/spacetime-bindings-macro-input@1.1.1
 - pkg:cargo/spacetime-bindings-macro-input@1.6.0
+- pkg:cargo/spacetime-bindings-macro-input@2.0.1
