@@ -316,6 +316,7 @@
 - pkg:cargo/swc_common@17.0.1
 - pkg:cargo/swc_common@18.0.0
 - pkg:cargo/swc_common@18.0.1
+- pkg:cargo/swc_common@19.0.0
 - pkg:cargo/swc_common@2.0.0
 - pkg:cargo/swc_common@2.0.1
 - pkg:cargo/swc_common@3.0.0
