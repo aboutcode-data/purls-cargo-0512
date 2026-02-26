@@ -1,2 +1,3 @@
 - pkg:cargo/wasmtime-wasi-tls-openssl@0.0.1
 - pkg:cargo/wasmtime-wasi-tls-openssl@42.0.0
+- pkg:cargo/wasmtime-wasi-tls-openssl@42.0.1
