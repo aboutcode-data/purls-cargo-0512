@@ -38,3 +38,4 @@
 - pkg:cargo/apollo-parser@0.8.2
 - pkg:cargo/apollo-parser@0.8.3
 - pkg:cargo/apollo-parser@0.8.4
+- pkg:cargo/apollo-parser@0.8.5
