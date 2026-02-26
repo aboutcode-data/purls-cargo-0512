@@ -35,3 +35,4 @@
 - pkg:cargo/vortex-tui@0.57.2
 - pkg:cargo/vortex-tui@0.58.0
 - pkg:cargo/vortex-tui@0.59.4
+- pkg:cargo/vortex-tui@0.60.0

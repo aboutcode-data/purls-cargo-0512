@@ -32,3 +32,4 @@
 - pkg:cargo/vortex-decimal-byte-parts@0.57.2
 - pkg:cargo/vortex-decimal-byte-parts@0.58.0
 - pkg:cargo/vortex-decimal-byte-parts@0.59.4
+- pkg:cargo/vortex-decimal-byte-parts@0.60.0

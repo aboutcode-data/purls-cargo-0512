@@ -19,6 +19,7 @@
 - pkg:cargo/alloc_tracker@0.5.14
 - pkg:cargo/alloc_tracker@0.5.15
 - pkg:cargo/alloc_tracker@0.5.16
+- pkg:cargo/alloc_tracker@0.5.17
 - pkg:cargo/alloc_tracker@0.5.2
 - pkg:cargo/alloc_tracker@0.5.3
 - pkg:cargo/alloc_tracker@0.5.4
