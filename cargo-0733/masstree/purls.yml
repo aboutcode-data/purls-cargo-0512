@@ -52,3 +52,4 @@
 - pkg:cargo/masstree@0.7.4
 - pkg:cargo/masstree@0.8.0
 - pkg:cargo/masstree@0.8.1
+- pkg:cargo/masstree@0.9.0
