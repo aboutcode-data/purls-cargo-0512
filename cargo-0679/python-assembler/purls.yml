@@ -3,3 +3,4 @@
 - pkg:cargo/python-assembler@0.0.5
 - pkg:cargo/python-assembler@0.0.6
 - pkg:cargo/python-assembler@0.0.7
+- pkg:cargo/python-assembler@0.1.0
