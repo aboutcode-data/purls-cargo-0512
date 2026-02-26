@@ -10,3 +10,4 @@
 - pkg:cargo/mogh_auth_server@1.2.3
 - pkg:cargo/mogh_auth_server@1.2.4
 - pkg:cargo/mogh_auth_server@1.2.5
+- pkg:cargo/mogh_auth_server@1.2.6
