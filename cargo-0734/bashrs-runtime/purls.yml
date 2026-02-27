@@ -29,3 +29,4 @@
 - pkg:cargo/bashrs-runtime@6.62.0
 - pkg:cargo/bashrs-runtime@6.63.0
 - pkg:cargo/bashrs-runtime@6.64.0
+- pkg:cargo/bashrs-runtime@6.65.0
