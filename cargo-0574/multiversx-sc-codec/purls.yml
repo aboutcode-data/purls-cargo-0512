@@ -21,3 +21,4 @@
 - pkg:cargo/multiversx-sc-codec@0.23.0
 - pkg:cargo/multiversx-sc-codec@0.23.1
 - pkg:cargo/multiversx-sc-codec@0.24.0
+- pkg:cargo/multiversx-sc-codec@0.25.0
