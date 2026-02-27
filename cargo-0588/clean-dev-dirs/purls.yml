@@ -11,3 +11,4 @@
 - pkg:cargo/clean-dev-dirs@2.5.1
 - pkg:cargo/clean-dev-dirs@2.5.2
 - pkg:cargo/clean-dev-dirs@2.5.3
+- pkg:cargo/clean-dev-dirs@2.5.4
