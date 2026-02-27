@@ -9,6 +9,7 @@
 - pkg:cargo/zoi-rs@1.4.0
 - pkg:cargo/zoi-rs@1.5.0
 - pkg:cargo/zoi-rs@1.6.0
+- pkg:cargo/zoi-rs@1.7.0
 - pkg:cargo/zoi-rs@4.2.0-beta-prod
 - pkg:cargo/zoi-rs@4.2.3-beta-prod
 - pkg:cargo/zoi-rs@4.3.0-beta
