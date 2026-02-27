@@ -2,3 +2,4 @@
 - pkg:cargo/seam-cli@0.2.14
 - pkg:cargo/seam-cli@0.2.3
 - pkg:cargo/seam-cli@0.3.7
+- pkg:cargo/seam-cli@0.4.3
