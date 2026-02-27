@@ -16,3 +16,4 @@
 - pkg:cargo/perf-event-open@0.4.3
 - pkg:cargo/perf-event-open@0.4.4
 - pkg:cargo/perf-event-open@0.4.5
+- pkg:cargo/perf-event-open@0.4.6
