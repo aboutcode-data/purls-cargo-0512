@@ -7,6 +7,7 @@
 - pkg:cargo/uv@0.10.4
 - pkg:cargo/uv@0.10.5
 - pkg:cargo/uv@0.10.6
+- pkg:cargo/uv@0.10.7
 - pkg:cargo/uv@0.9.11
 - pkg:cargo/uv@0.9.12
 - pkg:cargo/uv@0.9.13
