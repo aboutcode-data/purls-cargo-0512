@@ -6,3 +6,4 @@
 - pkg:cargo/better-auth-derive@0.6.1
 - pkg:cargo/better-auth-derive@0.6.2
 - pkg:cargo/better-auth-derive@0.7.0
+- pkg:cargo/better-auth-derive@0.8.0
