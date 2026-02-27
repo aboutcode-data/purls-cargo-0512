@@ -45,3 +45,4 @@
 - pkg:cargo/artisan_middleware@5.3.1
 - pkg:cargo/artisan_middleware@5.4.0
 - pkg:cargo/artisan_middleware@5.5.1
+- pkg:cargo/artisan_middleware@5.6.0
