@@ -43,3 +43,4 @@
 - pkg:cargo/spacetimedb-client-api-messages@2.0.0
 - pkg:cargo/spacetimedb-client-api-messages@2.0.0-rc1
 - pkg:cargo/spacetimedb-client-api-messages@2.0.1
+- pkg:cargo/spacetimedb-client-api-messages@2.0.2
