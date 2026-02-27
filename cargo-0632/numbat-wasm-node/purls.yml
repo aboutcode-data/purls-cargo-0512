@@ -4,6 +4,7 @@
 - pkg:cargo/numbat-wasm-node@0.0.13
 - pkg:cargo/numbat-wasm-node@0.0.15
 - pkg:cargo/numbat-wasm-node@0.0.17
+- pkg:cargo/numbat-wasm-node@0.0.18
 - pkg:cargo/numbat-wasm-node@0.0.19
 - pkg:cargo/numbat-wasm-node@0.0.3
 - pkg:cargo/numbat-wasm-node@0.0.5
