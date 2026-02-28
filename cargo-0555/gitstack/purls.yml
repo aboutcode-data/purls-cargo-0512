@@ -65,3 +65,4 @@
 - pkg:cargo/gitstack@4.0.1
 - pkg:cargo/gitstack@5.0.0
 - pkg:cargo/gitstack@5.0.1
+- pkg:cargo/gitstack@5.3.0
