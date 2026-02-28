@@ -13,3 +13,8 @@
 - pkg:cargo/clean-dev-dirs@2.5.3
 - pkg:cargo/clean-dev-dirs@2.5.4
 - pkg:cargo/clean-dev-dirs@2.5.5
+- pkg:cargo/clean-dev-dirs@2.5.6
+- pkg:cargo/clean-dev-dirs@2.6.0
+- pkg:cargo/clean-dev-dirs@2.6.1
+- pkg:cargo/clean-dev-dirs@2.6.2
+- pkg:cargo/clean-dev-dirs@2.6.3
