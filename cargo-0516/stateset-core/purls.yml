@@ -8,4 +8,5 @@
 - pkg:cargo/stateset-core@0.6.0
 - pkg:cargo/stateset-core@0.7.0
 - pkg:cargo/stateset-core@0.7.1
+- pkg:cargo/stateset-core@0.7.13
 - pkg:cargo/stateset-core@0.7.4

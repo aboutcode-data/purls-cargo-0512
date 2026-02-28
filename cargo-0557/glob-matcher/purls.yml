@@ -1,1 +1,2 @@
 - pkg:cargo/glob-matcher@0.0.1
+- pkg:cargo/glob-matcher@0.1.0
