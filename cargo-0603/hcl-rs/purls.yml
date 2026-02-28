@@ -46,6 +46,7 @@
 - pkg:cargo/hcl-rs@0.19.3
 - pkg:cargo/hcl-rs@0.19.4
 - pkg:cargo/hcl-rs@0.19.5
+- pkg:cargo/hcl-rs@0.19.6
 - pkg:cargo/hcl-rs@0.2.0
 - pkg:cargo/hcl-rs@0.2.1
 - pkg:cargo/hcl-rs@0.3.0
