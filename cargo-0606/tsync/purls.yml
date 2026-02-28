@@ -22,3 +22,4 @@
 - pkg:cargo/tsync@2.2.1
 - pkg:cargo/tsync@2.3.0
 - pkg:cargo/tsync@3.0.0
+- pkg:cargo/tsync@3.1.0

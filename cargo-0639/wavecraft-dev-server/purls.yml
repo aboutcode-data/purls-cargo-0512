@@ -34,6 +34,7 @@
 - pkg:cargo/wavecraft-dev-server@0.12.46
 - pkg:cargo/wavecraft-dev-server@0.12.47
 - pkg:cargo/wavecraft-dev-server@0.12.48
+- pkg:cargo/wavecraft-dev-server@0.12.49
 - pkg:cargo/wavecraft-dev-server@0.12.5
 - pkg:cargo/wavecraft-dev-server@0.12.6
 - pkg:cargo/wavecraft-dev-server@0.12.7
