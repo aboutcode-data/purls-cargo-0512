@@ -13,3 +13,4 @@
 - pkg:cargo/geo-bevy@6.0.0
 - pkg:cargo/geo-bevy@7.0.0
 - pkg:cargo/geo-bevy@8.0.0
+- pkg:cargo/geo-bevy@9.0.0
