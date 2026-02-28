@@ -1,1 +1,2 @@
 - pkg:cargo/rustnake@1.2.1
+- pkg:cargo/rustnake@1.3.0
