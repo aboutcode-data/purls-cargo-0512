@@ -120,6 +120,7 @@
 - pkg:cargo/leptos@0.8.14
 - pkg:cargo/leptos@0.8.15
 - pkg:cargo/leptos@0.8.16
+- pkg:cargo/leptos@0.8.17
 - pkg:cargo/leptos@0.8.2
 - pkg:cargo/leptos@0.8.3
 - pkg:cargo/leptos@0.8.4
