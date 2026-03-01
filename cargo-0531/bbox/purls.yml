@@ -4,6 +4,7 @@
 - pkg:cargo/bbox@0.11.2
 - pkg:cargo/bbox@0.14.0
 - pkg:cargo/bbox@0.14.1
+- pkg:cargo/bbox@0.15.0
 - pkg:cargo/bbox@0.7.0
 - pkg:cargo/bbox@0.7.1
 - pkg:cargo/bbox@0.7.2
