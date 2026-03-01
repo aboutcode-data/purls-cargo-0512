@@ -27,6 +27,7 @@
 - pkg:cargo/defituna-core@3.5.10
 - pkg:cargo/defituna-core@3.5.11
 - pkg:cargo/defituna-core@3.5.12
+- pkg:cargo/defituna-core@3.5.13
 - pkg:cargo/defituna-core@3.5.2
 - pkg:cargo/defituna-core@3.5.3
 - pkg:cargo/defituna-core@3.5.4
@@ -35,3 +36,4 @@
 - pkg:cargo/defituna-core@3.5.7
 - pkg:cargo/defituna-core@3.5.8
 - pkg:cargo/defituna-core@3.5.9
+- pkg:cargo/defituna-core@3.6.0
