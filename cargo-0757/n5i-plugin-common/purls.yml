@@ -6,3 +6,4 @@
 - pkg:cargo/n5i-plugin-common@0.4.1
 - pkg:cargo/n5i-plugin-common@0.4.2
 - pkg:cargo/n5i-plugin-common@0.5.1
+- pkg:cargo/n5i-plugin-common@0.8.0

@@ -33,3 +33,5 @@
 - pkg:cargo/hyperlane_application@16.1.1
 - pkg:cargo/hyperlane_application@16.1.2
 - pkg:cargo/hyperlane_application@17.0.0
+- pkg:cargo/hyperlane_application@17.1.0
+- pkg:cargo/hyperlane_application@17.1.1
