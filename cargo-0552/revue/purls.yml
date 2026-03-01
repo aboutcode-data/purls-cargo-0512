@@ -116,6 +116,7 @@
 - pkg:cargo/revue@2.54.0
 - pkg:cargo/revue@2.55.0
 - pkg:cargo/revue@2.56.0
+- pkg:cargo/revue@2.57.0
 - pkg:cargo/revue@2.6.0
 - pkg:cargo/revue@2.7.0
 - pkg:cargo/revue@2.8.0
