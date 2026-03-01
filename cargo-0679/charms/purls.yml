@@ -33,3 +33,4 @@
 - pkg:cargo/charms@0.9.1
 - pkg:cargo/charms@0.9.2
 - pkg:cargo/charms@0.9.3
+- pkg:cargo/charms@11.0.0
