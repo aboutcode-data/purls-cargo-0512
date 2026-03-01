@@ -19,3 +19,4 @@
 - pkg:cargo/reqtls@0.1.0-rc1
 - pkg:cargo/reqtls@0.1.1
 - pkg:cargo/reqtls@0.1.2
+- pkg:cargo/reqtls@0.1.3
