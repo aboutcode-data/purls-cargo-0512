@@ -10,3 +10,4 @@
 - pkg:cargo/tempo-x402-wallet@0.7.0
 - pkg:cargo/tempo-x402-wallet@0.8.0
 - pkg:cargo/tempo-x402-wallet@0.9.0
+- pkg:cargo/tempo-x402-wallet@1.0.0
