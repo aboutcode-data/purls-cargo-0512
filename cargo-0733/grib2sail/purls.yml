@@ -13,3 +13,4 @@
 - pkg:cargo/grib2sail@0.5.1-alpha.6
 - pkg:cargo/grib2sail@0.5.1-alpha.8
 - pkg:cargo/grib2sail@0.5.1-alpha.9
+- pkg:cargo/grib2sail@0.5.2
