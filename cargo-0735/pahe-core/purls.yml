@@ -1,4 +1,6 @@
+- pkg:cargo/pahe-core@0.1.7
 - pkg:cargo/pahe-core@0.1.7-alpha
 - pkg:cargo/pahe-core@0.1.7-alpha.0
 - pkg:cargo/pahe-core@0.1.7-alpha.1
 - pkg:cargo/pahe-core@0.1.7-alpha.2
+- pkg:cargo/pahe-core@0.1.7-alpha.3
