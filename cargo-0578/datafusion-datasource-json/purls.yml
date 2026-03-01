@@ -11,3 +11,4 @@
 - pkg:cargo/datafusion-datasource-json@51.0.0
 - pkg:cargo/datafusion-datasource-json@52.0.0
 - pkg:cargo/datafusion-datasource-json@52.1.0
+- pkg:cargo/datafusion-datasource-json@52.2.0
