@@ -6,6 +6,7 @@
 - pkg:cargo/geo-bevy@0.6.0
 - pkg:cargo/geo-bevy@0.7.0
 - pkg:cargo/geo-bevy@1.0.0
+- pkg:cargo/geo-bevy@10.0.0
 - pkg:cargo/geo-bevy@2.0.0
 - pkg:cargo/geo-bevy@3.0.0
 - pkg:cargo/geo-bevy@4.0.0
