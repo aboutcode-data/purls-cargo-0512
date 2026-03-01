@@ -8,6 +8,8 @@
 - pkg:cargo/tehuti@0.14.0
 - pkg:cargo/tehuti@0.15.0
 - pkg:cargo/tehuti@0.16.0
+- pkg:cargo/tehuti@0.17.0
+- pkg:cargo/tehuti@0.18.0
 - pkg:cargo/tehuti@0.2.0
 - pkg:cargo/tehuti@0.3.0
 - pkg:cargo/tehuti@0.4.0
