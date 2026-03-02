@@ -13,3 +13,4 @@
 - pkg:cargo/mimium-web@3.1.1
 - pkg:cargo/mimium-web@3.1.2
 - pkg:cargo/mimium-web@3.2.0
+- pkg:cargo/mimium-web@4.0.0-alpha
