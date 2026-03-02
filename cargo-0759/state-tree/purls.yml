@@ -5,3 +5,4 @@
 - pkg:cargo/state-tree@3.1.1
 - pkg:cargo/state-tree@3.1.2
 - pkg:cargo/state-tree@3.2.0
+- pkg:cargo/state-tree@4.0.0-alpha
