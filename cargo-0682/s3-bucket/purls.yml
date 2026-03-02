@@ -1,1 +1,2 @@
 - pkg:cargo/s3-bucket@0.2.1
+- pkg:cargo/s3-bucket@0.2.3
