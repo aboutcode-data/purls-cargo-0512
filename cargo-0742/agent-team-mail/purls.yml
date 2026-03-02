@@ -11,4 +11,6 @@
 - pkg:cargo/agent-team-mail@0.22.0
 - pkg:cargo/agent-team-mail@0.23.0
 - pkg:cargo/agent-team-mail@0.24.0
+- pkg:cargo/agent-team-mail@0.27.0
+- pkg:cargo/agent-team-mail@0.28.0
 - pkg:cargo/agent-team-mail@0.9.0
