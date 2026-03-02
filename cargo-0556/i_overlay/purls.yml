@@ -111,3 +111,4 @@
 - pkg:cargo/i_overlay@4.2.2
 - pkg:cargo/i_overlay@4.3.0
 - pkg:cargo/i_overlay@4.4.0
+- pkg:cargo/i_overlay@4.4.1

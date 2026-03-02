@@ -16,3 +16,4 @@
 - pkg:cargo/datafusion-ffi@51.0.0
 - pkg:cargo/datafusion-ffi@52.0.0
 - pkg:cargo/datafusion-ffi@52.1.0
+- pkg:cargo/datafusion-ffi@52.2.0
