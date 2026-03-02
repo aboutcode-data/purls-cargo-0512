@@ -17,3 +17,4 @@
 - pkg:cargo/cargo-mono@0.3.7
 - pkg:cargo/cargo-mono@0.3.8
 - pkg:cargo/cargo-mono@0.4.1
+- pkg:cargo/cargo-mono@0.5.0
