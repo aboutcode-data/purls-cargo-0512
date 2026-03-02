@@ -7,3 +7,8 @@
 - pkg:cargo/bitflate-rs@0.1.8
 - pkg:cargo/bitflate-rs@0.1.81
 - pkg:cargo/bitflate-rs@0.1.82
+- pkg:cargo/bitflate-rs@0.1.84
+- pkg:cargo/bitflate-rs@0.1.85
+- pkg:cargo/bitflate-rs@0.1.87
+- pkg:cargo/bitflate-rs@0.1.9
+- pkg:cargo/bitflate-rs@0.2.0
