@@ -174,6 +174,7 @@
 - pkg:cargo/ra_ap_ide_diagnostics@0.0.319
 - pkg:cargo/ra_ap_ide_diagnostics@0.0.320
 - pkg:cargo/ra_ap_ide_diagnostics@0.0.321
+- pkg:cargo/ra_ap_ide_diagnostics@0.0.322
 - pkg:cargo/ra_ap_ide_diagnostics@0.0.61
 - pkg:cargo/ra_ap_ide_diagnostics@0.0.62
 - pkg:cargo/ra_ap_ide_diagnostics@0.0.63
