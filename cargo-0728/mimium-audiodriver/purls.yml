@@ -22,3 +22,5 @@
 - pkg:cargo/mimium-audiodriver@3.1.2
 - pkg:cargo/mimium-audiodriver@3.2.0
 - pkg:cargo/mimium-audiodriver@4.0.0-alpha
+- pkg:cargo/mimium-audiodriver@4.0.0-alpha.2
+- pkg:cargo/mimium-audiodriver@4.0.0-alpha.4

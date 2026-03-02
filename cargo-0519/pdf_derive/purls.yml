@@ -5,3 +5,4 @@
 - pkg:cargo/pdf_derive@0.1.21
 - pkg:cargo/pdf_derive@0.1.22
 - pkg:cargo/pdf_derive@0.2.0
+- pkg:cargo/pdf_derive@0.3.0
