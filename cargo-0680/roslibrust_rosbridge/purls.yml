@@ -6,3 +6,4 @@
 - pkg:cargo/roslibrust_rosbridge@0.17.0
 - pkg:cargo/roslibrust_rosbridge@0.18.0
 - pkg:cargo/roslibrust_rosbridge@0.19.0
+- pkg:cargo/roslibrust_rosbridge@0.20.0
