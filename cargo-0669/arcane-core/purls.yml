@@ -29,3 +29,4 @@
 - pkg:cargo/arcane-core@0.24.0
 - pkg:cargo/arcane-core@0.25.0
 - pkg:cargo/arcane-core@0.25.1
+- pkg:cargo/arcane-core@0.25.2
