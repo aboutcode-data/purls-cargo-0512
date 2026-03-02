@@ -1,3 +1,4 @@
 - pkg:cargo/littrs-ruff-source-file@0.5.3
 - pkg:cargo/littrs-ruff-source-file@0.6.0
 - pkg:cargo/littrs-ruff-source-file@0.6.1
+- pkg:cargo/littrs-ruff-source-file@0.6.2
