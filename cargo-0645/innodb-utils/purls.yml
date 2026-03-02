@@ -13,3 +13,4 @@
 - pkg:cargo/innodb-utils@3.2.0
 - pkg:cargo/innodb-utils@4.0.0
 - pkg:cargo/innodb-utils@4.0.1
+- pkg:cargo/innodb-utils@4.0.2

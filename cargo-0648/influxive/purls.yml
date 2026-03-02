@@ -11,3 +11,4 @@
 - pkg:cargo/influxive@0.0.3-alpha.1
 - pkg:cargo/influxive@0.0.4-alpha.1
 - pkg:cargo/influxive@0.0.5
+- pkg:cargo/influxive@0.0.6-dev.0
