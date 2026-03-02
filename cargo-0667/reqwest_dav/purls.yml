@@ -17,3 +17,4 @@
 - pkg:cargo/reqwest_dav@0.2.2
 - pkg:cargo/reqwest_dav@0.3.1
 - pkg:cargo/reqwest_dav@0.3.2
+- pkg:cargo/reqwest_dav@0.3.3

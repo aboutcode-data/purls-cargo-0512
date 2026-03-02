@@ -12,3 +12,4 @@
 - pkg:cargo/revm-helpers@0.3.6
 - pkg:cargo/revm-helpers@0.3.7
 - pkg:cargo/revm-helpers@0.4.0
+- pkg:cargo/revm-helpers@0.4.1
