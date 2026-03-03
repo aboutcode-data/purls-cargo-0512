@@ -4,6 +4,8 @@
 - pkg:cargo/grcov@0.10.3
 - pkg:cargo/grcov@0.10.4
 - pkg:cargo/grcov@0.10.5
+- pkg:cargo/grcov@0.10.6
+- pkg:cargo/grcov@0.10.7
 - pkg:cargo/grcov@0.2.3
 - pkg:cargo/grcov@0.3.0
 - pkg:cargo/grcov@0.4.1
