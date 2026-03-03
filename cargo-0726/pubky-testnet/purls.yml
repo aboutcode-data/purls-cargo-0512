@@ -19,3 +19,4 @@
 - pkg:cargo/pubky-testnet@0.6.0-rc.6exp
 - pkg:cargo/pubky-testnet@0.7.1
 - pkg:cargo/pubky-testnet@0.7.2
+- pkg:cargo/pubky-testnet@0.7.3
