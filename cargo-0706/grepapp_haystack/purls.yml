@@ -1,2 +1,3 @@
 - pkg:cargo/grepapp_haystack@1.10.0
+- pkg:cargo/grepapp_haystack@1.11.0
 - pkg:cargo/grepapp_haystack@1.5.1
