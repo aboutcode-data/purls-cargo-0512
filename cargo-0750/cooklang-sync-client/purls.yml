@@ -14,3 +14,4 @@
 - pkg:cargo/cooklang-sync-client@0.2.6
 - pkg:cargo/cooklang-sync-client@0.3.0
 - pkg:cargo/cooklang-sync-client@0.4.8
+- pkg:cargo/cooklang-sync-client@0.4.9
