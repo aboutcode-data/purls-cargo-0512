@@ -3,3 +3,4 @@
 - pkg:cargo/c2pa-azure@0.73.2
 - pkg:cargo/c2pa-azure@0.75.13
 - pkg:cargo/c2pa-azure@0.76.0
+- pkg:cargo/c2pa-azure@0.76.1
