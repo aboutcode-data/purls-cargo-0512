@@ -14,3 +14,4 @@
 - pkg:cargo/torc@0.16.1
 - pkg:cargo/torc@0.16.3
 - pkg:cargo/torc@0.17.0
+- pkg:cargo/torc@0.18.0
