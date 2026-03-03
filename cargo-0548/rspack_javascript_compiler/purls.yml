@@ -40,3 +40,4 @@
 - pkg:cargo/rspack_javascript_compiler@0.7.4
 - pkg:cargo/rspack_javascript_compiler@0.7.5
 - pkg:cargo/rspack_javascript_compiler@0.7.6
+- pkg:cargo/rspack_javascript_compiler@0.7.7

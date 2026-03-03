@@ -40,3 +40,4 @@
 - pkg:cargo/rspack_plugin_css_chunking@0.7.4
 - pkg:cargo/rspack_plugin_css_chunking@0.7.5
 - pkg:cargo/rspack_plugin_css_chunking@0.7.6
+- pkg:cargo/rspack_plugin_css_chunking@0.7.7

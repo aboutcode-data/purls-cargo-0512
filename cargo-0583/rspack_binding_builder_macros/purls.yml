@@ -38,3 +38,4 @@
 - pkg:cargo/rspack_binding_builder_macros@0.7.4
 - pkg:cargo/rspack_binding_builder_macros@0.7.5
 - pkg:cargo/rspack_binding_builder_macros@0.7.6
+- pkg:cargo/rspack_binding_builder_macros@0.7.7
