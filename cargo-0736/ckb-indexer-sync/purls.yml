@@ -38,3 +38,4 @@
 - pkg:cargo/ckb-indexer-sync@1.0.0-rc1
 - pkg:cargo/ckb-indexer-sync@1.0.0-rc2
 - pkg:cargo/ckb-indexer-sync@1.0.1
+- pkg:cargo/ckb-indexer-sync@1.1.0

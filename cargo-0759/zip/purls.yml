@@ -119,3 +119,4 @@
 - pkg:cargo/zip@7.4.0
 - pkg:cargo/zip@8.0.0
 - pkg:cargo/zip@8.1.0
+- pkg:cargo/zip@8.2.0
