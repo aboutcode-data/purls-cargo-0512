@@ -22,3 +22,4 @@
 - pkg:cargo/revm-bytecode@7.1.0
 - pkg:cargo/revm-bytecode@7.1.1
 - pkg:cargo/revm-bytecode@8.0.0
+- pkg:cargo/revm-bytecode@9.0.0
