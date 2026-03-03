@@ -40,6 +40,7 @@
 - pkg:cargo/mkrs@0.24.3
 - pkg:cargo/mkrs@0.24.4
 - pkg:cargo/mkrs@0.25.0
+- pkg:cargo/mkrs@0.25.1
 - pkg:cargo/mkrs@0.3.0
 - pkg:cargo/mkrs@0.3.1
 - pkg:cargo/mkrs@0.3.2
