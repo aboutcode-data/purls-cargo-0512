@@ -19,3 +19,6 @@
 - pkg:cargo/spqr-tree@2.0.0
 - pkg:cargo/spqr-tree@2.0.1
 - pkg:cargo/spqr-tree@3.0.0
+- pkg:cargo/spqr-tree@4.0.0
+- pkg:cargo/spqr-tree@4.0.1
+- pkg:cargo/spqr-tree@4.0.2
