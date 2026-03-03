@@ -2,3 +2,4 @@
 - pkg:cargo/unpdf-cli@0.1.6
 - pkg:cargo/unpdf-cli@0.1.8
 - pkg:cargo/unpdf-cli@0.1.9
+- pkg:cargo/unpdf-cli@0.2.3

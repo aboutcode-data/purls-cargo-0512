@@ -8,3 +8,4 @@
 - pkg:cargo/uvm_install@0.18.0
 - pkg:cargo/uvm_install@0.19.0
 - pkg:cargo/uvm_install@0.20.0
+- pkg:cargo/uvm_install@0.21.0
