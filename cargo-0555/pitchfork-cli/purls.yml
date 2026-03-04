@@ -19,3 +19,4 @@
 - pkg:cargo/pitchfork-cli@1.4.3
 - pkg:cargo/pitchfork-cli@1.5.0
 - pkg:cargo/pitchfork-cli@1.6.0
+- pkg:cargo/pitchfork-cli@2.0.0
