@@ -1,2 +1,3 @@
 - pkg:cargo/bones-core@0.18.1
 - pkg:cargo/bones-core@0.19.4
+- pkg:cargo/bones-core@0.19.5
