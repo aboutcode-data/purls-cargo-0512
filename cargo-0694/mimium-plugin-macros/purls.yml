@@ -1,2 +1,3 @@
 - pkg:cargo/mimium-plugin-macros@4.0.0-alpha
 - pkg:cargo/mimium-plugin-macros@4.0.0-alpha.4
+- pkg:cargo/mimium-plugin-macros@4.0.0-alpha.6
