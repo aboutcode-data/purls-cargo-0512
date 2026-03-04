@@ -10,6 +10,10 @@
 - pkg:cargo/tokf-common@0.2.19
 - pkg:cargo/tokf-common@0.2.20
 - pkg:cargo/tokf-common@0.2.21
+- pkg:cargo/tokf-common@0.2.22
+- pkg:cargo/tokf-common@0.2.23
+- pkg:cargo/tokf-common@0.2.24
+- pkg:cargo/tokf-common@0.2.25
 - pkg:cargo/tokf-common@0.2.4
 - pkg:cargo/tokf-common@0.2.5
 - pkg:cargo/tokf-common@0.2.6
