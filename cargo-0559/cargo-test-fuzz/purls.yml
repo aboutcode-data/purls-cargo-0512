@@ -58,3 +58,4 @@
 - pkg:cargo/cargo-test-fuzz@7.2.3
 - pkg:cargo/cargo-test-fuzz@7.2.4
 - pkg:cargo/cargo-test-fuzz@7.2.5
+- pkg:cargo/cargo-test-fuzz@7.3.0
