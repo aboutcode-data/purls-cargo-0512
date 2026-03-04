@@ -238,6 +238,7 @@
 - pkg:cargo/opendp@0.14.1-nightly.20260228.1
 - pkg:cargo/opendp@0.14.1-nightly.20260301.1
 - pkg:cargo/opendp@0.14.1-nightly.20260302.1
+- pkg:cargo/opendp@0.14.1-nightly.20260303.1
 - pkg:cargo/opendp@0.2.0
 - pkg:cargo/opendp@0.2.0-rc.1
 - pkg:cargo/opendp@0.2.0-rc.2
