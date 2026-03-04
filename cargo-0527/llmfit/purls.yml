@@ -32,3 +32,5 @@
 - pkg:cargo/llmfit@0.5.5
 - pkg:cargo/llmfit@0.5.7
 - pkg:cargo/llmfit@0.5.8
+- pkg:cargo/llmfit@0.6.0
+- pkg:cargo/llmfit@0.6.1
