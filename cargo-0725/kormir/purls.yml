@@ -20,6 +20,7 @@
 - pkg:cargo/kormir@0.5.0
 - pkg:cargo/kormir@1.0.0
 - pkg:cargo/kormir@1.0.1
+- pkg:cargo/kormir@1.0.10
 - pkg:cargo/kormir@1.0.2
 - pkg:cargo/kormir@1.0.3
 - pkg:cargo/kormir@1.0.4
