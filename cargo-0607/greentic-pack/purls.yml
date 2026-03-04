@@ -6,6 +6,7 @@
 - pkg:cargo/greentic-pack@0.4.1
 - pkg:cargo/greentic-pack@0.4.10
 - pkg:cargo/greentic-pack@0.4.100
+- pkg:cargo/greentic-pack@0.4.101
 - pkg:cargo/greentic-pack@0.4.11
 - pkg:cargo/greentic-pack@0.4.12
 - pkg:cargo/greentic-pack@0.4.13
