@@ -5,3 +5,4 @@
 - pkg:cargo/wgsl-macro@0.3.0
 - pkg:cargo/wgsl-macro@0.3.1
 - pkg:cargo/wgsl-macro@0.3.2
+- pkg:cargo/wgsl-macro@0.4.0
