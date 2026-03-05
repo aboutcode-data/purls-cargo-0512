@@ -13,6 +13,8 @@
 - pkg:cargo/aip-cli@0.8.0
 - pkg:cargo/aip-cli@0.8.1
 - pkg:cargo/aip-cli@0.8.10
+- pkg:cargo/aip-cli@0.8.11
+- pkg:cargo/aip-cli@0.8.12
 - pkg:cargo/aip-cli@0.8.2
 - pkg:cargo/aip-cli@0.8.3
 - pkg:cargo/aip-cli@0.8.4
