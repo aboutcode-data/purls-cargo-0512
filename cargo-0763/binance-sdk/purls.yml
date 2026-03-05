@@ -37,6 +37,7 @@
 - pkg:cargo/binance-sdk@40.0.0
 - pkg:cargo/binance-sdk@40.1.0
 - pkg:cargo/binance-sdk@41.0.0
+- pkg:cargo/binance-sdk@42.0.0
 - pkg:cargo/binance-sdk@5.0.0
 - pkg:cargo/binance-sdk@6.0.0
 - pkg:cargo/binance-sdk@7.0.0
