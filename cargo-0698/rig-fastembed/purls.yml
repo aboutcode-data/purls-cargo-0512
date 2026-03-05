@@ -29,3 +29,5 @@
 - pkg:cargo/rig-fastembed@0.2.7
 - pkg:cargo/rig-fastembed@0.2.8
 - pkg:cargo/rig-fastembed@0.2.9
+- pkg:cargo/rig-fastembed@0.3.0
+- pkg:cargo/rig-fastembed@0.3.1
