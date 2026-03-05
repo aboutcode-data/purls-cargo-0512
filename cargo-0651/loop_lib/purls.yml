@@ -4,4 +4,6 @@
 - pkg:cargo/loop_lib@0.2.12
 - pkg:cargo/loop_lib@0.2.13
 - pkg:cargo/loop_lib@0.2.14
+- pkg:cargo/loop_lib@0.2.15
+- pkg:cargo/loop_lib@0.2.16
 - pkg:cargo/loop_lib@0.2.9
