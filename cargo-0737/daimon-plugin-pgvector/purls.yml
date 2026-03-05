@@ -1,0 +1,2 @@
+- pkg:cargo/daimon-plugin-pgvector@0.15.0
+- pkg:cargo/daimon-plugin-pgvector@0.16.0

@@ -9,3 +9,4 @@
 - pkg:cargo/r-lanlib@0.7.0
 - pkg:cargo/r-lanlib@0.7.1
 - pkg:cargo/r-lanlib@0.8.0
+- pkg:cargo/r-lanlib@0.9.1
