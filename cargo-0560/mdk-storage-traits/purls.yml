@@ -1,1 +1,2 @@
 - pkg:cargo/mdk-storage-traits@0.6.0
+- pkg:cargo/mdk-storage-traits@0.7.0
