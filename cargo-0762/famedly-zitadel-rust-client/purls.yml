@@ -1,2 +1,3 @@
 - pkg:cargo/famedly-zitadel-rust-client@0.8.1
 - pkg:cargo/famedly-zitadel-rust-client@0.9.0
+- pkg:cargo/famedly-zitadel-rust-client@0.9.1
