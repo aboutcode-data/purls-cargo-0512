@@ -48,6 +48,8 @@
 - pkg:cargo/j-cli@12.1.42
 - pkg:cargo/j-cli@12.1.43
 - pkg:cargo/j-cli@12.1.44
+- pkg:cargo/j-cli@12.1.46
+- pkg:cargo/j-cli@12.1.47
 - pkg:cargo/j-cli@12.1.5
 - pkg:cargo/j-cli@12.1.6
 - pkg:cargo/j-cli@12.1.7
