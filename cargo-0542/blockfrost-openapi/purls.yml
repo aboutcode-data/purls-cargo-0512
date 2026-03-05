@@ -5,3 +5,4 @@
 - pkg:cargo/blockfrost-openapi@0.1.75
 - pkg:cargo/blockfrost-openapi@0.1.83
 - pkg:cargo/blockfrost-openapi@0.1.85
+- pkg:cargo/blockfrost-openapi@0.1.86
