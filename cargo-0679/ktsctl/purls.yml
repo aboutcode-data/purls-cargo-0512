@@ -12,3 +12,4 @@
 - pkg:cargo/ktsctl@2.0.0
 - pkg:cargo/ktsctl@3.0.0
 - pkg:cargo/ktsctl@3.1.0
+- pkg:cargo/ktsctl@3.1.1
