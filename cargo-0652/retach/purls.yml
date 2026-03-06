@@ -1,3 +1,4 @@
 - pkg:cargo/retach@0.4.0
 - pkg:cargo/retach@0.6.1
 - pkg:cargo/retach@0.6.2
+- pkg:cargo/retach@0.7.0
