@@ -290,3 +290,4 @@
 - pkg:cargo/trustfall-rustdoc-adapter@57.0.2
 - pkg:cargo/trustfall-rustdoc-adapter@57.0.3
 - pkg:cargo/trustfall-rustdoc-adapter@57.0.4
+- pkg:cargo/trustfall-rustdoc-adapter@57.0.5
