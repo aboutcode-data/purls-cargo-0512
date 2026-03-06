@@ -4,3 +4,4 @@
 - pkg:cargo/clasp-test-utils@4.0.1
 - pkg:cargo/clasp-test-utils@4.0.2
 - pkg:cargo/clasp-test-utils@4.0.3
+- pkg:cargo/clasp-test-utils@4.1.0
