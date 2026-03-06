@@ -12,3 +12,7 @@
 - pkg:cargo/agentroom@0.6.0
 - pkg:cargo/agentroom@0.7.0
 - pkg:cargo/agentroom@0.8.0
+- pkg:cargo/agentroom@1.0.0
+- pkg:cargo/agentroom@1.0.1
+- pkg:cargo/agentroom@1.0.2
+- pkg:cargo/agentroom@1.0.2-rc.1
