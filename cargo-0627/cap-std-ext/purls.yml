@@ -27,3 +27,4 @@
 - pkg:cargo/cap-std-ext@4.0.6
 - pkg:cargo/cap-std-ext@4.0.7
 - pkg:cargo/cap-std-ext@5.0.0
+- pkg:cargo/cap-std-ext@5.1.1
