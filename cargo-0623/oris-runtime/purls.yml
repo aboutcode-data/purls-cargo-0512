@@ -9,6 +9,9 @@
 - pkg:cargo/oris-runtime@0.13.2
 - pkg:cargo/oris-runtime@0.13.3
 - pkg:cargo/oris-runtime@0.14.0
+- pkg:cargo/oris-runtime@0.16.0
+- pkg:cargo/oris-runtime@0.17.0
+- pkg:cargo/oris-runtime@0.17.1
 - pkg:cargo/oris-runtime@0.2.0
 - pkg:cargo/oris-runtime@0.2.1
 - pkg:cargo/oris-runtime@0.2.12
