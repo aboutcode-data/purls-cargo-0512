@@ -54,6 +54,7 @@
 - pkg:cargo/netidx-core@0.29.2
 - pkg:cargo/netidx-core@0.30.0
 - pkg:cargo/netidx-core@0.31.0
+- pkg:cargo/netidx-core@0.31.5
 - pkg:cargo/netidx-core@0.6.0
 - pkg:cargo/netidx-core@0.6.1
 - pkg:cargo/netidx-core@0.7.0
