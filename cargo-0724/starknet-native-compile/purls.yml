@@ -4,3 +4,4 @@
 - pkg:cargo/starknet-native-compile@0.8.0
 - pkg:cargo/starknet-native-compile@0.9.0-rc.0
 - pkg:cargo/starknet-native-compile@0.9.0-rc.1
+- pkg:cargo/starknet-native-compile@0.9.0-rc.2
