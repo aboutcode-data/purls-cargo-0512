@@ -4,3 +4,4 @@
 - pkg:cargo/cf-modkit-http@0.2.14
 - pkg:cargo/cf-modkit-http@0.2.7
 - pkg:cargo/cf-modkit-http@0.2.8
+- pkg:cargo/cf-modkit-http@0.3.1
