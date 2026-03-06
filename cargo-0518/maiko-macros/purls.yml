@@ -8,3 +8,4 @@
 - pkg:cargo/maiko-macros@0.2.5
 - pkg:cargo/maiko-macros@0.2.6
 - pkg:cargo/maiko-macros@0.3.0
+- pkg:cargo/maiko-macros@0.3.1
