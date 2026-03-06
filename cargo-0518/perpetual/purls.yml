@@ -90,3 +90,4 @@
 - pkg:cargo/perpetual@1.9.3
 - pkg:cargo/perpetual@1.9.4
 - pkg:cargo/perpetual@2.0.0
+- pkg:cargo/perpetual@2.1.0
