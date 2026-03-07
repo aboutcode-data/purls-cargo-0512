@@ -339,6 +339,8 @@
 - pkg:cargo/git-disjoint@0.10.97
 - pkg:cargo/git-disjoint@0.10.98
 - pkg:cargo/git-disjoint@0.10.99
+- pkg:cargo/git-disjoint@0.11.0
+- pkg:cargo/git-disjoint@0.11.1
 - pkg:cargo/git-disjoint@0.2.0
 - pkg:cargo/git-disjoint@0.2.1
 - pkg:cargo/git-disjoint@0.2.10
