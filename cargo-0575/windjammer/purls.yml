@@ -34,3 +34,4 @@
 - pkg:cargo/windjammer@0.39.6
 - pkg:cargo/windjammer@0.41.0
 - pkg:cargo/windjammer@0.44.0
+- pkg:cargo/windjammer@0.45.0
