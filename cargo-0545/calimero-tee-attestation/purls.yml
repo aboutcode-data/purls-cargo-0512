@@ -14,3 +14,4 @@
 - pkg:cargo/calimero-tee-attestation@0.10.0-rc.51
 - pkg:cargo/calimero-tee-attestation@0.10.0-rc.52
 - pkg:cargo/calimero-tee-attestation@0.10.1-rc.1
+- pkg:cargo/calimero-tee-attestation@0.10.1-rc.2
