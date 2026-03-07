@@ -4,6 +4,7 @@
 - pkg:cargo/algebraeon-groups@0.0.14
 - pkg:cargo/algebraeon-groups@0.0.15
 - pkg:cargo/algebraeon-groups@0.0.16
+- pkg:cargo/algebraeon-groups@0.0.17
 - pkg:cargo/algebraeon-groups@0.0.2
 - pkg:cargo/algebraeon-groups@0.0.6
 - pkg:cargo/algebraeon-groups@0.0.8
