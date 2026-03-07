@@ -7,3 +7,4 @@
 - pkg:cargo/vex-persist@0.1.8
 - pkg:cargo/vex-persist@0.2.1
 - pkg:cargo/vex-persist@0.3.0
+- pkg:cargo/vex-persist@1.0.0
