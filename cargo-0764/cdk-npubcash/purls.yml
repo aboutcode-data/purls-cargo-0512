@@ -4,3 +4,4 @@
 - pkg:cargo/cdk-npubcash@0.15.0-rc.2
 - pkg:cargo/cdk-npubcash@0.15.0-rc.3
 - pkg:cargo/cdk-npubcash@0.15.1
+- pkg:cargo/cdk-npubcash@0.15.2-rc.0
