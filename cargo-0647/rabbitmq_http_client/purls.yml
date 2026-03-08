@@ -72,4 +72,5 @@
 - pkg:cargo/rabbitmq_http_client@0.80.0
 - pkg:cargo/rabbitmq_http_client@0.81.0
 - pkg:cargo/rabbitmq_http_client@0.83.0
+- pkg:cargo/rabbitmq_http_client@0.84.0
 - pkg:cargo/rabbitmq_http_client@0.9.0
