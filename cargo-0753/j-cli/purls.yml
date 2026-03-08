@@ -67,6 +67,12 @@
 - pkg:cargo/j-cli@12.1.60
 - pkg:cargo/j-cli@12.1.61
 - pkg:cargo/j-cli@12.1.62
+- pkg:cargo/j-cli@12.1.63
+- pkg:cargo/j-cli@12.1.64
+- pkg:cargo/j-cli@12.1.65
+- pkg:cargo/j-cli@12.1.66
 - pkg:cargo/j-cli@12.1.7
 - pkg:cargo/j-cli@12.1.8
 - pkg:cargo/j-cli@12.1.9
+- pkg:cargo/j-cli@12.2.0
+- pkg:cargo/j-cli@12.2.1
