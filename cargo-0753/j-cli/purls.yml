@@ -60,7 +60,13 @@
 - pkg:cargo/j-cli@12.1.54
 - pkg:cargo/j-cli@12.1.55
 - pkg:cargo/j-cli@12.1.56
+- pkg:cargo/j-cli@12.1.57
+- pkg:cargo/j-cli@12.1.58
+- pkg:cargo/j-cli@12.1.59
 - pkg:cargo/j-cli@12.1.6
+- pkg:cargo/j-cli@12.1.60
+- pkg:cargo/j-cli@12.1.61
+- pkg:cargo/j-cli@12.1.62
 - pkg:cargo/j-cli@12.1.7
 - pkg:cargo/j-cli@12.1.8
 - pkg:cargo/j-cli@12.1.9
