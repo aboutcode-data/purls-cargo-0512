@@ -1,2 +1,3 @@
 - pkg:cargo/pulumi_gestalt_domain@0.0.5
 - pkg:cargo/pulumi_gestalt_domain@0.0.6
+- pkg:cargo/pulumi_gestalt_domain@0.0.7
