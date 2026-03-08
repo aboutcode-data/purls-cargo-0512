@@ -1,1 +1,2 @@
 - pkg:cargo/arcbox-hypervisor@0.0.1-alpha.1
+- pkg:cargo/arcbox-hypervisor@0.1.4
