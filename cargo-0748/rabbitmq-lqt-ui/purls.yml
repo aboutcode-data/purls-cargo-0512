@@ -1,1 +1,2 @@
 - pkg:cargo/rabbitmq-lqt-ui@0.20.0
+- pkg:cargo/rabbitmq-lqt-ui@0.21.0
