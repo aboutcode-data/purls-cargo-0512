@@ -1,2 +1,3 @@
 - pkg:cargo/cortex-mem-service@1.0.0
 - pkg:cargo/cortex-mem-service@2.5.0
+- pkg:cargo/cortex-mem-service@2.5.1
