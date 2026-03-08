@@ -2,3 +2,4 @@
 - pkg:cargo/dukascopy-fx@0.2.0
 - pkg:cargo/dukascopy-fx@0.3.0
 - pkg:cargo/dukascopy-fx@0.4.0
+- pkg:cargo/dukascopy-fx@0.5.0
