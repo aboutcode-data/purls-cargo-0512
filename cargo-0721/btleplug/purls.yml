@@ -13,6 +13,7 @@
 - pkg:cargo/btleplug@0.11.6
 - pkg:cargo/btleplug@0.11.7
 - pkg:cargo/btleplug@0.11.8
+- pkg:cargo/btleplug@0.12.0
 - pkg:cargo/btleplug@0.3.1
 - pkg:cargo/btleplug@0.4.0
 - pkg:cargo/btleplug@0.4.1
