@@ -6,3 +6,4 @@
 - pkg:cargo/sbpf-coverage@0.1.8
 - pkg:cargo/sbpf-coverage@0.1.9
 - pkg:cargo/sbpf-coverage@0.2.1
+- pkg:cargo/sbpf-coverage@0.2.2
