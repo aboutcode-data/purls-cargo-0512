@@ -25,3 +25,4 @@
 - pkg:cargo/jaq-std@2.1.2
 - pkg:cargo/jaq-std@3.0.0-alpha
 - pkg:cargo/jaq-std@3.0.0-beta
+- pkg:cargo/jaq-std@3.0.0-gamma
