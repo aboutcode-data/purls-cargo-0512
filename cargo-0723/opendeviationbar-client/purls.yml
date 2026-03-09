@@ -20,3 +20,7 @@
 - pkg:cargo/opendeviationbar-client@12.62.3
 - pkg:cargo/opendeviationbar-client@12.62.4
 - pkg:cargo/opendeviationbar-client@12.62.5
+- pkg:cargo/opendeviationbar-client@12.64.0
+- pkg:cargo/opendeviationbar-client@12.65.1
+- pkg:cargo/opendeviationbar-client@13.0.0
+- pkg:cargo/opendeviationbar-client@13.0.1
