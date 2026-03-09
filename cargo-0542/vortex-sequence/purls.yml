@@ -27,3 +27,4 @@
 - pkg:cargo/vortex-sequence@0.59.4
 - pkg:cargo/vortex-sequence@0.60.0
 - pkg:cargo/vortex-sequence@0.61.0
+- pkg:cargo/vortex-sequence@0.62.0
