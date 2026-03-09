@@ -27,3 +27,4 @@
 - pkg:cargo/raptorq@1.8.0
 - pkg:cargo/raptorq@1.8.1
 - pkg:cargo/raptorq@2.0.0
+- pkg:cargo/raptorq@2.0.1
