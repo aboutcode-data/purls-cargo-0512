@@ -1,1 +1,2 @@
 - pkg:cargo/circleci-logs@0.2.0
+- pkg:cargo/circleci-logs@0.2.2
