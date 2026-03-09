@@ -5,3 +5,4 @@
 - pkg:cargo/repl-proto@1.5.0
 - pkg:cargo/repl-proto@1.6.0
 - pkg:cargo/repl-proto@1.6.1
+- pkg:cargo/repl-proto@1.7.0
