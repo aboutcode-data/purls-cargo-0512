@@ -13,6 +13,8 @@
 - pkg:cargo/trypema@0.1.0-rc.14
 - pkg:cargo/trypema@0.1.0-rc.15
 - pkg:cargo/trypema@0.1.0-rc.16
+- pkg:cargo/trypema@0.1.0-rc.17
+- pkg:cargo/trypema@0.1.0-rc.18
 - pkg:cargo/trypema@0.1.0-rc.2
 - pkg:cargo/trypema@0.1.0-rc.3
 - pkg:cargo/trypema@0.1.0-rc.4
@@ -21,3 +23,4 @@
 - pkg:cargo/trypema@0.1.0-rc.7
 - pkg:cargo/trypema@0.1.0-rc.8
 - pkg:cargo/trypema@0.1.0-rc.9
+- pkg:cargo/trypema@1.0.0
