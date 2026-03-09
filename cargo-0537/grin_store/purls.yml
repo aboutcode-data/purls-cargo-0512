@@ -29,3 +29,4 @@
 - pkg:cargo/grin_store@5.3.0
 - pkg:cargo/grin_store@5.3.1
 - pkg:cargo/grin_store@5.3.3
+- pkg:cargo/grin_store@5.4.0-alpha.0
