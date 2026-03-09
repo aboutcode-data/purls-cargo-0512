@@ -17,3 +17,4 @@
 - pkg:cargo/lineark-derive@1.0.1
 - pkg:cargo/lineark-derive@1.1.0
 - pkg:cargo/lineark-derive@1.1.2
+- pkg:cargo/lineark-derive@2.0.0
