@@ -10,6 +10,7 @@
 - pkg:cargo/fr32@11.1.0
 - pkg:cargo/fr32@12.0.0
 - pkg:cargo/fr32@12.0.1
+- pkg:cargo/fr32@12.1.0
 - pkg:cargo/fr32@2.0.0
 - pkg:cargo/fr32@2.0.1
 - pkg:cargo/fr32@2.0.2

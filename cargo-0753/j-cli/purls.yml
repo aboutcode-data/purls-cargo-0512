@@ -77,3 +77,9 @@
 - pkg:cargo/j-cli@12.2.0
 - pkg:cargo/j-cli@12.2.1
 - pkg:cargo/j-cli@12.2.2
+- pkg:cargo/j-cli@12.2.3
+- pkg:cargo/j-cli@12.2.4
+- pkg:cargo/j-cli@12.2.7
+- pkg:cargo/j-cli@12.2.8
+- pkg:cargo/j-cli@12.2.9
+- pkg:cargo/j-cli@12.3.2
