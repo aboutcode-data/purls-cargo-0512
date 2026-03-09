@@ -39,3 +39,4 @@
 - pkg:cargo/leo-test-framework@3.3.0
 - pkg:cargo/leo-test-framework@3.3.1
 - pkg:cargo/leo-test-framework@3.4.0
+- pkg:cargo/leo-test-framework@3.5.0
