@@ -1,2 +1,4 @@
 - pkg:cargo/create-proyect-cli@2.0.1
 - pkg:cargo/create-proyect-cli@2.0.3
+- pkg:cargo/create-proyect-cli@2.1.0
+- pkg:cargo/create-proyect-cli@2.1.6

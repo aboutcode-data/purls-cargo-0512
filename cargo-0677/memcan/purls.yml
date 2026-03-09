@@ -1,2 +1,4 @@
 - pkg:cargo/memcan@0.31.0
 - pkg:cargo/memcan@0.31.1
+- pkg:cargo/memcan@0.32.0
+- pkg:cargo/memcan@0.32.1
