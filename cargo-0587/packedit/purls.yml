@@ -11,3 +11,4 @@
 - pkg:cargo/packedit@1.1.9
 - pkg:cargo/packedit@1.2.0
 - pkg:cargo/packedit@1.2.1
+- pkg:cargo/packedit@2.0.0
