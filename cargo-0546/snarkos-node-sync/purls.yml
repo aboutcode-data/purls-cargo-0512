@@ -26,3 +26,4 @@
 - pkg:cargo/snarkos-node-sync@4.3.0
 - pkg:cargo/snarkos-node-sync@4.4.0
 - pkg:cargo/snarkos-node-sync@4.5.0
+- pkg:cargo/snarkos-node-sync@4.5.1
