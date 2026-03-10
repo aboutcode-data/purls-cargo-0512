@@ -1,1 +1,2 @@
 - pkg:cargo/conreg-feign-macro@0.1.0
+- pkg:cargo/conreg-feign-macro@0.1.1
