@@ -9,3 +9,5 @@
 - pkg:cargo/tideorm@0.4.5
 - pkg:cargo/tideorm@0.5.0
 - pkg:cargo/tideorm@0.6.0
+- pkg:cargo/tideorm@0.7.0
+- pkg:cargo/tideorm@0.7.1
