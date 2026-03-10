@@ -1,1 +1,2 @@
 - pkg:cargo/sql-composer-duckdb@0.0.1
+- pkg:cargo/sql-composer-duckdb@0.0.2
