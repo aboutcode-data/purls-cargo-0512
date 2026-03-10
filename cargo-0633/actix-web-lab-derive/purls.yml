@@ -7,3 +7,4 @@
 - pkg:cargo/actix-web-lab-derive@0.22.0
 - pkg:cargo/actix-web-lab-derive@0.23.0
 - pkg:cargo/actix-web-lab-derive@0.24.0
+- pkg:cargo/actix-web-lab-derive@0.26.0
