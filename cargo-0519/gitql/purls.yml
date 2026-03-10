@@ -38,6 +38,7 @@
 - pkg:cargo/gitql@0.40.0
 - pkg:cargo/gitql@0.41.0
 - pkg:cargo/gitql@0.42.0
+- pkg:cargo/gitql@0.43.0
 - pkg:cargo/gitql@0.5.0
 - pkg:cargo/gitql@0.6.0
 - pkg:cargo/gitql@0.7.0
