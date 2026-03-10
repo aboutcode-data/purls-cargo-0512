@@ -9,5 +9,6 @@
 - pkg:cargo/spn-cli@0.15.0
 - pkg:cargo/spn-cli@0.15.1
 - pkg:cargo/spn-cli@0.15.2
+- pkg:cargo/spn-cli@0.15.4
 - pkg:cargo/spn-cli@0.9.0
 - pkg:cargo/spn-cli@0.9.1
