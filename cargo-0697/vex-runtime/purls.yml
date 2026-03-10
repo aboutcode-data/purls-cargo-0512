@@ -8,3 +8,4 @@
 - pkg:cargo/vex-runtime@0.2.1
 - pkg:cargo/vex-runtime@0.3.0
 - pkg:cargo/vex-runtime@1.0.0
+- pkg:cargo/vex-runtime@1.1.3

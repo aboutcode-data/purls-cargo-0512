@@ -10,3 +10,4 @@
 - pkg:cargo/vex-queue@0.2.1
 - pkg:cargo/vex-queue@0.3.0
 - pkg:cargo/vex-queue@1.0.0
+- pkg:cargo/vex-queue@1.1.3
