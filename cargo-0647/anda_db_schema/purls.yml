@@ -16,3 +16,4 @@
 - pkg:cargo/anda_db_schema@0.4.4
 - pkg:cargo/anda_db_schema@0.4.5
 - pkg:cargo/anda_db_schema@0.4.6
+- pkg:cargo/anda_db_schema@0.4.7
