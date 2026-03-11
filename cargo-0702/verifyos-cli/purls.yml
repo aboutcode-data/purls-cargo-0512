@@ -5,3 +5,6 @@
 - pkg:cargo/verifyos-cli@0.1.4
 - pkg:cargo/verifyos-cli@0.1.5
 - pkg:cargo/verifyos-cli@0.1.6
+- pkg:cargo/verifyos-cli@0.1.7
+- pkg:cargo/verifyos-cli@0.2.0
+- pkg:cargo/verifyos-cli@0.2.1
