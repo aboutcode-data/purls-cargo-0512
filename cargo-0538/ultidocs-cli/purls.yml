@@ -5,3 +5,5 @@
 - pkg:cargo/ultidocs-cli@0.3.5
 - pkg:cargo/ultidocs-cli@0.3.6
 - pkg:cargo/ultidocs-cli@0.3.8
+- pkg:cargo/ultidocs-cli@0.4.0
+- pkg:cargo/ultidocs-cli@0.4.1
