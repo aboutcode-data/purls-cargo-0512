@@ -5,3 +5,6 @@
 - pkg:cargo/bsv-sdk@0.1.4
 - pkg:cargo/bsv-sdk@0.1.5
 - pkg:cargo/bsv-sdk@0.1.6
+- pkg:cargo/bsv-sdk@0.1.7
+- pkg:cargo/bsv-sdk@0.1.71
+- pkg:cargo/bsv-sdk@0.1.72
