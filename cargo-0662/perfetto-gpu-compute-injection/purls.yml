@@ -1,2 +1,3 @@
 - pkg:cargo/perfetto-gpu-compute-injection@0.1.0
 - pkg:cargo/perfetto-gpu-compute-injection@0.2.0
+- pkg:cargo/perfetto-gpu-compute-injection@0.2.1
