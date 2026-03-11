@@ -2,3 +2,4 @@
 - pkg:cargo/rustapi-grpc@0.1.397
 - pkg:cargo/rustapi-grpc@0.1.410
 - pkg:cargo/rustapi-grpc@0.1.412
+- pkg:cargo/rustapi-grpc@0.1.417
