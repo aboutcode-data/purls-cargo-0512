@@ -3,3 +3,5 @@
 - pkg:cargo/memcan@0.32.0
 - pkg:cargo/memcan@0.32.1
 - pkg:cargo/memcan@0.33.0
+- pkg:cargo/memcan@0.34.0
+- pkg:cargo/memcan@0.34.1
