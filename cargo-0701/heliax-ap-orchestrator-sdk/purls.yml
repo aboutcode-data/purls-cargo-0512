@@ -1,4 +1,5 @@
 - pkg:cargo/heliax-ap-orchestrator-sdk@0.1.0
+- pkg:cargo/heliax-ap-orchestrator-sdk@0.10.0
 - pkg:cargo/heliax-ap-orchestrator-sdk@0.2.0
 - pkg:cargo/heliax-ap-orchestrator-sdk@0.3.0
 - pkg:cargo/heliax-ap-orchestrator-sdk@0.4.0
