@@ -9,3 +9,5 @@
 - pkg:cargo/numeris@0.2.7
 - pkg:cargo/numeris@0.3.0
 - pkg:cargo/numeris@0.3.1
+- pkg:cargo/numeris@0.3.2
+- pkg:cargo/numeris@0.4.0
