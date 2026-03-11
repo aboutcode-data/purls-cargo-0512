@@ -9,6 +9,7 @@
 - pkg:cargo/soroban-meta@23.5.0
 - pkg:cargo/soroban-meta@23.5.1
 - pkg:cargo/soroban-meta@23.5.2
+- pkg:cargo/soroban-meta@23.5.3
 - pkg:cargo/soroban-meta@25.0.0
 - pkg:cargo/soroban-meta@25.0.0-rc.1
 - pkg:cargo/soroban-meta@25.0.0-rc.2
