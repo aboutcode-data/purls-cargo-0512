@@ -16,3 +16,4 @@
 - pkg:cargo/llama-cpp-sys-4@0.2.3
 - pkg:cargo/llama-cpp-sys-4@0.2.4
 - pkg:cargo/llama-cpp-sys-4@0.2.5
+- pkg:cargo/llama-cpp-sys-4@0.2.6
