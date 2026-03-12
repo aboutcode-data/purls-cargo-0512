@@ -7,3 +7,5 @@
 - pkg:cargo/truss-image@0.6.1
 - pkg:cargo/truss-image@0.6.2
 - pkg:cargo/truss-image@0.7.0
+- pkg:cargo/truss-image@0.7.1
+- pkg:cargo/truss-image@0.7.2
