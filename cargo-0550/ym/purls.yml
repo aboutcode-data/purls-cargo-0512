@@ -1,1 +1,4 @@
 - pkg:cargo/ym@0.3.0
+- pkg:cargo/ym@0.3.10
+- pkg:cargo/ym@0.3.12
+- pkg:cargo/ym@0.3.13

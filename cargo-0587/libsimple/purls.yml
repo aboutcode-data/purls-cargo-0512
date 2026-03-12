@@ -17,3 +17,4 @@
 - pkg:cargo/libsimple@0.7.0
 - pkg:cargo/libsimple@0.7.1
 - pkg:cargo/libsimple@0.8.0
+- pkg:cargo/libsimple@0.9.0
