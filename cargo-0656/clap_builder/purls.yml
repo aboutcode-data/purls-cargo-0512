@@ -98,6 +98,7 @@
 - pkg:cargo/clap_builder@4.5.59
 - pkg:cargo/clap_builder@4.5.6
 - pkg:cargo/clap_builder@4.5.60
+- pkg:cargo/clap_builder@4.5.61
 - pkg:cargo/clap_builder@4.5.7
 - pkg:cargo/clap_builder@4.5.8
 - pkg:cargo/clap_builder@4.5.9
