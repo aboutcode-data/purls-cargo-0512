@@ -3,3 +3,4 @@
 - pkg:cargo/hadris-fat-cli@1.0.1
 - pkg:cargo/hadris-fat-cli@1.0.2
 - pkg:cargo/hadris-fat-cli@1.0.3
+- pkg:cargo/hadris-fat-cli@1.1.0
