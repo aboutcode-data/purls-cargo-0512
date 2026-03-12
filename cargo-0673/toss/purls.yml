@@ -1,3 +1,5 @@
 - pkg:cargo/toss@1.0.0
 - pkg:cargo/toss@1.1.0
 - pkg:cargo/toss@1.1.1
+- pkg:cargo/toss@2.1.1
+- pkg:cargo/toss@2.2.2
