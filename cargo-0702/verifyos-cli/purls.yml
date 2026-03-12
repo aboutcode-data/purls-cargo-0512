@@ -9,3 +9,7 @@
 - pkg:cargo/verifyos-cli@0.2.0
 - pkg:cargo/verifyos-cli@0.2.1
 - pkg:cargo/verifyos-cli@0.2.2
+- pkg:cargo/verifyos-cli@0.2.3
+- pkg:cargo/verifyos-cli@0.3.0
+- pkg:cargo/verifyos-cli@0.3.1
+- pkg:cargo/verifyos-cli@0.4.0
