@@ -1,1 +1,3 @@
 - pkg:cargo/sss-token@0.1.0
+- pkg:cargo/sss-token@1.0.0
+- pkg:cargo/sss-token@1.0.1
