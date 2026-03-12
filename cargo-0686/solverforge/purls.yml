@@ -13,6 +13,7 @@
 - pkg:cargo/solverforge@0.5.12
 - pkg:cargo/solverforge@0.5.13
 - pkg:cargo/solverforge@0.5.14
+- pkg:cargo/solverforge@0.5.15
 - pkg:cargo/solverforge@0.5.2
 - pkg:cargo/solverforge@0.5.4
 - pkg:cargo/solverforge@0.5.5
