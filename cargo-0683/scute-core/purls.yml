@@ -2,3 +2,5 @@
 - pkg:cargo/scute-core@0.0.1
 - pkg:cargo/scute-core@0.0.2
 - pkg:cargo/scute-core@0.0.3
+- pkg:cargo/scute-core@0.0.4
+- pkg:cargo/scute-core@0.0.5
