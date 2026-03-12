@@ -24,6 +24,7 @@
 - pkg:cargo/morphix_derive@0.15.0
 - pkg:cargo/morphix_derive@0.15.1
 - pkg:cargo/morphix_derive@0.16.0
+- pkg:cargo/morphix_derive@0.17.0
 - pkg:cargo/morphix_derive@0.2.0
 - pkg:cargo/morphix_derive@0.3.0
 - pkg:cargo/morphix_derive@0.3.1
