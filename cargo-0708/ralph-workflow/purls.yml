@@ -22,3 +22,4 @@
 - pkg:cargo/ralph-workflow@0.7.6
 - pkg:cargo/ralph-workflow@0.7.7
 - pkg:cargo/ralph-workflow@0.7.8
+- pkg:cargo/ralph-workflow@0.7.9
