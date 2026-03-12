@@ -5,6 +5,8 @@
 - pkg:cargo/xidl-parser-derive@0.14.0
 - pkg:cargo/xidl-parser-derive@0.15.0
 - pkg:cargo/xidl-parser-derive@0.16.0
+- pkg:cargo/xidl-parser-derive@0.17.0
+- pkg:cargo/xidl-parser-derive@0.18.0
 - pkg:cargo/xidl-parser-derive@0.2.0
 - pkg:cargo/xidl-parser-derive@0.2.1
 - pkg:cargo/xidl-parser-derive@0.3.0
