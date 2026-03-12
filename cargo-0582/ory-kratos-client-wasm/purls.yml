@@ -6,4 +6,6 @@
 - pkg:cargo/ory-kratos-client-wasm@0.1.5
 - pkg:cargo/ory-kratos-client-wasm@0.1.6
 - pkg:cargo/ory-kratos-client-wasm@0.2.0
+- pkg:cargo/ory-kratos-client-wasm@0.2.1
+- pkg:cargo/ory-kratos-client-wasm@0.2.2
 - pkg:cargo/ory-kratos-client-wasm@25.4.0
