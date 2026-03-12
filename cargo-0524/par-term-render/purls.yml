@@ -6,3 +6,4 @@
 - pkg:cargo/par-term-render@0.4.1
 - pkg:cargo/par-term-render@0.5.0
 - pkg:cargo/par-term-render@0.6.0
+- pkg:cargo/par-term-render@0.6.1

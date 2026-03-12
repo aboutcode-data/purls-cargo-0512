@@ -104,6 +104,7 @@
 - pkg:cargo/fuel-vm@0.63.0
 - pkg:cargo/fuel-vm@0.64.0
 - pkg:cargo/fuel-vm@0.65.0
+- pkg:cargo/fuel-vm@0.66.0
 - pkg:cargo/fuel-vm@0.7.0
 - pkg:cargo/fuel-vm@0.8.0
 - pkg:cargo/fuel-vm@0.9.0
