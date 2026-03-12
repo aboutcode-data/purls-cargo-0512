@@ -2,8 +2,12 @@
 - pkg:cargo/bevy_archie@0.1.4
 - pkg:cargo/bevy_archie@0.1.5
 - pkg:cargo/bevy_archie@0.1.6
+- pkg:cargo/bevy_archie@0.1.7
+- pkg:cargo/bevy_archie@0.1.8
 - pkg:cargo/bevy_archie@0.2.0
 - pkg:cargo/bevy_archie@0.2.0-beta.2
 - pkg:cargo/bevy_archie@0.2.0-beta.3
 - pkg:cargo/bevy_archie@0.2.0-beta.4
 - pkg:cargo/bevy_archie@0.2.0-bevy0.18
+- pkg:cargo/bevy_archie@0.2.1
+- pkg:cargo/bevy_archie@0.2.2
