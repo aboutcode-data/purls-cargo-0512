@@ -263,6 +263,7 @@
 - pkg:cargo/icydb-build@0.50.0
 - pkg:cargo/icydb-build@0.50.1
 - pkg:cargo/icydb-build@0.51.0
+- pkg:cargo/icydb-build@0.51.1
 - pkg:cargo/icydb-build@0.6.0
 - pkg:cargo/icydb-build@0.6.1
 - pkg:cargo/icydb-build@0.6.10
