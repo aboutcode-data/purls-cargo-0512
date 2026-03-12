@@ -1763,6 +1763,10 @@
 - pkg:cargo/spider@2.45.9
 - pkg:cargo/spider@2.46.0
 - pkg:cargo/spider@2.46.2
+- pkg:cargo/spider@2.47.0
+- pkg:cargo/spider@2.47.1
+- pkg:cargo/spider@2.47.2
+- pkg:cargo/spider@2.47.3
 - pkg:cargo/spider@2.5.0
 - pkg:cargo/spider@2.5.1
 - pkg:cargo/spider@2.5.2
