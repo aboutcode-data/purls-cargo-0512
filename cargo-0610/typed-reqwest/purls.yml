@@ -1,1 +1,2 @@
 - pkg:cargo/typed-reqwest@0.0.1
+- pkg:cargo/typed-reqwest@0.0.2
