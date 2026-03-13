@@ -4,3 +4,4 @@
 - pkg:cargo/dd-rust-license-tool@1.0.3
 - pkg:cargo/dd-rust-license-tool@1.0.4
 - pkg:cargo/dd-rust-license-tool@1.0.5
+- pkg:cargo/dd-rust-license-tool@1.0.6
