@@ -18,3 +18,5 @@
 - pkg:cargo/claude-code-switcher@0.6.6
 - pkg:cargo/claude-code-switcher@0.6.7
 - pkg:cargo/claude-code-switcher@0.7.0
+- pkg:cargo/claude-code-switcher@0.7.1
+- pkg:cargo/claude-code-switcher@0.7.2
