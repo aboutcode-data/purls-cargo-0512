@@ -51,6 +51,7 @@
 - pkg:cargo/circuit_sequencer_api@0.152.7
 - pkg:cargo/circuit_sequencer_api@0.153.0
 - pkg:cargo/circuit_sequencer_api@0.153.1
+- pkg:cargo/circuit_sequencer_api@0.153.10
 - pkg:cargo/circuit_sequencer_api@0.153.2
 - pkg:cargo/circuit_sequencer_api@0.153.3
 - pkg:cargo/circuit_sequencer_api@0.153.4
@@ -58,4 +59,5 @@
 - pkg:cargo/circuit_sequencer_api@0.153.6
 - pkg:cargo/circuit_sequencer_api@0.153.7
 - pkg:cargo/circuit_sequencer_api@0.153.8
+- pkg:cargo/circuit_sequencer_api@0.153.8-1
 - pkg:cargo/circuit_sequencer_api@0.153.9
