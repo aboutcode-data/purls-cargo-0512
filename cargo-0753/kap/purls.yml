@@ -1,4 +1,8 @@
+- pkg:cargo/kap@0.0.1-pre10
 - pkg:cargo/kap@0.0.1-pre3
 - pkg:cargo/kap@0.0.1-pre4
 - pkg:cargo/kap@0.0.1-pre5
 - pkg:cargo/kap@0.0.1-pre6
+- pkg:cargo/kap@0.0.1-pre7
+- pkg:cargo/kap@0.0.1-pre8
+- pkg:cargo/kap@0.0.1-pre9
