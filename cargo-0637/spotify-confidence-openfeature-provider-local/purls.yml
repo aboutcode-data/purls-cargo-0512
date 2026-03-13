@@ -4,3 +4,4 @@
 - pkg:cargo/spotify-confidence-openfeature-provider-local@0.2.2
 - pkg:cargo/spotify-confidence-openfeature-provider-local@0.3.0
 - pkg:cargo/spotify-confidence-openfeature-provider-local@0.3.1
+- pkg:cargo/spotify-confidence-openfeature-provider-local@0.4.1
