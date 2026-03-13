@@ -1,3 +1,4 @@
 - pkg:cargo/rex_image@0.15.2
 - pkg:cargo/rex_image@0.17.1
 - pkg:cargo/rex_image@0.17.2
+- pkg:cargo/rex_image@0.17.3
