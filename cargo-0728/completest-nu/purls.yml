@@ -4,3 +4,4 @@
 - pkg:cargo/completest-nu@0.4.1
 - pkg:cargo/completest-nu@0.4.2
 - pkg:cargo/completest-nu@1.0.0
+- pkg:cargo/completest-nu@1.1.0
