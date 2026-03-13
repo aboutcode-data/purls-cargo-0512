@@ -5,3 +5,5 @@
 - pkg:cargo/mca@1.0.0
 - pkg:cargo/mca@1.1.0
 - pkg:cargo/mca@2.0.0
+- pkg:cargo/mca@2.1.0
+- pkg:cargo/mca@2.1.1
