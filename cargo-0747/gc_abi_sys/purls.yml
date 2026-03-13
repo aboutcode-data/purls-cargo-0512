@@ -1,1 +1,2 @@
 - pkg:cargo/gc_abi_sys@0.1.0
+- pkg:cargo/gc_abi_sys@0.3.0
