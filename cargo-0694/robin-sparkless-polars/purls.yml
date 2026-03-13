@@ -8,3 +8,4 @@
 - pkg:cargo/robin-sparkless-polars@4.1.0
 - pkg:cargo/robin-sparkless-polars@4.2.0
 - pkg:cargo/robin-sparkless-polars@4.2.1
+- pkg:cargo/robin-sparkless-polars@4.3.0
