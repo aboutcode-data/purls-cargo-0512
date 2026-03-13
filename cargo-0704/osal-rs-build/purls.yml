@@ -12,3 +12,4 @@
 - pkg:cargo/osal-rs-build@0.3.6
 - pkg:cargo/osal-rs-build@0.3.7
 - pkg:cargo/osal-rs-build@0.4.0
+- pkg:cargo/osal-rs-build@0.4.1
