@@ -12,4 +12,5 @@
 - pkg:cargo/libsqlite3-hotbundle@1.510000.0
 - pkg:cargo/libsqlite3-hotbundle@1.510100.0
 - pkg:cargo/libsqlite3-hotbundle@1.510200.0
+- pkg:cargo/libsqlite3-hotbundle@1.510300.0
 - pkg:cargo/libsqlite3-hotbundle@1.520000.0

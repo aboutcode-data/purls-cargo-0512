@@ -58,3 +58,4 @@
 - pkg:cargo/libbpf-sys@1.6.1%2Bv1.6.1
 - pkg:cargo/libbpf-sys@1.6.2%2Bv1.6.2
 - pkg:cargo/libbpf-sys@1.6.3%2Bv1.6.3
+- pkg:cargo/libbpf-sys@1.6.4%2Bv1.6.3
