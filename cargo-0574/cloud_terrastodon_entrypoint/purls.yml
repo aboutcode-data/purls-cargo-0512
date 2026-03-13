@@ -5,3 +5,4 @@
 - pkg:cargo/cloud_terrastodon_entrypoint@0.31.0
 - pkg:cargo/cloud_terrastodon_entrypoint@0.32.0
 - pkg:cargo/cloud_terrastodon_entrypoint@0.33.0
+- pkg:cargo/cloud_terrastodon_entrypoint@0.34.0
