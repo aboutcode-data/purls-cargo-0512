@@ -1,1 +1,3 @@
+- pkg:cargo/wasm-js-bridge@0.0.0-alpha.0
 - pkg:cargo/wasm-js-bridge@0.1.0
+- pkg:cargo/wasm-js-bridge@0.1.1
