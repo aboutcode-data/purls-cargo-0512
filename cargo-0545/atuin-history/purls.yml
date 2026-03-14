@@ -4,6 +4,8 @@
 - pkg:cargo/atuin-history@18.12.0
 - pkg:cargo/atuin-history@18.12.1
 - pkg:cargo/atuin-history@18.13.0
+- pkg:cargo/atuin-history@18.13.1
+- pkg:cargo/atuin-history@18.13.2
 - pkg:cargo/atuin-history@18.4.0
 - pkg:cargo/atuin-history@18.4.0-beta.3
 - pkg:cargo/atuin-history@18.5.0

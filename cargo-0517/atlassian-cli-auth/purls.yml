@@ -3,3 +3,5 @@
 - pkg:cargo/atlassian-cli-auth@0.2.7
 - pkg:cargo/atlassian-cli-auth@0.2.8
 - pkg:cargo/atlassian-cli-auth@0.2.9
+- pkg:cargo/atlassian-cli-auth@0.3.0
+- pkg:cargo/atlassian-cli-auth@0.3.1
