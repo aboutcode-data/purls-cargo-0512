@@ -80,6 +80,8 @@
 - pkg:cargo/vize_croquis@0.29.0
 - pkg:cargo/vize_croquis@0.3.0
 - pkg:cargo/vize_croquis@0.30.0
+- pkg:cargo/vize_croquis@0.31.0
+- pkg:cargo/vize_croquis@0.33.0
 - pkg:cargo/vize_croquis@0.6.0
 - pkg:cargo/vize_croquis@0.7.0
 - pkg:cargo/vize_croquis@0.8.0
