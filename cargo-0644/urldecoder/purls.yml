@@ -1,2 +1,3 @@
 - pkg:cargo/urldecoder@1.3.2
 - pkg:cargo/urldecoder@1.4.0
+- pkg:cargo/urldecoder@2.0.0
