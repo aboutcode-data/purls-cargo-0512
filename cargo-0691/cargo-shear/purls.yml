@@ -42,6 +42,8 @@
 - pkg:cargo/cargo-shear@1.1.8
 - pkg:cargo/cargo-shear@1.1.9
 - pkg:cargo/cargo-shear@1.10.0
+- pkg:cargo/cargo-shear@1.11.0
+- pkg:cargo/cargo-shear@1.11.1
 - pkg:cargo/cargo-shear@1.2.0
 - pkg:cargo/cargo-shear@1.2.1
 - pkg:cargo/cargo-shear@1.2.2
