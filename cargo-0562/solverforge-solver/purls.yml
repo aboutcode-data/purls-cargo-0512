@@ -8,6 +8,8 @@
 - pkg:cargo/solverforge-solver@0.5.14
 - pkg:cargo/solverforge-solver@0.5.15
 - pkg:cargo/solverforge-solver@0.5.16
+- pkg:cargo/solverforge-solver@0.5.17
+- pkg:cargo/solverforge-solver@0.5.18
 - pkg:cargo/solverforge-solver@0.5.2
 - pkg:cargo/solverforge-solver@0.5.4
 - pkg:cargo/solverforge-solver@0.5.5
