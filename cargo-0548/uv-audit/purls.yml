@@ -1,2 +1,3 @@
 - pkg:cargo/uv-audit@0.0.28
 - pkg:cargo/uv-audit@0.0.29
+- pkg:cargo/uv-audit@0.0.30

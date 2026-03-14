@@ -24,3 +24,4 @@
 - pkg:cargo/zebra-rpc@3.1.0
 - pkg:cargo/zebra-rpc@4.0.0
 - pkg:cargo/zebra-rpc@5.0.0
+- pkg:cargo/zebra-rpc@6.0.0

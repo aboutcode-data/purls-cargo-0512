@@ -41,3 +41,4 @@
 - pkg:cargo/zenoh-plugin-rest@1.7.0
 - pkg:cargo/zenoh-plugin-rest@1.7.1
 - pkg:cargo/zenoh-plugin-rest@1.7.2
+- pkg:cargo/zenoh-plugin-rest@1.8.0
