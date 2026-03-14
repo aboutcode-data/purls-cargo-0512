@@ -1033,6 +1033,8 @@
 - pkg:cargo/spider_utils@2.47.18
 - pkg:cargo/spider_utils@2.47.19
 - pkg:cargo/spider_utils@2.47.2
+- pkg:cargo/spider_utils@2.47.21
+- pkg:cargo/spider_utils@2.47.22
 - pkg:cargo/spider_utils@2.47.3
 - pkg:cargo/spider_utils@2.47.4
 - pkg:cargo/spider_utils@2.47.5
