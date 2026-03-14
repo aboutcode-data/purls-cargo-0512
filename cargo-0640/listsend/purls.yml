@@ -19,6 +19,7 @@
 - pkg:cargo/listsend@0.4.108
 - pkg:cargo/listsend@0.4.109
 - pkg:cargo/listsend@0.4.11
+- pkg:cargo/listsend@0.4.110
 - pkg:cargo/listsend@0.4.12
 - pkg:cargo/listsend@0.4.13
 - pkg:cargo/listsend@0.4.14
