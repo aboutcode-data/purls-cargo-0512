@@ -27,3 +27,4 @@
 - pkg:cargo/wiard@0.6.2
 - pkg:cargo/wiard@0.7.0
 - pkg:cargo/wiard@0.7.1
+- pkg:cargo/wiard@0.8.0
