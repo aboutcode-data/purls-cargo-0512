@@ -24,3 +24,4 @@
 - pkg:cargo/lindera-wasm@2.1.1
 - pkg:cargo/lindera-wasm@2.2.0
 - pkg:cargo/lindera-wasm@2.3.0
+- pkg:cargo/lindera-wasm@2.3.1
