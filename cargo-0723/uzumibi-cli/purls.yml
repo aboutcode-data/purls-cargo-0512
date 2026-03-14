@@ -10,3 +10,4 @@
 - pkg:cargo/uzumibi-cli@0.6.0
 - pkg:cargo/uzumibi-cli@0.6.0-rc1
 - pkg:cargo/uzumibi-cli@0.6.0-rc2
+- pkg:cargo/uzumibi-cli@0.6.1

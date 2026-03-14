@@ -26,3 +26,4 @@
 - pkg:cargo/arcium-anchor@0.8.4
 - pkg:cargo/arcium-anchor@0.8.5
 - pkg:cargo/arcium-anchor@0.9.0
+- pkg:cargo/arcium-anchor@0.9.1
