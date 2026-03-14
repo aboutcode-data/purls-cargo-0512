@@ -7,3 +7,4 @@
 - pkg:cargo/libconfig-rs@2.0.0
 - pkg:cargo/libconfig-rs@2.0.1
 - pkg:cargo/libconfig-rs@3.0.0
+- pkg:cargo/libconfig-rs@4.0.0
