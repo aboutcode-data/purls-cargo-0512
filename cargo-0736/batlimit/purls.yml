@@ -42,6 +42,7 @@
 - pkg:cargo/batlimit@0.11.16
 - pkg:cargo/batlimit@0.11.17
 - pkg:cargo/batlimit@0.11.18
+- pkg:cargo/batlimit@0.11.19
 - pkg:cargo/batlimit@0.11.2
 - pkg:cargo/batlimit@0.11.3
 - pkg:cargo/batlimit@0.11.4
