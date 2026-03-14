@@ -10,3 +10,4 @@
 - pkg:cargo/uds_windows@1.0.2
 - pkg:cargo/uds_windows@1.1.0
 - pkg:cargo/uds_windows@1.2.0
+- pkg:cargo/uds_windows@1.2.1
