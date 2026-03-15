@@ -30,3 +30,4 @@
 - pkg:cargo/spicedb-embedded@0.5.1
 - pkg:cargo/spicedb-embedded@0.5.2
 - pkg:cargo/spicedb-embedded@0.6.0
+- pkg:cargo/spicedb-embedded@0.6.1
