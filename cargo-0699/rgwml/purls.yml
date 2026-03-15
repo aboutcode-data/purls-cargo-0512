@@ -269,3 +269,4 @@
 - pkg:cargo/rgwml@1.3.78
 - pkg:cargo/rgwml@1.3.79
 - pkg:cargo/rgwml@1.3.81
+- pkg:cargo/rgwml@2.0.0
