@@ -7,3 +7,4 @@
 - pkg:cargo/mos6502@0.6.1
 - pkg:cargo/mos6502@0.6.2
 - pkg:cargo/mos6502@0.8.0
+- pkg:cargo/mos6502@0.9.0
