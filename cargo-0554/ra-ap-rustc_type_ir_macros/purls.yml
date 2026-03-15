@@ -46,3 +46,4 @@
 - pkg:cargo/ra-ap-rustc_type_ir_macros@0.152.0
 - pkg:cargo/ra-ap-rustc_type_ir_macros@0.153.0
 - pkg:cargo/ra-ap-rustc_type_ir_macros@0.154.0
+- pkg:cargo/ra-ap-rustc_type_ir_macros@0.155.0
