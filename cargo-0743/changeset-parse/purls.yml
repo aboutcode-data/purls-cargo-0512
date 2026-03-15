@@ -1,1 +1,2 @@
 - pkg:cargo/changeset-parse@0.0.1
+- pkg:cargo/changeset-parse@0.0.2
