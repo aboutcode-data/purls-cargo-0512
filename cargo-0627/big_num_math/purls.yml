@@ -52,3 +52,4 @@
 - pkg:cargo/big_num_math@5.4.5
 - pkg:cargo/big_num_math@5.4.6
 - pkg:cargo/big_num_math@5.4.7
+- pkg:cargo/big_num_math@6.0.0
