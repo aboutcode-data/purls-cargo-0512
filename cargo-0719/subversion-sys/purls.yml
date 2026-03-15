@@ -1,3 +1,4 @@
 - pkg:cargo/subversion-sys@0.0.8
 - pkg:cargo/subversion-sys@0.1.0
 - pkg:cargo/subversion-sys@0.1.1
+- pkg:cargo/subversion-sys@0.1.2
