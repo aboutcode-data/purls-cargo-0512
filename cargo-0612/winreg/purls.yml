@@ -7,6 +7,7 @@
 - pkg:cargo/winreg@0.13.0
 - pkg:cargo/winreg@0.14.0
 - pkg:cargo/winreg@0.15.0
+- pkg:cargo/winreg@0.16.0
 - pkg:cargo/winreg@0.2.0
 - pkg:cargo/winreg@0.2.5
 - pkg:cargo/winreg@0.2.6
@@ -25,6 +26,7 @@
 - pkg:cargo/winreg@0.53.0
 - pkg:cargo/winreg@0.54.0
 - pkg:cargo/winreg@0.55.0
+- pkg:cargo/winreg@0.56.0
 - pkg:cargo/winreg@0.6.0
 - pkg:cargo/winreg@0.6.1
 - pkg:cargo/winreg@0.6.2

@@ -23,6 +23,7 @@
 - pkg:cargo/tinyvec@1.1.0-alpha.1
 - pkg:cargo/tinyvec@1.1.1
 - pkg:cargo/tinyvec@1.10.0
+- pkg:cargo/tinyvec@1.11.0
 - pkg:cargo/tinyvec@1.2.0
 - pkg:cargo/tinyvec@1.3.0
 - pkg:cargo/tinyvec@1.3.1
