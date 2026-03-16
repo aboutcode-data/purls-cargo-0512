@@ -4,3 +4,6 @@
 - pkg:cargo/sandbox-agent-opencode-server-manager@0.3.0
 - pkg:cargo/sandbox-agent-opencode-server-manager@0.3.1
 - pkg:cargo/sandbox-agent-opencode-server-manager@0.3.2
+- pkg:cargo/sandbox-agent-opencode-server-manager@0.4.0-rc.1
+- pkg:cargo/sandbox-agent-opencode-server-manager@0.4.0-rc.2
+- pkg:cargo/sandbox-agent-opencode-server-manager@0.4.0-rc.3
