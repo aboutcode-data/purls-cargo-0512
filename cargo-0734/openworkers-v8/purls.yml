@@ -15,3 +15,4 @@
 - pkg:cargo/openworkers-v8@145.0.5-hermit
 - pkg:cargo/openworkers-v8@146.5.0
 - pkg:cargo/openworkers-v8@146.5.1
+- pkg:cargo/openworkers-v8@146.5.2
