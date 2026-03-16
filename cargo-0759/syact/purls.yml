@@ -9,3 +9,4 @@
 - pkg:cargo/syact@0.13.5
 - pkg:cargo/syact@0.13.6
 - pkg:cargo/syact@0.13.7
+- pkg:cargo/syact@0.15.0
