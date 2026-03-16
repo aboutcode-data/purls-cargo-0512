@@ -6,3 +6,5 @@
 - pkg:cargo/facet-format-suite@0.40.0
 - pkg:cargo/facet-format-suite@0.41.0
 - pkg:cargo/facet-format-suite@0.43.0
+- pkg:cargo/facet-format-suite@0.44.2
+- pkg:cargo/facet-format-suite@0.44.3
