@@ -2,6 +2,7 @@
 - pkg:cargo/big-o-test@0.2.10
 - pkg:cargo/big-o-test@0.2.11
 - pkg:cargo/big-o-test@0.2.12
+- pkg:cargo/big-o-test@0.2.13
 - pkg:cargo/big-o-test@0.2.2
 - pkg:cargo/big-o-test@0.2.3
 - pkg:cargo/big-o-test@0.2.4

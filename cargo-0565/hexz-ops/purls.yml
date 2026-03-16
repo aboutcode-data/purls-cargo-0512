@@ -2,3 +2,5 @@
 - pkg:cargo/hexz-ops@0.5.5
 - pkg:cargo/hexz-ops@0.6.0
 - pkg:cargo/hexz-ops@0.7.0
+- pkg:cargo/hexz-ops@0.8.0
+- pkg:cargo/hexz-ops@0.8.1
