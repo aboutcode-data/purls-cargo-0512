@@ -17,6 +17,7 @@
 - pkg:cargo/mosaik@0.2.28
 - pkg:cargo/mosaik@0.2.29
 - pkg:cargo/mosaik@0.2.3
+- pkg:cargo/mosaik@0.2.30
 - pkg:cargo/mosaik@0.2.4
 - pkg:cargo/mosaik@0.2.5
 - pkg:cargo/mosaik@0.2.6
