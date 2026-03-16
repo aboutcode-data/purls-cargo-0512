@@ -50,3 +50,4 @@
 - pkg:cargo/turso_macros@0.5.2-pre.4
 - pkg:cargo/turso_macros@0.6.0-pre.1
 - pkg:cargo/turso_macros@0.6.0-pre.2
+- pkg:cargo/turso_macros@0.6.0-pre.3
