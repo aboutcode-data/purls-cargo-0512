@@ -1,1 +1,2 @@
 - pkg:cargo/annotate-derive@1.0.0
+- pkg:cargo/annotate-derive@1.0.1
