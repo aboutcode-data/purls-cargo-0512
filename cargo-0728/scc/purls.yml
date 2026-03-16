@@ -228,6 +228,7 @@
 - pkg:cargo/scc@3.5.6
 - pkg:cargo/scc@3.6.0
 - pkg:cargo/scc@3.6.1
+- pkg:cargo/scc@3.6.10
 - pkg:cargo/scc@3.6.2
 - pkg:cargo/scc@3.6.3
 - pkg:cargo/scc@3.6.4
