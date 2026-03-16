@@ -75,6 +75,7 @@
 - pkg:cargo/jstime@0.63.0
 - pkg:cargo/jstime@0.64.0
 - pkg:cargo/jstime@0.65.0
+- pkg:cargo/jstime@0.66.0
 - pkg:cargo/jstime@0.7.0
 - pkg:cargo/jstime@0.7.1
 - pkg:cargo/jstime@0.7.2
