@@ -31,3 +31,4 @@
 - pkg:cargo/casper-client@3.1.0
 - pkg:cargo/casper-client@4.0.0
 - pkg:cargo/casper-client@5.0.0
+- pkg:cargo/casper-client@5.0.1

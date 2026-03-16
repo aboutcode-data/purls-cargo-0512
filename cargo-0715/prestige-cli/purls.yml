@@ -1,1 +1,3 @@
 - pkg:cargo/prestige-cli@0.2.6
+- pkg:cargo/prestige-cli@0.3.0
+- pkg:cargo/prestige-cli@0.3.1

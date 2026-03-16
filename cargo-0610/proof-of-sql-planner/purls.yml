@@ -195,6 +195,7 @@
 - pkg:cargo/proof-of-sql-planner@0.127.8
 - pkg:cargo/proof-of-sql-planner@0.127.9
 - pkg:cargo/proof-of-sql-planner@0.128.0
+- pkg:cargo/proof-of-sql-planner@0.128.1
 - pkg:cargo/proof-of-sql-planner@0.95.10
 - pkg:cargo/proof-of-sql-planner@0.95.11
 - pkg:cargo/proof-of-sql-planner@0.95.2
