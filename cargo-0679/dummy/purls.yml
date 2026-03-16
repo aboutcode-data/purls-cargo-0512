@@ -1,6 +1,7 @@
 - pkg:cargo/dummy@0.1.0
 - pkg:cargo/dummy@0.10.0
 - pkg:cargo/dummy@0.11.0
+- pkg:cargo/dummy@0.12.0
 - pkg:cargo/dummy@0.2.0
 - pkg:cargo/dummy@0.2.1
 - pkg:cargo/dummy@0.3.0
