@@ -4,3 +4,4 @@
 - pkg:cargo/velr@0.1.55
 - pkg:cargo/velr@0.1.57
 - pkg:cargo/velr@0.1.68
+- pkg:cargo/velr@0.2.0
