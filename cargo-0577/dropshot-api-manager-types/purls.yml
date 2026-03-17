@@ -11,3 +11,4 @@
 - pkg:cargo/dropshot-api-manager-types@0.5.1
 - pkg:cargo/dropshot-api-manager-types@0.5.2
 - pkg:cargo/dropshot-api-manager-types@0.6.0
+- pkg:cargo/dropshot-api-manager-types@0.7.0
