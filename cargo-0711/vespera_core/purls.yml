@@ -35,6 +35,7 @@
 - pkg:cargo/vespera_core@0.1.41
 - pkg:cargo/vespera_core@0.1.42
 - pkg:cargo/vespera_core@0.1.43
+- pkg:cargo/vespera_core@0.1.44
 - pkg:cargo/vespera_core@0.1.5
 - pkg:cargo/vespera_core@0.1.6
 - pkg:cargo/vespera_core@0.1.7
