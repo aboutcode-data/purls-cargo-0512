@@ -36,6 +36,7 @@
 - pkg:cargo/prio@0.18.0
 - pkg:cargo/prio@0.18.1-alpha.0
 - pkg:cargo/prio@0.18.1-alpha.2
+- pkg:cargo/prio@0.18.1-alpha.3
 - pkg:cargo/prio@0.2.0
 - pkg:cargo/prio@0.3.0
 - pkg:cargo/prio@0.4.0
