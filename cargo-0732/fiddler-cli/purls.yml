@@ -24,3 +24,4 @@
 - pkg:cargo/fiddler-cli@4.5.2
 - pkg:cargo/fiddler-cli@4.6.0
 - pkg:cargo/fiddler-cli@4.7.0
+- pkg:cargo/fiddler-cli@4.7.1
