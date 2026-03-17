@@ -1,0 +1,2 @@
+- pkg:cargo/docker-registry2@0.0.0
+- pkg:cargo/docker-registry2@0.0.1
