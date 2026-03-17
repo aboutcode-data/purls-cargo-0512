@@ -1,2 +1,3 @@
 - pkg:cargo/subunit@0.2.1
 - pkg:cargo/subunit@0.3.0
+- pkg:cargo/subunit@0.3.1

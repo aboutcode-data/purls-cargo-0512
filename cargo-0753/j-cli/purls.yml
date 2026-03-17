@@ -127,6 +127,8 @@
 - pkg:cargo/j-cli@12.6.10
 - pkg:cargo/j-cli@12.6.11
 - pkg:cargo/j-cli@12.6.12
+- pkg:cargo/j-cli@12.6.13
+- pkg:cargo/j-cli@12.6.14
 - pkg:cargo/j-cli@12.6.2
 - pkg:cargo/j-cli@12.6.3
 - pkg:cargo/j-cli@12.6.4
