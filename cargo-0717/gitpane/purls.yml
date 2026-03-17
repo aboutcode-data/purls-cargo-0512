@@ -5,6 +5,7 @@
 - pkg:cargo/gitpane@0.3.0
 - pkg:cargo/gitpane@0.3.1
 - pkg:cargo/gitpane@0.3.10
+- pkg:cargo/gitpane@0.3.11
 - pkg:cargo/gitpane@0.3.2
 - pkg:cargo/gitpane@0.3.3
 - pkg:cargo/gitpane@0.3.4
