@@ -3,3 +3,4 @@
 - pkg:cargo/opentalk-orchestrator-shared@0.2.0
 - pkg:cargo/opentalk-orchestrator-shared@0.3.0
 - pkg:cargo/opentalk-orchestrator-shared@0.4.0
+- pkg:cargo/opentalk-orchestrator-shared@0.4.1
