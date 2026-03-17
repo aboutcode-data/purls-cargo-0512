@@ -35,3 +35,5 @@
 - pkg:cargo/ndr@0.0.79
 - pkg:cargo/ndr@0.0.80
 - pkg:cargo/ndr@0.0.81
+- pkg:cargo/ndr@0.0.83
+- pkg:cargo/ndr@0.0.84
