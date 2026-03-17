@@ -4,3 +4,4 @@
 - pkg:cargo/diskann-disk@0.47.0
 - pkg:cargo/diskann-disk@0.48.0
 - pkg:cargo/diskann-disk@0.49.0
+- pkg:cargo/diskann-disk@0.49.1
