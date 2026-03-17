@@ -149,3 +149,5 @@
 - pkg:cargo/homeboy@0.76.2
 - pkg:cargo/homeboy@0.77.0
 - pkg:cargo/homeboy@0.78.0
+- pkg:cargo/homeboy@0.79.0
+- pkg:cargo/homeboy@0.80.0

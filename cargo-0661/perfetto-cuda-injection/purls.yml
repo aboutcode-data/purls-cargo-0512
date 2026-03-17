@@ -1,1 +1,2 @@
 - pkg:cargo/perfetto-cuda-injection@0.4.0
+- pkg:cargo/perfetto-cuda-injection@0.4.1
