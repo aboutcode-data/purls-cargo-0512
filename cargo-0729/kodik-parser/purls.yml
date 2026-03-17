@@ -5,3 +5,4 @@
 - pkg:cargo/kodik-parser@1.4.0
 - pkg:cargo/kodik-parser@2.0.0
 - pkg:cargo/kodik-parser@2.0.1
+- pkg:cargo/kodik-parser@2.1.0
