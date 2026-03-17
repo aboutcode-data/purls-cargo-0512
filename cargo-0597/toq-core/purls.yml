@@ -1,3 +1,5 @@
+- pkg:cargo/toq-core@0.1.0-alpha.1
+- pkg:cargo/toq-core@0.1.0-alpha.2
 - pkg:cargo/toq-core@0.1.0-dev.1
 - pkg:cargo/toq-core@0.1.0-dev.10
 - pkg:cargo/toq-core@0.1.0-dev.2
