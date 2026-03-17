@@ -1,0 +1,2 @@
+- pkg:cargo/proxmox-client@0.9.0
+- pkg:cargo/proxmox-client@0.9.1
