@@ -5,3 +5,4 @@
 - pkg:cargo/noetl@2.8.3
 - pkg:cargo/noetl@2.8.4
 - pkg:cargo/noetl@2.8.7
+- pkg:cargo/noetl@2.8.8
