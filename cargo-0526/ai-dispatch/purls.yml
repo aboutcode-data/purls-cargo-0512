@@ -23,3 +23,4 @@
 - pkg:cargo/ai-dispatch@8.5.1
 - pkg:cargo/ai-dispatch@8.5.2
 - pkg:cargo/ai-dispatch@8.5.3
+- pkg:cargo/ai-dispatch@8.7.0
