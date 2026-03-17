@@ -19,3 +19,4 @@
 - pkg:cargo/finter@0.1.8
 - pkg:cargo/finter@0.1.9
 - pkg:cargo/finter@0.2.1
+- pkg:cargo/finter@0.2.2
