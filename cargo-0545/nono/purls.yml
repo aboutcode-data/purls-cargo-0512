@@ -9,6 +9,7 @@
 - pkg:cargo/nono@0.17.0
 - pkg:cargo/nono@0.17.1
 - pkg:cargo/nono@0.18.0
+- pkg:cargo/nono@0.19.0
 - pkg:cargo/nono@0.6.0
 - pkg:cargo/nono@0.6.0-alpha.3
 - pkg:cargo/nono@0.6.1
