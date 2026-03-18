@@ -1,3 +1,4 @@
 - pkg:cargo/exspec-core@0.1.1
 - pkg:cargo/exspec-core@0.1.2
 - pkg:cargo/exspec-core@0.2.0
+- pkg:cargo/exspec-core@0.3.0
