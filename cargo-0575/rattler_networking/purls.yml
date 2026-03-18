@@ -90,6 +90,7 @@
 - pkg:cargo/rattler_networking@0.26.1
 - pkg:cargo/rattler_networking@0.26.2
 - pkg:cargo/rattler_networking@0.26.3
+- pkg:cargo/rattler_networking@0.26.4
 - pkg:cargo/rattler_networking@0.3.0
 - pkg:cargo/rattler_networking@0.4.0
 - pkg:cargo/rattler_networking@0.5.0
