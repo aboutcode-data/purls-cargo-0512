@@ -4,3 +4,4 @@
 - pkg:cargo/myko-macros@3.0.0-canary.663
 - pkg:cargo/myko-macros@3.0.0-canary.687
 - pkg:cargo/myko-macros@3.0.0-canary.688
+- pkg:cargo/myko-macros@4.0.0-canary.7
