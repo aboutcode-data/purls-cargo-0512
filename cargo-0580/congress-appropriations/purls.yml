@@ -1,2 +1,4 @@
 - pkg:cargo/congress-appropriations@2.0.0
 - pkg:cargo/congress-appropriations@2.1.0
+- pkg:cargo/congress-appropriations@3.0.0
+- pkg:cargo/congress-appropriations@3.0.1
