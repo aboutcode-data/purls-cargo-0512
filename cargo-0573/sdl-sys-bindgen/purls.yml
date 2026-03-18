@@ -1,1 +1,2 @@
 - pkg:cargo/sdl-sys-bindgen@0.1.0%2B3.5.0-32cf5fe93dc035fa7351a21e60c989e1567eb705
+- pkg:cargo/sdl-sys-bindgen@0.1.1%2B3.5.0-b9c227e07d2956b23f43f08fc65835e1a1d3ed7c
