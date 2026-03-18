@@ -80,6 +80,7 @@
 - pkg:cargo/sqruff@0.36.0
 - pkg:cargo/sqruff@0.36.1
 - pkg:cargo/sqruff@0.37.0
+- pkg:cargo/sqruff@0.37.1
 - pkg:cargo/sqruff@0.4.1
 - pkg:cargo/sqruff@0.4.10
 - pkg:cargo/sqruff@0.4.2
