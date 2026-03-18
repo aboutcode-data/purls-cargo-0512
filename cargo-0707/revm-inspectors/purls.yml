@@ -59,6 +59,7 @@
 - pkg:cargo/revm-inspectors@0.34.0
 - pkg:cargo/revm-inspectors@0.34.1
 - pkg:cargo/revm-inspectors@0.34.2
+- pkg:cargo/revm-inspectors@0.34.3
 - pkg:cargo/revm-inspectors@0.35.0
 - pkg:cargo/revm-inspectors@0.36.0
 - pkg:cargo/revm-inspectors@0.36.1
