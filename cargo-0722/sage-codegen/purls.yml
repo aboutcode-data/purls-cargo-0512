@@ -11,3 +11,4 @@
 - pkg:cargo/sage-codegen@1.0.3
 - pkg:cargo/sage-codegen@1.0.4
 - pkg:cargo/sage-codegen@1.0.5
+- pkg:cargo/sage-codegen@2.0.0

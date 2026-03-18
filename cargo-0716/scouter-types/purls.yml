@@ -10,6 +10,7 @@
 - pkg:cargo/scouter-types@0.21.0
 - pkg:cargo/scouter-types@0.21.1
 - pkg:cargo/scouter-types@0.22.0
+- pkg:cargo/scouter-types@0.23.0
 - pkg:cargo/scouter-types@0.5.3
 - pkg:cargo/scouter-types@0.5.4
 - pkg:cargo/scouter-types@0.5.5

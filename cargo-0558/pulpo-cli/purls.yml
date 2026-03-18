@@ -13,6 +13,7 @@
 - pkg:cargo/pulpo-cli@0.0.22
 - pkg:cargo/pulpo-cli@0.0.23
 - pkg:cargo/pulpo-cli@0.0.24
+- pkg:cargo/pulpo-cli@0.0.25
 - pkg:cargo/pulpo-cli@0.0.6
 - pkg:cargo/pulpo-cli@0.0.7
 - pkg:cargo/pulpo-cli@0.0.8
