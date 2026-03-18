@@ -9,3 +9,4 @@
 - pkg:cargo/apollo_compilation_utils@0.16.0-rc.3
 - pkg:cargo/apollo_compilation_utils@0.16.0-rc.4
 - pkg:cargo/apollo_compilation_utils@0.18.0-dev.0
+- pkg:cargo/apollo_compilation_utils@0.18.0-dev.1
