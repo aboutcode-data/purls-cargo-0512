@@ -14,3 +14,5 @@
 - pkg:cargo/minacalc-rs@0.4.0
 - pkg:cargo/minacalc-rs@0.4.1
 - pkg:cargo/minacalc-rs@0.4.2
+- pkg:cargo/minacalc-rs@515.1.0
+- pkg:cargo/minacalc-rs@515.1.1
