@@ -1,3 +1,4 @@
 - pkg:cargo/cargo-workspace-inheritance-check@0.1.0
 - pkg:cargo/cargo-workspace-inheritance-check@0.2.0
 - pkg:cargo/cargo-workspace-inheritance-check@1.0.0
+- pkg:cargo/cargo-workspace-inheritance-check@1.1.0
