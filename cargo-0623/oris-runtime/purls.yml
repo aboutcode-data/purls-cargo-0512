@@ -47,8 +47,14 @@
 - pkg:cargo/oris-runtime@0.42.0
 - pkg:cargo/oris-runtime@0.43.0
 - pkg:cargo/oris-runtime@0.44.0
+- pkg:cargo/oris-runtime@0.45.0
+- pkg:cargo/oris-runtime@0.46.0
 - pkg:cargo/oris-runtime@0.5.0
 - pkg:cargo/oris-runtime@0.5.1
+- pkg:cargo/oris-runtime@0.50.0
+- pkg:cargo/oris-runtime@0.51.0
+- pkg:cargo/oris-runtime@0.52.0
+- pkg:cargo/oris-runtime@0.53.0
 - pkg:cargo/oris-runtime@0.6.0
 - pkg:cargo/oris-runtime@0.7.0
 - pkg:cargo/oris-runtime@0.8.0
