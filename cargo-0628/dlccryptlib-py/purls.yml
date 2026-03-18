@@ -2,3 +2,4 @@
 - pkg:cargo/dlccryptlib-py@0.9.0
 - pkg:cargo/dlccryptlib-py@1.0.0
 - pkg:cargo/dlccryptlib-py@1.9.0
+- pkg:cargo/dlccryptlib-py@1.9.5
