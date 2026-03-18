@@ -19,6 +19,7 @@
 - pkg:cargo/s3m@0.14.8
 - pkg:cargo/s3m@0.15.0
 - pkg:cargo/s3m@0.16.0
+- pkg:cargo/s3m@0.16.1
 - pkg:cargo/s3m@0.2.0
 - pkg:cargo/s3m@0.3.0
 - pkg:cargo/s3m@0.3.1
