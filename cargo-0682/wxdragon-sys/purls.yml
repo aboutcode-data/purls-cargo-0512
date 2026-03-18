@@ -53,6 +53,7 @@
 - pkg:cargo/wxdragon-sys@0.9.11
 - pkg:cargo/wxdragon-sys@0.9.12
 - pkg:cargo/wxdragon-sys@0.9.13
+- pkg:cargo/wxdragon-sys@0.9.14
 - pkg:cargo/wxdragon-sys@0.9.2
 - pkg:cargo/wxdragon-sys@0.9.3
 - pkg:cargo/wxdragon-sys@0.9.4
