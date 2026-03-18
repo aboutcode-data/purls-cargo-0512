@@ -1,5 +1,6 @@
 - pkg:cargo/superposition_derives@0.1.0
 - pkg:cargo/superposition_derives@0.100.0
+- pkg:cargo/superposition_derives@0.100.1
 - pkg:cargo/superposition_derives@0.3.0
 - pkg:cargo/superposition_derives@0.83.0
 - pkg:cargo/superposition_derives@0.84.0
