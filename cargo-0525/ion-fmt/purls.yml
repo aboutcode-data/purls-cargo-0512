@@ -1,2 +1,4 @@
 - pkg:cargo/ion-fmt@0.10.0
 - pkg:cargo/ion-fmt@0.11.0
+- pkg:cargo/ion-fmt@0.11.1
+- pkg:cargo/ion-fmt@0.12.0
