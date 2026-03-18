@@ -139,6 +139,7 @@
 - pkg:cargo/mago-reporting@1.13.3
 - pkg:cargo/mago-reporting@1.14.0
 - pkg:cargo/mago-reporting@1.14.1
+- pkg:cargo/mago-reporting@1.15.0
 - pkg:cargo/mago-reporting@1.2.0
 - pkg:cargo/mago-reporting@1.2.1
 - pkg:cargo/mago-reporting@1.2.2
