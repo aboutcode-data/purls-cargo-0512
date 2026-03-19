@@ -9,3 +9,4 @@
 - pkg:cargo/fff-grep@0.2.5-nightly.e64d2e2
 - pkg:cargo/fff-grep@0.4.0
 - pkg:cargo/fff-grep@0.4.1-nightly.2ba8415
+- pkg:cargo/fff-grep@0.4.1-nightly.b005c0a
