@@ -1,1 +1,7 @@
 - pkg:cargo/fff-search@0.2.4
+- pkg:cargo/fff-search@0.2.5-dev.dc8228e
+- pkg:cargo/fff-search@0.2.5-nightly.2b6ace8
+- pkg:cargo/fff-search@0.2.5-nightly.9ff925e
+- pkg:cargo/fff-search@0.2.5-nightly.e64d2e2
+- pkg:cargo/fff-search@0.4.0
+- pkg:cargo/fff-search@0.4.1-nightly.2ba8415
