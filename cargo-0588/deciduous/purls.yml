@@ -13,6 +13,7 @@
 - pkg:cargo/deciduous@0.13.11
 - pkg:cargo/deciduous@0.13.12
 - pkg:cargo/deciduous@0.13.13
+- pkg:cargo/deciduous@0.13.14
 - pkg:cargo/deciduous@0.13.2
 - pkg:cargo/deciduous@0.13.3
 - pkg:cargo/deciduous@0.13.5
