@@ -10,6 +10,7 @@
 - pkg:cargo/zng-wgt-progress@0.10.4
 - pkg:cargo/zng-wgt-progress@0.10.5
 - pkg:cargo/zng-wgt-progress@0.10.6
+- pkg:cargo/zng-wgt-progress@0.10.7
 - pkg:cargo/zng-wgt-progress@0.2.0
 - pkg:cargo/zng-wgt-progress@0.2.1
 - pkg:cargo/zng-wgt-progress@0.2.10
