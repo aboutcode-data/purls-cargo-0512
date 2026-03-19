@@ -1,3 +1,4 @@
 - pkg:cargo/sqlite-wasm-wasi@0.5.1
 - pkg:cargo/sqlite-wasm-wasi@0.5.2
 - pkg:cargo/sqlite-wasm-wasi@0.5.3
+- pkg:cargo/sqlite-wasm-wasi@0.6.0

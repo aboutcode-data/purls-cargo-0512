@@ -15,3 +15,4 @@
 - pkg:cargo/sqruff-cli-lib@0.36.1
 - pkg:cargo/sqruff-cli-lib@0.37.0
 - pkg:cargo/sqruff-cli-lib@0.37.1
+- pkg:cargo/sqruff-cli-lib@0.37.2
