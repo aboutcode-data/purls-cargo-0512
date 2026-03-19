@@ -20,6 +20,7 @@
 - pkg:cargo/zng-ext-input@0.14.4
 - pkg:cargo/zng-ext-input@0.14.5
 - pkg:cargo/zng-ext-input@0.14.6
+- pkg:cargo/zng-ext-input@0.14.7
 - pkg:cargo/zng-ext-input@0.2.1
 - pkg:cargo/zng-ext-input@0.2.2
 - pkg:cargo/zng-ext-input@0.2.3
