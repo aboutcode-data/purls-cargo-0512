@@ -88,6 +88,7 @@
 - pkg:cargo/zng@0.21.5
 - pkg:cargo/zng@0.21.6
 - pkg:cargo/zng@0.21.7
+- pkg:cargo/zng@0.21.8
 - pkg:cargo/zng@0.3.0
 - pkg:cargo/zng@0.3.2
 - pkg:cargo/zng@0.3.3
