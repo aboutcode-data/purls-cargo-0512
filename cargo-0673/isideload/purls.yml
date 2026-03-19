@@ -32,6 +32,8 @@
 - pkg:cargo/isideload@0.2.13
 - pkg:cargo/isideload@0.2.14
 - pkg:cargo/isideload@0.2.15
+- pkg:cargo/isideload@0.2.16
+- pkg:cargo/isideload@0.2.17
 - pkg:cargo/isideload@0.2.2
 - pkg:cargo/isideload@0.2.3
 - pkg:cargo/isideload@0.2.4
