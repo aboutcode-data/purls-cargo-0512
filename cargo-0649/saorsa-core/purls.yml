@@ -16,6 +16,7 @@
 - pkg:cargo/saorsa-core@0.16.0
 - pkg:cargo/saorsa-core@0.17.0
 - pkg:cargo/saorsa-core@0.17.1
+- pkg:cargo/saorsa-core@0.17.2
 - pkg:cargo/saorsa-core@0.2.0
 - pkg:cargo/saorsa-core@0.2.6
 - pkg:cargo/saorsa-core@0.2.7
