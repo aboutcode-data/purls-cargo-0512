@@ -28,3 +28,4 @@
 - pkg:cargo/redis-enterprise@0.8.4
 - pkg:cargo/redis-enterprise@0.8.5
 - pkg:cargo/redis-enterprise@0.8.6
+- pkg:cargo/redis-enterprise@0.8.7
