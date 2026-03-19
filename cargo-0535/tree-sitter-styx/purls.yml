@@ -2,3 +2,4 @@
 - pkg:cargo/tree-sitter-styx@1.0.0
 - pkg:cargo/tree-sitter-styx@1.0.1
 - pkg:cargo/tree-sitter-styx@2.0.0
+- pkg:cargo/tree-sitter-styx@3.0.0
