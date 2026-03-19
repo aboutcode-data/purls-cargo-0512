@@ -8,6 +8,9 @@
 - pkg:cargo/rari@0.10.16
 - pkg:cargo/rari@0.10.17
 - pkg:cargo/rari@0.10.18
+- pkg:cargo/rari@0.10.20
+- pkg:cargo/rari@0.10.21
+- pkg:cargo/rari@0.10.22
 - pkg:cargo/rari@0.10.3
 - pkg:cargo/rari@0.10.7
 - pkg:cargo/rari@0.10.8
