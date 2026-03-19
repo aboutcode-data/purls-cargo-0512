@@ -30,3 +30,4 @@
 - pkg:cargo/cf-modkit-security@0.5.6
 - pkg:cargo/cf-modkit-security@0.5.7
 - pkg:cargo/cf-modkit-security@0.5.8
+- pkg:cargo/cf-modkit-security@0.5.9
