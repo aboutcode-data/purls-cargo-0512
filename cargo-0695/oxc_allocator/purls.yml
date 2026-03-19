@@ -34,6 +34,7 @@
 - pkg:cargo/oxc_allocator@0.12.4
 - pkg:cargo/oxc_allocator@0.12.5
 - pkg:cargo/oxc_allocator@0.120.0
+- pkg:cargo/oxc_allocator@0.121.0
 - pkg:cargo/oxc_allocator@0.13.0
 - pkg:cargo/oxc_allocator@0.13.1
 - pkg:cargo/oxc_allocator@0.13.2

@@ -3,4 +3,5 @@
 - pkg:cargo/tokmd-fun@1.7.1
 - pkg:cargo/tokmd-fun@1.7.2
 - pkg:cargo/tokmd-fun@1.7.3
+- pkg:cargo/tokmd-fun@1.8.0
 - pkg:cargo/tokmd-fun@1.8.0-rc.1

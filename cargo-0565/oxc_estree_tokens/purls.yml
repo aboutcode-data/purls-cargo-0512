@@ -3,3 +3,4 @@
 - pkg:cargo/oxc_estree_tokens@0.118.0
 - pkg:cargo/oxc_estree_tokens@0.119.0
 - pkg:cargo/oxc_estree_tokens@0.120.0
+- pkg:cargo/oxc_estree_tokens@0.121.0
