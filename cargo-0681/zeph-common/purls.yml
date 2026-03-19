@@ -1,1 +1,2 @@
 - pkg:cargo/zeph-common@0.15.3
+- pkg:cargo/zeph-common@0.16.0
