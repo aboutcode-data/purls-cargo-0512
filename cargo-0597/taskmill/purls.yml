@@ -5,3 +5,4 @@
 - pkg:cargo/taskmill@0.3.1
 - pkg:cargo/taskmill@0.4.0
 - pkg:cargo/taskmill@0.5.0
+- pkg:cargo/taskmill@0.5.1
