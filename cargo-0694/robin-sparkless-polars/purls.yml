@@ -12,3 +12,4 @@
 - pkg:cargo/robin-sparkless-polars@4.4.0
 - pkg:cargo/robin-sparkless-polars@4.5.0
 - pkg:cargo/robin-sparkless-polars@4.5.2
+- pkg:cargo/robin-sparkless-polars@4.5.3
