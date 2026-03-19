@@ -8,3 +8,5 @@
 - pkg:cargo/shadercanvas@0.0.8
 - pkg:cargo/shadercanvas@0.0.9
 - pkg:cargo/shadercanvas@0.1.0
+- pkg:cargo/shadercanvas@0.2.0
+- pkg:cargo/shadercanvas@0.2.1

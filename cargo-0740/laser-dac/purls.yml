@@ -1,4 +1,7 @@
 - pkg:cargo/laser-dac@0.10.0
+- pkg:cargo/laser-dac@0.11.0
+- pkg:cargo/laser-dac@0.11.1
+- pkg:cargo/laser-dac@0.11.4
 - pkg:cargo/laser-dac@0.2.2
 - pkg:cargo/laser-dac@0.3.1
 - pkg:cargo/laser-dac@0.4.0
