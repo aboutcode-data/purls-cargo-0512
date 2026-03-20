@@ -150,7 +150,11 @@
 - pkg:cargo/j-cli@12.6.34
 - pkg:cargo/j-cli@12.6.35
 - pkg:cargo/j-cli@12.6.36
+- pkg:cargo/j-cli@12.6.38
+- pkg:cargo/j-cli@12.6.39
 - pkg:cargo/j-cli@12.6.4
+- pkg:cargo/j-cli@12.6.40
+- pkg:cargo/j-cli@12.6.41
 - pkg:cargo/j-cli@12.6.5
 - pkg:cargo/j-cli@12.6.6
 - pkg:cargo/j-cli@12.6.9
