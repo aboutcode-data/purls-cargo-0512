@@ -155,6 +155,10 @@
 - pkg:cargo/j-cli@12.6.4
 - pkg:cargo/j-cli@12.6.40
 - pkg:cargo/j-cli@12.6.41
+- pkg:cargo/j-cli@12.6.42
+- pkg:cargo/j-cli@12.6.43
+- pkg:cargo/j-cli@12.6.44
+- pkg:cargo/j-cli@12.6.45
 - pkg:cargo/j-cli@12.6.5
 - pkg:cargo/j-cli@12.6.6
 - pkg:cargo/j-cli@12.6.9
