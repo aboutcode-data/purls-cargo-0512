@@ -49,6 +49,7 @@
 - pkg:cargo/liiga_teletext@0.20.0
 - pkg:cargo/liiga_teletext@0.20.1
 - pkg:cargo/liiga_teletext@0.20.10
+- pkg:cargo/liiga_teletext@0.20.11
 - pkg:cargo/liiga_teletext@0.20.2
 - pkg:cargo/liiga_teletext@0.20.3
 - pkg:cargo/liiga_teletext@0.20.4
