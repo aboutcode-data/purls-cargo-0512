@@ -3,3 +3,4 @@
 - pkg:cargo/tari_ootle_common_types@0.25.5
 - pkg:cargo/tari_ootle_common_types@0.25.6
 - pkg:cargo/tari_ootle_common_types@0.26.0
+- pkg:cargo/tari_ootle_common_types@0.26.1
