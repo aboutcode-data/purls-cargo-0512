@@ -1,3 +1,8 @@
 - pkg:cargo/zinc-cli@0.1.0
 - pkg:cargo/zinc-cli@0.2.0
+- pkg:cargo/zinc-cli@0.2.10
 - pkg:cargo/zinc-cli@0.2.5
+- pkg:cargo/zinc-cli@0.2.6
+- pkg:cargo/zinc-cli@0.2.7
+- pkg:cargo/zinc-cli@0.2.8
+- pkg:cargo/zinc-cli@0.2.9

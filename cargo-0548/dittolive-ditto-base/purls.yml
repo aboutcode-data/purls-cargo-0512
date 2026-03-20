@@ -153,6 +153,7 @@
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-all-sdks.2
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-all-sdks.3
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-all-sdks.4
+- pkg:cargo/dittolive-ditto-base@5.1.0-experimental-gha-workflow.1
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-release-gate.1
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-release-gate.2
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-release-gate.3
