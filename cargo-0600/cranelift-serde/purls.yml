@@ -93,6 +93,7 @@
 - pkg:cargo/cranelift-serde@0.128.4
 - pkg:cargo/cranelift-serde@0.129.0
 - pkg:cargo/cranelift-serde@0.129.1
+- pkg:cargo/cranelift-serde@0.130.0
 - pkg:cargo/cranelift-serde@0.66.0
 - pkg:cargo/cranelift-serde@0.67.0
 - pkg:cargo/cranelift-serde@0.68.0
