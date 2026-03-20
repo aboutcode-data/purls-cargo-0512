@@ -14,3 +14,4 @@
 - pkg:cargo/sr-github@1.7.2
 - pkg:cargo/sr-github@1.8.1
 - pkg:cargo/sr-github@1.8.2
+- pkg:cargo/sr-github@1.9.0
