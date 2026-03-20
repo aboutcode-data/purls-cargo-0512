@@ -9,6 +9,7 @@
 - pkg:cargo/git-yawn@0.10.1
 - pkg:cargo/git-yawn@0.10.2
 - pkg:cargo/git-yawn@0.11.0
+- pkg:cargo/git-yawn@0.12.0
 - pkg:cargo/git-yawn@0.2.0
 - pkg:cargo/git-yawn@0.3.0
 - pkg:cargo/git-yawn@0.4.0
