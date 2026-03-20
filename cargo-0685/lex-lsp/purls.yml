@@ -13,3 +13,4 @@
 - pkg:cargo/lex-lsp@0.3.5
 - pkg:cargo/lex-lsp@0.4.0
 - pkg:cargo/lex-lsp@0.6.0
+- pkg:cargo/lex-lsp@0.7.0
