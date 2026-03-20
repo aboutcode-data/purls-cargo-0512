@@ -1816,7 +1816,9 @@
 - pkg:cargo/spider@2.47.55
 - pkg:cargo/spider@2.47.56
 - pkg:cargo/spider@2.47.57
+- pkg:cargo/spider@2.47.58
 - pkg:cargo/spider@2.47.6
+- pkg:cargo/spider@2.47.60
 - pkg:cargo/spider@2.47.7
 - pkg:cargo/spider@2.47.8
 - pkg:cargo/spider@2.47.9
