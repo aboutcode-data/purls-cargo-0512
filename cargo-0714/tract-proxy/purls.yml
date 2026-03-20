@@ -23,3 +23,4 @@
 - pkg:cargo/tract-proxy@0.22.1
 - pkg:cargo/tract-proxy@0.23.0-dev.1
 - pkg:cargo/tract-proxy@0.23.0-dev.2
+- pkg:cargo/tract-proxy@0.23.0-dev.3
