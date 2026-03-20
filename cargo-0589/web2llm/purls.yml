@@ -3,3 +3,4 @@
 - pkg:cargo/web2llm@0.1.2
 - pkg:cargo/web2llm@0.2.0
 - pkg:cargo/web2llm@0.2.1
+- pkg:cargo/web2llm@0.3.0
