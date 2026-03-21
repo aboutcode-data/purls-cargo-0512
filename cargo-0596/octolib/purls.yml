@@ -6,6 +6,7 @@
 - pkg:cargo/octolib@0.10.4
 - pkg:cargo/octolib@0.10.5
 - pkg:cargo/octolib@0.10.6
+- pkg:cargo/octolib@0.11.0
 - pkg:cargo/octolib@0.2.0
 - pkg:cargo/octolib@0.3.0
 - pkg:cargo/octolib@0.4.0
