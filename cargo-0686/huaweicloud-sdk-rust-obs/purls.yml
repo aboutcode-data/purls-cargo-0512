@@ -11,3 +11,4 @@
 - pkg:cargo/huaweicloud-sdk-rust-obs@0.2.2
 - pkg:cargo/huaweicloud-sdk-rust-obs@0.2.3
 - pkg:cargo/huaweicloud-sdk-rust-obs@0.2.4
+- pkg:cargo/huaweicloud-sdk-rust-obs@1.0.0
