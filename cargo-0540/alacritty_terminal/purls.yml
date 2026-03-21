@@ -40,3 +40,4 @@
 - pkg:cargo/alacritty_terminal@0.25.0-rc1
 - pkg:cargo/alacritty_terminal@0.25.1
 - pkg:cargo/alacritty_terminal@0.25.1-rc1
+- pkg:cargo/alacritty_terminal@0.26.0-rc1
