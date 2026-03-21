@@ -1,3 +1,4 @@
 - pkg:cargo/anomapay-erc20-forwarder-bindings@1.0.0
 - pkg:cargo/anomapay-erc20-forwarder-bindings@1.0.0-rc.6
 - pkg:cargo/anomapay-erc20-forwarder-bindings@2.0.0
+- pkg:cargo/anomapay-erc20-forwarder-bindings@2.1.0
