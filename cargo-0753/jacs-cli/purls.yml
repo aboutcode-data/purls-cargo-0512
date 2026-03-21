@@ -3,3 +3,4 @@
 - pkg:cargo/jacs-cli@0.9.6
 - pkg:cargo/jacs-cli@0.9.7
 - pkg:cargo/jacs-cli@0.9.8
+- pkg:cargo/jacs-cli@0.9.9
