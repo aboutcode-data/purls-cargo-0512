@@ -16,3 +16,4 @@
 - pkg:cargo/kreuzberg-pdfium-render@4.4.5
 - pkg:cargo/kreuzberg-pdfium-render@4.4.6
 - pkg:cargo/kreuzberg-pdfium-render@4.5.0
+- pkg:cargo/kreuzberg-pdfium-render@4.5.1

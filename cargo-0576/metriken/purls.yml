@@ -22,3 +22,4 @@
 - pkg:cargo/metriken@0.5.1
 - pkg:cargo/metriken@0.6.0
 - pkg:cargo/metriken@0.7.0
+- pkg:cargo/metriken@0.8.0
