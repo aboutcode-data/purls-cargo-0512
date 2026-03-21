@@ -51,6 +51,7 @@
 - pkg:cargo/typlite@0.14.10
 - pkg:cargo/typlite@0.14.10-rc1
 - pkg:cargo/typlite@0.14.10-rc2
+- pkg:cargo/typlite@0.14.12
 - pkg:cargo/typlite@0.14.12-rc1
 - pkg:cargo/typlite@0.14.12-rc2
 - pkg:cargo/typlite@0.14.12-rc3
