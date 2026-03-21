@@ -4,3 +4,4 @@
 - pkg:cargo/libgraphql-core@0.0.5
 - pkg:cargo/libgraphql-core@0.0.6
 - pkg:cargo/libgraphql-core@0.0.7
+- pkg:cargo/libgraphql-core@0.0.8
