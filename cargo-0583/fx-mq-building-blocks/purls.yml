@@ -1,5 +1,8 @@
+- pkg:cargo/fx-mq-building-blocks@0.1.10
+- pkg:cargo/fx-mq-building-blocks@0.1.11
 - pkg:cargo/fx-mq-building-blocks@0.1.4
 - pkg:cargo/fx-mq-building-blocks@0.1.5
 - pkg:cargo/fx-mq-building-blocks@0.1.6
 - pkg:cargo/fx-mq-building-blocks@0.1.7
 - pkg:cargo/fx-mq-building-blocks@0.1.8
+- pkg:cargo/fx-mq-building-blocks@0.1.9

@@ -34,6 +34,7 @@
 - pkg:cargo/zng-view@0.16.6
 - pkg:cargo/zng-view@0.16.7
 - pkg:cargo/zng-view@0.16.8
+- pkg:cargo/zng-view@0.16.9
 - pkg:cargo/zng-view@0.2.1
 - pkg:cargo/zng-view@0.2.2
 - pkg:cargo/zng-view@0.2.3
