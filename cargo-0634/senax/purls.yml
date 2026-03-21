@@ -43,6 +43,7 @@
 - pkg:cargo/senax@0.3.39
 - pkg:cargo/senax@0.3.4
 - pkg:cargo/senax@0.3.40
+- pkg:cargo/senax@0.3.41
 - pkg:cargo/senax@0.3.5
 - pkg:cargo/senax@0.3.6
 - pkg:cargo/senax@0.3.7
