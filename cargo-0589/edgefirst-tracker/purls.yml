@@ -1,3 +1,4 @@
+- pkg:cargo/edgefirst-tracker@0.10.0
 - pkg:cargo/edgefirst-tracker@0.5.0
 - pkg:cargo/edgefirst-tracker@0.6.0
 - pkg:cargo/edgefirst-tracker@0.6.1
