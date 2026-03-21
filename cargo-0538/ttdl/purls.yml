@@ -77,3 +77,4 @@
 - pkg:cargo/ttdl@4.9.0
 - pkg:cargo/ttdl@5.0.0
 - pkg:cargo/ttdl@5.1.2
+- pkg:cargo/ttdl@5.2.0
