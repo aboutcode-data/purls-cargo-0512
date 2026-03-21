@@ -6,3 +6,4 @@
 - pkg:cargo/bb8-lapin@0.6.0
 - pkg:cargo/bb8-lapin@0.7.0
 - pkg:cargo/bb8-lapin@0.8.0
+- pkg:cargo/bb8-lapin@0.8.1
