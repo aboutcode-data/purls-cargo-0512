@@ -3,3 +3,5 @@
 - pkg:cargo/proto-scan-gen@0.1.0-alpha1
 - pkg:cargo/proto-scan-gen@0.1.0-alpha2
 - pkg:cargo/proto-scan-gen@0.1.0-alpha3
+- pkg:cargo/proto-scan-gen@0.2.0
+- pkg:cargo/proto-scan-gen@0.3.0
