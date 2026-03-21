@@ -216,6 +216,7 @@
 - pkg:cargo/hermes-server@1.8.29
 - pkg:cargo/hermes-server@1.8.3
 - pkg:cargo/hermes-server@1.8.30
+- pkg:cargo/hermes-server@1.8.31
 - pkg:cargo/hermes-server@1.8.4
 - pkg:cargo/hermes-server@1.8.5
 - pkg:cargo/hermes-server@1.8.6

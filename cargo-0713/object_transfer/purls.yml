@@ -4,3 +4,6 @@
 - pkg:cargo/object_transfer@0.0.3
 - pkg:cargo/object_transfer@1.0.0
 - pkg:cargo/object_transfer@1.1.0
+- pkg:cargo/object_transfer@1.2.0
+- pkg:cargo/object_transfer@1.2.1
+- pkg:cargo/object_transfer@1.2.2
