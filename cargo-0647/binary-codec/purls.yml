@@ -48,3 +48,4 @@
 - pkg:cargo/binary-codec@0.6.3
 - pkg:cargo/binary-codec@0.6.5
 - pkg:cargo/binary-codec@0.6.6
+- pkg:cargo/binary-codec@0.6.7

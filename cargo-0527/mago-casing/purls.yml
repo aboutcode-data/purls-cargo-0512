@@ -143,6 +143,7 @@
 - pkg:cargo/mago-casing@1.14.1
 - pkg:cargo/mago-casing@1.15.0
 - pkg:cargo/mago-casing@1.15.2
+- pkg:cargo/mago-casing@1.15.3
 - pkg:cargo/mago-casing@1.2.0
 - pkg:cargo/mago-casing@1.2.1
 - pkg:cargo/mago-casing@1.2.2

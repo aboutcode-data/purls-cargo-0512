@@ -1,1 +1,2 @@
 - pkg:cargo/wacore-derive@0.3.0
+- pkg:cargo/wacore-derive@0.4.0
