@@ -24,4 +24,5 @@
 - pkg:cargo/ranvier-macros@0.34.0
 - pkg:cargo/ranvier-macros@0.35.0
 - pkg:cargo/ranvier-macros@0.36.0
+- pkg:cargo/ranvier-macros@0.37.0
 - pkg:cargo/ranvier-macros@0.7.0

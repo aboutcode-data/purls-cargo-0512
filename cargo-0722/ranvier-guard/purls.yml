@@ -11,4 +11,5 @@
 - pkg:cargo/ranvier-guard@0.20.0
 - pkg:cargo/ranvier-guard@0.35.0
 - pkg:cargo/ranvier-guard@0.36.0
+- pkg:cargo/ranvier-guard@0.37.0
 - pkg:cargo/ranvier-guard@0.7.0

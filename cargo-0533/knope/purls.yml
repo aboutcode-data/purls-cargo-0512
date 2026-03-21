@@ -36,6 +36,7 @@
 - pkg:cargo/knope@0.22.1
 - pkg:cargo/knope@0.22.2
 - pkg:cargo/knope@0.22.3
+- pkg:cargo/knope@0.22.4
 - pkg:cargo/knope@0.3.0
 - pkg:cargo/knope@0.4.0
 - pkg:cargo/knope@0.4.0-rc.1
