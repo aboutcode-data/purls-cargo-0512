@@ -1,1 +1,2 @@
 - pkg:cargo/hoomd-linear-algebra@1.0.0
+- pkg:cargo/hoomd-linear-algebra@1.0.2
