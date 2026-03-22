@@ -27,5 +27,10 @@
 - pkg:cargo/workflow-graph-worker-sdk@0.7.6
 - pkg:cargo/workflow-graph-worker-sdk@0.7.7
 - pkg:cargo/workflow-graph-worker-sdk@1.2.1
+- pkg:cargo/workflow-graph-worker-sdk@1.2.10
+- pkg:cargo/workflow-graph-worker-sdk@1.2.11
 - pkg:cargo/workflow-graph-worker-sdk@1.2.3
 - pkg:cargo/workflow-graph-worker-sdk@1.2.6
+- pkg:cargo/workflow-graph-worker-sdk@1.2.7
+- pkg:cargo/workflow-graph-worker-sdk@1.2.8
+- pkg:cargo/workflow-graph-worker-sdk@1.2.9
