@@ -24,3 +24,4 @@
 - pkg:cargo/datafusion-proto-common@52.1.0
 - pkg:cargo/datafusion-proto-common@52.2.0
 - pkg:cargo/datafusion-proto-common@52.3.0
+- pkg:cargo/datafusion-proto-common@52.4.0
