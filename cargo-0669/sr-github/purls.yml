@@ -21,3 +21,4 @@
 - pkg:cargo/sr-github@1.9.0
 - pkg:cargo/sr-github@2.0.0
 - pkg:cargo/sr-github@2.1.0
+- pkg:cargo/sr-github@2.2.0
