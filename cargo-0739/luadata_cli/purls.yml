@@ -1,2 +1,6 @@
 - pkg:cargo/luadata_cli@0.1.10
+- pkg:cargo/luadata_cli@0.1.11
+- pkg:cargo/luadata_cli@0.1.12
+- pkg:cargo/luadata_cli@0.1.13
+- pkg:cargo/luadata_cli@0.1.14
 - pkg:cargo/luadata_cli@0.1.9
