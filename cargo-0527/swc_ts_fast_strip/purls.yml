@@ -27,3 +27,4 @@
 - pkg:cargo/swc_ts_fast_strip@43.0.0
 - pkg:cargo/swc_ts_fast_strip@44.0.0
 - pkg:cargo/swc_ts_fast_strip@45.0.0
+- pkg:cargo/swc_ts_fast_strip@46.0.0
