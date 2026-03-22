@@ -72,3 +72,4 @@
 - pkg:cargo/statum@0.6.3
 - pkg:cargo/statum@0.6.4
 - pkg:cargo/statum@0.6.5
+- pkg:cargo/statum@0.6.6
