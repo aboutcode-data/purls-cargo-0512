@@ -20,3 +20,4 @@
 - pkg:cargo/rsacracker@0.7.0
 - pkg:cargo/rsacracker@0.8.0
 - pkg:cargo/rsacracker@0.9.0
+- pkg:cargo/rsacracker@0.9.1
