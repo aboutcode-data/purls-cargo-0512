@@ -52,3 +52,4 @@
 - pkg:cargo/Rustb@0.6.2
 - pkg:cargo/Rustb@0.6.3
 - pkg:cargo/Rustb@0.6.4
+- pkg:cargo/Rustb@0.6.5
