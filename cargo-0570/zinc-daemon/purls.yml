@@ -1,6 +1,11 @@
 - pkg:cargo/zinc-daemon@0.1.0
 - pkg:cargo/zinc-daemon@0.2.0
 - pkg:cargo/zinc-daemon@0.2.10
+- pkg:cargo/zinc-daemon@0.2.11
+- pkg:cargo/zinc-daemon@0.2.12
+- pkg:cargo/zinc-daemon@0.2.13
+- pkg:cargo/zinc-daemon@0.2.14
+- pkg:cargo/zinc-daemon@0.2.15
 - pkg:cargo/zinc-daemon@0.2.5
 - pkg:cargo/zinc-daemon@0.2.6
 - pkg:cargo/zinc-daemon@0.2.7

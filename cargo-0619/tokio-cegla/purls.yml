@@ -1,3 +1,4 @@
 - pkg:cargo/tokio-cegla@0.0.0-placeholder
 - pkg:cargo/tokio-cegla@0.1.1
 - pkg:cargo/tokio-cegla@0.1.2
+- pkg:cargo/tokio-cegla@0.2.0
