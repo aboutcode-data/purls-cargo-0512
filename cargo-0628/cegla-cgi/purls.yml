@@ -1,3 +1,4 @@
 - pkg:cargo/cegla-cgi@0.0.0-placeholder
 - pkg:cargo/cegla-cgi@0.1.1
 - pkg:cargo/cegla-cgi@0.1.2
+- pkg:cargo/cegla-cgi@0.2.0
