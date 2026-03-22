@@ -6,3 +6,4 @@
 - pkg:cargo/javy-plugin-api@4.0.0
 - pkg:cargo/javy-plugin-api@4.1.0
 - pkg:cargo/javy-plugin-api@5.0.0
+- pkg:cargo/javy-plugin-api@6.0.0
