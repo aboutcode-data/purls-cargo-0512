@@ -64,6 +64,8 @@
 - pkg:cargo/opendeviationbar-client@13.40.0
 - pkg:cargo/opendeviationbar-client@13.40.1
 - pkg:cargo/opendeviationbar-client@13.41.0
+- pkg:cargo/opendeviationbar-client@13.43.1
+- pkg:cargo/opendeviationbar-client@13.43.2
 - pkg:cargo/opendeviationbar-client@13.5.0
 - pkg:cargo/opendeviationbar-client@13.6.0
 - pkg:cargo/opendeviationbar-client@13.6.3
