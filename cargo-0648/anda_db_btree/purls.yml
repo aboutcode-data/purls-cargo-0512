@@ -19,3 +19,4 @@
 - pkg:cargo/anda_db_btree@0.5.5
 - pkg:cargo/anda_db_btree@0.5.7
 - pkg:cargo/anda_db_btree@0.5.8
+- pkg:cargo/anda_db_btree@0.5.9
