@@ -33,3 +33,4 @@
 - pkg:cargo/argon2@0.6.0-rc.5
 - pkg:cargo/argon2@0.6.0-rc.6
 - pkg:cargo/argon2@0.6.0-rc.7
+- pkg:cargo/argon2@0.6.0-rc.8
