@@ -3,3 +3,6 @@
 - pkg:cargo/crossbar@0.6.0
 - pkg:cargo/crossbar@0.7.0
 - pkg:cargo/crossbar@0.8.0
+- pkg:cargo/crossbar@1.0.0
+- pkg:cargo/crossbar@1.0.1
+- pkg:cargo/crossbar@1.1.0
