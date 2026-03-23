@@ -16,3 +16,4 @@
 - pkg:cargo/bevy_hookup_messenger_websocket@2.5.0
 - pkg:cargo/bevy_hookup_messenger_websocket@2.5.1
 - pkg:cargo/bevy_hookup_messenger_websocket@2.5.2
+- pkg:cargo/bevy_hookup_messenger_websocket@2.6.0
