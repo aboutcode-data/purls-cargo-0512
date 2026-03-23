@@ -29,4 +29,5 @@
 - pkg:cargo/zellij-tile-utils@0.42.2
 - pkg:cargo/zellij-tile-utils@0.43.0
 - pkg:cargo/zellij-tile-utils@0.43.1
+- pkg:cargo/zellij-tile-utils@0.44.0
 - pkg:cargo/zellij-tile-utils@0.7.0
