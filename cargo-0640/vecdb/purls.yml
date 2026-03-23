@@ -68,3 +68,4 @@
 - pkg:cargo/vecdb@0.6.8
 - pkg:cargo/vecdb@0.7.0
 - pkg:cargo/vecdb@0.7.1
+- pkg:cargo/vecdb@0.7.2
