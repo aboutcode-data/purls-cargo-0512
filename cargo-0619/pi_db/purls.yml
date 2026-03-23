@@ -58,6 +58,7 @@
 - pkg:cargo/pi_db@0.15.5
 - pkg:cargo/pi_db@0.15.6
 - pkg:cargo/pi_db@0.16.0
+- pkg:cargo/pi_db@0.16.1
 - pkg:cargo/pi_db@0.2.0
 - pkg:cargo/pi_db@0.2.1
 - pkg:cargo/pi_db@0.2.2
