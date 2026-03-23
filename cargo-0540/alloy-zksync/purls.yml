@@ -8,3 +8,4 @@
 - pkg:cargo/alloy-zksync@0.9.0
 - pkg:cargo/alloy-zksync@0.9.1
 - pkg:cargo/alloy-zksync@1.0.7-alpha.1
+- pkg:cargo/alloy-zksync@1.7.3-alpha.1
