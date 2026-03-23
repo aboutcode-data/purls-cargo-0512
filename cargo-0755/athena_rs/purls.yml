@@ -18,3 +18,5 @@
 - pkg:cargo/athena_rs@2.5.6
 - pkg:cargo/athena_rs@2.5.7
 - pkg:cargo/athena_rs@2.8.0
+- pkg:cargo/athena_rs@2.8.1
+- pkg:cargo/athena_rs@2.9.0

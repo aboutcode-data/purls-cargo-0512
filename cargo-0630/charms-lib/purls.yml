@@ -11,3 +11,4 @@
 - pkg:cargo/charms-lib@0.9.3
 - pkg:cargo/charms-lib@11.0.0
 - pkg:cargo/charms-lib@11.0.1
+- pkg:cargo/charms-lib@12.0.0
