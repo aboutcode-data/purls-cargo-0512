@@ -4,3 +4,6 @@
 - pkg:cargo/hamelin_translation@0.4.4
 - pkg:cargo/hamelin_translation@0.6.10
 - pkg:cargo/hamelin_translation@0.6.11
+- pkg:cargo/hamelin_translation@0.6.12
+- pkg:cargo/hamelin_translation@0.6.13
+- pkg:cargo/hamelin_translation@0.6.14
