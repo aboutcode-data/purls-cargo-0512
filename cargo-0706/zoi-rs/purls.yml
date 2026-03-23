@@ -21,6 +21,7 @@
 - pkg:cargo/zoi-rs@1.8.8
 - pkg:cargo/zoi-rs@1.9.0
 - pkg:cargo/zoi-rs@1.9.2
+- pkg:cargo/zoi-rs@1.9.3
 - pkg:cargo/zoi-rs@4.2.0-beta-prod
 - pkg:cargo/zoi-rs@4.2.3-beta-prod
 - pkg:cargo/zoi-rs@4.3.0-beta
