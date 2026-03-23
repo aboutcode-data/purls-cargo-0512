@@ -1,2 +1,4 @@
 - pkg:cargo/agent-messenger@0.2.1
 - pkg:cargo/agent-messenger@0.2.2
+- pkg:cargo/agent-messenger@0.3.1
+- pkg:cargo/agent-messenger@0.3.2
