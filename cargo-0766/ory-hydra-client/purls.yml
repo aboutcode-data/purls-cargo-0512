@@ -11,3 +11,4 @@
 - pkg:cargo/ory-hydra-client@2.2.0
 - pkg:cargo/ory-hydra-client@2.2.0-rc.3
 - pkg:cargo/ory-hydra-client@25.4.0
+- pkg:cargo/ory-hydra-client@26.2.0

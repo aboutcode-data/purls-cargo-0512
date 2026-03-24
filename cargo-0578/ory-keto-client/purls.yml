@@ -6,3 +6,4 @@
 - pkg:cargo/ory-keto-client@0.8.0-alpha.2
 - pkg:cargo/ory-keto-client@0.9.0-alpha.0
 - pkg:cargo/ory-keto-client@25.4.0
+- pkg:cargo/ory-keto-client@26.2.0
