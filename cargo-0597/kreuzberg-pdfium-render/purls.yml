@@ -20,3 +20,4 @@
 - pkg:cargo/kreuzberg-pdfium-render@4.5.2
 - pkg:cargo/kreuzberg-pdfium-render@4.5.3
 - pkg:cargo/kreuzberg-pdfium-render@4.5.4
+- pkg:cargo/kreuzberg-pdfium-render@4.6.0
