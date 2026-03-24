@@ -37,3 +37,4 @@
 - pkg:cargo/fuel-core-gas-price-service@0.46.0
 - pkg:cargo/fuel-core-gas-price-service@0.47.0
 - pkg:cargo/fuel-core-gas-price-service@0.47.1
+- pkg:cargo/fuel-core-gas-price-service@0.47.3
