@@ -77,6 +77,7 @@
 - pkg:cargo/ai-dispatch@8.44.0
 - pkg:cargo/ai-dispatch@8.45.0
 - pkg:cargo/ai-dispatch@8.46.0
+- pkg:cargo/ai-dispatch@8.47.0
 - pkg:cargo/ai-dispatch@8.5.0
 - pkg:cargo/ai-dispatch@8.5.1
 - pkg:cargo/ai-dispatch@8.5.2
