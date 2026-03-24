@@ -20,3 +20,4 @@
 - pkg:cargo/clean-dev-dirs@2.6.3
 - pkg:cargo/clean-dev-dirs@2.7.0
 - pkg:cargo/clean-dev-dirs@2.7.1
+- pkg:cargo/clean-dev-dirs@2.8.0
