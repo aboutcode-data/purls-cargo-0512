@@ -1,2 +1,3 @@
 - pkg:cargo/batty-cli@0.1.0
 - pkg:cargo/batty-cli@0.5.2
+- pkg:cargo/batty-cli@0.7.0

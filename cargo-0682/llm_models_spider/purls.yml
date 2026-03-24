@@ -47,6 +47,7 @@
 - pkg:cargo/llm_models_spider@0.1.50
 - pkg:cargo/llm_models_spider@0.1.51
 - pkg:cargo/llm_models_spider@0.1.52
+- pkg:cargo/llm_models_spider@0.1.53
 - pkg:cargo/llm_models_spider@0.1.6
 - pkg:cargo/llm_models_spider@0.1.7
 - pkg:cargo/llm_models_spider@0.1.8
