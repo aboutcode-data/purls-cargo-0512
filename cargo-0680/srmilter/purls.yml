@@ -2,3 +2,4 @@
 - pkg:cargo/srmilter@5.0.0
 - pkg:cargo/srmilter@5.1.0
 - pkg:cargo/srmilter@5.2.0
+- pkg:cargo/srmilter@6.0.0
