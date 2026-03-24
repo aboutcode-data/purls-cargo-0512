@@ -239,6 +239,8 @@
 - pkg:cargo/kurtosis-sdk@1.16.4
 - pkg:cargo/kurtosis-sdk@1.16.5
 - pkg:cargo/kurtosis-sdk@1.16.6
+- pkg:cargo/kurtosis-sdk@1.17.0
+- pkg:cargo/kurtosis-sdk@1.17.1
 - pkg:cargo/kurtosis-sdk@1.2.0
 - pkg:cargo/kurtosis-sdk@1.3.0
 - pkg:cargo/kurtosis-sdk@1.3.1
