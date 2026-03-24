@@ -54,3 +54,4 @@
 - pkg:cargo/arrow-schema@57.2.0
 - pkg:cargo/arrow-schema@57.3.0
 - pkg:cargo/arrow-schema@58.0.0
+- pkg:cargo/arrow-schema@58.1.0
