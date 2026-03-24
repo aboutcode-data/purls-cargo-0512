@@ -2,3 +2,4 @@
 - pkg:cargo/jiminy-core@0.12.0
 - pkg:cargo/jiminy-core@0.13.0
 - pkg:cargo/jiminy-core@0.14.0
+- pkg:cargo/jiminy-core@0.15.0
