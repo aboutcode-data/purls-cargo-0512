@@ -15,3 +15,5 @@
 - pkg:cargo/dioxus-bootstrap-css@0.2.4
 - pkg:cargo/dioxus-bootstrap-css@0.2.5
 - pkg:cargo/dioxus-bootstrap-css@0.2.6
+- pkg:cargo/dioxus-bootstrap-css@0.3.0
+- pkg:cargo/dioxus-bootstrap-css@0.3.1
