@@ -17,6 +17,7 @@
 - pkg:cargo/greentic-oauth-sdk@0.4.21
 - pkg:cargo/greentic-oauth-sdk@0.4.22
 - pkg:cargo/greentic-oauth-sdk@0.4.25
+- pkg:cargo/greentic-oauth-sdk@0.4.26
 - pkg:cargo/greentic-oauth-sdk@0.4.4
 - pkg:cargo/greentic-oauth-sdk@0.4.5
 - pkg:cargo/greentic-oauth-sdk@0.4.6

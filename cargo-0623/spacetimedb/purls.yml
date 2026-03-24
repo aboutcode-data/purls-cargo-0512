@@ -60,3 +60,4 @@
 - pkg:cargo/spacetimedb@2.0.3
 - pkg:cargo/spacetimedb@2.0.4
 - pkg:cargo/spacetimedb@2.0.5
+- pkg:cargo/spacetimedb@2.1.0
