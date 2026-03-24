@@ -2,6 +2,7 @@
 - pkg:cargo/swh-graph@11.0.0
 - pkg:cargo/swh-graph@11.0.1
 - pkg:cargo/swh-graph@11.1.0
+- pkg:cargo/swh-graph@11.2.1
 - pkg:cargo/swh-graph@5.0.0
 - pkg:cargo/swh-graph@5.1.0
 - pkg:cargo/swh-graph@5.1.1

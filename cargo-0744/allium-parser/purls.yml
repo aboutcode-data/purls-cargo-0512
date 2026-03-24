@@ -3,3 +3,4 @@
 - pkg:cargo/allium-parser@0.1.8
 - pkg:cargo/allium-parser@1.0.0
 - pkg:cargo/allium-parser@2.0.0
+- pkg:cargo/allium-parser@3.0.0
