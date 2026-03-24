@@ -12,3 +12,4 @@
 - pkg:cargo/varnish-macros@0.5.3
 - pkg:cargo/varnish-macros@0.5.4
 - pkg:cargo/varnish-macros@0.5.5
+- pkg:cargo/varnish-macros@0.6.0

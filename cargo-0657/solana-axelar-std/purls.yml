@@ -5,3 +5,4 @@
 - pkg:cargo/solana-axelar-std@0.1.4
 - pkg:cargo/solana-axelar-std@0.1.5
 - pkg:cargo/solana-axelar-std@0.1.6
+- pkg:cargo/solana-axelar-std@1.0.0
