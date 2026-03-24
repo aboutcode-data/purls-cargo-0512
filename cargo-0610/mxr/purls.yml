@@ -7,6 +7,7 @@
 - pkg:cargo/mxr@0.4.17
 - pkg:cargo/mxr@0.4.2
 - pkg:cargo/mxr@0.4.22
+- pkg:cargo/mxr@0.4.24
 - pkg:cargo/mxr@0.4.4
 - pkg:cargo/mxr@0.4.5
 - pkg:cargo/mxr@0.4.6
