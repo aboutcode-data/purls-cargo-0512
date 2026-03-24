@@ -112,3 +112,4 @@
 - pkg:cargo/brk_cli@0.1.7
 - pkg:cargo/brk_cli@0.1.9
 - pkg:cargo/brk_cli@0.2.1
+- pkg:cargo/brk_cli@0.2.2
