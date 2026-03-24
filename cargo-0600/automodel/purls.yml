@@ -18,3 +18,4 @@
 - pkg:cargo/automodel@0.5.1
 - pkg:cargo/automodel@0.5.2
 - pkg:cargo/automodel@0.5.3
+- pkg:cargo/automodel@0.6.0
