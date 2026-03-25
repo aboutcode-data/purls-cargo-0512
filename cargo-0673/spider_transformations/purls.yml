@@ -573,6 +573,8 @@
 - pkg:cargo/spider_transformations@2.37.115
 - pkg:cargo/spider_transformations@2.37.116
 - pkg:cargo/spider_transformations@2.37.117
+- pkg:cargo/spider_transformations@2.37.118
+- pkg:cargo/spider_transformations@2.37.119
 - pkg:cargo/spider_transformations@2.37.12
 - pkg:cargo/spider_transformations@2.37.13
 - pkg:cargo/spider_transformations@2.37.14
@@ -664,6 +666,8 @@
 - pkg:cargo/spider_transformations@2.37.97
 - pkg:cargo/spider_transformations@2.37.98
 - pkg:cargo/spider_transformations@2.37.99
+- pkg:cargo/spider_transformations@2.38.0
+- pkg:cargo/spider_transformations@2.39.0
 - pkg:cargo/spider_transformations@2.6.0
 - pkg:cargo/spider_transformations@2.6.1
 - pkg:cargo/spider_transformations@2.6.10
