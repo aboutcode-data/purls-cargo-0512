@@ -8,3 +8,4 @@
 - pkg:cargo/ruvector-graph@2.0.2
 - pkg:cargo/ruvector-graph@2.0.3
 - pkg:cargo/ruvector-graph@2.0.4
+- pkg:cargo/ruvector-graph@2.0.6

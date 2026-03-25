@@ -122,3 +122,4 @@
 - pkg:cargo/alloy-rpc-types-beacon@1.7.3
 - pkg:cargo/alloy-rpc-types-beacon@1.7.4
 - pkg:cargo/alloy-rpc-types-beacon@1.8.0
+- pkg:cargo/alloy-rpc-types-beacon@1.8.1

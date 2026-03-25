@@ -12,3 +12,4 @@
 - pkg:cargo/raft-wal@0.6.4
 - pkg:cargo/raft-wal@0.6.5
 - pkg:cargo/raft-wal@0.6.6
+- pkg:cargo/raft-wal@0.7.0
