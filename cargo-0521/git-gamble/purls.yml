@@ -32,6 +32,8 @@
 - pkg:cargo/git-gamble@2.1.0
 - pkg:cargo/git-gamble@2.10.0
 - pkg:cargo/git-gamble@2.11.0
+- pkg:cargo/git-gamble@2.12.0
+- pkg:cargo/git-gamble@2.12.1
 - pkg:cargo/git-gamble@2.2.1
 - pkg:cargo/git-gamble@2.3.0
 - pkg:cargo/git-gamble@2.4.0
