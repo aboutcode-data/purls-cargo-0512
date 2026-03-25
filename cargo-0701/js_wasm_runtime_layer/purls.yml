@@ -1,3 +1,4 @@
 - pkg:cargo/js_wasm_runtime_layer@0.4.0
 - pkg:cargo/js_wasm_runtime_layer@0.5.0
 - pkg:cargo/js_wasm_runtime_layer@0.6.0
+- pkg:cargo/js_wasm_runtime_layer@0.7.0
