@@ -1,4 +1,6 @@
 - pkg:cargo/mzrs-macros@0.1.0
 - pkg:cargo/mzrs-macros@0.1.11
 - pkg:cargo/mzrs-macros@0.1.12
+- pkg:cargo/mzrs-macros@0.1.13
+- pkg:cargo/mzrs-macros@0.1.14
 - pkg:cargo/mzrs-macros@0.1.3
