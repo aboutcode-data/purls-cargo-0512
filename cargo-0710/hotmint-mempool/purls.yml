@@ -6,3 +6,4 @@
 - pkg:cargo/hotmint-mempool@0.5.0
 - pkg:cargo/hotmint-mempool@0.6.0
 - pkg:cargo/hotmint-mempool@0.7.0
+- pkg:cargo/hotmint-mempool@0.8.0

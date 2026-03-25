@@ -21,3 +21,4 @@
 - pkg:cargo/limit-llm@0.0.39
 - pkg:cargo/limit-llm@0.0.40
 - pkg:cargo/limit-llm@0.0.41
+- pkg:cargo/limit-llm@0.0.42
