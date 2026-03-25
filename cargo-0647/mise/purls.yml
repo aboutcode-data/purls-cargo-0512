@@ -479,6 +479,7 @@
 - pkg:cargo/mise@2026.3.11
 - pkg:cargo/mise@2026.3.12
 - pkg:cargo/mise@2026.3.13
+- pkg:cargo/mise@2026.3.14
 - pkg:cargo/mise@2026.3.2
 - pkg:cargo/mise@2026.3.3
 - pkg:cargo/mise@2026.3.4
