@@ -7,3 +7,4 @@
 - pkg:cargo/dkit@0.7.0
 - pkg:cargo/dkit@0.8.0
 - pkg:cargo/dkit@0.9.0
+- pkg:cargo/dkit@1.0.0
