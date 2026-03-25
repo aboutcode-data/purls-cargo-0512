@@ -1,4 +1,5 @@
 - pkg:cargo/mzrs-core@0.1.0
 - pkg:cargo/mzrs-core@0.1.11
+- pkg:cargo/mzrs-core@0.1.12
 - pkg:cargo/mzrs-core@0.1.4
 - pkg:cargo/mzrs-core@0.1.5
