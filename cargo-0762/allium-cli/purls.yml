@@ -4,3 +4,4 @@
 - pkg:cargo/allium-cli@1.0.0
 - pkg:cargo/allium-cli@2.0.0
 - pkg:cargo/allium-cli@3.0.0
+- pkg:cargo/allium-cli@3.0.1
