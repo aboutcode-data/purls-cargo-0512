@@ -11,6 +11,7 @@
 - pkg:cargo/scouter-settings@0.21.1
 - pkg:cargo/scouter-settings@0.22.0
 - pkg:cargo/scouter-settings@0.23.0
+- pkg:cargo/scouter-settings@0.24.0
 - pkg:cargo/scouter-settings@0.5.3
 - pkg:cargo/scouter-settings@0.5.4
 - pkg:cargo/scouter-settings@0.5.5

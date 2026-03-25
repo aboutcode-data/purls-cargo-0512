@@ -2,3 +2,4 @@
 - pkg:cargo/flac-codec@1.1.0
 - pkg:cargo/flac-codec@1.2.0
 - pkg:cargo/flac-codec@1.3.0
+- pkg:cargo/flac-codec@1.3.1
