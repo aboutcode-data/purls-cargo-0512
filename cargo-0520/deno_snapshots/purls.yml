@@ -49,6 +49,7 @@
 - pkg:cargo/deno_snapshots@0.53.0
 - pkg:cargo/deno_snapshots@0.54.0
 - pkg:cargo/deno_snapshots@0.55.0
+- pkg:cargo/deno_snapshots@0.56.0
 - pkg:cargo/deno_snapshots@0.6.0
 - pkg:cargo/deno_snapshots@0.7.0
 - pkg:cargo/deno_snapshots@0.8.0
