@@ -9,6 +9,7 @@
 - pkg:cargo/struct-patch-derive@0.10.2
 - pkg:cargo/struct-patch-derive@0.10.3
 - pkg:cargo/struct-patch-derive@0.10.4
+- pkg:cargo/struct-patch-derive@0.10.5
 - pkg:cargo/struct-patch-derive@0.2.0
 - pkg:cargo/struct-patch-derive@0.2.1
 - pkg:cargo/struct-patch-derive@0.2.2

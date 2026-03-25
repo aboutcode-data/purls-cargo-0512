@@ -2,6 +2,7 @@
 - pkg:cargo/gloo@0.1.0
 - pkg:cargo/gloo@0.10.0
 - pkg:cargo/gloo@0.11.0
+- pkg:cargo/gloo@0.12.0
 - pkg:cargo/gloo@0.2.0
 - pkg:cargo/gloo@0.2.1
 - pkg:cargo/gloo@0.3.0
