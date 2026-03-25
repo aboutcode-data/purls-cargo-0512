@@ -45,3 +45,4 @@
 - pkg:cargo/test-fuzz-internal@7.2.4
 - pkg:cargo/test-fuzz-internal@7.2.5
 - pkg:cargo/test-fuzz-internal@7.3.0
+- pkg:cargo/test-fuzz-internal@8.0.0
