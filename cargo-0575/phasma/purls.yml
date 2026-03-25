@@ -1,4 +1,5 @@
 - pkg:cargo/phasma@0.0.1
+- pkg:cargo/phasma@0.0.12
 - pkg:cargo/phasma@0.0.2
 - pkg:cargo/phasma@0.0.3
 - pkg:cargo/phasma@0.0.4
