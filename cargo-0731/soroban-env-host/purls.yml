@@ -57,3 +57,4 @@
 - pkg:cargo/soroban-env-host@25.0.0-rc.1
 - pkg:cargo/soroban-env-host@25.0.1
 - pkg:cargo/soroban-env-host@25.2.1
+- pkg:cargo/soroban-env-host@26.0.0
