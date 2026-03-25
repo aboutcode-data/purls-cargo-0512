@@ -32,3 +32,4 @@
 - pkg:cargo/cf-modkit-transport-grpc@0.5.7
 - pkg:cargo/cf-modkit-transport-grpc@0.5.8
 - pkg:cargo/cf-modkit-transport-grpc@0.5.9
+- pkg:cargo/cf-modkit-transport-grpc@0.6.0

@@ -1,3 +1,5 @@
 - pkg:cargo/graphmind-graph-algorithms@0.6.4
 - pkg:cargo/graphmind-graph-algorithms@0.6.5
 - pkg:cargo/graphmind-graph-algorithms@0.7.0
+- pkg:cargo/graphmind-graph-algorithms@0.8.0
+- pkg:cargo/graphmind-graph-algorithms@0.8.0-beta
