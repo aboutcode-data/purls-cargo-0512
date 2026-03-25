@@ -53,3 +53,4 @@
 - pkg:cargo/asdf-overlay-common@1.1.0
 - pkg:cargo/asdf-overlay-common@1.1.2
 - pkg:cargo/asdf-overlay-common@1.2.0
+- pkg:cargo/asdf-overlay-common@1.2.1
