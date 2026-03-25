@@ -12,3 +12,4 @@
 - pkg:cargo/turbomcp-wasm-macros@3.0.5
 - pkg:cargo/turbomcp-wasm-macros@3.0.6
 - pkg:cargo/turbomcp-wasm-macros@3.0.7
+- pkg:cargo/turbomcp-wasm-macros@3.0.8

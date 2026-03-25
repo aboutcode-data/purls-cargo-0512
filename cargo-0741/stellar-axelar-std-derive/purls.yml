@@ -7,3 +7,4 @@
 - pkg:cargo/stellar-axelar-std-derive@1.1.0
 - pkg:cargo/stellar-axelar-std-derive@1.1.1
 - pkg:cargo/stellar-axelar-std-derive@1.1.2
+- pkg:cargo/stellar-axelar-std-derive@2.0.0
