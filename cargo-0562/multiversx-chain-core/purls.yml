@@ -16,3 +16,4 @@
 - pkg:cargo/multiversx-chain-core@0.21.1
 - pkg:cargo/multiversx-chain-core@0.21.2
 - pkg:cargo/multiversx-chain-core@0.22.0
+- pkg:cargo/multiversx-chain-core@0.22.1
