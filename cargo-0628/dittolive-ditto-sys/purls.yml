@@ -131,6 +131,7 @@
 - pkg:cargo/dittolive-ditto-sys@4.12.4-experimental.release-ci-sync.1
 - pkg:cargo/dittolive-ditto-sys@4.12.4-rc.1
 - pkg:cargo/dittolive-ditto-sys@4.12.5-experimental-internal-jj-ws-support.1
+- pkg:cargo/dittolive-ditto-sys@4.12.5-rc.1
 - pkg:cargo/dittolive-ditto-sys@4.13.0
 - pkg:cargo/dittolive-ditto-sys@4.13.0-experimental-internal-jj-ws-support.1
 - pkg:cargo/dittolive-ditto-sys@4.13.0-experimental-on-disk-logging.1
@@ -244,6 +245,7 @@
 - pkg:cargo/dittolive-ditto-sys@5.0.0-experimental-gha-trigger.4
 - pkg:cargo/dittolive-ditto-sys@5.0.0-experimental-kmp-publishing.23
 - pkg:cargo/dittolive-ditto-sys@5.0.0-experimental-kmp-publishing.3
+- pkg:cargo/dittolive-ditto-sys@5.0.0-experimental-release-notifications.1
 - pkg:cargo/dittolive-ditto-sys@5.0.0-experimental-rustsdk-publish-auth.1
 - pkg:cargo/dittolive-ditto-sys@5.0.0-experimental-sdk-cmd-logging.1
 - pkg:cargo/dittolive-ditto-sys@5.0.0-experimental-sdk-test-suite.1
@@ -262,6 +264,7 @@
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-all-sdks.4
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-gha-workflow.1
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-gha-workflow.4
+- pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-gha-workflow.5
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-release-gate.1
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-release-gate.2
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-release-gate.3
