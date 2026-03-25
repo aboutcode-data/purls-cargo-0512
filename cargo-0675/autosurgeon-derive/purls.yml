@@ -2,6 +2,7 @@
 - pkg:cargo/autosurgeon-derive@0.1.1
 - pkg:cargo/autosurgeon-derive@0.10.0
 - pkg:cargo/autosurgeon-derive@0.10.1
+- pkg:cargo/autosurgeon-derive@0.11.0
 - pkg:cargo/autosurgeon-derive@0.2.0
 - pkg:cargo/autosurgeon-derive@0.2.1
 - pkg:cargo/autosurgeon-derive@0.2.2
