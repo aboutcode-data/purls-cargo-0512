@@ -8,3 +8,4 @@
 - pkg:cargo/ows-cli@0.5.7
 - pkg:cargo/ows-cli@0.5.8
 - pkg:cargo/ows-cli@1.0.0
+- pkg:cargo/ows-cli@1.1.0

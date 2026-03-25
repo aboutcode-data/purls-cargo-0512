@@ -9,3 +9,4 @@
 - pkg:cargo/ows-signer@0.5.7
 - pkg:cargo/ows-signer@0.5.8
 - pkg:cargo/ows-signer@1.0.0
+- pkg:cargo/ows-signer@1.1.0
