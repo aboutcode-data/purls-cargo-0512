@@ -6,3 +6,5 @@
 - pkg:cargo/nucl-parquet@0.3.7
 - pkg:cargo/nucl-parquet@0.3.8
 - pkg:cargo/nucl-parquet@0.3.9
+- pkg:cargo/nucl-parquet@0.7.0
+- pkg:cargo/nucl-parquet@0.8.0

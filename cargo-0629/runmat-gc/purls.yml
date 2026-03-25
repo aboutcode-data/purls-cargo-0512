@@ -8,3 +8,4 @@
 - pkg:cargo/runmat-gc@0.2.7
 - pkg:cargo/runmat-gc@0.2.8
 - pkg:cargo/runmat-gc@0.3.0
+- pkg:cargo/runmat-gc@0.3.2

@@ -12,3 +12,5 @@
 - pkg:cargo/rust_icu_ucnv@5.1.0
 - pkg:cargo/rust_icu_ucnv@5.3.0
 - pkg:cargo/rust_icu_ucnv@5.4.0
+- pkg:cargo/rust_icu_ucnv@5.5.0
+- pkg:cargo/rust_icu_ucnv@5.6.0
