@@ -604,6 +604,7 @@
 - pkg:cargo/spider_chrome@2.37.128
 - pkg:cargo/spider_chrome@2.37.129
 - pkg:cargo/spider_chrome@2.37.13
+- pkg:cargo/spider_chrome@2.37.130
 - pkg:cargo/spider_chrome@2.37.14
 - pkg:cargo/spider_chrome@2.37.15
 - pkg:cargo/spider_chrome@2.37.16
