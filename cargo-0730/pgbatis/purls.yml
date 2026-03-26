@@ -29,6 +29,7 @@
 - pkg:cargo/pgbatis@0.1.46
 - pkg:cargo/pgbatis@0.1.48
 - pkg:cargo/pgbatis@0.1.5
+- pkg:cargo/pgbatis@0.1.50
 - pkg:cargo/pgbatis@0.1.6
 - pkg:cargo/pgbatis@0.1.7
 - pkg:cargo/pgbatis@0.1.8
