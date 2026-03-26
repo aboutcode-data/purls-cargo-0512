@@ -12,6 +12,7 @@
 - pkg:cargo/softhsm2_pkcs11_loader@5.16.1
 - pkg:cargo/softhsm2_pkcs11_loader@5.16.2
 - pkg:cargo/softhsm2_pkcs11_loader@5.17.0
+- pkg:cargo/softhsm2_pkcs11_loader@5.18.0
 - pkg:cargo/softhsm2_pkcs11_loader@5.6.1
 - pkg:cargo/softhsm2_pkcs11_loader@5.7.0
 - pkg:cargo/softhsm2_pkcs11_loader@5.7.1
