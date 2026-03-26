@@ -8,3 +8,4 @@
 - pkg:cargo/ontology-registry@0.3.6
 - pkg:cargo/ontology-registry@0.3.7
 - pkg:cargo/ontology-registry@0.3.8
+- pkg:cargo/ontology-registry@0.4.0
