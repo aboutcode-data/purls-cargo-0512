@@ -26,3 +26,4 @@
 - pkg:cargo/reqtls@0.2.0-alpha2
 - pkg:cargo/reqtls@0.2.0-alpha4
 - pkg:cargo/reqtls@0.2.0-beta1
+- pkg:cargo/reqtls@0.2.0-beta2
