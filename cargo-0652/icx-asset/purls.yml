@@ -20,5 +20,7 @@
 - pkg:cargo/icx-asset@0.25.0
 - pkg:cargo/icx-asset@0.27.0
 - pkg:cargo/icx-asset@0.28.0
+- pkg:cargo/icx-asset@0.28.1
+- pkg:cargo/icx-asset@0.29.0
 - pkg:cargo/icx-asset@0.3.0
 - pkg:cargo/icx-asset@0.4.0
