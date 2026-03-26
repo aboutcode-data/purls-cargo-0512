@@ -10,6 +10,7 @@
 - pkg:cargo/pasta_dsl@0.1.19
 - pkg:cargo/pasta_dsl@0.1.20
 - pkg:cargo/pasta_dsl@0.1.21
+- pkg:cargo/pasta_dsl@0.1.22
 - pkg:cargo/pasta_dsl@0.1.5
 - pkg:cargo/pasta_dsl@0.1.6
 - pkg:cargo/pasta_dsl@0.1.7
