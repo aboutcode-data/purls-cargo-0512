@@ -19,3 +19,4 @@
 - pkg:cargo/psmux@0.4.9
 - pkg:cargo/psmux@3.2.0
 - pkg:cargo/psmux@3.3.0
+- pkg:cargo/psmux@3.3.1
