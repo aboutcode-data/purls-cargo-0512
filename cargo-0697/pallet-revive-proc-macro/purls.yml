@@ -10,3 +10,4 @@
 - pkg:cargo/pallet-revive-proc-macro@0.6.0
 - pkg:cargo/pallet-revive-proc-macro@0.7.0
 - pkg:cargo/pallet-revive-proc-macro@0.7.1
+- pkg:cargo/pallet-revive-proc-macro@0.7.2
