@@ -33,3 +33,4 @@
 - pkg:cargo/xmtp-cli@0.7.6
 - pkg:cargo/xmtp-cli@0.8.0
 - pkg:cargo/xmtp-cli@0.8.1
+- pkg:cargo/xmtp-cli@0.8.2

@@ -44,6 +44,7 @@
 - pkg:cargo/mdbook_rash@2.18.2
 - pkg:cargo/mdbook_rash@2.18.3
 - pkg:cargo/mdbook_rash@2.19.0
+- pkg:cargo/mdbook_rash@2.19.1
 - pkg:cargo/mdbook_rash@2.2.0
 - pkg:cargo/mdbook_rash@2.3.0
 - pkg:cargo/mdbook_rash@2.3.1
