@@ -19,3 +19,4 @@
 - pkg:cargo/kc@0.9.0
 - pkg:cargo/kc@1.0.0
 - pkg:cargo/kc@1.1.0
+- pkg:cargo/kc@1.1.1
