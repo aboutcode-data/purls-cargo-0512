@@ -2,3 +2,4 @@
 - pkg:cargo/crabtalk-daemon@0.0.11
 - pkg:cargo/crabtalk-daemon@0.0.12
 - pkg:cargo/crabtalk-daemon@0.0.13
+- pkg:cargo/crabtalk-daemon@0.0.14
