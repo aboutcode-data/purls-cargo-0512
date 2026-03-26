@@ -1,1 +1,2 @@
 - pkg:cargo/ghci-derive@0.2.1
+- pkg:cargo/ghci-derive@0.2.2

@@ -26,3 +26,6 @@
 - pkg:cargo/temprs@0.5.1
 - pkg:cargo/temprs@0.5.2
 - pkg:cargo/temprs@0.6.0
+- pkg:cargo/temprs@0.7.0
+- pkg:cargo/temprs@0.8.0
+- pkg:cargo/temprs@0.9.0
