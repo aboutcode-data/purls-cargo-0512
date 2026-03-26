@@ -10,3 +10,5 @@
 - pkg:cargo/tauri-plugin-devtools-app@2.0.0-rc.2
 - pkg:cargo/tauri-plugin-devtools-app@2.0.0-rc.3
 - pkg:cargo/tauri-plugin-devtools-app@2.0.1
+- pkg:cargo/tauri-plugin-devtools-app@2.1.0
+- pkg:cargo/tauri-plugin-devtools-app@2.1.1

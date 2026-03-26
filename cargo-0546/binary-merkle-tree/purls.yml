@@ -9,6 +9,7 @@
 - pkg:cargo/binary-merkle-tree@15.0.1-rc.1
 - pkg:cargo/binary-merkle-tree@16.0.0
 - pkg:cargo/binary-merkle-tree@16.1.0
+- pkg:cargo/binary-merkle-tree@16.1.1
 - pkg:cargo/binary-merkle-tree@4.0.0
 - pkg:cargo/binary-merkle-tree@5.0.0
 - pkg:cargo/binary-merkle-tree@6.0.0

@@ -32,6 +32,7 @@
 - pkg:cargo/sp-storage@20.0.0
 - pkg:cargo/sp-storage@21.0.0
 - pkg:cargo/sp-storage@22.0.0
+- pkg:cargo/sp-storage@23.0.0
 - pkg:cargo/sp-storage@3.0.0
 - pkg:cargo/sp-storage@4.0.0
 - pkg:cargo/sp-storage@5.0.0

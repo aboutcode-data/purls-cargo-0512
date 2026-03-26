@@ -4,6 +4,7 @@
 - pkg:cargo/sp-debug-derive@12.0.0
 - pkg:cargo/sp-debug-derive@13.0.0
 - pkg:cargo/sp-debug-derive@14.0.0
+- pkg:cargo/sp-debug-derive@15.0.0
 - pkg:cargo/sp-debug-derive@2.0.0
 - pkg:cargo/sp-debug-derive@2.0.0-alpha.2
 - pkg:cargo/sp-debug-derive@2.0.0-alpha.3
