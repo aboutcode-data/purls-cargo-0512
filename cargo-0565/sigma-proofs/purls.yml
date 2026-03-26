@@ -1,1 +1,3 @@
 - pkg:cargo/sigma-proofs@0.1.0-sigma
+- pkg:cargo/sigma-proofs@0.2.0
+- pkg:cargo/sigma-proofs@0.2.1
