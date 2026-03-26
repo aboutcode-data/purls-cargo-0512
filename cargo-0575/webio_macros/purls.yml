@@ -11,3 +11,4 @@
 - pkg:cargo/webio_macros@0.9.4-alpha
 - pkg:cargo/webio_macros@0.9.5-alpha
 - pkg:cargo/webio_macros@0.9.6-alpha
+- pkg:cargo/webio_macros@0.9.7-alpha
