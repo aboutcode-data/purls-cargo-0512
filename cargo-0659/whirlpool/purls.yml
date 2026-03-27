@@ -4,6 +4,7 @@
 - pkg:cargo/whirlpool@0.10.2
 - pkg:cargo/whirlpool@0.10.3
 - pkg:cargo/whirlpool@0.10.4
+- pkg:cargo/whirlpool@0.11.0
 - pkg:cargo/whirlpool@0.11.0-pre.2
 - pkg:cargo/whirlpool@0.11.0-pre.4
 - pkg:cargo/whirlpool@0.11.0-pre.5
