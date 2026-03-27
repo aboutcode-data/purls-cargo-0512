@@ -3,3 +3,5 @@
 - pkg:cargo/graphmind-optimization@0.7.0
 - pkg:cargo/graphmind-optimization@0.8.0
 - pkg:cargo/graphmind-optimization@0.8.0-beta
+- pkg:cargo/graphmind-optimization@0.8.1
+- pkg:cargo/graphmind-optimization@0.8.2
