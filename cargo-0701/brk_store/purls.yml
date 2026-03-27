@@ -82,3 +82,4 @@
 - pkg:cargo/brk_store@0.1.9
 - pkg:cargo/brk_store@0.2.1
 - pkg:cargo/brk_store@0.2.2
+- pkg:cargo/brk_store@0.2.3
