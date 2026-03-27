@@ -1,3 +1,4 @@
+- pkg:cargo/protocol-core@0.3.11
 - pkg:cargo/protocol-core@0.3.2
 - pkg:cargo/protocol-core@0.3.3
 - pkg:cargo/protocol-core@0.3.4
