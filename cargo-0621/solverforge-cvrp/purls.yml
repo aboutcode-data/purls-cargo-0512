@@ -2,3 +2,4 @@
 - pkg:cargo/solverforge-cvrp@0.5.16
 - pkg:cargo/solverforge-cvrp@0.5.17
 - pkg:cargo/solverforge-cvrp@0.5.18
+- pkg:cargo/solverforge-cvrp@0.6.0
