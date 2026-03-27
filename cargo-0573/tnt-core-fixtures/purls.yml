@@ -2,6 +2,7 @@
 - pkg:cargo/tnt-core-fixtures@0.10.1
 - pkg:cargo/tnt-core-fixtures@0.10.4
 - pkg:cargo/tnt-core-fixtures@0.10.5
+- pkg:cargo/tnt-core-fixtures@0.10.6
 - pkg:cargo/tnt-core-fixtures@0.4.10
 - pkg:cargo/tnt-core-fixtures@0.4.7
 - pkg:cargo/tnt-core-fixtures@0.4.8
