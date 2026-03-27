@@ -22,6 +22,8 @@
 - pkg:cargo/cdk-payment-processor@0.15.0-rc.3
 - pkg:cargo/cdk-payment-processor@0.15.1
 - pkg:cargo/cdk-payment-processor@0.15.2-rc.0
+- pkg:cargo/cdk-payment-processor@0.16.0-rc.0
+- pkg:cargo/cdk-payment-processor@0.16.0-rc.1
 - pkg:cargo/cdk-payment-processor@0.8.0
 - pkg:cargo/cdk-payment-processor@0.8.1
 - pkg:cargo/cdk-payment-processor@0.9.0

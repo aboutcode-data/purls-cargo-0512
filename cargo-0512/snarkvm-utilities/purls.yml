@@ -116,3 +116,4 @@
 - pkg:cargo/snarkvm-utilities@4.4.0
 - pkg:cargo/snarkvm-utilities@4.5.0
 - pkg:cargo/snarkvm-utilities@4.5.4
+- pkg:cargo/snarkvm-utilities@4.6.0
