@@ -17,6 +17,8 @@
 - pkg:cargo/pombase-gocam@0.118.0
 - pkg:cargo/pombase-gocam@0.119.0
 - pkg:cargo/pombase-gocam@0.120.0
+- pkg:cargo/pombase-gocam@0.121.0
+- pkg:cargo/pombase-gocam@0.122.0
 - pkg:cargo/pombase-gocam@0.36.0
 - pkg:cargo/pombase-gocam@0.37.0
 - pkg:cargo/pombase-gocam@0.38.0
