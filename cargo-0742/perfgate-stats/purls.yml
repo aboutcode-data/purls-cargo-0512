@@ -1,2 +1,3 @@
+- pkg:cargo/perfgate-stats@0.15.0
 - pkg:cargo/perfgate-stats@0.4.0
 - pkg:cargo/perfgate-stats@0.4.1

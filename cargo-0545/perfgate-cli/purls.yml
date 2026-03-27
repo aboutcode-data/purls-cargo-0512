@@ -1,1 +1,2 @@
+- pkg:cargo/perfgate-cli@0.15.0
 - pkg:cargo/perfgate-cli@0.4.1
