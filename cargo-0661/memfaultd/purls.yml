@@ -17,3 +17,4 @@
 - pkg:cargo/memfaultd@1.25.0
 - pkg:cargo/memfaultd@1.25.1
 - pkg:cargo/memfaultd@1.25.2
+- pkg:cargo/memfaultd@1.26.1
