@@ -1,1 +1,2 @@
 - pkg:cargo/omnia-guest-macro@0.28.0
+- pkg:cargo/omnia-guest-macro@0.29.0
