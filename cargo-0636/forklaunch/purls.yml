@@ -29,3 +29,4 @@
 - pkg:cargo/forklaunch@0.6.7
 - pkg:cargo/forklaunch@0.6.8
 - pkg:cargo/forklaunch@0.6.9
+- pkg:cargo/forklaunch@1.0.0
