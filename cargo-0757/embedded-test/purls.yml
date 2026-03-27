@@ -14,3 +14,4 @@
 - pkg:cargo/embedded-test@0.7.0-alpha.1
 - pkg:cargo/embedded-test@0.7.0-alpha.2
 - pkg:cargo/embedded-test@0.7.0-alpha.3
+- pkg:cargo/embedded-test@0.7.1
