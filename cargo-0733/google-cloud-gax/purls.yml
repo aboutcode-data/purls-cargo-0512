@@ -49,3 +49,4 @@
 - pkg:cargo/google-cloud-gax@1.6.0
 - pkg:cargo/google-cloud-gax@1.7.0
 - pkg:cargo/google-cloud-gax@1.8.0
+- pkg:cargo/google-cloud-gax@1.9.0
