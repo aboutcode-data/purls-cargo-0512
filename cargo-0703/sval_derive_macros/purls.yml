@@ -12,6 +12,7 @@
 - pkg:cargo/sval_derive_macros@2.15.0
 - pkg:cargo/sval_derive_macros@2.16.0
 - pkg:cargo/sval_derive_macros@2.17.0
+- pkg:cargo/sval_derive_macros@2.18.0
 - pkg:cargo/sval_derive_macros@2.7.0
 - pkg:cargo/sval_derive_macros@2.7.1
 - pkg:cargo/sval_derive_macros@2.8.0

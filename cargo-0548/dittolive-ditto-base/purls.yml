@@ -162,6 +162,7 @@
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-gha-workflow.6
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-gha-workflow.7
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-gha-workflow.8
+- pkg:cargo/dittolive-ditto-base@5.1.0-experimental-gha-workflow.9
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-release-gate.1
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-release-gate.2
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-release-gate.3
