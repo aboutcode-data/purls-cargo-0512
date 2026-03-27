@@ -1,1 +1,2 @@
 - pkg:cargo/wolfcrypt-ring-compat@1.16.1
+- pkg:cargo/wolfcrypt-ring-compat@1.16.2
