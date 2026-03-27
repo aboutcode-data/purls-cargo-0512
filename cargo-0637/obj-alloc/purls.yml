@@ -5,3 +5,4 @@
 - pkg:cargo/obj-alloc@0.2.2
 - pkg:cargo/obj-alloc@0.3.0
 - pkg:cargo/obj-alloc@0.3.1
+- pkg:cargo/obj-alloc@0.3.2
