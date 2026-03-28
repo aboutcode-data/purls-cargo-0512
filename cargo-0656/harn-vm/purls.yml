@@ -1,5 +1,10 @@
 - pkg:cargo/harn-vm@0.2.1
+- pkg:cargo/harn-vm@0.2.10
 - pkg:cargo/harn-vm@0.2.2
 - pkg:cargo/harn-vm@0.2.3
 - pkg:cargo/harn-vm@0.2.4
 - pkg:cargo/harn-vm@0.2.5
+- pkg:cargo/harn-vm@0.2.7
+- pkg:cargo/harn-vm@0.2.8
+- pkg:cargo/harn-vm@0.3.0
+- pkg:cargo/harn-vm@0.3.1
