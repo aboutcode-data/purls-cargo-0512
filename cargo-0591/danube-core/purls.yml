@@ -1,3 +1,4 @@
+- pkg:cargo/danube-core@0.10.0
 - pkg:cargo/danube-core@0.2.2
 - pkg:cargo/danube-core@0.2.3
 - pkg:cargo/danube-core@0.2.4
