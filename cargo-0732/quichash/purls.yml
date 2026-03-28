@@ -1,2 +1,3 @@
 - pkg:cargo/quichash@0.0.17
 - pkg:cargo/quichash@0.0.18
+- pkg:cargo/quichash@0.0.20

@@ -53,3 +53,4 @@
 - pkg:cargo/snarkvm-synthesizer-program@4.4.0
 - pkg:cargo/snarkvm-synthesizer-program@4.5.0
 - pkg:cargo/snarkvm-synthesizer-program@4.5.4
+- pkg:cargo/snarkvm-synthesizer-program@4.6.0
