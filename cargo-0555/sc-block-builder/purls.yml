@@ -42,6 +42,7 @@
 - pkg:cargo/sc-block-builder@0.46.0
 - pkg:cargo/sc-block-builder@0.47.0
 - pkg:cargo/sc-block-builder@0.48.0
+- pkg:cargo/sc-block-builder@0.49.0
 - pkg:cargo/sc-block-builder@0.8.0
 - pkg:cargo/sc-block-builder@0.8.0-alpha.2
 - pkg:cargo/sc-block-builder@0.8.0-alpha.3
