@@ -1,1 +1,2 @@
 - pkg:cargo/mdbook-luadoctest@0.1.0
+- pkg:cargo/mdbook-luadoctest@1.0.0
