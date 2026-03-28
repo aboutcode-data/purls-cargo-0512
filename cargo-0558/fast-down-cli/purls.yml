@@ -25,3 +25,5 @@
 - pkg:cargo/fast-down-cli@2.7.4
 - pkg:cargo/fast-down-cli@2.7.5
 - pkg:cargo/fast-down-cli@2.7.6
+- pkg:cargo/fast-down-cli@2.7.7
+- pkg:cargo/fast-down-cli@2.7.8
