@@ -1,2 +1,5 @@
 - pkg:cargo/rusty-iccp@0.1.0
 - pkg:cargo/rusty-iccp@0.2.0
+- pkg:cargo/rusty-iccp@0.4.0
+- pkg:cargo/rusty-iccp@0.4.1
+- pkg:cargo/rusty-iccp@0.5.0
