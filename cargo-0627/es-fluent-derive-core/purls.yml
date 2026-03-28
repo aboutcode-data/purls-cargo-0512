@@ -4,6 +4,7 @@
 - pkg:cargo/es-fluent-derive-core@0.12.0
 - pkg:cargo/es-fluent-derive-core@0.13.0
 - pkg:cargo/es-fluent-derive-core@0.14.0
+- pkg:cargo/es-fluent-derive-core@0.14.1
 - pkg:cargo/es-fluent-derive-core@0.6.0
 - pkg:cargo/es-fluent-derive-core@0.7.0
 - pkg:cargo/es-fluent-derive-core@0.8.0
