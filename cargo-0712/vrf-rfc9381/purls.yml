@@ -2,3 +2,4 @@
 - pkg:cargo/vrf-rfc9381@0.0.2
 - pkg:cargo/vrf-rfc9381@0.0.3
 - pkg:cargo/vrf-rfc9381@0.0.4
+- pkg:cargo/vrf-rfc9381@0.0.5
