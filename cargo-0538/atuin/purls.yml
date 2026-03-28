@@ -41,6 +41,7 @@
 - pkg:cargo/atuin@18.13.3
 - pkg:cargo/atuin@18.13.4
 - pkg:cargo/atuin@18.13.5
+- pkg:cargo/atuin@18.13.6
 - pkg:cargo/atuin@18.2.0
 - pkg:cargo/atuin@18.3.0
 - pkg:cargo/atuin@18.4.0

@@ -5,3 +5,4 @@
 - pkg:cargo/ruvllm@2.0.3
 - pkg:cargo/ruvllm@2.0.4
 - pkg:cargo/ruvllm@2.0.6
+- pkg:cargo/ruvllm@2.1.0
