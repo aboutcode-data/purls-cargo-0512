@@ -23,3 +23,4 @@
 - pkg:cargo/libhaystack@2.0.8
 - pkg:cargo/libhaystack@3.0.0
 - pkg:cargo/libhaystack@3.0.1
+- pkg:cargo/libhaystack@3.1.1
