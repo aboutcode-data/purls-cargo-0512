@@ -152,6 +152,7 @@
 - pkg:cargo/dittolive-ditto-base@5.1.0-dev-weekly.20260301.226
 - pkg:cargo/dittolive-ditto-base@5.1.0-dev-weekly.20260315.240
 - pkg:cargo/dittolive-ditto-base@5.1.0-dev-weekly.20260322.242
+- pkg:cargo/dittolive-ditto-base@5.1.0-dev-weekly.20260329.258
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-all-sdks.1
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-all-sdks.2
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-all-sdks.3
