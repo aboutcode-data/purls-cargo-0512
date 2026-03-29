@@ -17,3 +17,5 @@
 - pkg:cargo/musli-web-macros@0.3.4
 - pkg:cargo/musli-web-macros@0.3.5
 - pkg:cargo/musli-web-macros@0.3.6
+- pkg:cargo/musli-web-macros@0.4.0
+- pkg:cargo/musli-web-macros@0.4.1
