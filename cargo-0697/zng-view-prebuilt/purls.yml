@@ -87,6 +87,7 @@
 - pkg:cargo/zng-view-prebuilt@0.21.0
 - pkg:cargo/zng-view-prebuilt@0.21.1
 - pkg:cargo/zng-view-prebuilt@0.21.10
+- pkg:cargo/zng-view-prebuilt@0.21.11
 - pkg:cargo/zng-view-prebuilt@0.21.2
 - pkg:cargo/zng-view-prebuilt@0.21.3
 - pkg:cargo/zng-view-prebuilt@0.21.4

@@ -4,6 +4,7 @@
 - pkg:cargo/artifact-keeper-client@1.0.0-alpha.5
 - pkg:cargo/artifact-keeper-client@1.1.0-de.1
 - pkg:cargo/artifact-keeper-client@1.1.0-de.2
+- pkg:cargo/artifact-keeper-client@1.1.0-de.3
 - pkg:cargo/artifact-keeper-client@1.1.0-rc.2
 - pkg:cargo/artifact-keeper-client@1.1.0-rc.5
 - pkg:cargo/artifact-keeper-client@1.1.0-rc.9
