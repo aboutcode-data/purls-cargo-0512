@@ -49,7 +49,9 @@
 - pkg:cargo/kurosabi@0.6.16
 - pkg:cargo/kurosabi@0.6.17
 - pkg:cargo/kurosabi@0.6.18
+- pkg:cargo/kurosabi@0.6.19
 - pkg:cargo/kurosabi@0.6.2
+- pkg:cargo/kurosabi@0.6.20
 - pkg:cargo/kurosabi@0.6.3
 - pkg:cargo/kurosabi@0.6.4
 - pkg:cargo/kurosabi@0.6.6
