@@ -1,1 +1,2 @@
 - pkg:cargo/varpulis-connector-kinesis@0.7.0
+- pkg:cargo/varpulis-connector-kinesis@0.9.0
