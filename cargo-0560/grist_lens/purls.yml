@@ -12,3 +12,5 @@
 - pkg:cargo/grist_lens@1.1.9
 - pkg:cargo/grist_lens@1.2.0
 - pkg:cargo/grist_lens@1.2.1
+- pkg:cargo/grist_lens@1.2.2
+- pkg:cargo/grist_lens@1.2.3
