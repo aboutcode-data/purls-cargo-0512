@@ -100,3 +100,4 @@
 - pkg:cargo/seq-compiler@4.1.0
 - pkg:cargo/seq-compiler@4.2.0
 - pkg:cargo/seq-compiler@4.2.1
+- pkg:cargo/seq-compiler@5.0.0
