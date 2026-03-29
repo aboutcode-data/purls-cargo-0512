@@ -65,6 +65,8 @@
 - pkg:cargo/workmux@0.1.158
 - pkg:cargo/workmux@0.1.159
 - pkg:cargo/workmux@0.1.16
+- pkg:cargo/workmux@0.1.160
+- pkg:cargo/workmux@0.1.161
 - pkg:cargo/workmux@0.1.17
 - pkg:cargo/workmux@0.1.18
 - pkg:cargo/workmux@0.1.19
