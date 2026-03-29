@@ -1,2 +1,3 @@
 - pkg:cargo/yellowstone-vixen-stake-pool-parser@0.2.0
 - pkg:cargo/yellowstone-vixen-stake-pool-parser@0.6.0-alpha.0
+- pkg:cargo/yellowstone-vixen-stake-pool-parser@0.6.1
