@@ -1,1 +1,2 @@
 - pkg:cargo/interface-derive@0.0.1
+- pkg:cargo/interface-derive@0.0.2
