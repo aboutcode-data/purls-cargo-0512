@@ -6,3 +6,4 @@
 - pkg:cargo/panproto-xrpc@0.18.1
 - pkg:cargo/panproto-xrpc@0.19.0
 - pkg:cargo/panproto-xrpc@0.20.0
+- pkg:cargo/panproto-xrpc@0.21.0

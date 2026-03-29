@@ -15,6 +15,7 @@
 - pkg:cargo/panproto-schema@0.19.0
 - pkg:cargo/panproto-schema@0.2.0
 - pkg:cargo/panproto-schema@0.20.0
+- pkg:cargo/panproto-schema@0.21.0
 - pkg:cargo/panproto-schema@0.3.0
 - pkg:cargo/panproto-schema@0.4.0
 - pkg:cargo/panproto-schema@0.5.0
