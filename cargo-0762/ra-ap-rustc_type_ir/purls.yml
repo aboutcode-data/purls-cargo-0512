@@ -48,3 +48,4 @@
 - pkg:cargo/ra-ap-rustc_type_ir@0.154.0
 - pkg:cargo/ra-ap-rustc_type_ir@0.155.0
 - pkg:cargo/ra-ap-rustc_type_ir@0.156.0
+- pkg:cargo/ra-ap-rustc_type_ir@0.157.0
