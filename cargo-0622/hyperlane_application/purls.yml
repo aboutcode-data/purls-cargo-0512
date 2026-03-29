@@ -74,3 +74,8 @@
 - pkg:cargo/hyperlane_application@18.5.1
 - pkg:cargo/hyperlane_application@19.0.0
 - pkg:cargo/hyperlane_application@19.0.1
+- pkg:cargo/hyperlane_application@19.0.2
+- pkg:cargo/hyperlane_application@19.0.3
+- pkg:cargo/hyperlane_application@19.0.4
+- pkg:cargo/hyperlane_application@19.0.5
+- pkg:cargo/hyperlane_application@19.0.6
