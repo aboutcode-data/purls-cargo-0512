@@ -6,3 +6,9 @@
 - pkg:cargo/unit@0.11.1
 - pkg:cargo/unit@0.12.0
 - pkg:cargo/unit@0.12.1
+- pkg:cargo/unit@0.12.2
+- pkg:cargo/unit@0.12.3
+- pkg:cargo/unit@0.12.4
+- pkg:cargo/unit@0.12.5
+- pkg:cargo/unit@0.13.0
+- pkg:cargo/unit@0.14.0
