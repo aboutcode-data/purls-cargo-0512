@@ -1,1 +1,3 @@
 - pkg:cargo/lsp-server-tokio@0.1.0
+- pkg:cargo/lsp-server-tokio@0.1.1
+- pkg:cargo/lsp-server-tokio@0.2.0
