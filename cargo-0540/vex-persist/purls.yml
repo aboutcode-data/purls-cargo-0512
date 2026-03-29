@@ -14,3 +14,4 @@
 - pkg:cargo/vex-persist@1.4.0
 - pkg:cargo/vex-persist@1.5.0
 - pkg:cargo/vex-persist@1.6.0
+- pkg:cargo/vex-persist@1.7.0
