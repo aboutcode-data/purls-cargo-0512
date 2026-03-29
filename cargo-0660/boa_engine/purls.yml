@@ -9,3 +9,4 @@
 - pkg:cargo/boa_engine@0.19.1
 - pkg:cargo/boa_engine@0.20.0
 - pkg:cargo/boa_engine@0.21.0
+- pkg:cargo/boa_engine@0.21.1
