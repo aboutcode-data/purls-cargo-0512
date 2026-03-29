@@ -8,3 +8,4 @@
 - pkg:cargo/urng@0.2.7
 - pkg:cargo/urng@0.2.8
 - pkg:cargo/urng@0.3.0
+- pkg:cargo/urng@0.4.0
