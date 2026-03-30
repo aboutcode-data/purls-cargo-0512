@@ -7,6 +7,7 @@
 - pkg:cargo/warden-ai@2.0.0
 - pkg:cargo/warden-ai@2.10.0
 - pkg:cargo/warden-ai@2.12.0
+- pkg:cargo/warden-ai@2.13.0
 - pkg:cargo/warden-ai@2.2.0
 - pkg:cargo/warden-ai@2.2.1
 - pkg:cargo/warden-ai@2.3.0
