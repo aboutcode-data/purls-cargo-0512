@@ -1,0 +1,4 @@
+- pkg:cargo/json-tag-derive@0.1.4
+- pkg:cargo/json-tag-derive@0.1.5
+- pkg:cargo/json-tag-derive@0.1.6
+- pkg:cargo/json-tag-derive@0.1.7
