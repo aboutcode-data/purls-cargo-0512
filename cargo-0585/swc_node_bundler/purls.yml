@@ -957,6 +957,7 @@
 - pkg:cargo/swc_node_bundler@56.0.0
 - pkg:cargo/swc_node_bundler@57.0.0
 - pkg:cargo/swc_node_bundler@58.0.0
+- pkg:cargo/swc_node_bundler@59.0.0
 - pkg:cargo/swc_node_bundler@6.0.0
 - pkg:cargo/swc_node_bundler@7.0.0
 - pkg:cargo/swc_node_bundler@8.0.0
