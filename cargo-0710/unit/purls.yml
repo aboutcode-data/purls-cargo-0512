@@ -14,3 +14,7 @@
 - pkg:cargo/unit@0.14.0
 - pkg:cargo/unit@0.14.1
 - pkg:cargo/unit@0.14.2
+- pkg:cargo/unit@0.14.3
+- pkg:cargo/unit@0.15.0
+- pkg:cargo/unit@0.15.1
+- pkg:cargo/unit@0.15.2
