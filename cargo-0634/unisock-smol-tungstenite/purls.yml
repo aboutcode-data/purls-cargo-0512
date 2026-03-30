@@ -1,1 +1,2 @@
 - pkg:cargo/unisock-smol-tungstenite@0.0.1
+- pkg:cargo/unisock-smol-tungstenite@0.1.0

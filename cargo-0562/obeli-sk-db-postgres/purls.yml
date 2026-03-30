@@ -10,3 +10,4 @@
 - pkg:cargo/obeli-sk-db-postgres@0.35.3
 - pkg:cargo/obeli-sk-db-postgres@0.35.4
 - pkg:cargo/obeli-sk-db-postgres@0.36.0
+- pkg:cargo/obeli-sk-db-postgres@0.36.1
