@@ -90,3 +90,5 @@
 - pkg:cargo/defituna-client@3.6.1
 - pkg:cargo/defituna-client@3.6.2
 - pkg:cargo/defituna-client@3.6.3
+- pkg:cargo/defituna-client@3.6.4
+- pkg:cargo/defituna-client@3.6.5
