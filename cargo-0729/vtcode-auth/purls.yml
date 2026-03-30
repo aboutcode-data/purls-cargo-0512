@@ -12,3 +12,4 @@
 - pkg:cargo/vtcode-auth@0.93.3
 - pkg:cargo/vtcode-auth@0.94.0
 - pkg:cargo/vtcode-auth@0.95.0
+- pkg:cargo/vtcode-auth@0.96.0
