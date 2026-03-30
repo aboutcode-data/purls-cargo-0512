@@ -49,6 +49,7 @@
 - pkg:cargo/postgres@0.19.10
 - pkg:cargo/postgres@0.19.11
 - pkg:cargo/postgres@0.19.12
+- pkg:cargo/postgres@0.19.13
 - pkg:cargo/postgres@0.19.2
 - pkg:cargo/postgres@0.19.3
 - pkg:cargo/postgres@0.19.4
