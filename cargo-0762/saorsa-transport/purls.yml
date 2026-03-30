@@ -8,3 +8,4 @@
 - pkg:cargo/saorsa-transport@0.28.0
 - pkg:cargo/saorsa-transport@0.29.0
 - pkg:cargo/saorsa-transport@0.30.0
+- pkg:cargo/saorsa-transport@0.30.1
