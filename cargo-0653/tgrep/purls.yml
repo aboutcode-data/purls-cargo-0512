@@ -16,6 +16,8 @@
 - pkg:cargo/tgrep@1.6.11
 - pkg:cargo/tgrep@1.6.12
 - pkg:cargo/tgrep@1.6.13
+- pkg:cargo/tgrep@1.6.14
+- pkg:cargo/tgrep@1.6.15
 - pkg:cargo/tgrep@1.6.4
 - pkg:cargo/tgrep@1.6.5
 - pkg:cargo/tgrep@1.6.6
