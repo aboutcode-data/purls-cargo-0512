@@ -207,6 +207,11 @@
 - pkg:cargo/j-cli@12.7.36
 - pkg:cargo/j-cli@12.7.37
 - pkg:cargo/j-cli@12.7.38
+- pkg:cargo/j-cli@12.7.39
 - pkg:cargo/j-cli@12.7.4
+- pkg:cargo/j-cli@12.7.41
+- pkg:cargo/j-cli@12.7.42
+- pkg:cargo/j-cli@12.7.43
+- pkg:cargo/j-cli@12.7.44
 - pkg:cargo/j-cli@12.7.5
 - pkg:cargo/j-cli@12.7.9

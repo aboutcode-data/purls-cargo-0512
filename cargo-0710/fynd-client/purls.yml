@@ -3,3 +3,5 @@
 - pkg:cargo/fynd-client@0.35.0
 - pkg:cargo/fynd-client@0.36.0
 - pkg:cargo/fynd-client@0.37.0
+- pkg:cargo/fynd-client@0.37.1
+- pkg:cargo/fynd-client@0.38.0
