@@ -19,6 +19,7 @@
 - pkg:cargo/special@0.11.4
 - pkg:cargo/special@0.12.0
 - pkg:cargo/special@0.13.0
+- pkg:cargo/special@0.13.1
 - pkg:cargo/special@0.2.0
 - pkg:cargo/special@0.3.0
 - pkg:cargo/special@0.3.1
