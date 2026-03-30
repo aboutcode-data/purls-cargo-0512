@@ -17,3 +17,4 @@
 - pkg:cargo/oma-apt-sources-lists@0.9.5
 - pkg:cargo/oma-apt-sources-lists@0.9.6
 - pkg:cargo/oma-apt-sources-lists@0.9.7
+- pkg:cargo/oma-apt-sources-lists@0.9.8
