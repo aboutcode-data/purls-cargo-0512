@@ -4,3 +4,4 @@
 - pkg:cargo/falcon-client@0.0.4
 - pkg:cargo/falcon-client@0.0.5-wincode
 - pkg:cargo/falcon-client@0.1.0
+- pkg:cargo/falcon-client@0.1.1
