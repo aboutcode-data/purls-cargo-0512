@@ -13,3 +13,4 @@
 - pkg:cargo/percpu_macros@0.2.3-preview.1
 - pkg:cargo/percpu_macros@0.3.0
 - pkg:cargo/percpu_macros@0.3.1
+- pkg:cargo/percpu_macros@0.3.2
