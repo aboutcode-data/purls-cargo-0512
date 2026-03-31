@@ -1,2 +1,5 @@
 - pkg:cargo/llmy-clap@0.2.0
 - pkg:cargo/llmy-clap@0.2.1
+- pkg:cargo/llmy-clap@0.3.1
+- pkg:cargo/llmy-clap@0.3.2
+- pkg:cargo/llmy-clap@0.3.4
