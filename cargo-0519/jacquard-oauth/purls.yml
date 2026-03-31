@@ -1,5 +1,6 @@
 - pkg:cargo/jacquard-oauth@0.10.0
 - pkg:cargo/jacquard-oauth@0.11.0
+- pkg:cargo/jacquard-oauth@0.12.0-beta.1
 - pkg:cargo/jacquard-oauth@0.3.0
 - pkg:cargo/jacquard-oauth@0.4.0
 - pkg:cargo/jacquard-oauth@0.4.1

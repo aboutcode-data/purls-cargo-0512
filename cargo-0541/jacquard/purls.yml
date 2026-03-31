@@ -1,6 +1,7 @@
 - pkg:cargo/jacquard@0.1.0
 - pkg:cargo/jacquard@0.10.0
 - pkg:cargo/jacquard@0.11.0
+- pkg:cargo/jacquard@0.12.0-beta.1
 - pkg:cargo/jacquard@0.2.0
 - pkg:cargo/jacquard@0.2.1
 - pkg:cargo/jacquard@0.3.0
