@@ -28,3 +28,4 @@
 - pkg:cargo/pathfinder-common@0.22.0-beta.1
 - pkg:cargo/pathfinder-common@0.22.0-beta.2
 - pkg:cargo/pathfinder-common@0.22.0-beta.3
+- pkg:cargo/pathfinder-common@0.22.1
