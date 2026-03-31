@@ -18,6 +18,8 @@
 - pkg:cargo/mkutils@0.1.113
 - pkg:cargo/mkutils@0.1.114
 - pkg:cargo/mkutils@0.1.116
+- pkg:cargo/mkutils@0.1.117
+- pkg:cargo/mkutils@0.1.118
 - pkg:cargo/mkutils@0.1.12
 - pkg:cargo/mkutils@0.1.13
 - pkg:cargo/mkutils@0.1.14
