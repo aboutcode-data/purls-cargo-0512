@@ -9,3 +9,4 @@
 - pkg:cargo/converge-provider@0.2.7
 - pkg:cargo/converge-provider@0.2.8
 - pkg:cargo/converge-provider@2.0.0
+- pkg:cargo/converge-provider@2.1.0
