@@ -21,3 +21,5 @@
 - pkg:cargo/slumber_import@5.1.1
 - pkg:cargo/slumber_import@5.2.0
 - pkg:cargo/slumber_import@5.2.2
+- pkg:cargo/slumber_import@5.2.3
+- pkg:cargo/slumber_import@5.2.4
