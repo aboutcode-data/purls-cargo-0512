@@ -32,3 +32,4 @@
 - pkg:cargo/fspulse@0.4.6
 - pkg:cargo/fspulse@0.5.2
 - pkg:cargo/fspulse@0.5.4
+- pkg:cargo/fspulse@0.6.0
