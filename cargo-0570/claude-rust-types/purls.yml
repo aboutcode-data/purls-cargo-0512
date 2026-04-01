@@ -1,1 +1,2 @@
 - pkg:cargo/claude-rust-types@0.2.0
+- pkg:cargo/claude-rust-types@0.4.0

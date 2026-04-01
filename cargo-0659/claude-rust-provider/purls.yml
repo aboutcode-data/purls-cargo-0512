@@ -1,1 +1,2 @@
 - pkg:cargo/claude-rust-provider@0.2.0
+- pkg:cargo/claude-rust-provider@0.4.0
