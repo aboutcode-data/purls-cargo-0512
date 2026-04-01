@@ -1,1 +1,2 @@
 - pkg:cargo/reovim-depgraph@0.14.3
+- pkg:cargo/reovim-depgraph@0.14.4

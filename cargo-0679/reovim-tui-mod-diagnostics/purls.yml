@@ -1,1 +1,2 @@
 - pkg:cargo/reovim-tui-mod-diagnostics@0.14.3
+- pkg:cargo/reovim-tui-mod-diagnostics@0.14.4
