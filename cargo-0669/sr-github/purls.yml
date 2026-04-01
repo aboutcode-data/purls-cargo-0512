@@ -42,3 +42,4 @@
 - pkg:cargo/sr-github@3.2.1
 - pkg:cargo/sr-github@3.2.2
 - pkg:cargo/sr-github@3.2.3
+- pkg:cargo/sr-github@3.2.4
