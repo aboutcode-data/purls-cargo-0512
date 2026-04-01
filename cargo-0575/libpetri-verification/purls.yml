@@ -5,3 +5,4 @@
 - pkg:cargo/libpetri-verification@1.3.5
 - pkg:cargo/libpetri-verification@1.4.0
 - pkg:cargo/libpetri-verification@1.5.0
+- pkg:cargo/libpetri-verification@1.5.1
