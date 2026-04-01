@@ -5,3 +5,8 @@
 - pkg:cargo/agent-code-lib@0.8.4
 - pkg:cargo/agent-code-lib@0.8.5
 - pkg:cargo/agent-code-lib@0.8.6
+- pkg:cargo/agent-code-lib@0.8.7
+- pkg:cargo/agent-code-lib@0.8.8
+- pkg:cargo/agent-code-lib@0.8.9
+- pkg:cargo/agent-code-lib@0.9.0
+- pkg:cargo/agent-code-lib@0.9.1
