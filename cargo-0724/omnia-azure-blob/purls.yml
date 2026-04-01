@@ -1,1 +1,2 @@
 - pkg:cargo/omnia-azure-blob@0.23.0
+- pkg:cargo/omnia-azure-blob@0.24.0
