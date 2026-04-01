@@ -8,6 +8,7 @@
 - pkg:cargo/datafusion-postgres@0.13.0
 - pkg:cargo/datafusion-postgres@0.14.0
 - pkg:cargo/datafusion-postgres@0.15.0
+- pkg:cargo/datafusion-postgres@0.16.0
 - pkg:cargo/datafusion-postgres@0.2.0
 - pkg:cargo/datafusion-postgres@0.3.0
 - pkg:cargo/datafusion-postgres@0.4.0
