@@ -1,3 +1,4 @@
 - pkg:cargo/mallorca@0.0.1
 - pkg:cargo/mallorca@0.0.6
 - pkg:cargo/mallorca@0.0.7
+- pkg:cargo/mallorca@0.1.0-rc.2
