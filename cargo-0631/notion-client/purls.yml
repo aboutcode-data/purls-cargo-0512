@@ -27,3 +27,4 @@
 - pkg:cargo/notion-client@1.0.7
 - pkg:cargo/notion-client@1.0.8
 - pkg:cargo/notion-client@1.0.9
+- pkg:cargo/notion-client@1.1.0

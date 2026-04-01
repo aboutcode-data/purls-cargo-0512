@@ -12,3 +12,5 @@
 - pkg:cargo/fynd-client@0.41.0
 - pkg:cargo/fynd-client@0.42.0
 - pkg:cargo/fynd-client@0.43.0
+- pkg:cargo/fynd-client@0.43.1
+- pkg:cargo/fynd-client@0.43.2
