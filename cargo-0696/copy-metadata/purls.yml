@@ -1,1 +1,2 @@
 - pkg:cargo/copy-metadata@0.1.0
+- pkg:cargo/copy-metadata@0.2.0
