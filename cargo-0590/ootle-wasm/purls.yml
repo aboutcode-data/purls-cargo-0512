@@ -1,6 +1,7 @@
 - pkg:cargo/ootle-wasm@0.1.0
 - pkg:cargo/ootle-wasm@0.28.1
 - pkg:cargo/ootle-wasm@0.28.2
+- pkg:cargo/ootle-wasm@0.28.3
 - pkg:cargo/ootle-wasm@0.3.0
 - pkg:cargo/ootle-wasm@0.3.1
 - pkg:cargo/ootle-wasm@0.4.0
