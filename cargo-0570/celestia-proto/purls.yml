@@ -19,3 +19,4 @@
 - pkg:cargo/celestia-proto@0.9.1
 - pkg:cargo/celestia-proto@1.0.0-rc.1
 - pkg:cargo/celestia-proto@1.0.0-rc.2
+- pkg:cargo/celestia-proto@1.0.0-rc.3

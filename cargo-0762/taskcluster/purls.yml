@@ -323,3 +323,4 @@
 - pkg:cargo/taskcluster@98.0.0
 - pkg:cargo/taskcluster@98.0.1
 - pkg:cargo/taskcluster@99.0.0
+- pkg:cargo/taskcluster@99.0.2
