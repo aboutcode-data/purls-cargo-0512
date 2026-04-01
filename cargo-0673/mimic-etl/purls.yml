@@ -1,3 +1,4 @@
 - pkg:cargo/mimic-etl@0.0.1
 - pkg:cargo/mimic-etl@0.0.2-rc.1
 - pkg:cargo/mimic-etl@0.0.2-rc.2
+- pkg:cargo/mimic-etl@0.1.0
