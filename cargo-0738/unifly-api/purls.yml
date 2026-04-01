@@ -2,3 +2,4 @@
 - pkg:cargo/unifly-api@0.1.1
 - pkg:cargo/unifly-api@0.1.9
 - pkg:cargo/unifly-api@0.6.0
+- pkg:cargo/unifly-api@0.7.0
