@@ -29,6 +29,7 @@
 - pkg:cargo/saorsa-gossip-rendezvous@0.4.7
 - pkg:cargo/saorsa-gossip-rendezvous@0.5.1
 - pkg:cargo/saorsa-gossip-rendezvous@0.5.10
+- pkg:cargo/saorsa-gossip-rendezvous@0.5.11
 - pkg:cargo/saorsa-gossip-rendezvous@0.5.2
 - pkg:cargo/saorsa-gossip-rendezvous@0.5.3
 - pkg:cargo/saorsa-gossip-rendezvous@0.5.4
