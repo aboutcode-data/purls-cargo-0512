@@ -22,6 +22,8 @@
 - pkg:cargo/micrortu_sdk@0.5.13
 - pkg:cargo/micrortu_sdk@0.5.14
 - pkg:cargo/micrortu_sdk@0.5.15
+- pkg:cargo/micrortu_sdk@0.5.16
+- pkg:cargo/micrortu_sdk@0.5.17
 - pkg:cargo/micrortu_sdk@0.5.4
 - pkg:cargo/micrortu_sdk@0.5.5
 - pkg:cargo/micrortu_sdk@0.5.6
