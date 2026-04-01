@@ -24,6 +24,7 @@
 - pkg:cargo/log-fastly@0.11.7
 - pkg:cargo/log-fastly@0.11.8
 - pkg:cargo/log-fastly@0.11.9
+- pkg:cargo/log-fastly@0.12.0
 - pkg:cargo/log-fastly@0.2.0
 - pkg:cargo/log-fastly@0.8.0
 - pkg:cargo/log-fastly@0.8.1
