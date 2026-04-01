@@ -54,3 +54,4 @@
 - pkg:cargo/hyprshell-core-lib@4.9.2
 - pkg:cargo/hyprshell-core-lib@4.9.3
 - pkg:cargo/hyprshell-core-lib@4.9.4
+- pkg:cargo/hyprshell-core-lib@4.9.5
