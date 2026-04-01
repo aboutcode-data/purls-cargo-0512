@@ -52,3 +52,4 @@
 - pkg:cargo/leo-lang@3.3.1
 - pkg:cargo/leo-lang@3.4.0
 - pkg:cargo/leo-lang@3.5.0
+- pkg:cargo/leo-lang@4.0.0
