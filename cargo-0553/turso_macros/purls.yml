@@ -44,6 +44,7 @@
 - pkg:cargo/turso_macros@0.5.1
 - pkg:cargo/turso_macros@0.5.1-pre.1
 - pkg:cargo/turso_macros@0.5.1-pre.2
+- pkg:cargo/turso_macros@0.5.2
 - pkg:cargo/turso_macros@0.5.2-pre.1
 - pkg:cargo/turso_macros@0.5.2-pre.2
 - pkg:cargo/turso_macros@0.5.2-pre.3
