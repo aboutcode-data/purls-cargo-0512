@@ -24,6 +24,8 @@
 - pkg:cargo/Yoda@0.11.9
 - pkg:cargo/Yoda@0.12.0
 - pkg:cargo/Yoda@0.12.1
+- pkg:cargo/Yoda@0.12.10
+- pkg:cargo/Yoda@0.12.11
 - pkg:cargo/Yoda@0.12.2
 - pkg:cargo/Yoda@0.12.3
 - pkg:cargo/Yoda@0.12.4
