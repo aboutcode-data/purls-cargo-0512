@@ -64,6 +64,7 @@
 - pkg:cargo/talos_suffix@0.3.15-beta.2
 - pkg:cargo/talos_suffix@0.3.15-beta.3
 - pkg:cargo/talos_suffix@0.3.15-beta.7
+- pkg:cargo/talos_suffix@0.3.16
 - pkg:cargo/talos_suffix@0.3.16-beta.0
 - pkg:cargo/talos_suffix@0.3.2
 - pkg:cargo/talos_suffix@0.3.3

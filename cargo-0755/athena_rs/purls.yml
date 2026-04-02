@@ -27,3 +27,4 @@
 - pkg:cargo/athena_rs@2.9.0
 - pkg:cargo/athena_rs@2.9.1
 - pkg:cargo/athena_rs@2.9.2
+- pkg:cargo/athena_rs@3.0.0-alpha.1

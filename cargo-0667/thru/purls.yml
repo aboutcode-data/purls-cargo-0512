@@ -5,3 +5,4 @@
 - pkg:cargo/thru@0.1.4
 - pkg:cargo/thru@0.1.5
 - pkg:cargo/thru@0.2.13
+- pkg:cargo/thru@0.2.14
