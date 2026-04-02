@@ -17,3 +17,4 @@
 - pkg:cargo/httpql@0.7.1
 - pkg:cargo/httpql@0.7.2
 - pkg:cargo/httpql@0.8.0
+- pkg:cargo/httpql@0.9.0
