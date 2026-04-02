@@ -91,3 +91,4 @@
 - pkg:cargo/export-cef-dir@146.0.0%2B146.0.6
 - pkg:cargo/export-cef-dir@146.1.0%2B146.0.7
 - pkg:cargo/export-cef-dir@146.2.0%2B146.0.9
+- pkg:cargo/export-cef-dir@146.3.0%2B146.0.9

@@ -1,8 +1,10 @@
 - pkg:cargo/webshift-mcp@0.2.0
 - pkg:cargo/webshift-mcp@0.2.1
+- pkg:cargo/webshift-mcp@0.2.10
 - pkg:cargo/webshift-mcp@0.2.2
 - pkg:cargo/webshift-mcp@0.2.3
 - pkg:cargo/webshift-mcp@0.2.4
 - pkg:cargo/webshift-mcp@0.2.5
 - pkg:cargo/webshift-mcp@0.2.6
 - pkg:cargo/webshift-mcp@0.2.8
+- pkg:cargo/webshift-mcp@0.2.9
