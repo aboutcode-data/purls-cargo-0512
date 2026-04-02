@@ -222,4 +222,7 @@
 - pkg:cargo/j-cli@12.7.52
 - pkg:cargo/j-cli@12.7.56
 - pkg:cargo/j-cli@12.7.57
+- pkg:cargo/j-cli@12.7.58
+- pkg:cargo/j-cli@12.7.59
+- pkg:cargo/j-cli@12.7.60
 - pkg:cargo/j-cli@12.7.9
