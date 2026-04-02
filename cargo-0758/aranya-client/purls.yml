@@ -14,3 +14,4 @@
 - pkg:cargo/aranya-client@4.1.0
 - pkg:cargo/aranya-client@4.1.1
 - pkg:cargo/aranya-client@5.0.0
+- pkg:cargo/aranya-client@6.0.0
