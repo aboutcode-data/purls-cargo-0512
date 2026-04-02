@@ -4,3 +4,5 @@
 - pkg:cargo/sqry-lang-scala@4.12.6
 - pkg:cargo/sqry-lang-scala@4.12.7
 - pkg:cargo/sqry-lang-scala@5.0.1
+- pkg:cargo/sqry-lang-scala@6.0.12
+- pkg:cargo/sqry-lang-scala@6.0.15
