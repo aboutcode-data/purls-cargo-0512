@@ -1,1 +1,3 @@
 - pkg:cargo/tty-web@0.15.1
+- pkg:cargo/tty-web@0.16.0
+- pkg:cargo/tty-web@0.16.1
