@@ -1,3 +1,4 @@
 - pkg:cargo/tarang@0.19.3
 - pkg:cargo/tarang@0.20.3
 - pkg:cargo/tarang@0.21.3
+- pkg:cargo/tarang@1.0.0
