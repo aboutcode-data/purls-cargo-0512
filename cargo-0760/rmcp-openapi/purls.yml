@@ -60,6 +60,7 @@
 - pkg:cargo/rmcp-openapi@0.25.3
 - pkg:cargo/rmcp-openapi@0.26.0
 - pkg:cargo/rmcp-openapi@0.26.1
+- pkg:cargo/rmcp-openapi@0.26.2
 - pkg:cargo/rmcp-openapi@0.3.0
 - pkg:cargo/rmcp-openapi@0.3.1
 - pkg:cargo/rmcp-openapi@0.3.2
