@@ -1,2 +1,4 @@
 - pkg:cargo/revm-rwasm-handler@15.0.0-rwasm.1
+- pkg:cargo/revm-rwasm-handler@15.0.0-rwasm.2
+- pkg:cargo/revm-rwasm-handler@15.0.1
 - pkg:cargo/revm-rwasm-handler@8.0.3

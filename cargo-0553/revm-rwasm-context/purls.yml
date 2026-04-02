@@ -1,2 +1,4 @@
 - pkg:cargo/revm-rwasm-context@13.0.0-rwasm.1
+- pkg:cargo/revm-rwasm-context@13.0.0-rwasm.2
+- pkg:cargo/revm-rwasm-context@13.0.1
 - pkg:cargo/revm-rwasm-context@8.0.3
