@@ -1,6 +1,7 @@
 - pkg:cargo/zlayer-tunnel@0.1.0
 - pkg:cargo/zlayer-tunnel@0.10.56
 - pkg:cargo/zlayer-tunnel@0.10.57
+- pkg:cargo/zlayer-tunnel@0.10.58
 - pkg:cargo/zlayer-tunnel@0.9.991
 - pkg:cargo/zlayer-tunnel@0.9.993
 - pkg:cargo/zlayer-tunnel@0.9.994
