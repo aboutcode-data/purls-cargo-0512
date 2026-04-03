@@ -150,6 +150,7 @@
 - pkg:cargo/swc_xml@18.0.0
 - pkg:cargo/swc_xml@19.0.0
 - pkg:cargo/swc_xml@2.0.0
+- pkg:cargo/swc_xml@20.0.0
 - pkg:cargo/swc_xml@3.0.0
 - pkg:cargo/swc_xml@4.0.0
 - pkg:cargo/swc_xml@5.0.0

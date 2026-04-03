@@ -80,3 +80,4 @@
 - pkg:cargo/brk_query@0.2.4
 - pkg:cargo/brk_query@0.2.5
 - pkg:cargo/brk_query@0.3.0-alpha.0
+- pkg:cargo/brk_query@0.3.0-alpha.1
