@@ -33,6 +33,8 @@
 - pkg:cargo/biolib@1.3.34
 - pkg:cargo/biolib@1.3.346
 - pkg:cargo/biolib@1.3.357
+- pkg:cargo/biolib@1.3.366
+- pkg:cargo/biolib@1.3.368
 - pkg:cargo/biolib@1.3.37
 - pkg:cargo/biolib@1.3.39
 - pkg:cargo/biolib@1.3.47
