@@ -194,6 +194,7 @@
 - pkg:cargo/testing@2.0.0
 - pkg:cargo/testing@20.0.0
 - pkg:cargo/testing@21.0.0
+- pkg:cargo/testing@22.0.0
 - pkg:cargo/testing@3.0.0
 - pkg:cargo/testing@4.0.0
 - pkg:cargo/testing@5.0.0
