@@ -22,6 +22,9 @@
 - pkg:cargo/kwaainet@0.3.38
 - pkg:cargo/kwaainet@0.3.40
 - pkg:cargo/kwaainet@0.3.45
+- pkg:cargo/kwaainet@0.3.46
+- pkg:cargo/kwaainet@0.3.47
+- pkg:cargo/kwaainet@0.3.49
 - pkg:cargo/kwaainet@0.3.6
 - pkg:cargo/kwaainet@0.3.7
 - pkg:cargo/kwaainet@0.3.8
