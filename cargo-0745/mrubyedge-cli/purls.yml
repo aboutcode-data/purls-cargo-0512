@@ -17,6 +17,7 @@
 - pkg:cargo/mrubyedge-cli@1.1.1
 - pkg:cargo/mrubyedge-cli@1.1.10
 - pkg:cargo/mrubyedge-cli@1.1.11
+- pkg:cargo/mrubyedge-cli@1.1.12
 - pkg:cargo/mrubyedge-cli@1.1.3
 - pkg:cargo/mrubyedge-cli@1.1.4
 - pkg:cargo/mrubyedge-cli@1.1.5
