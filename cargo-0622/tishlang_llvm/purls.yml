@@ -10,3 +10,4 @@
 - pkg:cargo/tishlang_llvm@1.3.1
 - pkg:cargo/tishlang_llvm@1.3.3
 - pkg:cargo/tishlang_llvm@1.3.4
+- pkg:cargo/tishlang_llvm@1.3.7
