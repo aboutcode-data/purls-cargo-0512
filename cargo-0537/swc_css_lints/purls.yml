@@ -261,6 +261,7 @@
 - pkg:cargo/swc_css_lints@2.0.0
 - pkg:cargo/swc_css_lints@20.0.0
 - pkg:cargo/swc_css_lints@21.0.0
+- pkg:cargo/swc_css_lints@22.0.0
 - pkg:cargo/swc_css_lints@3.0.0
 - pkg:cargo/swc_css_lints@4.0.0
 - pkg:cargo/swc_css_lints@5.0.0

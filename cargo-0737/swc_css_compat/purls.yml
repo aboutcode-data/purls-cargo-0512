@@ -205,6 +205,7 @@
 - pkg:cargo/swc_css_compat@19.0.0
 - pkg:cargo/swc_css_compat@2.0.0
 - pkg:cargo/swc_css_compat@20.0.0
+- pkg:cargo/swc_css_compat@21.0.0
 - pkg:cargo/swc_css_compat@3.0.0
 - pkg:cargo/swc_css_compat@4.0.0
 - pkg:cargo/swc_css_compat@5.0.0

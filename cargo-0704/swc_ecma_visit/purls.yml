@@ -285,6 +285,7 @@
 - pkg:cargo/swc_ecma_visit@20.0.0
 - pkg:cargo/swc_ecma_visit@21.0.0
 - pkg:cargo/swc_ecma_visit@22.0.0
+- pkg:cargo/swc_ecma_visit@23.0.0
 - pkg:cargo/swc_ecma_visit@3.0.0
 - pkg:cargo/swc_ecma_visit@4.0.0
 - pkg:cargo/swc_ecma_visit@4.0.1

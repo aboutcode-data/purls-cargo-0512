@@ -209,6 +209,7 @@
 - pkg:cargo/swc_ecma_loader@19.0.0
 - pkg:cargo/swc_ecma_loader@2.0.0
 - pkg:cargo/swc_ecma_loader@20.0.0
+- pkg:cargo/swc_ecma_loader@21.0.0
 - pkg:cargo/swc_ecma_loader@3.0.0
 - pkg:cargo/swc_ecma_loader@4.0.0
 - pkg:cargo/swc_ecma_loader@5.0.0

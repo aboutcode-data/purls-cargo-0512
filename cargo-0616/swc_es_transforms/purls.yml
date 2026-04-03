@@ -1,1 +1,2 @@
 - pkg:cargo/swc_es_transforms@0.2.0
+- pkg:cargo/swc_es_transforms@0.3.0

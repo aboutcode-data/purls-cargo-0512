@@ -2,3 +2,4 @@
 - pkg:cargo/swc_ecma_compat_regexp@1.0.0
 - pkg:cargo/swc_ecma_compat_regexp@2.0.0
 - pkg:cargo/swc_ecma_compat_regexp@3.0.0
+- pkg:cargo/swc_ecma_compat_regexp@4.0.0
