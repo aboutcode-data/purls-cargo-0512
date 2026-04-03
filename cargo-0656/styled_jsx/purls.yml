@@ -212,3 +212,4 @@
 - pkg:cargo/styled_jsx@0.98.0
 - pkg:cargo/styled_jsx@0.99.0
 - pkg:cargo/styled_jsx@1.0.0
+- pkg:cargo/styled_jsx@2.0.0
