@@ -26,3 +26,4 @@
 - pkg:cargo/solverforge@0.5.9
 - pkg:cargo/solverforge@0.6.0
 - pkg:cargo/solverforge@0.7.0
+- pkg:cargo/solverforge@0.7.1
