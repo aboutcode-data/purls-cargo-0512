@@ -20,3 +20,4 @@
 - pkg:cargo/dsi-progress-logger@0.8.2
 - pkg:cargo/dsi-progress-logger@0.8.3
 - pkg:cargo/dsi-progress-logger@0.8.4
+- pkg:cargo/dsi-progress-logger@0.8.6
