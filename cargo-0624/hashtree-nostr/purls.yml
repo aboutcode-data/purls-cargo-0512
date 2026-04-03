@@ -4,3 +4,4 @@
 - pkg:cargo/hashtree-nostr@0.2.18
 - pkg:cargo/hashtree-nostr@0.2.20
 - pkg:cargo/hashtree-nostr@0.2.22
+- pkg:cargo/hashtree-nostr@0.2.23
