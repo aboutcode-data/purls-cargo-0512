@@ -9,3 +9,5 @@
 - pkg:cargo/midenc-dialect-arith@0.6.0
 - pkg:cargo/midenc-dialect-arith@0.7.0
 - pkg:cargo/midenc-dialect-arith@0.7.1
+- pkg:cargo/midenc-dialect-arith@0.7.2
+- pkg:cargo/midenc-dialect-arith@0.8.0

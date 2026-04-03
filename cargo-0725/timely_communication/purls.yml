@@ -35,6 +35,7 @@
 - pkg:cargo/timely_communication@0.26.1
 - pkg:cargo/timely_communication@0.27.0
 - pkg:cargo/timely_communication@0.28.0
+- pkg:cargo/timely_communication@0.28.1
 - pkg:cargo/timely_communication@0.5.0
 - pkg:cargo/timely_communication@0.6.0
 - pkg:cargo/timely_communication@0.7.0
