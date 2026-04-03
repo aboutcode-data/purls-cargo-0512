@@ -15,3 +15,4 @@
 - pkg:cargo/tari_template_lib_types@0.20.1
 - pkg:cargo/tari_template_lib_types@0.21.0
 - pkg:cargo/tari_template_lib_types@0.22.0
+- pkg:cargo/tari_template_lib_types@0.23.0
