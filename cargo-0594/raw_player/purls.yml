@@ -1,3 +1,5 @@
+- pkg:cargo/raw_player@2026.1.0
 - pkg:cargo/raw_player@2026.1.0-canary.0
 - pkg:cargo/raw_player@2026.1.0-canary.1
 - pkg:cargo/raw_player@2026.1.0-canary.2
+- pkg:cargo/raw_player@2026.1.0-canary.3
