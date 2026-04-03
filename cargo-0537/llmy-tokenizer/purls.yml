@@ -3,3 +3,4 @@
 - pkg:cargo/llmy-tokenizer@0.3.4
 - pkg:cargo/llmy-tokenizer@0.3.5
 - pkg:cargo/llmy-tokenizer@0.3.6
+- pkg:cargo/llmy-tokenizer@0.4.0
