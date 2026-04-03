@@ -364,6 +364,7 @@
 - pkg:cargo/jsdoc@19.0.0
 - pkg:cargo/jsdoc@2.0.0
 - pkg:cargo/jsdoc@20.0.0
+- pkg:cargo/jsdoc@21.0.0
 - pkg:cargo/jsdoc@3.0.0
 - pkg:cargo/jsdoc@4.0.0
 - pkg:cargo/jsdoc@5.0.0
