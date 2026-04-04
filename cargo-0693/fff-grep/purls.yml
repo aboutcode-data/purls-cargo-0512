@@ -34,4 +34,5 @@
 - pkg:cargo/fff-grep@0.5.2-nightly.bb6f32a
 - pkg:cargo/fff-grep@0.5.2-nightly.c2d76b5
 - pkg:cargo/fff-grep@0.5.2-nightly.d4b9d16
+- pkg:cargo/fff-grep@0.5.2-nightly.db4cd28
 - pkg:cargo/fff-grep@0.5.2-nightly.feaae7d
