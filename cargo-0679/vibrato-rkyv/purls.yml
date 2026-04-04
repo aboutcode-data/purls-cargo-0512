@@ -19,3 +19,4 @@
 - pkg:cargo/vibrato-rkyv@0.7.4
 - pkg:cargo/vibrato-rkyv@0.7.5
 - pkg:cargo/vibrato-rkyv@0.7.6
+- pkg:cargo/vibrato-rkyv@0.7.7
