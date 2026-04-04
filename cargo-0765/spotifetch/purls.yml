@@ -10,3 +10,4 @@
 - pkg:cargo/spotifetch@0.1.9
 - pkg:cargo/spotifetch@1.0.0
 - pkg:cargo/spotifetch@1.0.1
+- pkg:cargo/spotifetch@1.0.2
