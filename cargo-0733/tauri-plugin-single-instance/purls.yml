@@ -41,3 +41,4 @@
 - pkg:cargo/tauri-plugin-single-instance@2.3.6
 - pkg:cargo/tauri-plugin-single-instance@2.3.7
 - pkg:cargo/tauri-plugin-single-instance@2.4.0
+- pkg:cargo/tauri-plugin-single-instance@2.4.1
