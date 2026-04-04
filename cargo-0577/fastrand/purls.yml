@@ -25,3 +25,4 @@
 - pkg:cargo/fastrand@2.1.1
 - pkg:cargo/fastrand@2.2.0
 - pkg:cargo/fastrand@2.3.0
+- pkg:cargo/fastrand@2.4.0
