@@ -5,3 +5,5 @@
 - pkg:cargo/bitrouter-providers@0.16.0
 - pkg:cargo/bitrouter-providers@0.17.0
 - pkg:cargo/bitrouter-providers@0.18.0
+- pkg:cargo/bitrouter-providers@0.18.1
+- pkg:cargo/bitrouter-providers@0.18.2
