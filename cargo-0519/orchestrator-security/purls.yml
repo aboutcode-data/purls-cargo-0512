@@ -1,3 +1,4 @@
 - pkg:cargo/orchestrator-security@0.2.3
 - pkg:cargo/orchestrator-security@0.2.5
 - pkg:cargo/orchestrator-security@0.2.7
+- pkg:cargo/orchestrator-security@0.2.8
