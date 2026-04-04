@@ -14,3 +14,4 @@
 - pkg:cargo/sqry-lang-lua@6.0.21
 - pkg:cargo/sqry-lang-lua@6.0.22
 - pkg:cargo/sqry-lang-lua@6.0.23
+- pkg:cargo/sqry-lang-lua@7.1.3
