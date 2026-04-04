@@ -5,9 +5,11 @@
 - pkg:cargo/state-tree@3.1.1
 - pkg:cargo/state-tree@3.1.2
 - pkg:cargo/state-tree@3.2.0
+- pkg:cargo/state-tree@4.0.0
 - pkg:cargo/state-tree@4.0.0-alpha
 - pkg:cargo/state-tree@4.0.0-alpha.2
 - pkg:cargo/state-tree@4.0.0-alpha.3
 - pkg:cargo/state-tree@4.0.0-alpha.4
 - pkg:cargo/state-tree@4.0.0-alpha.5
 - pkg:cargo/state-tree@4.0.0-alpha.6
+- pkg:cargo/state-tree@4.0.1
