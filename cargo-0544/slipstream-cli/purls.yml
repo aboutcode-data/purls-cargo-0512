@@ -1,5 +1,6 @@
 - pkg:cargo/slipstream-cli@2.11.0
 - pkg:cargo/slipstream-cli@2.16.0
+- pkg:cargo/slipstream-cli@2.18.0
 - pkg:cargo/slipstream-cli@2.2.0
 - pkg:cargo/slipstream-cli@2.6.0
 - pkg:cargo/slipstream-cli@2.9.0

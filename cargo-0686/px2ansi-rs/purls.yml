@@ -17,3 +17,4 @@
 - pkg:cargo/px2ansi-rs@0.3.7
 - pkg:cargo/px2ansi-rs@0.3.8
 - pkg:cargo/px2ansi-rs@0.3.9
+- pkg:cargo/px2ansi-rs@0.4.17
