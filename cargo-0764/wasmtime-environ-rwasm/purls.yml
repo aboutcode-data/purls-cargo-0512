@@ -1,2 +1,4 @@
 - pkg:cargo/wasmtime-environ-rwasm@41.0.2
 - pkg:cargo/wasmtime-environ-rwasm@41.0.2-rwasm.1
+- pkg:cargo/wasmtime-environ-rwasm@41.0.2-rwasm.2
+- pkg:cargo/wasmtime-environ-rwasm@41.0.2-rwasm.3
