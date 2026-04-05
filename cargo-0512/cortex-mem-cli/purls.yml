@@ -1,3 +1,4 @@
 - pkg:cargo/cortex-mem-cli@1.0.0
 - pkg:cargo/cortex-mem-cli@2.5.0
 - pkg:cargo/cortex-mem-cli@2.5.1
+- pkg:cargo/cortex-mem-cli@2.7.0
