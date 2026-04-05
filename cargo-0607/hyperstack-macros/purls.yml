@@ -46,3 +46,5 @@
 - pkg:cargo/hyperstack-macros@0.6.1
 - pkg:cargo/hyperstack-macros@0.6.2
 - pkg:cargo/hyperstack-macros@0.6.3
+- pkg:cargo/hyperstack-macros@0.6.4
+- pkg:cargo/hyperstack-macros@0.6.5
