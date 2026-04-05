@@ -3,6 +3,8 @@
 - pkg:cargo/bitrouter-tui@0.1.2
 - pkg:cargo/bitrouter-tui@0.1.4
 - pkg:cargo/bitrouter-tui@0.1.5
+- pkg:cargo/bitrouter-tui@0.18.3
+- pkg:cargo/bitrouter-tui@0.19.0
 - pkg:cargo/bitrouter-tui@0.2.0
 - pkg:cargo/bitrouter-tui@0.2.2
 - pkg:cargo/bitrouter-tui@0.2.3

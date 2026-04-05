@@ -1,3 +1,5 @@
 - pkg:cargo/pagerunner@0.1.1
 - pkg:cargo/pagerunner@0.6.0
 - pkg:cargo/pagerunner@0.6.1
+- pkg:cargo/pagerunner@0.7.0
+- pkg:cargo/pagerunner@0.7.1
