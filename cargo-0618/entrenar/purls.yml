@@ -28,3 +28,5 @@
 - pkg:cargo/entrenar@0.7.4
 - pkg:cargo/entrenar@0.7.5
 - pkg:cargo/entrenar@0.7.6
+- pkg:cargo/entrenar@0.7.7
+- pkg:cargo/entrenar@0.7.8
