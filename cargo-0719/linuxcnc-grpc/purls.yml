@@ -2,4 +2,8 @@
 - pkg:cargo/linuxcnc-grpc@0.6.0-beta.3
 - pkg:cargo/linuxcnc-grpc@0.6.0-beta.4
 - pkg:cargo/linuxcnc-grpc@0.6.0-beta.5
+- pkg:cargo/linuxcnc-grpc@1.0.0
 - pkg:cargo/linuxcnc-grpc@1.0.0-beta.1
+- pkg:cargo/linuxcnc-grpc@1.0.0-beta.2
+- pkg:cargo/linuxcnc-grpc@1.0.0-beta.3
+- pkg:cargo/linuxcnc-grpc@1.0.0-beta.4
