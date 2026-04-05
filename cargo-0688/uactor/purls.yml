@@ -20,6 +20,7 @@
 - pkg:cargo/uactor@0.16.0
 - pkg:cargo/uactor@0.16.1
 - pkg:cargo/uactor@0.16.2
+- pkg:cargo/uactor@0.17.1
 - pkg:cargo/uactor@0.2.1
 - pkg:cargo/uactor@0.3.2
 - pkg:cargo/uactor@0.3.3
