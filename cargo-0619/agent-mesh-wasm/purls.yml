@@ -1,1 +1,2 @@
 - pkg:cargo/agent-mesh-wasm@0.2.2
+- pkg:cargo/agent-mesh-wasm@0.3.0
