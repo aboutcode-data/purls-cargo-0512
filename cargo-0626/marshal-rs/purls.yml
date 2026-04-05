@@ -17,3 +17,4 @@
 - pkg:cargo/marshal-rs@1.1.0
 - pkg:cargo/marshal-rs@1.1.1
 - pkg:cargo/marshal-rs@2.0.0
+- pkg:cargo/marshal-rs@2.0.1
