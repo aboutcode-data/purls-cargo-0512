@@ -2,3 +2,5 @@
 - pkg:cargo/msend@0.0.2
 - pkg:cargo/msend@0.1.0
 - pkg:cargo/msend@1.0.0
+- pkg:cargo/msend@1.0.1
+- pkg:cargo/msend@1.0.2
