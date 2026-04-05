@@ -2,3 +2,4 @@
 - pkg:cargo/testty@0.6.11
 - pkg:cargo/testty@0.6.12
 - pkg:cargo/testty@0.7.0
+- pkg:cargo/testty@0.7.1
