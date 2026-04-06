@@ -10,3 +10,4 @@
 - pkg:cargo/solana-axelar-governance@0.2.0
 - pkg:cargo/solana-axelar-governance@1.0.0
 - pkg:cargo/solana-axelar-governance@1.0.1
+- pkg:cargo/solana-axelar-governance@1.1.0
