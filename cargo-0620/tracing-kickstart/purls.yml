@@ -11,3 +11,6 @@
 - pkg:cargo/tracing-kickstart@0.5.1
 - pkg:cargo/tracing-kickstart@0.5.2
 - pkg:cargo/tracing-kickstart@0.6.0
+- pkg:cargo/tracing-kickstart@0.7.0
+- pkg:cargo/tracing-kickstart@0.7.1
+- pkg:cargo/tracing-kickstart@0.7.2
