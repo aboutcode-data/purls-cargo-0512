@@ -29,3 +29,4 @@
 - pkg:cargo/tailspin@5.4.4
 - pkg:cargo/tailspin@5.4.5
 - pkg:cargo/tailspin@5.5.0
+- pkg:cargo/tailspin@6.0.0
