@@ -1,1 +1,2 @@
 - pkg:cargo/distill-strip-ansi@0.2.0
+- pkg:cargo/distill-strip-ansi@0.2.1
