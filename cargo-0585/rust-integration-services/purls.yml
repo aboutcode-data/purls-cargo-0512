@@ -27,6 +27,9 @@
 - pkg:cargo/rust-integration-services@0.5.14
 - pkg:cargo/rust-integration-services@0.5.15
 - pkg:cargo/rust-integration-services@0.5.16
+- pkg:cargo/rust-integration-services@0.5.17
+- pkg:cargo/rust-integration-services@0.5.18
+- pkg:cargo/rust-integration-services@0.5.19
 - pkg:cargo/rust-integration-services@0.5.2
 - pkg:cargo/rust-integration-services@0.5.3
 - pkg:cargo/rust-integration-services@0.5.4
