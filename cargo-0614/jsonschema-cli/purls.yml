@@ -50,3 +50,4 @@
 - pkg:cargo/jsonschema-cli@0.44.0
 - pkg:cargo/jsonschema-cli@0.44.1
 - pkg:cargo/jsonschema-cli@0.45.0
+- pkg:cargo/jsonschema-cli@0.45.1
