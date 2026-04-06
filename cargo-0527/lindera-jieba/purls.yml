@@ -3,3 +3,4 @@
 - pkg:cargo/lindera-jieba@2.3.2
 - pkg:cargo/lindera-jieba@2.3.3
 - pkg:cargo/lindera-jieba@2.3.4
+- pkg:cargo/lindera-jieba@3.0.0
