@@ -1,5 +1,6 @@
 - pkg:cargo/bsql-macros@0.16.0
 - pkg:cargo/bsql-macros@0.17.0
+- pkg:cargo/bsql-macros@0.18.0
 - pkg:cargo/bsql-macros@0.6.0
 - pkg:cargo/bsql-macros@0.7.0
 - pkg:cargo/bsql-macros@0.8.0
