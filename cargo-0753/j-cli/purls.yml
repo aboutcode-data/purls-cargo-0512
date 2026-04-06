@@ -260,3 +260,4 @@
 - pkg:cargo/j-cli@12.7.93
 - pkg:cargo/j-cli@12.7.95
 - pkg:cargo/j-cli@12.7.98
+- pkg:cargo/j-cli@12.8.1
