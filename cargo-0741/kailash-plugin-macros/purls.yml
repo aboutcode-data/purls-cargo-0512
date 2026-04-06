@@ -25,3 +25,4 @@
 - pkg:cargo/kailash-plugin-macros@3.6.3
 - pkg:cargo/kailash-plugin-macros@3.6.4
 - pkg:cargo/kailash-plugin-macros@3.8.0
+- pkg:cargo/kailash-plugin-macros@3.9.0
