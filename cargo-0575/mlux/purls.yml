@@ -14,6 +14,7 @@
 - pkg:cargo/mlux@1.14.1
 - pkg:cargo/mlux@1.15.0
 - pkg:cargo/mlux@1.16.1
+- pkg:cargo/mlux@1.16.2
 - pkg:cargo/mlux@1.2.1
 - pkg:cargo/mlux@1.3.0
 - pkg:cargo/mlux@1.4.0
