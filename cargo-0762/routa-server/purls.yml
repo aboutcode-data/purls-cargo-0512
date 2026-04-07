@@ -1,5 +1,6 @@
 - pkg:cargo/routa-server@0.12.0
 - pkg:cargo/routa-server@0.12.1
+- pkg:cargo/routa-server@0.12.2
 - pkg:cargo/routa-server@0.2.10
 - pkg:cargo/routa-server@0.2.11
 - pkg:cargo/routa-server@0.2.4
