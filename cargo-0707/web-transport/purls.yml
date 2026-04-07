@@ -5,6 +5,7 @@
 - pkg:cargo/web-transport@0.10.2
 - pkg:cargo/web-transport@0.10.3
 - pkg:cargo/web-transport@0.10.4
+- pkg:cargo/web-transport@0.10.5
 - pkg:cargo/web-transport@0.2.0
 - pkg:cargo/web-transport@0.2.1
 - pkg:cargo/web-transport@0.3.0
