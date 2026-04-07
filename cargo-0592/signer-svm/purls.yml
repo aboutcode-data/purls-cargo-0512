@@ -5,3 +5,5 @@
 - pkg:cargo/signer-svm@0.4.2
 - pkg:cargo/signer-svm@0.4.3
 - pkg:cargo/signer-svm@0.5.0
+- pkg:cargo/signer-svm@0.6.0
+- pkg:cargo/signer-svm@0.6.1
