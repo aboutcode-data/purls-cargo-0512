@@ -11,3 +11,4 @@
 - pkg:cargo/trailbase-client@0.6.0
 - pkg:cargo/trailbase-client@0.7.0
 - pkg:cargo/trailbase-client@0.7.1
+- pkg:cargo/trailbase-client@0.8.0
