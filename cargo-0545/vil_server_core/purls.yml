@@ -16,3 +16,4 @@
 - pkg:cargo/vil_server_core@0.1.8
 - pkg:cargo/vil_server_core@0.1.9
 - pkg:cargo/vil_server_core@0.2.0
+- pkg:cargo/vil_server_core@0.2.2
