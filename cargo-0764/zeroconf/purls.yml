@@ -16,6 +16,7 @@
 - pkg:cargo/zeroconf@0.15.1
 - pkg:cargo/zeroconf@0.16.0
 - pkg:cargo/zeroconf@0.17.0
+- pkg:cargo/zeroconf@0.18.0
 - pkg:cargo/zeroconf@0.2.0-beta
 - pkg:cargo/zeroconf@0.2.1-beta
 - pkg:cargo/zeroconf@0.3.0-beta
