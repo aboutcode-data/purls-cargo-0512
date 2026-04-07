@@ -63,5 +63,6 @@
 - pkg:cargo/botapi@0.0.71
 - pkg:cargo/botapi@0.0.72
 - pkg:cargo/botapi@0.0.73
+- pkg:cargo/botapi@0.0.74
 - pkg:cargo/botapi@0.0.8
 - pkg:cargo/botapi@0.0.9
