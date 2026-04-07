@@ -1,3 +1,4 @@
 - pkg:cargo/fresh-winterm@0.2.18
 - pkg:cargo/fresh-winterm@0.2.20
 - pkg:cargo/fresh-winterm@0.2.21
+- pkg:cargo/fresh-winterm@0.2.22

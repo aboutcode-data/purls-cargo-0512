@@ -62,5 +62,7 @@
 - pkg:cargo/qm-s3@0.0.71
 - pkg:cargo/qm-s3@0.0.72
 - pkg:cargo/qm-s3@0.0.73
+- pkg:cargo/qm-s3@0.0.74
+- pkg:cargo/qm-s3@0.0.75
 - pkg:cargo/qm-s3@0.0.8
 - pkg:cargo/qm-s3@0.0.9
