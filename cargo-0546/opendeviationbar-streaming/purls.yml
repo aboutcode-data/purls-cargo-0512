@@ -129,6 +129,8 @@
 - pkg:cargo/opendeviationbar-streaming@13.62.0
 - pkg:cargo/opendeviationbar-streaming@13.63.1
 - pkg:cargo/opendeviationbar-streaming@13.64.0
+- pkg:cargo/opendeviationbar-streaming@13.66.1
+- pkg:cargo/opendeviationbar-streaming@13.66.2
 - pkg:cargo/opendeviationbar-streaming@13.7.0
 - pkg:cargo/opendeviationbar-streaming@13.8.0
 - pkg:cargo/opendeviationbar-streaming@13.9.0

@@ -57,3 +57,4 @@
 - pkg:cargo/lindera-ipadic-neologd@2.3.3
 - pkg:cargo/lindera-ipadic-neologd@2.3.4
 - pkg:cargo/lindera-ipadic-neologd@3.0.0
+- pkg:cargo/lindera-ipadic-neologd@3.0.1
