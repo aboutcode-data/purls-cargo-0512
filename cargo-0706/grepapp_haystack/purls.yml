@@ -8,6 +8,7 @@
 - pkg:cargo/grepapp_haystack@1.16.13
 - pkg:cargo/grepapp_haystack@1.16.14
 - pkg:cargo/grepapp_haystack@1.16.15
+- pkg:cargo/grepapp_haystack@1.16.30
 - pkg:cargo/grepapp_haystack@1.16.7
 - pkg:cargo/grepapp_haystack@1.16.8
 - pkg:cargo/grepapp_haystack@1.16.9
