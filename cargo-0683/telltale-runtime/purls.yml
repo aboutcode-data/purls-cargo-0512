@@ -1,6 +1,7 @@
 - pkg:cargo/telltale-runtime@10.0.0
 - pkg:cargo/telltale-runtime@11.0.0
 - pkg:cargo/telltale-runtime@11.1.0
+- pkg:cargo/telltale-runtime@11.2.0
 - pkg:cargo/telltale-runtime@7.0.0
 - pkg:cargo/telltale-runtime@8.0.0
 - pkg:cargo/telltale-runtime@9.0.0
