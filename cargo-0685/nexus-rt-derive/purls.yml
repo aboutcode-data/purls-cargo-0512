@@ -2,3 +2,4 @@
 - pkg:cargo/nexus-rt-derive@1.0.0
 - pkg:cargo/nexus-rt-derive@1.0.1
 - pkg:cargo/nexus-rt-derive@1.1.0
+- pkg:cargo/nexus-rt-derive@1.1.1
