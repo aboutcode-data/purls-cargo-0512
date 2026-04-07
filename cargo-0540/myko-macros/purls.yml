@@ -4,6 +4,17 @@
 - pkg:cargo/myko-macros@3.0.0-canary.663
 - pkg:cargo/myko-macros@3.0.0-canary.687
 - pkg:cargo/myko-macros@3.0.0-canary.688
+- pkg:cargo/myko-macros@4.0.0
 - pkg:cargo/myko-macros@4.0.0-canary.10
 - pkg:cargo/myko-macros@4.0.0-canary.11
+- pkg:cargo/myko-macros@4.0.0-canary.30
+- pkg:cargo/myko-macros@4.0.0-canary.31
+- pkg:cargo/myko-macros@4.0.0-canary.32
+- pkg:cargo/myko-macros@4.0.0-canary.33
+- pkg:cargo/myko-macros@4.0.0-canary.34
 - pkg:cargo/myko-macros@4.0.0-canary.7
+- pkg:cargo/myko-macros@4.1.0
+- pkg:cargo/myko-macros@4.1.0-canary.3
+- pkg:cargo/myko-macros@4.1.1
+- pkg:cargo/myko-macros@4.1.1-canary.1
+- pkg:cargo/myko-macros@4.1.2-canary.1
