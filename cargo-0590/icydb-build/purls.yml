@@ -424,6 +424,9 @@
 - pkg:cargo/icydb-build@0.69.2
 - pkg:cargo/icydb-build@0.69.3
 - pkg:cargo/icydb-build@0.69.4
+- pkg:cargo/icydb-build@0.69.6
+- pkg:cargo/icydb-build@0.69.7
+- pkg:cargo/icydb-build@0.69.8
 - pkg:cargo/icydb-build@0.7.0
 - pkg:cargo/icydb-build@0.7.1
 - pkg:cargo/icydb-build@0.7.10
