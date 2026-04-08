@@ -2,3 +2,4 @@
 - pkg:cargo/qp-plonky2-verifier@1.1.6
 - pkg:cargo/qp-plonky2-verifier@1.2.0
 - pkg:cargo/qp-plonky2-verifier@1.3.0
+- pkg:cargo/qp-plonky2-verifier@1.4.0

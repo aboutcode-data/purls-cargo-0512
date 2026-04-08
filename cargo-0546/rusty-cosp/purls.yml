@@ -7,3 +7,5 @@
 - pkg:cargo/rusty-cosp@0.7.0
 - pkg:cargo/rusty-cosp@0.8.0
 - pkg:cargo/rusty-cosp@0.9.0
+- pkg:cargo/rusty-cosp@0.9.1
+- pkg:cargo/rusty-cosp@1.0.0

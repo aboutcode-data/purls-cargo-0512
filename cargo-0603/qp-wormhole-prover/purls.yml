@@ -12,3 +12,4 @@
 - pkg:cargo/qp-wormhole-prover@1.1.1
 - pkg:cargo/qp-wormhole-prover@1.2.1
 - pkg:cargo/qp-wormhole-prover@1.3.0
+- pkg:cargo/qp-wormhole-prover@1.4.0
