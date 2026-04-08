@@ -13,6 +13,11 @@
 - pkg:cargo/autosocket@4.1.1-canary.1
 - pkg:cargo/autosocket@4.1.2-canary.1
 - pkg:cargo/autosocket@4.2.0-canary.1
+- pkg:cargo/autosocket@4.2.0-canary.10
+- pkg:cargo/autosocket@4.2.0-canary.11
 - pkg:cargo/autosocket@4.2.0-canary.2
 - pkg:cargo/autosocket@4.2.0-canary.3
 - pkg:cargo/autosocket@4.2.0-canary.5
+- pkg:cargo/autosocket@4.2.0-canary.7
+- pkg:cargo/autosocket@4.2.0-canary.8
+- pkg:cargo/autosocket@4.2.0-canary.9
