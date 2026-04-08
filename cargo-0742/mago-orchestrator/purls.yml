@@ -33,6 +33,7 @@
 - pkg:cargo/mago-orchestrator@1.17.0
 - pkg:cargo/mago-orchestrator@1.18.0
 - pkg:cargo/mago-orchestrator@1.18.1
+- pkg:cargo/mago-orchestrator@1.19.0
 - pkg:cargo/mago-orchestrator@1.2.0
 - pkg:cargo/mago-orchestrator@1.2.1
 - pkg:cargo/mago-orchestrator@1.2.2
