@@ -1,1 +1,2 @@
 - pkg:cargo/syft-git@0.2.0
+- pkg:cargo/syft-git@0.2.1
