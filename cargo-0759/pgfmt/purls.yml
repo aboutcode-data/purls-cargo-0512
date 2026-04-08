@@ -1,1 +1,2 @@
 - pkg:cargo/pgfmt@2.0.0
+- pkg:cargo/pgfmt@2.1.0
