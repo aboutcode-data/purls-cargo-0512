@@ -4,5 +4,7 @@
 - pkg:cargo/ecotokens@0.13.0
 - pkg:cargo/ecotokens@0.14.0
 - pkg:cargo/ecotokens@0.14.2
+- pkg:cargo/ecotokens@0.14.3
+- pkg:cargo/ecotokens@0.14.4
 - pkg:cargo/ecotokens@0.5.0
 - pkg:cargo/ecotokens@0.8.0
