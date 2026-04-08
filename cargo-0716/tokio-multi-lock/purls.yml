@@ -1,0 +1,2 @@
+- pkg:cargo/tokio-multi-lock@0.1.0-1
+- pkg:cargo/tokio-multi-lock@0.1.0-2
