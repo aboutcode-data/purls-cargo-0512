@@ -200,6 +200,7 @@
 - pkg:cargo/statsig-rust@0.18.1
 - pkg:cargo/statsig-rust@0.18.1-beta.2604072116
 - pkg:cargo/statsig-rust@0.18.1-rc.2604070138
+- pkg:cargo/statsig-rust@0.18.2-beta.2604080312
 - pkg:cargo/statsig-rust@0.18.2-rc.2604080018
 - pkg:cargo/statsig-rust@0.2.0
 - pkg:cargo/statsig-rust@0.2.0-beta.250418
