@@ -62,6 +62,8 @@
 - pkg:cargo/via@2.0.0-gm.34
 - pkg:cargo/via@2.0.0-gm.35
 - pkg:cargo/via@2.0.0-gm.36
+- pkg:cargo/via@2.0.0-gm.37
+- pkg:cargo/via@2.0.0-gm.38
 - pkg:cargo/via@2.0.0-gm.4
 - pkg:cargo/via@2.0.0-gm.5
 - pkg:cargo/via@2.0.0-gm.6
