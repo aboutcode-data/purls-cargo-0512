@@ -25,3 +25,4 @@
 - pkg:cargo/trypema@0.1.0-rc.9
 - pkg:cargo/trypema@1.0.0
 - pkg:cargo/trypema@1.0.1
+- pkg:cargo/trypema@1.1.0
