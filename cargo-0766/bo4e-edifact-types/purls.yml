@@ -22,6 +22,9 @@
 - pkg:cargo/bo4e-edifact-types@0.1.31
 - pkg:cargo/bo4e-edifact-types@0.1.32
 - pkg:cargo/bo4e-edifact-types@0.1.33
+- pkg:cargo/bo4e-edifact-types@0.1.34
+- pkg:cargo/bo4e-edifact-types@0.1.35
+- pkg:cargo/bo4e-edifact-types@0.1.36
 - pkg:cargo/bo4e-edifact-types@0.1.7
 - pkg:cargo/bo4e-edifact-types@0.1.8
 - pkg:cargo/bo4e-edifact-types@0.1.9
