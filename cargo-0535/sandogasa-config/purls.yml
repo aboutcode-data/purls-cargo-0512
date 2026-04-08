@@ -5,3 +5,4 @@
 - pkg:cargo/sandogasa-config@0.6.2
 - pkg:cargo/sandogasa-config@0.6.3
 - pkg:cargo/sandogasa-config@0.7.0
+- pkg:cargo/sandogasa-config@0.8.0
