@@ -30,6 +30,7 @@
 - pkg:cargo/snazy@0.57.2
 - pkg:cargo/snazy@0.58.0
 - pkg:cargo/snazy@0.58.1
+- pkg:cargo/snazy@0.59.0
 - pkg:cargo/snazy@0.6.0
 - pkg:cargo/snazy@0.7.0
 - pkg:cargo/snazy@0.8.0
