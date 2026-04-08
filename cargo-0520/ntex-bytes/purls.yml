@@ -40,3 +40,4 @@
 - pkg:cargo/ntex-bytes@1.5.1
 - pkg:cargo/ntex-bytes@1.5.2
 - pkg:cargo/ntex-bytes@1.5.3
+- pkg:cargo/ntex-bytes@1.5.4
