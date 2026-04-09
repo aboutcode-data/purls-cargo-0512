@@ -1,4 +1,5 @@
 - pkg:cargo/rexlang-lexer@3.9.1
+- pkg:cargo/rexlang-lexer@3.9.10
 - pkg:cargo/rexlang-lexer@3.9.2
 - pkg:cargo/rexlang-lexer@3.9.3
 - pkg:cargo/rexlang-lexer@3.9.4
