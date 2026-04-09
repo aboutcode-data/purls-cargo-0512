@@ -265,6 +265,9 @@
 - pkg:cargo/j-cli@12.8.12
 - pkg:cargo/j-cli@12.8.13
 - pkg:cargo/j-cli@12.8.14
+- pkg:cargo/j-cli@12.8.15
+- pkg:cargo/j-cli@12.8.16
+- pkg:cargo/j-cli@12.8.17
 - pkg:cargo/j-cli@12.8.2
 - pkg:cargo/j-cli@12.8.3
 - pkg:cargo/j-cli@12.8.7
