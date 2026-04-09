@@ -28,3 +28,4 @@
 - pkg:cargo/trs-mlflow@0.6.5
 - pkg:cargo/trs-mlflow@0.6.6
 - pkg:cargo/trs-mlflow@0.6.7
+- pkg:cargo/trs-mlflow@0.7.0
