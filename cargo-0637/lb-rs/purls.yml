@@ -27,3 +27,5 @@
 - pkg:cargo/lb-rs@26.3.20
 - pkg:cargo/lb-rs@26.3.21
 - pkg:cargo/lb-rs@26.3.22
+- pkg:cargo/lb-rs@26.4.8
+- pkg:cargo/lb-rs@26.4.9

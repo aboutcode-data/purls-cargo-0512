@@ -6,3 +6,5 @@
 - pkg:cargo/fleche@6.17.0
 - pkg:cargo/fleche@6.18.0
 - pkg:cargo/fleche@6.19.0
+- pkg:cargo/fleche@6.19.1
+- pkg:cargo/fleche@6.19.2

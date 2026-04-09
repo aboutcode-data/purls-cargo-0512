@@ -18,3 +18,5 @@
 - pkg:cargo/depsguard@0.1.24
 - pkg:cargo/depsguard@0.1.25
 - pkg:cargo/depsguard@0.1.26
+- pkg:cargo/depsguard@0.1.27
+- pkg:cargo/depsguard@0.1.28
