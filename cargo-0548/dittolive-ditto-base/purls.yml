@@ -145,6 +145,8 @@
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-sdk-cmd-logging.1
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-sdk-publish.1
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-sdk-release-gha-workflow.1
+- pkg:cargo/dittolive-ditto-base@5.0.0-experimental-sdk-release-gha-workflow.2
+- pkg:cargo/dittolive-ditto-base@5.0.0-experimental-sdk-release-gha-workflow.4
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-sdk-test-suite.1
 - pkg:cargo/dittolive-ditto-base@5.0.0-experimental-sprint-demo.1
 - pkg:cargo/dittolive-ditto-base@5.0.0-preview.4
