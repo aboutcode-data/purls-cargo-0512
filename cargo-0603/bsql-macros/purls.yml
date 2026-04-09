@@ -9,6 +9,9 @@
 - pkg:cargo/bsql-macros@0.22.1
 - pkg:cargo/bsql-macros@0.22.2
 - pkg:cargo/bsql-macros@0.23.0
+- pkg:cargo/bsql-macros@0.24.0
+- pkg:cargo/bsql-macros@0.24.1
+- pkg:cargo/bsql-macros@0.25.0
 - pkg:cargo/bsql-macros@0.6.0
 - pkg:cargo/bsql-macros@0.7.0
 - pkg:cargo/bsql-macros@0.8.0
