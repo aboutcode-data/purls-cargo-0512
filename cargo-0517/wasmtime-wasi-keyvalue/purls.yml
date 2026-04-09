@@ -5,6 +5,7 @@
 - pkg:cargo/wasmtime-wasi-keyvalue@24.0.4
 - pkg:cargo/wasmtime-wasi-keyvalue@24.0.5
 - pkg:cargo/wasmtime-wasi-keyvalue@24.0.6
+- pkg:cargo/wasmtime-wasi-keyvalue@24.0.7
 - pkg:cargo/wasmtime-wasi-keyvalue@25.0.0
 - pkg:cargo/wasmtime-wasi-keyvalue@25.0.1
 - pkg:cargo/wasmtime-wasi-keyvalue@25.0.2
@@ -36,6 +37,7 @@
 - pkg:cargo/wasmtime-wasi-keyvalue@36.0.4
 - pkg:cargo/wasmtime-wasi-keyvalue@36.0.5
 - pkg:cargo/wasmtime-wasi-keyvalue@36.0.6
+- pkg:cargo/wasmtime-wasi-keyvalue@36.0.7
 - pkg:cargo/wasmtime-wasi-keyvalue@37.0.0
 - pkg:cargo/wasmtime-wasi-keyvalue@37.0.1
 - pkg:cargo/wasmtime-wasi-keyvalue@37.0.2
@@ -60,4 +62,6 @@
 - pkg:cargo/wasmtime-wasi-keyvalue@41.0.4
 - pkg:cargo/wasmtime-wasi-keyvalue@42.0.0
 - pkg:cargo/wasmtime-wasi-keyvalue@42.0.1
+- pkg:cargo/wasmtime-wasi-keyvalue@42.0.2
 - pkg:cargo/wasmtime-wasi-keyvalue@43.0.0
+- pkg:cargo/wasmtime-wasi-keyvalue@43.0.1
