@@ -1,2 +1,5 @@
 - pkg:cargo/llm-secrets@1.0.0
 - pkg:cargo/llm-secrets@2.0.0
+- pkg:cargo/llm-secrets@2.1.0
+- pkg:cargo/llm-secrets@2.1.1
+- pkg:cargo/llm-secrets@2.1.2
