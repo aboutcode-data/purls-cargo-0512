@@ -10,3 +10,4 @@
 - pkg:cargo/mt_bagread@0.5.2
 - pkg:cargo/mt_bagread@0.5.3
 - pkg:cargo/mt_bagread@0.6.0
+- pkg:cargo/mt_bagread@0.7.0
