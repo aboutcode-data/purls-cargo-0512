@@ -7,6 +7,7 @@
 - pkg:cargo/bsql@0.21.0
 - pkg:cargo/bsql@0.22.0
 - pkg:cargo/bsql@0.22.1
+- pkg:cargo/bsql@0.22.2
 - pkg:cargo/bsql@0.6.0
 - pkg:cargo/bsql@0.7.0
 - pkg:cargo/bsql@0.8.0
