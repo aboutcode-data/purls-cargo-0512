@@ -33,7 +33,15 @@
 - pkg:cargo/llama-cpp-sys-4@0.2.30
 - pkg:cargo/llama-cpp-sys-4@0.2.31
 - pkg:cargo/llama-cpp-sys-4@0.2.32
+- pkg:cargo/llama-cpp-sys-4@0.2.35
+- pkg:cargo/llama-cpp-sys-4@0.2.36
+- pkg:cargo/llama-cpp-sys-4@0.2.37
+- pkg:cargo/llama-cpp-sys-4@0.2.38
+- pkg:cargo/llama-cpp-sys-4@0.2.39
 - pkg:cargo/llama-cpp-sys-4@0.2.4
+- pkg:cargo/llama-cpp-sys-4@0.2.40
+- pkg:cargo/llama-cpp-sys-4@0.2.41
+- pkg:cargo/llama-cpp-sys-4@0.2.42
 - pkg:cargo/llama-cpp-sys-4@0.2.5
 - pkg:cargo/llama-cpp-sys-4@0.2.6
 - pkg:cargo/llama-cpp-sys-4@0.2.7
