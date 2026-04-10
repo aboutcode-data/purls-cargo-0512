@@ -20,3 +20,4 @@
 - pkg:cargo/hpx-fastwebsockets@2.4.4
 - pkg:cargo/hpx-fastwebsockets@2.4.5
 - pkg:cargo/hpx-fastwebsockets@2.4.6
+- pkg:cargo/hpx-fastwebsockets@2.4.7
