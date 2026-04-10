@@ -33,6 +33,7 @@
 - pkg:cargo/fff-search@0.5.2-nightly.d4b9d16
 - pkg:cargo/fff-search@0.5.2-nightly.db4cd28
 - pkg:cargo/fff-search@0.5.2-nightly.feaae7d
+- pkg:cargo/fff-search@0.5.3-nightly.07e90e5
 - pkg:cargo/fff-search@0.5.3-nightly.0fd47ab
 - pkg:cargo/fff-search@0.5.3-nightly.1c2c063
 - pkg:cargo/fff-search@0.5.3-nightly.205f9d6
