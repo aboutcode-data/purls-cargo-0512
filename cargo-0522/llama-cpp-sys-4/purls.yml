@@ -28,7 +28,11 @@
 - pkg:cargo/llama-cpp-sys-4@0.2.23
 - pkg:cargo/llama-cpp-sys-4@0.2.24
 - pkg:cargo/llama-cpp-sys-4@0.2.26
+- pkg:cargo/llama-cpp-sys-4@0.2.29
 - pkg:cargo/llama-cpp-sys-4@0.2.3
+- pkg:cargo/llama-cpp-sys-4@0.2.30
+- pkg:cargo/llama-cpp-sys-4@0.2.31
+- pkg:cargo/llama-cpp-sys-4@0.2.32
 - pkg:cargo/llama-cpp-sys-4@0.2.4
 - pkg:cargo/llama-cpp-sys-4@0.2.5
 - pkg:cargo/llama-cpp-sys-4@0.2.6
