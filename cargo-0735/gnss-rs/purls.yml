@@ -16,3 +16,4 @@
 - pkg:cargo/gnss-rs@2.4.0
 - pkg:cargo/gnss-rs@2.4.1
 - pkg:cargo/gnss-rs@2.5.0
+- pkg:cargo/gnss-rs@2.6.0
