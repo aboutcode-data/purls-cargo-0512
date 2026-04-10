@@ -13,6 +13,7 @@
 - pkg:cargo/yurl@0.14.3
 - pkg:cargo/yurl@0.14.4
 - pkg:cargo/yurl@0.14.5
+- pkg:cargo/yurl@0.14.6
 - pkg:cargo/yurl@0.2.0
 - pkg:cargo/yurl@0.3.0
 - pkg:cargo/yurl@0.4.0
