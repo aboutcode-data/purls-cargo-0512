@@ -8,3 +8,4 @@
 - pkg:cargo/unitforge_macros@0.3.20
 - pkg:cargo/unitforge_macros@0.3.8
 - pkg:cargo/unitforge_macros@0.4.0
+- pkg:cargo/unitforge_macros@0.4.1
