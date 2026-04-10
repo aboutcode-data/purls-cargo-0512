@@ -39,6 +39,7 @@
 - pkg:cargo/devela@0.25.0-wip.2
 - pkg:cargo/devela@0.25.0-wip.3
 - pkg:cargo/devela@0.26.0
+- pkg:cargo/devela@0.27.0
 - pkg:cargo/devela@0.3.0
 - pkg:cargo/devela@0.4.0
 - pkg:cargo/devela@0.4.1

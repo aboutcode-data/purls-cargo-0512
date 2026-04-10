@@ -1,1 +1,2 @@
 - pkg:cargo/snarkvm-synthesizer-error@4.6.0
+- pkg:cargo/snarkvm-synthesizer-error@4.6.1

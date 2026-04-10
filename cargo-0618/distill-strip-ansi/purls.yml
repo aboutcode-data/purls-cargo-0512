@@ -4,3 +4,4 @@
 - pkg:cargo/distill-strip-ansi@0.3.0
 - pkg:cargo/distill-strip-ansi@0.4.0
 - pkg:cargo/distill-strip-ansi@0.4.1
+- pkg:cargo/distill-strip-ansi@0.5.1

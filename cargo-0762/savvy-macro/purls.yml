@@ -6,6 +6,7 @@
 - pkg:cargo/savvy-macro@0.1.16
 - pkg:cargo/savvy-macro@0.1.19
 - pkg:cargo/savvy-macro@0.1.9
+- pkg:cargo/savvy-macro@0.10.0
 - pkg:cargo/savvy-macro@0.2.0
 - pkg:cargo/savvy-macro@0.2.1
 - pkg:cargo/savvy-macro@0.2.10
