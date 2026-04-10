@@ -13,3 +13,4 @@
 - pkg:cargo/hardened-malloc@13.0.0-beta.8
 - pkg:cargo/hardened-malloc@13.0.0-beta.9
 - pkg:cargo/hardened-malloc@13.0.1
+- pkg:cargo/hardened-malloc@16.0.2026040800

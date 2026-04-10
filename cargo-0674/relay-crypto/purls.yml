@@ -11,3 +11,5 @@
 - pkg:cargo/relay-crypto@0.2.0-alpha.2
 - pkg:cargo/relay-crypto@0.2.0-alpha.4
 - pkg:cargo/relay-crypto@0.2.0-alpha.6
+- pkg:cargo/relay-crypto@0.2.0-alpha.7
+- pkg:cargo/relay-crypto@0.2.0-alpha.8
