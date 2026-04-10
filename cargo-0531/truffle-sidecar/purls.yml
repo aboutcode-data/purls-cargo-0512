@@ -1,4 +1,9 @@
 - pkg:cargo/truffle-sidecar@0.3.12
 - pkg:cargo/truffle-sidecar@0.3.16
 - pkg:cargo/truffle-sidecar@0.3.17
+- pkg:cargo/truffle-sidecar@0.3.18
+- pkg:cargo/truffle-sidecar@0.3.19
 - pkg:cargo/truffle-sidecar@0.3.2
+- pkg:cargo/truffle-sidecar@0.3.20
+- pkg:cargo/truffle-sidecar@0.3.21
+- pkg:cargo/truffle-sidecar@0.3.22
