@@ -6,3 +6,4 @@
 - pkg:cargo/pg-core@0.5.6
 - pkg:cargo/pg-core@0.5.7
 - pkg:cargo/pg-core@0.5.8
+- pkg:cargo/pg-core@0.5.9
