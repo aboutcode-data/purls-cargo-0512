@@ -1,1 +1,2 @@
 - pkg:cargo/zccache-artifact@1.1.18
+- pkg:cargo/zccache-artifact@1.2.1
