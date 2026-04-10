@@ -1,1 +1,2 @@
 - pkg:cargo/wasvy_macros@0.0.7
+- pkg:cargo/wasvy_macros@0.0.8

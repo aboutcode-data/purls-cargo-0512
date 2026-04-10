@@ -3,3 +3,4 @@
 - pkg:cargo/pubgrub@0.2.1
 - pkg:cargo/pubgrub@0.3.0
 - pkg:cargo/pubgrub@0.3.0-alpha.1
+- pkg:cargo/pubgrub@0.4.0
