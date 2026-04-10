@@ -6,3 +6,4 @@
 - pkg:cargo/hotpath-macros-meta@0.13.0
 - pkg:cargo/hotpath-macros-meta@0.14.0
 - pkg:cargo/hotpath-macros-meta@0.14.1
+- pkg:cargo/hotpath-macros-meta@0.15.0
