@@ -48,6 +48,7 @@
 - pkg:cargo/revm-precompile@31.0.0
 - pkg:cargo/revm-precompile@32.0.0
 - pkg:cargo/revm-precompile@32.1.0
+- pkg:cargo/revm-precompile@33.0.0
 - pkg:cargo/revm-precompile@4.0.0
 - pkg:cargo/revm-precompile@4.0.1
 - pkg:cargo/revm-precompile@4.1.0
