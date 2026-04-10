@@ -276,3 +276,4 @@
 - pkg:cargo/solana-zk-token-proof-program@4.0.0-beta.4
 - pkg:cargo/solana-zk-token-proof-program@4.0.0-beta.5
 - pkg:cargo/solana-zk-token-proof-program@4.0.0-beta.6
+- pkg:cargo/solana-zk-token-proof-program@4.0.0-beta.7
