@@ -25,6 +25,7 @@
 - pkg:cargo/ferrflow@2.2.1
 - pkg:cargo/ferrflow@2.2.2
 - pkg:cargo/ferrflow@2.20.0
+- pkg:cargo/ferrflow@2.20.2
 - pkg:cargo/ferrflow@2.3.0
 - pkg:cargo/ferrflow@2.4.0
 - pkg:cargo/ferrflow@2.5.0
