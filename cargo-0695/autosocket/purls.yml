@@ -44,3 +44,4 @@
 - pkg:cargo/autosocket@4.4.8
 - pkg:cargo/autosocket@4.5.0
 - pkg:cargo/autosocket@4.6.0
+- pkg:cargo/autosocket@4.6.1
