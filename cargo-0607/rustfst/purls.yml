@@ -55,3 +55,4 @@
 - pkg:cargo/rustfst@1.2.4
 - pkg:cargo/rustfst@1.2.5
 - pkg:cargo/rustfst@1.2.6
+- pkg:cargo/rustfst@1.3.0
