@@ -1,2 +1,3 @@
 - pkg:cargo/sandogasa-cli@0.8.0
 - pkg:cargo/sandogasa-cli@0.8.1
+- pkg:cargo/sandogasa-cli@0.9.0
