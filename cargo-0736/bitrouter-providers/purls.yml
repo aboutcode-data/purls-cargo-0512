@@ -12,3 +12,4 @@
 - pkg:cargo/bitrouter-providers@0.19.1
 - pkg:cargo/bitrouter-providers@0.20.0
 - pkg:cargo/bitrouter-providers@0.21.0
+- pkg:cargo/bitrouter-providers@0.22.0

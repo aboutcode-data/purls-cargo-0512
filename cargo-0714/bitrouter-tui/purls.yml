@@ -12,3 +12,4 @@
 - pkg:cargo/bitrouter-tui@0.2.4
 - pkg:cargo/bitrouter-tui@0.20.0
 - pkg:cargo/bitrouter-tui@0.21.0
+- pkg:cargo/bitrouter-tui@0.22.0

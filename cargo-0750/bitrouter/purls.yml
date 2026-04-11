@@ -24,6 +24,7 @@
 - pkg:cargo/bitrouter@0.2.5
 - pkg:cargo/bitrouter@0.20.0
 - pkg:cargo/bitrouter@0.21.0
+- pkg:cargo/bitrouter@0.22.0
 - pkg:cargo/bitrouter@0.3.0
 - pkg:cargo/bitrouter@0.4.0
 - pkg:cargo/bitrouter@0.5.0
