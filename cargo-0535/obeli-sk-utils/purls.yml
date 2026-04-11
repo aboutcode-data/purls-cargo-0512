@@ -85,6 +85,9 @@
 - pkg:cargo/obeli-sk-utils@0.36.1
 - pkg:cargo/obeli-sk-utils@0.37.0
 - pkg:cargo/obeli-sk-utils@0.37.1
+- pkg:cargo/obeli-sk-utils@0.37.2
+- pkg:cargo/obeli-sk-utils@0.37.3
+- pkg:cargo/obeli-sk-utils@0.37.4
 - pkg:cargo/obeli-sk-utils@0.4.0
 - pkg:cargo/obeli-sk-utils@0.5.0
 - pkg:cargo/obeli-sk-utils@0.6.0
