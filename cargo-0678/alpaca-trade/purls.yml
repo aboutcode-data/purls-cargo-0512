@@ -2,4 +2,5 @@
 - pkg:cargo/alpaca-trade@0.23.8
 - pkg:cargo/alpaca-trade@0.24.2
 - pkg:cargo/alpaca-trade@0.24.3
+- pkg:cargo/alpaca-trade@0.24.4
 - pkg:cargo/alpaca-trade@0.3.0
