@@ -19,3 +19,4 @@
 - pkg:cargo/tonic-web-wasm-client@0.7.1
 - pkg:cargo/tonic-web-wasm-client@0.8.0
 - pkg:cargo/tonic-web-wasm-client@0.9.0
+- pkg:cargo/tonic-web-wasm-client@0.9.1
