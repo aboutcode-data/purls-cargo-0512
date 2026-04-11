@@ -3,8 +3,10 @@
 - pkg:cargo/xos@0.1.2
 - pkg:cargo/xos@0.1.21
 - pkg:cargo/xos@0.1.22
+- pkg:cargo/xos@0.3.10
 - pkg:cargo/xos@0.3.3
 - pkg:cargo/xos@0.3.5
 - pkg:cargo/xos@0.3.6
 - pkg:cargo/xos@0.3.7
 - pkg:cargo/xos@0.3.8
+- pkg:cargo/xos@0.3.9

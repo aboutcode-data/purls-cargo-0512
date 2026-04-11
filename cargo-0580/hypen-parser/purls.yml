@@ -42,3 +42,4 @@
 - pkg:cargo/hypen-parser@0.4.44
 - pkg:cargo/hypen-parser@0.4.45
 - pkg:cargo/hypen-parser@0.4.46
+- pkg:cargo/hypen-parser@0.4.81

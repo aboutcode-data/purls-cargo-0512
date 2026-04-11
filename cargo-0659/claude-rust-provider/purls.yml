@@ -20,3 +20,4 @@
 - pkg:cargo/claude-rust-provider@1.4.2
 - pkg:cargo/claude-rust-provider@1.4.3
 - pkg:cargo/claude-rust-provider@2.0.0
+- pkg:cargo/claude-rust-provider@2.0.2
