@@ -9,3 +9,4 @@
 - pkg:cargo/vim_rs@0.4.0
 - pkg:cargo/vim_rs@0.4.1
 - pkg:cargo/vim_rs@0.4.2
+- pkg:cargo/vim_rs@0.4.3
