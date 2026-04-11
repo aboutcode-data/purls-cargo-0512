@@ -10,5 +10,6 @@
 - pkg:cargo/k8s-crds-longhorn@1.10.0
 - pkg:cargo/k8s-crds-longhorn@1.10.1
 - pkg:cargo/k8s-crds-longhorn@1.11.0
+- pkg:cargo/k8s-crds-longhorn@1.11.1
 - pkg:cargo/k8s-crds-longhorn@1.8.1
 - pkg:cargo/k8s-crds-longhorn@1.9.1

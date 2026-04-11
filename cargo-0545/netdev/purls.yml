@@ -30,3 +30,4 @@
 - pkg:cargo/netdev@0.40.0
 - pkg:cargo/netdev@0.40.1
 - pkg:cargo/netdev@0.41.0
+- pkg:cargo/netdev@0.42.0

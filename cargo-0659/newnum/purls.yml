@@ -10,3 +10,4 @@
 - pkg:cargo/newnum@0.0.7
 - pkg:cargo/newnum@0.0.8
 - pkg:cargo/newnum@0.0.9
+- pkg:cargo/newnum@0.13.1

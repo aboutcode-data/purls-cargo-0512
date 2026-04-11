@@ -121,3 +121,4 @@
 - pkg:cargo/rbdc@4.6.5
 - pkg:cargo/rbdc@4.7.0
 - pkg:cargo/rbdc@4.7.1
+- pkg:cargo/rbdc@4.8.0
