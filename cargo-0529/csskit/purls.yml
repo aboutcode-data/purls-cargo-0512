@@ -61,6 +61,7 @@
 - pkg:cargo/csskit@0.0.21-canary.64ed0c392c
 - pkg:cargo/csskit@0.0.21-canary.a8210b9e28
 - pkg:cargo/csskit@0.0.21-canary.b7ef6f2c23
+- pkg:cargo/csskit@0.0.21-canary.ce8235d61e
 - pkg:cargo/csskit@0.0.21-canary.dad37871ce
 - pkg:cargo/csskit@0.0.21-canary.f31167cc60
 - pkg:cargo/csskit@0.0.5
