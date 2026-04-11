@@ -1,2 +1,7 @@
 - pkg:cargo/textual-rs-macros@0.3.0
 - pkg:cargo/textual-rs-macros@0.3.1
+- pkg:cargo/textual-rs-macros@0.3.15
+- pkg:cargo/textual-rs-macros@0.3.16
+- pkg:cargo/textual-rs-macros@0.3.2
+- pkg:cargo/textual-rs-macros@0.3.3
+- pkg:cargo/textual-rs-macros@0.3.4
