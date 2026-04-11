@@ -21,3 +21,4 @@
 - pkg:cargo/fraiseql-error@2.0.0-rc.9
 - pkg:cargo/fraiseql-error@2.1.0
 - pkg:cargo/fraiseql-error@2.1.2
+- pkg:cargo/fraiseql-error@2.1.4
