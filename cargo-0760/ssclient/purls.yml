@@ -2,3 +2,4 @@
 - pkg:cargo/ssclient@0.99.0
 - pkg:cargo/ssclient@0.99.1
 - pkg:cargo/ssclient@2.0.0
+- pkg:cargo/ssclient@2.0.1
