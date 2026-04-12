@@ -12,3 +12,4 @@
 - pkg:cargo/lo_cli@0.4.3
 - pkg:cargo/lo_cli@0.4.4
 - pkg:cargo/lo_cli@0.4.5
+- pkg:cargo/lo_cli@0.4.6

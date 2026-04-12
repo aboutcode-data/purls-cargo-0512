@@ -14,6 +14,8 @@
 - pkg:cargo/nu-engine@0.109.1
 - pkg:cargo/nu-engine@0.110.0
 - pkg:cargo/nu-engine@0.111.0
+- pkg:cargo/nu-engine@0.112.0
+- pkg:cargo/nu-engine@0.112.1
 - pkg:cargo/nu-engine@0.26.0
 - pkg:cargo/nu-engine@0.27.0
 - pkg:cargo/nu-engine@0.27.1
