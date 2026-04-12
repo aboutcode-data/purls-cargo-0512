@@ -13,6 +13,7 @@
 - pkg:cargo/greentic-oauth-client@0.4.21
 - pkg:cargo/greentic-oauth-client@0.4.22
 - pkg:cargo/greentic-oauth-client@0.4.25
+- pkg:cargo/greentic-oauth-client@0.4.31
 - pkg:cargo/greentic-oauth-client@0.4.4
 - pkg:cargo/greentic-oauth-client@0.4.6
 - pkg:cargo/greentic-oauth-client@0.4.7
