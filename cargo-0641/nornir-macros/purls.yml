@@ -5,3 +5,4 @@
 - pkg:cargo/nornir-macros@0.1.0-alpha.5
 - pkg:cargo/nornir-macros@0.1.0-alpha.6
 - pkg:cargo/nornir-macros@0.1.0-alpha.9
+- pkg:cargo/nornir-macros@1.0.0-RC.1
