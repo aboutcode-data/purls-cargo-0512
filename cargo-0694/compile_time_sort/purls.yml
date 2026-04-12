@@ -33,3 +33,4 @@
 - pkg:cargo/compile_time_sort@1.2.4
 - pkg:cargo/compile_time_sort@1.3.0
 - pkg:cargo/compile_time_sort@1.4.0
+- pkg:cargo/compile_time_sort@1.4.1

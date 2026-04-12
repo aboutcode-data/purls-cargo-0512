@@ -15,3 +15,4 @@
 - pkg:cargo/tishlang_llvm@1.4.2
 - pkg:cargo/tishlang_llvm@1.5.0
 - pkg:cargo/tishlang_llvm@1.6.0
+- pkg:cargo/tishlang_llvm@1.7.0
