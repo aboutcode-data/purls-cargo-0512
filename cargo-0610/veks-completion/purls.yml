@@ -3,3 +3,4 @@
 - pkg:cargo/veks-completion@0.12.0
 - pkg:cargo/veks-completion@0.13.0
 - pkg:cargo/veks-completion@0.14.0
+- pkg:cargo/veks-completion@0.16.0
