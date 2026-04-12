@@ -11,3 +11,4 @@
 - pkg:cargo/relay-cli@0.2.0-alpha.7
 - pkg:cargo/relay-cli@0.2.0-beta.0
 - pkg:cargo/relay-cli@0.2.0-beta.1
+- pkg:cargo/relay-cli@0.2.0-beta.2

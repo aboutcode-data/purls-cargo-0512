@@ -14,6 +14,7 @@
 - pkg:cargo/hashtree-fs@0.2.3
 - pkg:cargo/hashtree-fs@0.2.30
 - pkg:cargo/hashtree-fs@0.2.31
+- pkg:cargo/hashtree-fs@0.2.33
 - pkg:cargo/hashtree-fs@0.2.4
 - pkg:cargo/hashtree-fs@0.2.5
 - pkg:cargo/hashtree-fs@0.2.6
