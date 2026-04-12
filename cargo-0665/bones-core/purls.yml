@@ -13,3 +13,4 @@
 - pkg:cargo/bones-core@0.23.1
 - pkg:cargo/bones-core@0.23.2
 - pkg:cargo/bones-core@0.23.3
+- pkg:cargo/bones-core@0.24.0
