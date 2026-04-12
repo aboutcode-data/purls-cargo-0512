@@ -5,3 +5,5 @@
 - pkg:cargo/handlebars_switch@0.5.0
 - pkg:cargo/handlebars_switch@0.6.0
 - pkg:cargo/handlebars_switch@0.7.0
+- pkg:cargo/handlebars_switch@1.0.0
+- pkg:cargo/handlebars_switch@1.0.2
