@@ -60,3 +60,5 @@
 - pkg:cargo/sdd@4.7.3
 - pkg:cargo/sdd@4.7.4
 - pkg:cargo/sdd@4.7.5
+- pkg:cargo/sdd@4.8.0
+- pkg:cargo/sdd@4.8.1
