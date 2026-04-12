@@ -4,3 +4,4 @@
 - pkg:cargo/socketioxide-parser-common@0.16.0
 - pkg:cargo/socketioxide-parser-common@0.16.1
 - pkg:cargo/socketioxide-parser-common@0.17.0
+- pkg:cargo/socketioxide-parser-common@0.17.1
