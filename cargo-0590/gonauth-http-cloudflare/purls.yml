@@ -1,2 +1,5 @@
+- pkg:cargo/gonauth-http-cloudflare@0.0.10
 - pkg:cargo/gonauth-http-cloudflare@0.0.7
 - pkg:cargo/gonauth-http-cloudflare@0.0.8
+- pkg:cargo/gonauth-http-cloudflare@0.1.0
+- pkg:cargo/gonauth-http-cloudflare@0.1.1
