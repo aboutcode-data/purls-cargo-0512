@@ -8,3 +8,4 @@
 - pkg:cargo/tauri-plugin-background-service@0.2.4
 - pkg:cargo/tauri-plugin-background-service@0.3.1
 - pkg:cargo/tauri-plugin-background-service@0.4.0
+- pkg:cargo/tauri-plugin-background-service@0.5.0
