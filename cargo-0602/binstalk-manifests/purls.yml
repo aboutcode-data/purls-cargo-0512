@@ -71,6 +71,7 @@
 - pkg:cargo/binstalk-manifests@0.17.7
 - pkg:cargo/binstalk-manifests@0.17.8
 - pkg:cargo/binstalk-manifests@0.17.9
+- pkg:cargo/binstalk-manifests@0.18.0
 - pkg:cargo/binstalk-manifests@0.2.0
 - pkg:cargo/binstalk-manifests@0.3.0
 - pkg:cargo/binstalk-manifests@0.4.0
