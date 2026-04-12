@@ -19,3 +19,6 @@
 - pkg:cargo/donder-release@1.5.3
 - pkg:cargo/donder-release@1.5.3-beta.1
 - pkg:cargo/donder-release@1.5.4
+- pkg:cargo/donder-release@1.5.5
+- pkg:cargo/donder-release@2.0.0-beta.0
+- pkg:cargo/donder-release@2.0.0-beta.1
