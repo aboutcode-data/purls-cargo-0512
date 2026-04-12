@@ -70,6 +70,8 @@
 - pkg:cargo/fallow-core@2.27.5
 - pkg:cargo/fallow-core@2.27.6
 - pkg:cargo/fallow-core@2.28.0
+- pkg:cargo/fallow-core@2.28.1
+- pkg:cargo/fallow-core@2.28.2
 - pkg:cargo/fallow-core@2.3.0
 - pkg:cargo/fallow-core@2.3.1
 - pkg:cargo/fallow-core@2.4.0
