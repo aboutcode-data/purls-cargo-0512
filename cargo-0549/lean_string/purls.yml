@@ -9,3 +9,4 @@
 - pkg:cargo/lean_string@0.5.1
 - pkg:cargo/lean_string@0.5.2
 - pkg:cargo/lean_string@0.5.3
+- pkg:cargo/lean_string@0.6.0

@@ -4,6 +4,7 @@
 - pkg:cargo/routa-rpc@0.13.0
 - pkg:cargo/routa-rpc@0.14.0
 - pkg:cargo/routa-rpc@0.14.1
+- pkg:cargo/routa-rpc@0.14.2
 - pkg:cargo/routa-rpc@0.2.10
 - pkg:cargo/routa-rpc@0.2.11
 - pkg:cargo/routa-rpc@0.2.4
