@@ -16,3 +16,4 @@
 - pkg:cargo/vlsvrs@0.9.6
 - pkg:cargo/vlsvrs@0.9.8
 - pkg:cargo/vlsvrs@0.9.9
+- pkg:cargo/vlsvrs@1.0.0
