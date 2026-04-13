@@ -6,6 +6,7 @@
 - pkg:cargo/nj@0.0.16
 - pkg:cargo/nj@0.0.17
 - pkg:cargo/nj@0.0.18
+- pkg:cargo/nj@0.0.19
 - pkg:cargo/nj@0.0.3
 - pkg:cargo/nj@0.0.7
 - pkg:cargo/nj@0.0.8
