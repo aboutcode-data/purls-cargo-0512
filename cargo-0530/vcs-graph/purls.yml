@@ -1,1 +1,2 @@
 - pkg:cargo/vcs-graph@3.4.0
+- pkg:cargo/vcs-graph@3.5.0

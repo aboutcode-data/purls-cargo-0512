@@ -81,6 +81,7 @@
 - pkg:cargo/openssl-sys@0.9.110
 - pkg:cargo/openssl-sys@0.9.111
 - pkg:cargo/openssl-sys@0.9.112
+- pkg:cargo/openssl-sys@0.9.113
 - pkg:cargo/openssl-sys@0.9.12
 - pkg:cargo/openssl-sys@0.9.13
 - pkg:cargo/openssl-sys@0.9.14
