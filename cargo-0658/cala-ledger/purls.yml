@@ -56,6 +56,7 @@
 - pkg:cargo/cala-ledger@0.14.4
 - pkg:cargo/cala-ledger@0.14.5
 - pkg:cargo/cala-ledger@0.15.0
+- pkg:cargo/cala-ledger@0.15.1
 - pkg:cargo/cala-ledger@0.2.0
 - pkg:cargo/cala-ledger@0.2.1
 - pkg:cargo/cala-ledger@0.2.10
