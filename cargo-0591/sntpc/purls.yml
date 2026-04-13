@@ -21,3 +21,4 @@
 - pkg:cargo/sntpc@0.7.0
 - pkg:cargo/sntpc@0.8.0
 - pkg:cargo/sntpc@0.8.1
+- pkg:cargo/sntpc@0.9.0
