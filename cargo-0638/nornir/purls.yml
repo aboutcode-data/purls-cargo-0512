@@ -7,6 +7,7 @@
 - pkg:cargo/nornir@0.1.0-alpha.6
 - pkg:cargo/nornir@0.1.0-alpha.7
 - pkg:cargo/nornir@0.1.0-alpha.9
+- pkg:cargo/nornir@1.0.0
 - pkg:cargo/nornir@1.0.0-RC.1
 - pkg:cargo/nornir@1.0.0-RC.2
 - pkg:cargo/nornir@1.0.0-RC.3

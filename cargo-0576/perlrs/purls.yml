@@ -37,3 +37,6 @@
 - pkg:cargo/perlrs@0.1.6
 - pkg:cargo/perlrs@0.1.9
 - pkg:cargo/perlrs@0.2.0
+- pkg:cargo/perlrs@0.2.2
+- pkg:cargo/perlrs@0.2.3
+- pkg:cargo/perlrs@0.2.4
