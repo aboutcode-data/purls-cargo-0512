@@ -5,6 +5,9 @@
 - pkg:cargo/xos@0.1.22
 - pkg:cargo/xos@0.3.10
 - pkg:cargo/xos@0.3.11
+- pkg:cargo/xos@0.3.12
+- pkg:cargo/xos@0.3.13
+- pkg:cargo/xos@0.3.15
 - pkg:cargo/xos@0.3.3
 - pkg:cargo/xos@0.3.5
 - pkg:cargo/xos@0.3.6
