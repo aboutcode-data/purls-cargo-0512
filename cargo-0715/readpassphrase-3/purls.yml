@@ -67,3 +67,4 @@
 - pkg:cargo/readpassphrase-3@1.0.0-pre.6
 - pkg:cargo/readpassphrase-3@1.0.1
 - pkg:cargo/readpassphrase-3@1.0.2
+- pkg:cargo/readpassphrase-3@2.0.0-pre.0
