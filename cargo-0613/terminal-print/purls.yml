@@ -7,3 +7,4 @@
 - pkg:cargo/terminal-print@0.3.12-rc0
 - pkg:cargo/terminal-print@0.3.12-rc1
 - pkg:cargo/terminal-print@0.3.6
+- pkg:cargo/terminal-print@0.5.0
