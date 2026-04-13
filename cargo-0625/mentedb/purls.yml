@@ -9,3 +9,4 @@
 - pkg:cargo/mentedb@0.3.2
 - pkg:cargo/mentedb@0.4.1
 - pkg:cargo/mentedb@0.4.2
+- pkg:cargo/mentedb@0.5.0
