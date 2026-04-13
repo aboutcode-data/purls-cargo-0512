@@ -45,3 +45,4 @@
 - pkg:cargo/jieba-rs@0.7.4
 - pkg:cargo/jieba-rs@0.8.0
 - pkg:cargo/jieba-rs@0.8.1
+- pkg:cargo/jieba-rs@0.9.0
