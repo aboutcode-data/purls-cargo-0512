@@ -6,6 +6,7 @@
 - pkg:cargo/mvt@0.10.3
 - pkg:cargo/mvt@0.11.0
 - pkg:cargo/mvt@0.12.0
+- pkg:cargo/mvt@0.13.0
 - pkg:cargo/mvt@0.2.0
 - pkg:cargo/mvt@0.3.0
 - pkg:cargo/mvt@0.4.0
