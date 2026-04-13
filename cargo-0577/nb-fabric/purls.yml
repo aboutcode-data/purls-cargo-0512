@@ -7,4 +7,5 @@
 - pkg:cargo/nb-fabric@0.4.4
 - pkg:cargo/nb-fabric@0.4.5
 - pkg:cargo/nb-fabric@0.5.0
+- pkg:cargo/nb-fabric@0.6.0
 - pkg:cargo/nb-fabric@1.0.0
