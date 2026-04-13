@@ -10,3 +10,5 @@
 - pkg:cargo/cfgmatic-merge@3.0.0
 - pkg:cargo/cfgmatic-merge@3.0.1
 - pkg:cargo/cfgmatic-merge@4.0.0
+- pkg:cargo/cfgmatic-merge@5.0.0
+- pkg:cargo/cfgmatic-merge@5.0.1

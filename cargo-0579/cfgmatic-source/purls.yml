@@ -3,3 +3,5 @@
 - pkg:cargo/cfgmatic-source@3.0.0
 - pkg:cargo/cfgmatic-source@3.0.1
 - pkg:cargo/cfgmatic-source@4.0.0
+- pkg:cargo/cfgmatic-source@5.0.0
+- pkg:cargo/cfgmatic-source@5.0.1
