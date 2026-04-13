@@ -14,5 +14,7 @@
 - pkg:cargo/TuiWeather@0.2.22
 - pkg:cargo/TuiWeather@0.2.26
 - pkg:cargo/TuiWeather@0.2.31
+- pkg:cargo/TuiWeather@0.2.32
+- pkg:cargo/TuiWeather@0.2.33
 - pkg:cargo/TuiWeather@0.2.7
 - pkg:cargo/TuiWeather@0.2.8
