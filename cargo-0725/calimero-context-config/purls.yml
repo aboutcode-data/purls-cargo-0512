@@ -55,6 +55,7 @@
 - pkg:cargo/calimero-context-config@0.10.1-rc.20
 - pkg:cargo/calimero-context-config@0.10.1-rc.21
 - pkg:cargo/calimero-context-config@0.10.1-rc.23
+- pkg:cargo/calimero-context-config@0.10.1-rc.24
 - pkg:cargo/calimero-context-config@0.10.1-rc.3
 - pkg:cargo/calimero-context-config@0.10.1-rc.6
 - pkg:cargo/calimero-context-config@0.10.1-rc.7

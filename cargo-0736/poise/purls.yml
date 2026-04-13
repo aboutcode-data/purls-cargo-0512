@@ -18,3 +18,4 @@
 - pkg:cargo/poise@0.6.0-rc1
 - pkg:cargo/poise@0.6.1
 - pkg:cargo/poise@0.6.1-rc1
+- pkg:cargo/poise@0.6.2
