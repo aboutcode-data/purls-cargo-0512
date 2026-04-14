@@ -10,6 +10,7 @@
 - pkg:cargo/greentic-interfaces-host@0.4.110
 - pkg:cargo/greentic-interfaces-host@0.4.111
 - pkg:cargo/greentic-interfaces-host@0.4.112
+- pkg:cargo/greentic-interfaces-host@0.4.113
 - pkg:cargo/greentic-interfaces-host@0.4.34
 - pkg:cargo/greentic-interfaces-host@0.4.35
 - pkg:cargo/greentic-interfaces-host@0.4.36

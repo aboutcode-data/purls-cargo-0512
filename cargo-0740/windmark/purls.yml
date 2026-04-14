@@ -42,3 +42,4 @@
 - pkg:cargo/windmark@0.4.0
 - pkg:cargo/windmark@0.4.1
 - pkg:cargo/windmark@0.4.2
+- pkg:cargo/windmark@0.5.0
