@@ -1,4 +1,5 @@
 - pkg:cargo/opentalk-roomserver-crypto-provider@0.0.29
 - pkg:cargo/opentalk-roomserver-crypto-provider@0.0.31
 - pkg:cargo/opentalk-roomserver-crypto-provider@0.0.32
+- pkg:cargo/opentalk-roomserver-crypto-provider@0.0.33
 - pkg:cargo/opentalk-roomserver-crypto-provider@0.0.34-alpha
