@@ -47,3 +47,4 @@
 - pkg:cargo/perspective-client@4.2.0
 - pkg:cargo/perspective-client@4.3.0
 - pkg:cargo/perspective-client@4.4.0
+- pkg:cargo/perspective-client@4.4.1
