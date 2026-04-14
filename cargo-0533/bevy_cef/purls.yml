@@ -11,3 +11,4 @@
 - pkg:cargo/bevy_cef@0.5.4
 - pkg:cargo/bevy_cef@0.6.0
 - pkg:cargo/bevy_cef@0.7.0
+- pkg:cargo/bevy_cef@0.8.0
