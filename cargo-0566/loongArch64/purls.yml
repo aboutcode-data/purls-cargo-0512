@@ -4,3 +4,4 @@
 - pkg:cargo/loongArch64@0.2.2
 - pkg:cargo/loongArch64@0.2.4
 - pkg:cargo/loongArch64@0.2.5
+- pkg:cargo/loongArch64@0.2.6
