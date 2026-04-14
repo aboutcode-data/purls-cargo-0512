@@ -30,3 +30,4 @@
 - pkg:cargo/gptman@2.0.1
 - pkg:cargo/gptman@2.0.2
 - pkg:cargo/gptman@3.0.0
+- pkg:cargo/gptman@3.1.0
