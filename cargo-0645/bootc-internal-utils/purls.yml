@@ -1,3 +1,4 @@
 - pkg:cargo/bootc-internal-utils@0.0.0
 - pkg:cargo/bootc-internal-utils@0.1.0
 - pkg:cargo/bootc-internal-utils@1.15.0
+- pkg:cargo/bootc-internal-utils@1.15.1

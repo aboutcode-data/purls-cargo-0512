@@ -22,3 +22,4 @@
 - pkg:cargo/charms-client@11.0.1
 - pkg:cargo/charms-client@12.0.0
 - pkg:cargo/charms-client@12.0.1
+- pkg:cargo/charms-client@13.0.0
