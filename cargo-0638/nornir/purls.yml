@@ -11,3 +11,4 @@
 - pkg:cargo/nornir@1.0.0-RC.1
 - pkg:cargo/nornir@1.0.0-RC.2
 - pkg:cargo/nornir@1.0.0-RC.3
+- pkg:cargo/nornir@1.0.1
