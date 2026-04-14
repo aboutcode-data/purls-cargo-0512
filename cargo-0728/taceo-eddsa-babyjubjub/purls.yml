@@ -3,3 +3,4 @@
 - pkg:cargo/taceo-eddsa-babyjubjub@0.5.2
 - pkg:cargo/taceo-eddsa-babyjubjub@0.5.3
 - pkg:cargo/taceo-eddsa-babyjubjub@0.5.4
+- pkg:cargo/taceo-eddsa-babyjubjub@0.5.5
