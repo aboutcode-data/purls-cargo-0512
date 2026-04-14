@@ -43,6 +43,7 @@
 - pkg:cargo/llama-cpp-sys-4@0.2.41
 - pkg:cargo/llama-cpp-sys-4@0.2.42
 - pkg:cargo/llama-cpp-sys-4@0.2.43
+- pkg:cargo/llama-cpp-sys-4@0.2.44
 - pkg:cargo/llama-cpp-sys-4@0.2.5
 - pkg:cargo/llama-cpp-sys-4@0.2.6
 - pkg:cargo/llama-cpp-sys-4@0.2.7
