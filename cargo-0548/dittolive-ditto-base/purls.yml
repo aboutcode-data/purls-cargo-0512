@@ -191,3 +191,4 @@
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-transports-android-module.5
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-transports-android-module.6
 - pkg:cargo/dittolive-ditto-base@5.1.0-experimental-transports-android-module.7
+- pkg:cargo/dittolive-ditto-base@5.1.0-experimental-windows-runner-fix.1
