@@ -1,2 +1,4 @@
 - pkg:cargo/kafkalite-server@0.1.0
 - pkg:cargo/kafkalite-server@1.0.0
+- pkg:cargo/kafkalite-server@1.0.1
+- pkg:cargo/kafkalite-server@1.0.2
