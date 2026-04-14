@@ -1,3 +1,4 @@
 - pkg:cargo/langmail@0.5.1
 - pkg:cargo/langmail@0.6.0
 - pkg:cargo/langmail@0.7.0
+- pkg:cargo/langmail@0.8.0
