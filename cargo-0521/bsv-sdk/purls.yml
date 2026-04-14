@@ -19,3 +19,5 @@
 - pkg:cargo/bsv-sdk@0.2.5
 - pkg:cargo/bsv-sdk@0.2.6
 - pkg:cargo/bsv-sdk@0.2.7
+- pkg:cargo/bsv-sdk@0.2.8
+- pkg:cargo/bsv-sdk@0.2.81
