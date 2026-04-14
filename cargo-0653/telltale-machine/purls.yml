@@ -5,6 +5,7 @@
 - pkg:cargo/telltale-machine@11.3.0
 - pkg:cargo/telltale-machine@12.0.0
 - pkg:cargo/telltale-machine@13.0.0
+- pkg:cargo/telltale-machine@14.0.0
 - pkg:cargo/telltale-machine@7.0.0
 - pkg:cargo/telltale-machine@8.0.0
 - pkg:cargo/telltale-machine@9.0.0
