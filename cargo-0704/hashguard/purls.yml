@@ -27,3 +27,4 @@
 - pkg:cargo/hashguard@4.0.3
 - pkg:cargo/hashguard@4.1.0
 - pkg:cargo/hashguard@5.0.0
+- pkg:cargo/hashguard@5.0.1
