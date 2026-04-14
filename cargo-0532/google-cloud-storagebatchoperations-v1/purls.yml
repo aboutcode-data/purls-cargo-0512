@@ -17,3 +17,4 @@
 - pkg:cargo/google-cloud-storagebatchoperations-v1@1.6.0
 - pkg:cargo/google-cloud-storagebatchoperations-v1@1.7.0
 - pkg:cargo/google-cloud-storagebatchoperations-v1@1.8.0
+- pkg:cargo/google-cloud-storagebatchoperations-v1@1.9.0
