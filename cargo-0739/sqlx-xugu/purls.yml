@@ -3,3 +3,4 @@
 - pkg:cargo/sqlx-xugu@0.8.6-1
 - pkg:cargo/sqlx-xugu@0.8.6-2
 - pkg:cargo/sqlx-xugu@0.8.6-3
+- pkg:cargo/sqlx-xugu@0.8.7
