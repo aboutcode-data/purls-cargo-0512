@@ -8,3 +8,7 @@
 - pkg:cargo/icydb-cli@0.80.1
 - pkg:cargo/icydb-cli@0.80.2
 - pkg:cargo/icydb-cli@0.80.3
+- pkg:cargo/icydb-cli@0.81.1
+- pkg:cargo/icydb-cli@0.81.2
+- pkg:cargo/icydb-cli@0.81.3
+- pkg:cargo/icydb-cli@0.82.0
