@@ -33,6 +33,7 @@
 - pkg:cargo/ferrflow@2.23.0
 - pkg:cargo/ferrflow@2.24.0
 - pkg:cargo/ferrflow@2.25.0
+- pkg:cargo/ferrflow@2.26.0
 - pkg:cargo/ferrflow@2.3.0
 - pkg:cargo/ferrflow@2.4.0
 - pkg:cargo/ferrflow@2.5.0
