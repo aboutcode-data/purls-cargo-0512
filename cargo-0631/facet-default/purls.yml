@@ -12,3 +12,4 @@
 - pkg:cargo/facet-default@0.44.4
 - pkg:cargo/facet-default@0.44.5
 - pkg:cargo/facet-default@0.44.6
+- pkg:cargo/facet-default@0.46.0

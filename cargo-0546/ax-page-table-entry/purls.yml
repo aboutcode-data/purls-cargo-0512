@@ -1,1 +1,2 @@
 - pkg:cargo/ax-page-table-entry@0.8.1
+- pkg:cargo/ax-page-table-entry@0.8.2

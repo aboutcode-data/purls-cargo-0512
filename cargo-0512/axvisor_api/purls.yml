@@ -4,3 +4,4 @@
 - pkg:cargo/axvisor_api@0.3.0
 - pkg:cargo/axvisor_api@0.5.0
 - pkg:cargo/axvisor_api@0.5.1
+- pkg:cargo/axvisor_api@0.5.2
