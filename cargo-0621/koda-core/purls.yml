@@ -24,6 +24,7 @@
 - pkg:cargo/koda-core@0.2.10
 - pkg:cargo/koda-core@0.2.11
 - pkg:cargo/koda-core@0.2.12
+- pkg:cargo/koda-core@0.2.13
 - pkg:cargo/koda-core@0.2.2
 - pkg:cargo/koda-core@0.2.3
 - pkg:cargo/koda-core@0.2.4
