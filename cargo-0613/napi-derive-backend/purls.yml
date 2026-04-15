@@ -135,3 +135,4 @@
 - pkg:cargo/napi-derive-backend@5.0.0
 - pkg:cargo/napi-derive-backend@5.0.1
 - pkg:cargo/napi-derive-backend@5.0.2
+- pkg:cargo/napi-derive-backend@5.0.3
