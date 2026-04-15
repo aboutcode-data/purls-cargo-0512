@@ -59,6 +59,7 @@
 - pkg:cargo/television@0.14.5
 - pkg:cargo/television@0.15.4
 - pkg:cargo/television@0.15.5
+- pkg:cargo/television@0.15.6
 - pkg:cargo/television@0.2.13
 - pkg:cargo/television@0.3.13
 - pkg:cargo/television@0.4.14
