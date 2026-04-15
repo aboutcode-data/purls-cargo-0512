@@ -7,3 +7,4 @@
 - pkg:cargo/agent-x@0.4.0
 - pkg:cargo/agent-x@0.5.1
 - pkg:cargo/agent-x@0.5.3
+- pkg:cargo/agent-x@0.5.4
