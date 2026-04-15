@@ -130,3 +130,4 @@
 - pkg:cargo/harn-vm@0.7.4
 - pkg:cargo/harn-vm@0.7.5
 - pkg:cargo/harn-vm@0.7.6
+- pkg:cargo/harn-vm@0.7.7
