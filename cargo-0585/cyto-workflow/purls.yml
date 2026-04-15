@@ -1,3 +1,4 @@
 - pkg:cargo/cyto-workflow@0.2.21
 - pkg:cargo/cyto-workflow@0.2.22
 - pkg:cargo/cyto-workflow@0.3.0
+- pkg:cargo/cyto-workflow@0.3.1
