@@ -20,3 +20,4 @@
 - pkg:cargo/arbhx-vfs@0.4.3
 - pkg:cargo/arbhx-vfs@0.4.4
 - pkg:cargo/arbhx-vfs@0.4.5
+- pkg:cargo/arbhx-vfs@1.0.0
