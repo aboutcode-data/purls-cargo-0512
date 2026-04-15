@@ -2,3 +2,4 @@
 - pkg:cargo/caesura_macros@0.27.1
 - pkg:cargo/caesura_macros@0.27.2
 - pkg:cargo/caesura_macros@0.28.0
+- pkg:cargo/caesura_macros@0.29.0

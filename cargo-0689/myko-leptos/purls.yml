@@ -32,3 +32,6 @@
 - pkg:cargo/myko-leptos@4.6.1
 - pkg:cargo/myko-leptos@4.6.2
 - pkg:cargo/myko-leptos@4.6.3
+- pkg:cargo/myko-leptos@4.7.0
+- pkg:cargo/myko-leptos@4.7.1
+- pkg:cargo/myko-leptos@4.7.2
