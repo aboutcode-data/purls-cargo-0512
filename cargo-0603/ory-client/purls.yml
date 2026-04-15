@@ -281,6 +281,7 @@
 - pkg:cargo/ory-client@1.22.32
 - pkg:cargo/ory-client@1.22.33
 - pkg:cargo/ory-client@1.22.34
+- pkg:cargo/ory-client@1.22.35
 - pkg:cargo/ory-client@1.22.4
 - pkg:cargo/ory-client@1.22.5
 - pkg:cargo/ory-client@1.22.6
