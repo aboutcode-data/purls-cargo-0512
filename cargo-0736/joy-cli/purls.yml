@@ -1,6 +1,7 @@
 - pkg:cargo/joy-cli@0.10.0
 - pkg:cargo/joy-cli@0.10.1
 - pkg:cargo/joy-cli@0.10.2
+- pkg:cargo/joy-cli@0.10.5
 - pkg:cargo/joy-cli@0.8.0
 - pkg:cargo/joy-cli@0.8.1
 - pkg:cargo/joy-cli@0.8.2

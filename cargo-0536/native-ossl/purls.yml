@@ -1,1 +1,2 @@
 - pkg:cargo/native-ossl@0.1.0
+- pkg:cargo/native-ossl@0.1.1
