@@ -3,3 +3,4 @@
 - pkg:cargo/adk-plugin@0.3.2
 - pkg:cargo/adk-plugin@0.4.0
 - pkg:cargo/adk-plugin@0.5.0
+- pkg:cargo/adk-plugin@0.6.0
