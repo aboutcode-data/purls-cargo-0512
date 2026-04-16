@@ -3,3 +3,4 @@
 - pkg:cargo/protosol@5.3.0
 - pkg:cargo/protosol@5.5.0-beta.0
 - pkg:cargo/protosol@5.5.0-beta.1
+- pkg:cargo/protosol@5.6.0
