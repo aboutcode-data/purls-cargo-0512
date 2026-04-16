@@ -8,3 +8,4 @@
 - pkg:cargo/oxc_estree_tokens@0.123.0
 - pkg:cargo/oxc_estree_tokens@0.124.0
 - pkg:cargo/oxc_estree_tokens@0.125.0
+- pkg:cargo/oxc_estree_tokens@0.126.0
