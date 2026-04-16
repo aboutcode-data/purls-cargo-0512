@@ -1,1 +1,2 @@
 - pkg:cargo/midenc-frontend-wasm-metadata@0.1.0
+- pkg:cargo/midenc-frontend-wasm-metadata@0.12.0

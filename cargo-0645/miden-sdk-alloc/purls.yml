@@ -8,6 +8,7 @@
 - pkg:cargo/miden-sdk-alloc@0.1.5
 - pkg:cargo/miden-sdk-alloc@0.10.0
 - pkg:cargo/miden-sdk-alloc@0.11.0
+- pkg:cargo/miden-sdk-alloc@0.12.0
 - pkg:cargo/miden-sdk-alloc@0.4.0
 - pkg:cargo/miden-sdk-alloc@0.4.1
 - pkg:cargo/miden-sdk-alloc@0.5.0
