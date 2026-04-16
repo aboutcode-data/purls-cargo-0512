@@ -2,3 +2,6 @@
 - pkg:cargo/forgellm-codegen-gpu@0.2.0
 - pkg:cargo/forgellm-codegen-gpu@0.3.0
 - pkg:cargo/forgellm-codegen-gpu@0.5.2
+- pkg:cargo/forgellm-codegen-gpu@0.6.0
+- pkg:cargo/forgellm-codegen-gpu@0.6.1
+- pkg:cargo/forgellm-codegen-gpu@0.6.2
