@@ -15,3 +15,4 @@
 - pkg:cargo/polygon_unionfind@0.5.5
 - pkg:cargo/polygon_unionfind@0.5.6
 - pkg:cargo/polygon_unionfind@0.5.7
+- pkg:cargo/polygon_unionfind@0.6.0
