@@ -12,3 +12,4 @@
 - pkg:cargo/webrtc-audio-processing-sys@2.0.1
 - pkg:cargo/webrtc-audio-processing-sys@2.0.2
 - pkg:cargo/webrtc-audio-processing-sys@2.0.3
+- pkg:cargo/webrtc-audio-processing-sys@2.0.4
