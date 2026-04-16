@@ -5,3 +5,5 @@
 - pkg:cargo/starry-signal@0.5.2
 - pkg:cargo/starry-signal@0.5.3
 - pkg:cargo/starry-signal@0.5.5
+- pkg:cargo/starry-signal@0.5.6
+- pkg:cargo/starry-signal@0.5.7
