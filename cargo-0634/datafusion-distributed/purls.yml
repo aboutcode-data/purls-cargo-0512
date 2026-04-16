@@ -1,1 +1,2 @@
 - pkg:cargo/datafusion-distributed@0.1.0
+- pkg:cargo/datafusion-distributed@1.0.0
