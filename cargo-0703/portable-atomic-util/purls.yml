@@ -11,3 +11,4 @@
 - pkg:cargo/portable-atomic-util@0.2.4
 - pkg:cargo/portable-atomic-util@0.2.5
 - pkg:cargo/portable-atomic-util@0.2.6
+- pkg:cargo/portable-atomic-util@0.2.7
