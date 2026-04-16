@@ -16,6 +16,7 @@
 - pkg:cargo/nu-pretty-hex@0.111.0
 - pkg:cargo/nu-pretty-hex@0.112.0
 - pkg:cargo/nu-pretty-hex@0.112.1
+- pkg:cargo/nu-pretty-hex@0.112.2
 - pkg:cargo/nu-pretty-hex@0.31.0
 - pkg:cargo/nu-pretty-hex@0.32.0
 - pkg:cargo/nu-pretty-hex@0.33.0

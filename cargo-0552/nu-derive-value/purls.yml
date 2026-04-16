@@ -16,6 +16,7 @@
 - pkg:cargo/nu-derive-value@0.111.0
 - pkg:cargo/nu-derive-value@0.112.0
 - pkg:cargo/nu-derive-value@0.112.1
+- pkg:cargo/nu-derive-value@0.112.2
 - pkg:cargo/nu-derive-value@0.95.0
 - pkg:cargo/nu-derive-value@0.96.0
 - pkg:cargo/nu-derive-value@0.96.1
