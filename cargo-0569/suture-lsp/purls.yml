@@ -2,3 +2,4 @@
 - pkg:cargo/suture-lsp@0.8.0
 - pkg:cargo/suture-lsp@1.0.0
 - pkg:cargo/suture-lsp@1.0.0-rc.1
+- pkg:cargo/suture-lsp@1.1.0
