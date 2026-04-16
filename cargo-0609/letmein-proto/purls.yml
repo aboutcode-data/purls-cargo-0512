@@ -13,6 +13,7 @@
 - pkg:cargo/letmein-proto@12.0.0
 - pkg:cargo/letmein-proto@12.1.0
 - pkg:cargo/letmein-proto@12.1.1
+- pkg:cargo/letmein-proto@12.2.0
 - pkg:cargo/letmein-proto@2.0.0
 - pkg:cargo/letmein-proto@3.0.0
 - pkg:cargo/letmein-proto@4.0.0
