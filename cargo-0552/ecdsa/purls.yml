@@ -75,6 +75,7 @@
 - pkg:cargo/ecdsa@0.17.0-rc.14
 - pkg:cargo/ecdsa@0.17.0-rc.15
 - pkg:cargo/ecdsa@0.17.0-rc.16
+- pkg:cargo/ecdsa@0.17.0-rc.17
 - pkg:cargo/ecdsa@0.17.0-rc.2
 - pkg:cargo/ecdsa@0.17.0-rc.3
 - pkg:cargo/ecdsa@0.17.0-rc.4
