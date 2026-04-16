@@ -33,6 +33,7 @@
 - pkg:cargo/reactive_graph@0.2.11
 - pkg:cargo/reactive_graph@0.2.12
 - pkg:cargo/reactive_graph@0.2.13
+- pkg:cargo/reactive_graph@0.2.14
 - pkg:cargo/reactive_graph@0.2.2
 - pkg:cargo/reactive_graph@0.2.3
 - pkg:cargo/reactive_graph@0.2.4
