@@ -1,3 +1,4 @@
 - pkg:cargo/ax-kernel-guard@0.3.3
 - pkg:cargo/ax-kernel-guard@0.3.4
 - pkg:cargo/ax-kernel-guard@0.3.6
+- pkg:cargo/ax-kernel-guard@0.3.7
