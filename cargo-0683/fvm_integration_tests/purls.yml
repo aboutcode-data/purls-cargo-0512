@@ -36,3 +36,4 @@
 - pkg:cargo/fvm_integration_tests@4.7.2
 - pkg:cargo/fvm_integration_tests@4.7.3
 - pkg:cargo/fvm_integration_tests@4.7.4
+- pkg:cargo/fvm_integration_tests@4.8.1
