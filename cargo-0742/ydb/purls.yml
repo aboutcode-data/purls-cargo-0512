@@ -25,6 +25,7 @@
 - pkg:cargo/ydb@0.10.2
 - pkg:cargo/ydb@0.10.3
 - pkg:cargo/ydb@0.10.4
+- pkg:cargo/ydb@0.11.0
 - pkg:cargo/ydb@0.2.0
 - pkg:cargo/ydb@0.3.0
 - pkg:cargo/ydb@0.4.0
