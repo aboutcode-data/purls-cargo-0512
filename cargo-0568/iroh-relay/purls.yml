@@ -20,3 +20,4 @@
 - pkg:cargo/iroh-relay@0.96.0
 - pkg:cargo/iroh-relay@0.96.1
 - pkg:cargo/iroh-relay@0.97.0
+- pkg:cargo/iroh-relay@0.98.0
