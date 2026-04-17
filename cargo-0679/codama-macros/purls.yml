@@ -21,3 +21,4 @@
 - pkg:cargo/codama-macros@0.7.4
 - pkg:cargo/codama-macros@0.8.0
 - pkg:cargo/codama-macros@0.9.0
+- pkg:cargo/codama-macros@0.9.1
