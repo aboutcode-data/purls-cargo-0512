@@ -25,3 +25,4 @@
 - pkg:cargo/mlux@1.7.0
 - pkg:cargo/mlux@2.0.0
 - pkg:cargo/mlux@2.1.0
+- pkg:cargo/mlux@2.2.1
