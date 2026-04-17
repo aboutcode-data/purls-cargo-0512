@@ -1,1 +1,2 @@
 - pkg:cargo/swink-agent-local-llm@0.7.7
+- pkg:cargo/swink-agent-local-llm@0.7.8

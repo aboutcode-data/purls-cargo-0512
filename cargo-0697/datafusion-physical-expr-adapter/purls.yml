@@ -9,3 +9,4 @@
 - pkg:cargo/datafusion-physical-expr-adapter@52.4.0
 - pkg:cargo/datafusion-physical-expr-adapter@52.5.0
 - pkg:cargo/datafusion-physical-expr-adapter@53.0.0
+- pkg:cargo/datafusion-physical-expr-adapter@53.1.0
