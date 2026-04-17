@@ -26,3 +26,4 @@
 - pkg:cargo/wg@0.9.1
 - pkg:cargo/wg@0.9.2
 - pkg:cargo/wg@1.0.0
+- pkg:cargo/wg@1.0.1
