@@ -1,1 +1,4 @@
 - pkg:cargo/rust-pattern-macros@0.1.0
+- pkg:cargo/rust-pattern-macros@0.1.1
+- pkg:cargo/rust-pattern-macros@0.1.2
+- pkg:cargo/rust-pattern-macros@0.1.3
