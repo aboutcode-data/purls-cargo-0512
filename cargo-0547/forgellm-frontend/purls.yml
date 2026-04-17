@@ -7,3 +7,5 @@
 - pkg:cargo/forgellm-frontend@0.6.2
 - pkg:cargo/forgellm-frontend@0.6.3
 - pkg:cargo/forgellm-frontend@0.6.4
+- pkg:cargo/forgellm-frontend@0.6.5
+- pkg:cargo/forgellm-frontend@0.6.6
