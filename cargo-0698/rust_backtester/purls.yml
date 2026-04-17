@@ -1,1 +1,2 @@
 - pkg:cargo/rust_backtester@0.4.0
+- pkg:cargo/rust_backtester@0.4.1

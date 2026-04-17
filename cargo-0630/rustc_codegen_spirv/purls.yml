@@ -1,4 +1,5 @@
 - pkg:cargo/rustc_codegen_spirv@0.1.0
+- pkg:cargo/rustc_codegen_spirv@0.10.0-alpha.1
 - pkg:cargo/rustc_codegen_spirv@0.4.0
 - pkg:cargo/rustc_codegen_spirv@0.4.0-alpha.13
 - pkg:cargo/rustc_codegen_spirv@0.4.0-alpha.14
