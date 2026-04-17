@@ -51,6 +51,7 @@
 - pkg:cargo/s2-cli@0.29.3
 - pkg:cargo/s2-cli@0.29.30
 - pkg:cargo/s2-cli@0.29.31
+- pkg:cargo/s2-cli@0.29.32
 - pkg:cargo/s2-cli@0.29.4
 - pkg:cargo/s2-cli@0.29.5
 - pkg:cargo/s2-cli@0.29.6
