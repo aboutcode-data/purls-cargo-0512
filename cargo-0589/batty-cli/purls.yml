@@ -9,6 +9,8 @@
 - pkg:cargo/batty-cli@0.11.15
 - pkg:cargo/batty-cli@0.11.16
 - pkg:cargo/batty-cli@0.11.17
+- pkg:cargo/batty-cli@0.11.18
+- pkg:cargo/batty-cli@0.11.19
 - pkg:cargo/batty-cli@0.11.2
 - pkg:cargo/batty-cli@0.11.3
 - pkg:cargo/batty-cli@0.11.7
