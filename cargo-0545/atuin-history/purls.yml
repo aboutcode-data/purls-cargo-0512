@@ -14,6 +14,7 @@
 - pkg:cargo/atuin-history@18.14.1
 - pkg:cargo/atuin-history@18.15.0
 - pkg:cargo/atuin-history@18.15.1
+- pkg:cargo/atuin-history@18.15.2
 - pkg:cargo/atuin-history@18.4.0
 - pkg:cargo/atuin-history@18.4.0-beta.3
 - pkg:cargo/atuin-history@18.5.0
