@@ -1,1 +1,2 @@
 - pkg:cargo/moltendb-wasm@0.3.0-beta.0
+- pkg:cargo/moltendb-wasm@0.3.0-beta.4
