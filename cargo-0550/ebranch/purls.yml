@@ -1,3 +1,4 @@
+- pkg:cargo/ebranch@0.10.0
 - pkg:cargo/ebranch@0.6.3
 - pkg:cargo/ebranch@0.7.0
 - pkg:cargo/ebranch@0.8.0

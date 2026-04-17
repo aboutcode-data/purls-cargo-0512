@@ -4,3 +4,4 @@
 - pkg:cargo/ccmd@0.2.0-rc1
 - pkg:cargo/ccmd@0.3.0
 - pkg:cargo/ccmd@0.3.0-rc1
+- pkg:cargo/ccmd@0.3.1
