@@ -16,3 +16,4 @@
 - pkg:cargo/quantoxide@0.5.1
 - pkg:cargo/quantoxide@0.5.2
 - pkg:cargo/quantoxide@0.5.3
+- pkg:cargo/quantoxide@0.5.4
