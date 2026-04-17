@@ -19,3 +19,4 @@
 - pkg:cargo/semantic-analyzer@0.4.4
 - pkg:cargo/semantic-analyzer@0.4.5
 - pkg:cargo/semantic-analyzer@0.4.6
+- pkg:cargo/semantic-analyzer@0.4.7
