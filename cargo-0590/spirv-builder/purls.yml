@@ -1,4 +1,5 @@
 - pkg:cargo/spirv-builder@0.1.0
+- pkg:cargo/spirv-builder@0.10.0-alpha.1
 - pkg:cargo/spirv-builder@0.4.0
 - pkg:cargo/spirv-builder@0.4.0-alpha.13
 - pkg:cargo/spirv-builder@0.4.0-alpha.14
