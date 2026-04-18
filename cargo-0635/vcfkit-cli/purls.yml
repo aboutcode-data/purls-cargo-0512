@@ -1,1 +1,2 @@
 - pkg:cargo/vcfkit-cli@0.1.0-alpha
+- pkg:cargo/vcfkit-cli@0.1.1
