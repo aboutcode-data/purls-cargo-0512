@@ -33,3 +33,4 @@
 - pkg:cargo/athena_rs@3.4.7
 - pkg:cargo/athena_rs@3.5.0
 - pkg:cargo/athena_rs@3.6.0
+- pkg:cargo/athena_rs@3.6.1
