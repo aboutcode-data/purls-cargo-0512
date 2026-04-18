@@ -1,1 +1,2 @@
 - pkg:cargo/trim-galore@2.0.0
+- pkg:cargo/trim-galore@2.1.0-beta.1
