@@ -28,3 +28,4 @@
 - pkg:cargo/zebrad@4.1.0
 - pkg:cargo/zebrad@4.2.0
 - pkg:cargo/zebrad@4.3.0
+- pkg:cargo/zebrad@4.3.1

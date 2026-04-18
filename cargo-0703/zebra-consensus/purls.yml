@@ -26,3 +26,4 @@
 - pkg:cargo/zebra-consensus@4.0.0
 - pkg:cargo/zebra-consensus@5.0.0
 - pkg:cargo/zebra-consensus@5.0.1
+- pkg:cargo/zebra-consensus@5.0.2
