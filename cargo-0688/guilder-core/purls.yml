@@ -8,3 +8,5 @@
 - pkg:cargo/guilder-core@0.5.0
 - pkg:cargo/guilder-core@0.5.1
 - pkg:cargo/guilder-core@0.6.1
+- pkg:cargo/guilder-core@0.6.2
+- pkg:cargo/guilder-core@0.6.3
