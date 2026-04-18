@@ -27,3 +27,5 @@
 - pkg:cargo/solverforge-solver@0.8.4
 - pkg:cargo/solverforge-solver@0.8.5
 - pkg:cargo/solverforge-solver@0.8.6
+- pkg:cargo/solverforge-solver@0.8.7
+- pkg:cargo/solverforge-solver@0.8.8
