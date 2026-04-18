@@ -26,3 +26,4 @@
 - pkg:cargo/unigateway@0.9.8
 - pkg:cargo/unigateway@0.9.9
 - pkg:cargo/unigateway@1.0.0
+- pkg:cargo/unigateway@1.2.1
