@@ -50,3 +50,4 @@
 - pkg:cargo/referencing@0.45.0
 - pkg:cargo/referencing@0.45.1
 - pkg:cargo/referencing@0.46.0
+- pkg:cargo/referencing@0.46.1
