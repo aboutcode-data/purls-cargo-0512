@@ -11,3 +11,5 @@
 - pkg:cargo/standout-pipe@7.1.0
 - pkg:cargo/standout-pipe@7.2.0
 - pkg:cargo/standout-pipe@7.3.0
+- pkg:cargo/standout-pipe@7.4.0
+- pkg:cargo/standout-pipe@7.5.0

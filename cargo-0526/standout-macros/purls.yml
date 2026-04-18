@@ -23,3 +23,5 @@
 - pkg:cargo/standout-macros@7.1.0
 - pkg:cargo/standout-macros@7.2.0
 - pkg:cargo/standout-macros@7.3.0
+- pkg:cargo/standout-macros@7.4.0
+- pkg:cargo/standout-macros@7.5.0
