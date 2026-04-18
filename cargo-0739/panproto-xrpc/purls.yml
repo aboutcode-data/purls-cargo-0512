@@ -24,3 +24,6 @@
 - pkg:cargo/panproto-xrpc@0.30.1
 - pkg:cargo/panproto-xrpc@0.31.0
 - pkg:cargo/panproto-xrpc@0.32.0
+- pkg:cargo/panproto-xrpc@0.33.0
+- pkg:cargo/panproto-xrpc@0.34.0
+- pkg:cargo/panproto-xrpc@0.34.1
