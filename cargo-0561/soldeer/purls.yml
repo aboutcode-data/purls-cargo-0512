@@ -6,6 +6,7 @@
 - pkg:cargo/soldeer@0.1.5
 - pkg:cargo/soldeer@0.10.0
 - pkg:cargo/soldeer@0.10.1
+- pkg:cargo/soldeer@0.11.0
 - pkg:cargo/soldeer@0.2.0
 - pkg:cargo/soldeer@0.2.1
 - pkg:cargo/soldeer@0.2.10
