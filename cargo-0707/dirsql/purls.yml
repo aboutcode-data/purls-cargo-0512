@@ -29,3 +29,5 @@
 - pkg:cargo/dirsql@0.1.9
 - pkg:cargo/dirsql@0.2.0
 - pkg:cargo/dirsql@0.2.1
+- pkg:cargo/dirsql@0.2.2
+- pkg:cargo/dirsql@0.2.3
