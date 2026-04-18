@@ -51,3 +51,4 @@
 - pkg:cargo/rbdc-mssql@4.8.0
 - pkg:cargo/rbdc-mssql@4.8.1
 - pkg:cargo/rbdc-mssql@4.8.2
+- pkg:cargo/rbdc-mssql@4.9.0
