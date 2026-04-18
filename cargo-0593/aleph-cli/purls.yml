@@ -13,3 +13,4 @@
 - pkg:cargo/aleph-cli@0.8.3
 - pkg:cargo/aleph-cli@0.8.4
 - pkg:cargo/aleph-cli@0.9.0
+- pkg:cargo/aleph-cli@0.9.1
