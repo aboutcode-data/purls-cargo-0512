@@ -6,6 +6,8 @@
 - pkg:cargo/vn@0.1.5
 - pkg:cargo/vn@0.1.6
 - pkg:cargo/vn@0.1.7
+- pkg:cargo/vn@0.10.0
+- pkg:cargo/vn@0.10.1
 - pkg:cargo/vn@0.2.0
 - pkg:cargo/vn@0.2.1
 - pkg:cargo/vn@0.3.0

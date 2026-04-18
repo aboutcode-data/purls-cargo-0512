@@ -52,9 +52,13 @@
 - pkg:cargo/perlrs@0.4.11
 - pkg:cargo/perlrs@0.4.12
 - pkg:cargo/perlrs@0.4.13
+- pkg:cargo/perlrs@0.4.14
+- pkg:cargo/perlrs@0.4.15
+- pkg:cargo/perlrs@0.4.16
 - pkg:cargo/perlrs@0.4.3
 - pkg:cargo/perlrs@0.4.5
 - pkg:cargo/perlrs@0.4.6
 - pkg:cargo/perlrs@0.4.7
 - pkg:cargo/perlrs@0.4.8
 - pkg:cargo/perlrs@0.4.9
+- pkg:cargo/perlrs@0.5.0
