@@ -13,3 +13,4 @@
 - pkg:cargo/gobblytes-erofs@0.0.1-rc.7
 - pkg:cargo/gobblytes-erofs@0.0.1-rc.8
 - pkg:cargo/gobblytes-erofs@0.0.1-rc.9
+- pkg:cargo/gobblytes-erofs@0.0.2-rc.1
