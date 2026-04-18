@@ -1,7 +1,10 @@
 - pkg:cargo/joy-core@0.10.0
 - pkg:cargo/joy-core@0.10.1
 - pkg:cargo/joy-core@0.10.2
+- pkg:cargo/joy-core@0.10.3
+- pkg:cargo/joy-core@0.10.4
 - pkg:cargo/joy-core@0.10.5
+- pkg:cargo/joy-core@0.10.6
 - pkg:cargo/joy-core@0.8.0
 - pkg:cargo/joy-core@0.8.1
 - pkg:cargo/joy-core@0.8.2
