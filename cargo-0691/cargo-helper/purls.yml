@@ -1,2 +1,4 @@
 - pkg:cargo/cargo-helper@1.0.0
 - pkg:cargo/cargo-helper@1.0.5
+- pkg:cargo/cargo-helper@1.1.0
+- pkg:cargo/cargo-helper@1.1.5
