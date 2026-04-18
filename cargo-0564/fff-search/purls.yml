@@ -48,6 +48,7 @@
 - pkg:cargo/fff-search@0.5.3-nightly.51e0ef7
 - pkg:cargo/fff-search@0.5.3-nightly.541c3f5
 - pkg:cargo/fff-search@0.5.3-nightly.59d626d
+- pkg:cargo/fff-search@0.5.3-nightly.689e312
 - pkg:cargo/fff-search@0.5.3-nightly.77881a1
 - pkg:cargo/fff-search@0.5.3-nightly.7979004
 - pkg:cargo/fff-search@0.5.3-nightly.7de55be
@@ -55,5 +56,6 @@
 - pkg:cargo/fff-search@0.5.3-nightly.9a6ee3d
 - pkg:cargo/fff-search@0.5.3-nightly.c450a8d
 - pkg:cargo/fff-search@0.5.3-nightly.cd0efe5
+- pkg:cargo/fff-search@0.5.3-nightly.cebacb3
 - pkg:cargo/fff-search@0.5.3-nightly.d25ea75
 - pkg:cargo/fff-search@0.5.3-nightly.ea1f980
