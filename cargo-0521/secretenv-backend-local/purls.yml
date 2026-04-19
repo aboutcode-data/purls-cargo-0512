@@ -1,1 +1,2 @@
 - pkg:cargo/secretenv-backend-local@0.1.1
+- pkg:cargo/secretenv-backend-local@0.2.0
