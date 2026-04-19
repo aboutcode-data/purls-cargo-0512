@@ -31,3 +31,4 @@
 - pkg:cargo/soft-canonicalize@0.5.3
 - pkg:cargo/soft-canonicalize@0.5.4
 - pkg:cargo/soft-canonicalize@0.5.5
+- pkg:cargo/soft-canonicalize@0.5.6
