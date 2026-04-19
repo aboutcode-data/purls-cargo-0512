@@ -36,3 +36,4 @@
 - pkg:cargo/datasynth-cli@2.5.0
 - pkg:cargo/datasynth-cli@3.0.0
 - pkg:cargo/datasynth-cli@3.1.0
+- pkg:cargo/datasynth-cli@3.1.1
