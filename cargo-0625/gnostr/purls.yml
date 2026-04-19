@@ -24,6 +24,9 @@
 - pkg:cargo/gnostr@0.0.96
 - pkg:cargo/gnostr@0.0.97
 - pkg:cargo/gnostr@0.0.98
+- pkg:cargo/gnostr@1878.945649.607219
+- pkg:cargo/gnostr@1878.945691.549040
+- pkg:cargo/gnostr@1878.945702.534429
 - pkg:cargo/gnostr@1894.934224.276199
 - pkg:cargo/gnostr@1895.933123.668811
 - pkg:cargo/gnostr@1906.925289.572444
