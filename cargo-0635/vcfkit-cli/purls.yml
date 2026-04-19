@@ -2,3 +2,4 @@
 - pkg:cargo/vcfkit-cli@0.1.1
 - pkg:cargo/vcfkit-cli@0.1.2
 - pkg:cargo/vcfkit-cli@0.1.5
+- pkg:cargo/vcfkit-cli@0.1.6
