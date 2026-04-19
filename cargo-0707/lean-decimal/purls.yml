@@ -1,1 +1,2 @@
 - pkg:cargo/lean-decimal@0.1.0
+- pkg:cargo/lean-decimal@0.1.1
