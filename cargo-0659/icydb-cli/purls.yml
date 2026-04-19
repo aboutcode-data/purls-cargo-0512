@@ -60,3 +60,11 @@
 - pkg:cargo/icydb-cli@0.94.1
 - pkg:cargo/icydb-cli@0.94.2
 - pkg:cargo/icydb-cli@0.94.3
+- pkg:cargo/icydb-cli@0.95.0
+- pkg:cargo/icydb-cli@0.95.1
+- pkg:cargo/icydb-cli@0.95.2
+- pkg:cargo/icydb-cli@0.96.0
+- pkg:cargo/icydb-cli@0.96.1
+- pkg:cargo/icydb-cli@0.97.0
+- pkg:cargo/icydb-cli@0.97.1
+- pkg:cargo/icydb-cli@0.98.0
