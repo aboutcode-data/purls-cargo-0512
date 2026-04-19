@@ -10,3 +10,4 @@
 - pkg:cargo/fathomdb-engine@0.4.1
 - pkg:cargo/fathomdb-engine@0.4.5
 - pkg:cargo/fathomdb-engine@0.5.0
+- pkg:cargo/fathomdb-engine@0.5.1

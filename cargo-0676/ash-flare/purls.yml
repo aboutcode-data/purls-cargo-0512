@@ -6,3 +6,5 @@
 - pkg:cargo/ash-flare@1.1.0
 - pkg:cargo/ash-flare@2.0.0
 - pkg:cargo/ash-flare@2.2.0
+- pkg:cargo/ash-flare@2.3.2
+- pkg:cargo/ash-flare@2.3.3
