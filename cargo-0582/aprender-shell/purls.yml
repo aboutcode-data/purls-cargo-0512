@@ -4,3 +4,5 @@
 - pkg:cargo/aprender-shell@0.2.2
 - pkg:cargo/aprender-shell@0.3.0
 - pkg:cargo/aprender-shell@0.30.0
+- pkg:cargo/aprender-shell@0.31.1
+- pkg:cargo/aprender-shell@0.31.2
