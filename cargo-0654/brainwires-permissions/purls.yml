@@ -1,4 +1,5 @@
 - pkg:cargo/brainwires-permissions@0.1.0
+- pkg:cargo/brainwires-permissions@0.10.0
 - pkg:cargo/brainwires-permissions@0.2.0
 - pkg:cargo/brainwires-permissions@0.3.0
 - pkg:cargo/brainwires-permissions@0.4.0
