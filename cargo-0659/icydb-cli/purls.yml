@@ -59,3 +59,4 @@
 - pkg:cargo/icydb-cli@0.94.0
 - pkg:cargo/icydb-cli@0.94.1
 - pkg:cargo/icydb-cli@0.94.2
+- pkg:cargo/icydb-cli@0.94.3

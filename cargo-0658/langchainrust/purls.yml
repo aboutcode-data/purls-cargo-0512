@@ -8,3 +8,6 @@
 - pkg:cargo/langchainrust@0.2.4
 - pkg:cargo/langchainrust@0.2.5
 - pkg:cargo/langchainrust@0.2.6
+- pkg:cargo/langchainrust@0.2.7
+- pkg:cargo/langchainrust@0.2.8
+- pkg:cargo/langchainrust@0.2.9
