@@ -30,3 +30,4 @@
 - pkg:cargo/tract-tflite@0.23.0-dev.1
 - pkg:cargo/tract-tflite@0.23.0-dev.2
 - pkg:cargo/tract-tflite@0.23.0-dev.3
+- pkg:cargo/tract-tflite@0.23.0-dev.4
