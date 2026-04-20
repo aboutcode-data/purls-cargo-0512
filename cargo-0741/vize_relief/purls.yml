@@ -121,6 +121,8 @@
 - pkg:cargo/vize_relief@0.44.0
 - pkg:cargo/vize_relief@0.45.0
 - pkg:cargo/vize_relief@0.46.0
+- pkg:cargo/vize_relief@0.47.0
+- pkg:cargo/vize_relief@0.48.0
 - pkg:cargo/vize_relief@0.5.0
 - pkg:cargo/vize_relief@0.6.0
 - pkg:cargo/vize_relief@0.7.0

@@ -181,6 +181,7 @@
 - pkg:cargo/ra_ap_ide_assists@0.0.326
 - pkg:cargo/ra_ap_ide_assists@0.0.327
 - pkg:cargo/ra_ap_ide_assists@0.0.328
+- pkg:cargo/ra_ap_ide_assists@0.0.329
 - pkg:cargo/ra_ap_ide_assists@0.0.41
 - pkg:cargo/ra_ap_ide_assists@0.0.42
 - pkg:cargo/ra_ap_ide_assists@0.0.43

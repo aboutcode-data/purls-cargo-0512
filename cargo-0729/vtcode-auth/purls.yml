@@ -33,3 +33,4 @@
 - pkg:cargo/vtcode-auth@0.99.0
 - pkg:cargo/vtcode-auth@0.99.1
 - pkg:cargo/vtcode-auth@0.99.2
+- pkg:cargo/vtcode-auth@0.99.3
