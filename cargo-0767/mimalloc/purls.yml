@@ -42,6 +42,7 @@
 - pkg:cargo/mimalloc@0.1.46
 - pkg:cargo/mimalloc@0.1.47
 - pkg:cargo/mimalloc@0.1.48
+- pkg:cargo/mimalloc@0.1.49
 - pkg:cargo/mimalloc@0.1.5
 - pkg:cargo/mimalloc@0.1.6
 - pkg:cargo/mimalloc@0.1.7
