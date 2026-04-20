@@ -334,6 +334,8 @@
 - pkg:cargo/j-cli@12.9.19
 - pkg:cargo/j-cli@12.9.2
 - pkg:cargo/j-cli@12.9.20
+- pkg:cargo/j-cli@12.9.21
+- pkg:cargo/j-cli@12.9.22
 - pkg:cargo/j-cli@12.9.3
 - pkg:cargo/j-cli@12.9.4
 - pkg:cargo/j-cli@12.9.5
