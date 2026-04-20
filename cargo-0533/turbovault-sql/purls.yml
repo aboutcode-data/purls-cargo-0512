@@ -1,1 +1,2 @@
 - pkg:cargo/turbovault-sql@1.4.0
+- pkg:cargo/turbovault-sql@1.4.1
