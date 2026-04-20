@@ -7,3 +7,4 @@
 - pkg:cargo/libpetri-export@1.5.0
 - pkg:cargo/libpetri-export@1.5.1
 - pkg:cargo/libpetri-export@1.7.0
+- pkg:cargo/libpetri-export@1.8.0
