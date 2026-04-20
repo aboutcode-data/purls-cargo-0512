@@ -22,3 +22,4 @@
 - pkg:cargo/orion-error@0.5.6
 - pkg:cargo/orion-error@0.6.0
 - pkg:cargo/orion-error@0.6.1
+- pkg:cargo/orion-error@0.6.2

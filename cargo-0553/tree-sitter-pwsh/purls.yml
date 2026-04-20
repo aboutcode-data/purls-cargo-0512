@@ -2,3 +2,4 @@
 - pkg:cargo/tree-sitter-pwsh@0.28.0
 - pkg:cargo/tree-sitter-pwsh@0.29.0
 - pkg:cargo/tree-sitter-pwsh@0.29.1
+- pkg:cargo/tree-sitter-pwsh@0.30.0
