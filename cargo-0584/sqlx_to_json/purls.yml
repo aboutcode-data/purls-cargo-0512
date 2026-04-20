@@ -6,3 +6,4 @@
 - pkg:cargo/sqlx_to_json@0.6.2
 - pkg:cargo/sqlx_to_json@0.6.3
 - pkg:cargo/sqlx_to_json@0.6.4
+- pkg:cargo/sqlx_to_json@0.7.0
