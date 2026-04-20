@@ -10,3 +10,6 @@
 - pkg:cargo/mermaid-text@0.3.2
 - pkg:cargo/mermaid-text@0.3.3
 - pkg:cargo/mermaid-text@0.3.4
+- pkg:cargo/mermaid-text@0.6.0
+- pkg:cargo/mermaid-text@0.7.0
+- pkg:cargo/mermaid-text@0.7.1
