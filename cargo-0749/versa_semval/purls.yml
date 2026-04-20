@@ -1,4 +1,5 @@
 - pkg:cargo/versa_semval@0.10.0
+- pkg:cargo/versa_semval@0.12.0
 - pkg:cargo/versa_semval@0.2.0
 - pkg:cargo/versa_semval@0.5.4
 - pkg:cargo/versa_semval@0.5.5
