@@ -13,6 +13,7 @@
 - pkg:cargo/tinted-builder-rust@0.15.0
 - pkg:cargo/tinted-builder-rust@0.15.3
 - pkg:cargo/tinted-builder-rust@0.16.0
+- pkg:cargo/tinted-builder-rust@0.17.0
 - pkg:cargo/tinted-builder-rust@0.2.0
 - pkg:cargo/tinted-builder-rust@0.2.1
 - pkg:cargo/tinted-builder-rust@0.2.2
