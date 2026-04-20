@@ -5,3 +5,4 @@
 - pkg:cargo/fennec-modbus@0.88.2
 - pkg:cargo/fennec-modbus@0.90.2
 - pkg:cargo/fennec-modbus@0.90.3
+- pkg:cargo/fennec-modbus@0.91.0
