@@ -65,3 +65,4 @@
 - pkg:cargo/wasmtime-wasi-keyvalue@42.0.2
 - pkg:cargo/wasmtime-wasi-keyvalue@43.0.0
 - pkg:cargo/wasmtime-wasi-keyvalue@43.0.1
+- pkg:cargo/wasmtime-wasi-keyvalue@44.0.0

@@ -68,3 +68,4 @@
 - pkg:cargo/cranelift-bitset@0.129.2
 - pkg:cargo/cranelift-bitset@0.130.0
 - pkg:cargo/cranelift-bitset@0.130.1
+- pkg:cargo/cranelift-bitset@0.131.0
