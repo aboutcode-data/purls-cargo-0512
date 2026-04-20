@@ -5,3 +5,5 @@
 - pkg:cargo/pensyve-core@1.0.5
 - pkg:cargo/pensyve-core@1.0.6
 - pkg:cargo/pensyve-core@1.2.0
+- pkg:cargo/pensyve-core@1.3.0
+- pkg:cargo/pensyve-core@1.3.1

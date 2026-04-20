@@ -2,3 +2,5 @@
 - pkg:cargo/nomograph-synthesist@1.2.1
 - pkg:cargo/nomograph-synthesist@1.3.0
 - pkg:cargo/nomograph-synthesist@2.0.0
+- pkg:cargo/nomograph-synthesist@2.1.0
+- pkg:cargo/nomograph-synthesist@2.1.1
