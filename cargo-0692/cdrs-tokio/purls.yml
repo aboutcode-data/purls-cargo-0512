@@ -32,3 +32,4 @@
 - pkg:cargo/cdrs-tokio@8.1.8
 - pkg:cargo/cdrs-tokio@8.1.9
 - pkg:cargo/cdrs-tokio@9.0.0
+- pkg:cargo/cdrs-tokio@9.0.1
