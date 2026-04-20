@@ -86,3 +86,4 @@
 - pkg:cargo/hive-console-sdk@0.3.6
 - pkg:cargo/hive-console-sdk@0.3.7
 - pkg:cargo/hive-console-sdk@0.3.8
+- pkg:cargo/hive-console-sdk@0.3.9
