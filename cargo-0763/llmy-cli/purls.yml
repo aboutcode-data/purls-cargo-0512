@@ -8,3 +8,4 @@
 - pkg:cargo/llmy-cli@0.5.1
 - pkg:cargo/llmy-cli@0.5.3
 - pkg:cargo/llmy-cli@0.5.5
+- pkg:cargo/llmy-cli@0.5.6
