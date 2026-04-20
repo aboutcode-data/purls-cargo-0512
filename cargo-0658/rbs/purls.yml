@@ -65,6 +65,7 @@
 - pkg:cargo/rbs@4.8.1
 - pkg:cargo/rbs@4.8.2
 - pkg:cargo/rbs@4.8.3
+- pkg:cargo/rbs@4.8.4
 - pkg:cargo/rbs@5.0.0
 - pkg:cargo/rbs@5.0.1
 - pkg:cargo/rbs@5.0.2
