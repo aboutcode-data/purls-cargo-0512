@@ -1,6 +1,10 @@
 - pkg:cargo/harmoniis-wallet@0.1.0
 - pkg:cargo/harmoniis-wallet@0.1.1
 - pkg:cargo/harmoniis-wallet@0.1.10
+- pkg:cargo/harmoniis-wallet@0.1.100
+- pkg:cargo/harmoniis-wallet@0.1.101
+- pkg:cargo/harmoniis-wallet@0.1.102
+- pkg:cargo/harmoniis-wallet@0.1.103
 - pkg:cargo/harmoniis-wallet@0.1.12
 - pkg:cargo/harmoniis-wallet@0.1.13
 - pkg:cargo/harmoniis-wallet@0.1.14
