@@ -8,6 +8,7 @@
 - pkg:cargo/frc46_token@13.0.0
 - pkg:cargo/frc46_token@14.0.0
 - pkg:cargo/frc46_token@14.1.0
+- pkg:cargo/frc46_token@15.0.0
 - pkg:cargo/frc46_token@2.0.0
 - pkg:cargo/frc46_token@3.0.0
 - pkg:cargo/frc46_token@3.1.0
