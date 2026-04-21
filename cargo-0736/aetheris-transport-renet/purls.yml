@@ -5,3 +5,6 @@
 - pkg:cargo/aetheris-transport-renet@0.3.3
 - pkg:cargo/aetheris-transport-renet@0.4.0
 - pkg:cargo/aetheris-transport-renet@0.4.1
+- pkg:cargo/aetheris-transport-renet@0.5.0
+- pkg:cargo/aetheris-transport-renet@0.5.1
+- pkg:cargo/aetheris-transport-renet@0.6.0

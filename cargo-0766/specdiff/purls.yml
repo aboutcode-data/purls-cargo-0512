@@ -1,3 +1,5 @@
 - pkg:cargo/specdiff@0.16.0
 - pkg:cargo/specdiff@0.16.5
 - pkg:cargo/specdiff@0.16.6
+- pkg:cargo/specdiff@0.17.2
+- pkg:cargo/specdiff@0.18.0

@@ -1,3 +1,4 @@
 - pkg:cargo/mpl-account-compression@0.4.1
 - pkg:cargo/mpl-account-compression@0.4.2
 - pkg:cargo/mpl-account-compression@1.0.0
+- pkg:cargo/mpl-account-compression@2.0.0
