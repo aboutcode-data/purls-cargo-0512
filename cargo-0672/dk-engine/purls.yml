@@ -59,3 +59,4 @@
 - pkg:cargo/dk-engine@0.2.82
 - pkg:cargo/dk-engine@0.2.83
 - pkg:cargo/dk-engine@0.2.85
+- pkg:cargo/dk-engine@0.3.0
