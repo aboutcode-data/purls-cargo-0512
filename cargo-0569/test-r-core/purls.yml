@@ -30,3 +30,4 @@
 - pkg:cargo/test-r-core@6.0.1
 - pkg:cargo/test-r-core@6.0.2
 - pkg:cargo/test-r-core@6.0.3
+- pkg:cargo/test-r-core@6.0.4
