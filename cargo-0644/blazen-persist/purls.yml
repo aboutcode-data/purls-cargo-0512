@@ -35,6 +35,7 @@
 - pkg:cargo/blazen-persist@0.1.138
 - pkg:cargo/blazen-persist@0.1.139
 - pkg:cargo/blazen-persist@0.1.140
+- pkg:cargo/blazen-persist@0.1.143
 - pkg:cargo/blazen-persist@0.1.85
 - pkg:cargo/blazen-persist@0.1.89
 - pkg:cargo/blazen-persist@0.1.90
