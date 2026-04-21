@@ -5,6 +5,10 @@
 - pkg:cargo/blew@0.1.0-alpha.4
 - pkg:cargo/blew@0.1.0-alpha.5
 - pkg:cargo/blew@0.1.0-alpha.7
+- pkg:cargo/blew@0.2.0
 - pkg:cargo/blew@0.2.0-alpha.2
 - pkg:cargo/blew@0.2.0-alpha.3
 - pkg:cargo/blew@0.2.0-alpha.4
+- pkg:cargo/blew@0.2.1
+- pkg:cargo/blew@0.2.2
+- pkg:cargo/blew@0.2.3
