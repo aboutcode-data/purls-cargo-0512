@@ -38,3 +38,4 @@
 - pkg:cargo/datasynth-server@3.1.0
 - pkg:cargo/datasynth-server@3.1.1
 - pkg:cargo/datasynth-server@4.0.1
+- pkg:cargo/datasynth-server@4.2.1
