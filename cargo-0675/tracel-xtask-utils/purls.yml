@@ -1,1 +1,3 @@
 - pkg:cargo/tracel-xtask-utils@4.17.0
+- pkg:cargo/tracel-xtask-utils@4.17.1
+- pkg:cargo/tracel-xtask-utils@4.17.2
