@@ -20,3 +20,4 @@
 - pkg:cargo/quincy-server@2.0.0-rc.2
 - pkg:cargo/quincy-server@2.0.0-rc.3
 - pkg:cargo/quincy-server@2.0.1
+- pkg:cargo/quincy-server@2.0.2
