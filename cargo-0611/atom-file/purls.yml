@@ -18,6 +18,7 @@
 - pkg:cargo/atom-file@1.0.20
 - pkg:cargo/atom-file@1.0.21
 - pkg:cargo/atom-file@1.0.22
+- pkg:cargo/atom-file@1.0.23
 - pkg:cargo/atom-file@1.0.3
 - pkg:cargo/atom-file@1.0.4
 - pkg:cargo/atom-file@1.0.5
