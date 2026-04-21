@@ -35,3 +35,4 @@
 - pkg:cargo/fdf@0.8.6
 - pkg:cargo/fdf@0.8.7
 - pkg:cargo/fdf@0.8.8
+- pkg:cargo/fdf@0.9.2
