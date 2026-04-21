@@ -5,3 +5,4 @@
 - pkg:cargo/rialo-websocket-registry-interface@0.3.0
 - pkg:cargo/rialo-websocket-registry-interface@0.3.0-alpha.0
 - pkg:cargo/rialo-websocket-registry-interface@0.4.0-alpha.0
+- pkg:cargo/rialo-websocket-registry-interface@0.4.0-alpha.1
