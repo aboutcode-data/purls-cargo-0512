@@ -317,3 +317,4 @@
 - pkg:cargo/taskcluster-upload@99.0.2
 - pkg:cargo/taskcluster-upload@99.0.3
 - pkg:cargo/taskcluster-upload@99.1.0
+- pkg:cargo/taskcluster-upload@99.1.1
