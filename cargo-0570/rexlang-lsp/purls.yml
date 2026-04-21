@@ -1,5 +1,6 @@
 - pkg:cargo/rexlang-lsp@3.9.1
 - pkg:cargo/rexlang-lsp@3.9.10
+- pkg:cargo/rexlang-lsp@3.9.11
 - pkg:cargo/rexlang-lsp@3.9.2
 - pkg:cargo/rexlang-lsp@3.9.3
 - pkg:cargo/rexlang-lsp@3.9.4
