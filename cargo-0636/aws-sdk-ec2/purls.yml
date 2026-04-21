@@ -194,6 +194,7 @@
 - pkg:cargo/aws-sdk-ec2@1.220.0
 - pkg:cargo/aws-sdk-ec2@1.220.1
 - pkg:cargo/aws-sdk-ec2@1.221.0
+- pkg:cargo/aws-sdk-ec2@1.222.0
 - pkg:cargo/aws-sdk-ec2@1.23.0
 - pkg:cargo/aws-sdk-ec2@1.23.1
 - pkg:cargo/aws-sdk-ec2@1.24.0

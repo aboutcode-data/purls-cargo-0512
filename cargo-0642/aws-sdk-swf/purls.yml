@@ -47,6 +47,7 @@
 - pkg:cargo/aws-sdk-swf@0.9.0
 - pkg:cargo/aws-sdk-swf@1.1.0
 - pkg:cargo/aws-sdk-swf@1.10.0
+- pkg:cargo/aws-sdk-swf@1.100.0
 - pkg:cargo/aws-sdk-swf@1.11.0
 - pkg:cargo/aws-sdk-swf@1.12.0
 - pkg:cargo/aws-sdk-swf@1.13.0

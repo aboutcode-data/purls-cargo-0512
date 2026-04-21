@@ -83,6 +83,7 @@
 - pkg:cargo/aws-sdk-quicksight@1.128.0
 - pkg:cargo/aws-sdk-quicksight@1.129.0
 - pkg:cargo/aws-sdk-quicksight@1.13.0
+- pkg:cargo/aws-sdk-quicksight@1.130.0
 - pkg:cargo/aws-sdk-quicksight@1.14.0
 - pkg:cargo/aws-sdk-quicksight@1.15.0
 - pkg:cargo/aws-sdk-quicksight@1.16.0

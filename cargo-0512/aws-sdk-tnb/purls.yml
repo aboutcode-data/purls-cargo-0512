@@ -112,3 +112,4 @@
 - pkg:cargo/aws-sdk-tnb@1.96.0
 - pkg:cargo/aws-sdk-tnb@1.97.0
 - pkg:cargo/aws-sdk-tnb@1.98.0
+- pkg:cargo/aws-sdk-tnb@1.99.0
