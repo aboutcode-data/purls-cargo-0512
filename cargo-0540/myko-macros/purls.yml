@@ -58,3 +58,5 @@
 - pkg:cargo/myko-macros@4.7.2
 - pkg:cargo/myko-macros@4.7.3
 - pkg:cargo/myko-macros@4.7.4
+- pkg:cargo/myko-macros@4.8.0
+- pkg:cargo/myko-macros@4.8.1
