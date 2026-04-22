@@ -3,3 +3,4 @@
 - pkg:cargo/endhost-api@0.3.0
 - pkg:cargo/endhost-api@0.4.0
 - pkg:cargo/endhost-api@0.5.1
+- pkg:cargo/endhost-api@0.5.2
