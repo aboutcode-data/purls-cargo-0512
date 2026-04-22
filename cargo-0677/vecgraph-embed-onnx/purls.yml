@@ -1,1 +1,2 @@
 - pkg:cargo/vecgraph-embed-onnx@0.1.0
+- pkg:cargo/vecgraph-embed-onnx@0.1.1
