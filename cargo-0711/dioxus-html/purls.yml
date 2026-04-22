@@ -42,3 +42,4 @@
 - pkg:cargo/dioxus-html@0.7.3
 - pkg:cargo/dioxus-html@0.7.4
 - pkg:cargo/dioxus-html@0.7.5
+- pkg:cargo/dioxus-html@0.7.6

@@ -14,3 +14,4 @@
 - pkg:cargo/distributed-topic-tracker@0.2.8
 - pkg:cargo/distributed-topic-tracker@0.3.0
 - pkg:cargo/distributed-topic-tracker@0.3.1
+- pkg:cargo/distributed-topic-tracker@0.3.2
