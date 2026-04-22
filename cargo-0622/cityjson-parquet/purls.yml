@@ -1,1 +1,2 @@
 - pkg:cargo/cityjson-parquet@0.5.3
+- pkg:cargo/cityjson-parquet@0.5.4

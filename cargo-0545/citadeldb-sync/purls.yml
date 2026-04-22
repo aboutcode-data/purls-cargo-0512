@@ -8,3 +8,4 @@
 - pkg:cargo/citadeldb-sync@0.6.0
 - pkg:cargo/citadeldb-sync@0.7.0
 - pkg:cargo/citadeldb-sync@0.8.0
+- pkg:cargo/citadeldb-sync@0.8.1
