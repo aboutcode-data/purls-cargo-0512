@@ -18,3 +18,4 @@
 - pkg:cargo/shellquest@1.8.3
 - pkg:cargo/shellquest@1.8.4
 - pkg:cargo/shellquest@1.8.5
+- pkg:cargo/shellquest@1.9.0
