@@ -56,3 +56,4 @@
 - pkg:cargo/oxidize-pdf@2.5.2
 - pkg:cargo/oxidize-pdf@2.5.3
 - pkg:cargo/oxidize-pdf@2.5.4
+- pkg:cargo/oxidize-pdf@2.5.5

@@ -5,3 +5,4 @@
 - pkg:cargo/dbus-secret-service-keyring-store@0.3.1
 - pkg:cargo/dbus-secret-service-keyring-store@0.3.2
 - pkg:cargo/dbus-secret-service-keyring-store@0.3.3
+- pkg:cargo/dbus-secret-service-keyring-store@1.0.0
