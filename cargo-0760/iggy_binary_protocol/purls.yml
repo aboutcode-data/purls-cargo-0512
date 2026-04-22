@@ -1,3 +1,4 @@
+- pkg:cargo/iggy_binary_protocol@0.10.0
 - pkg:cargo/iggy_binary_protocol@0.7.0
 - pkg:cargo/iggy_binary_protocol@0.7.0-edge.1
 - pkg:cargo/iggy_binary_protocol@0.8.0
