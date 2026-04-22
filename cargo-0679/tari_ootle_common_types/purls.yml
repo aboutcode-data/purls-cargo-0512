@@ -15,3 +15,4 @@
 - pkg:cargo/tari_ootle_common_types@0.28.6
 - pkg:cargo/tari_ootle_common_types@0.28.9
 - pkg:cargo/tari_ootle_common_types@0.29.0
+- pkg:cargo/tari_ootle_common_types@0.29.1
