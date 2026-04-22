@@ -48,6 +48,7 @@
 - pkg:cargo/foxtive@0.25.3
 - pkg:cargo/foxtive@0.25.4
 - pkg:cargo/foxtive@0.25.5
+- pkg:cargo/foxtive@0.25.6
 - pkg:cargo/foxtive@0.26.0
 - pkg:cargo/foxtive@0.3.0
 - pkg:cargo/foxtive@0.3.1
