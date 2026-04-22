@@ -1,3 +1,5 @@
+- pkg:cargo/fakecloud-cloudformation@0.10.0
+- pkg:cargo/fakecloud-cloudformation@0.10.1
 - pkg:cargo/fakecloud-cloudformation@0.2.0
 - pkg:cargo/fakecloud-cloudformation@0.5.0
 - pkg:cargo/fakecloud-cloudformation@0.5.1
