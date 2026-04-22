@@ -12,3 +12,4 @@
 - pkg:cargo/steamfetch@0.5.1
 - pkg:cargo/steamfetch@0.5.2
 - pkg:cargo/steamfetch@0.5.4
+- pkg:cargo/steamfetch@0.5.5
