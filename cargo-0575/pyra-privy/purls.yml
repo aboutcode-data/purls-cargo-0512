@@ -12,3 +12,5 @@
 - pkg:cargo/pyra-privy@0.4.4
 - pkg:cargo/pyra-privy@0.4.5
 - pkg:cargo/pyra-privy@0.5.1
+- pkg:cargo/pyra-privy@0.5.2
+- pkg:cargo/pyra-privy@0.5.3
