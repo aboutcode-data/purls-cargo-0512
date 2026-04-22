@@ -26,3 +26,4 @@
 - pkg:cargo/fs4@0.8.4
 - pkg:cargo/fs4@0.9.0
 - pkg:cargo/fs4@0.9.1
+- pkg:cargo/fs4@1.0.0
