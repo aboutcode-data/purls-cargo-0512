@@ -1,2 +1,3 @@
 - pkg:cargo/stacksdapp-process-supervisor@0.1.0
 - pkg:cargo/stacksdapp-process-supervisor@0.1.1
+- pkg:cargo/stacksdapp-process-supervisor@0.1.2
