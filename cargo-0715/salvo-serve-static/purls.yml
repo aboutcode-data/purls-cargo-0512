@@ -106,3 +106,4 @@
 - pkg:cargo/salvo-serve-static@0.91.0
 - pkg:cargo/salvo-serve-static@0.91.1
 - pkg:cargo/salvo-serve-static@0.92.0
+- pkg:cargo/salvo-serve-static@0.92.1
