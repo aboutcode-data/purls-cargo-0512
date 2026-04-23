@@ -1,3 +1,4 @@
 - pkg:cargo/leo-parser-rowan@3.5.0
 - pkg:cargo/leo-parser-rowan@4.0.0
 - pkg:cargo/leo-parser-rowan@4.0.1
+- pkg:cargo/leo-parser-rowan@4.0.2

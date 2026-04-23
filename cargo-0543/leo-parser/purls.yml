@@ -41,3 +41,4 @@
 - pkg:cargo/leo-parser@3.5.0
 - pkg:cargo/leo-parser@4.0.0
 - pkg:cargo/leo-parser@4.0.1
+- pkg:cargo/leo-parser@4.0.2

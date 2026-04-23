@@ -19,3 +19,4 @@
 - pkg:cargo/leo-disassembler@3.5.0
 - pkg:cargo/leo-disassembler@4.0.0
 - pkg:cargo/leo-disassembler@4.0.1
+- pkg:cargo/leo-disassembler@4.0.2
