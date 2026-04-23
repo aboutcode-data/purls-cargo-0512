@@ -8,3 +8,4 @@
 - pkg:cargo/py-laddu-cpu@0.16.1
 - pkg:cargo/py-laddu-cpu@0.17.0
 - pkg:cargo/py-laddu-cpu@0.17.1
+- pkg:cargo/py-laddu-cpu@0.18.0
