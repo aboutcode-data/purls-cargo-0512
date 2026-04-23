@@ -9,3 +9,4 @@
 - pkg:cargo/zksync_os_evm_errors@0.0.8
 - pkg:cargo/zksync_os_evm_errors@0.0.9
 - pkg:cargo/zksync_os_evm_errors@0.1.0
+- pkg:cargo/zksync_os_evm_errors@0.1.1
