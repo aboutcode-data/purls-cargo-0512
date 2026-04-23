@@ -21,3 +21,4 @@
 - pkg:cargo/suppaftp-cli@8.0.0
 - pkg:cargo/suppaftp-cli@8.0.1
 - pkg:cargo/suppaftp-cli@8.0.2
+- pkg:cargo/suppaftp-cli@8.0.3
