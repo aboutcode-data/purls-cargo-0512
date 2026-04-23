@@ -119,6 +119,7 @@
 - pkg:cargo/kcl-lib@0.2.143
 - pkg:cargo/kcl-lib@0.2.144
 - pkg:cargo/kcl-lib@0.2.145
+- pkg:cargo/kcl-lib@0.2.146
 - pkg:cargo/kcl-lib@0.2.15
 - pkg:cargo/kcl-lib@0.2.16
 - pkg:cargo/kcl-lib@0.2.17

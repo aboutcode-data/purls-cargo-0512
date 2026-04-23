@@ -9,3 +9,5 @@
 - pkg:cargo/antegen-client@4.0.8
 - pkg:cargo/antegen-client@4.1.1
 - pkg:cargo/antegen-client@5.0.5
+- pkg:cargo/antegen-client@5.1.1
+- pkg:cargo/antegen-client@5.1.3
