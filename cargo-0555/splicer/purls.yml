@@ -1,5 +1,6 @@
 - pkg:cargo/splicer@1.0.0
 - pkg:cargo/splicer@1.1.0
+- pkg:cargo/splicer@2.0.0
 - pkg:cargo/splicer@2.0.0-rc1
 - pkg:cargo/splicer@2.0.0-rc2
 - pkg:cargo/splicer@2.0.0-rc3
