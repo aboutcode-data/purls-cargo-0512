@@ -1,3 +1,4 @@
 - pkg:cargo/volt-client-grpc@0.0.1
 - pkg:cargo/volt-client-grpc@0.0.2
 - pkg:cargo/volt-client-grpc@0.0.3
+- pkg:cargo/volt-client-grpc@0.1.0
