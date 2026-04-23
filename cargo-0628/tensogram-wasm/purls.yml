@@ -3,3 +3,4 @@
 - pkg:cargo/tensogram-wasm@0.16.0
 - pkg:cargo/tensogram-wasm@0.16.1
 - pkg:cargo/tensogram-wasm@0.17.0
+- pkg:cargo/tensogram-wasm@0.18.0
