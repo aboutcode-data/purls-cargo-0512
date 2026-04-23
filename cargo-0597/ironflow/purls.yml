@@ -5,3 +5,5 @@
 - pkg:cargo/ironflow@0.2.0-alpha.1
 - pkg:cargo/ironflow@0.3.0
 - pkg:cargo/ironflow@0.4.0
+- pkg:cargo/ironflow@0.4.1
+- pkg:cargo/ironflow@0.5.0

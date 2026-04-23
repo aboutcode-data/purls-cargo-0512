@@ -1,5 +1,6 @@
 - pkg:cargo/iridium_wasm@0.1.0
 - pkg:cargo/iridium_wasm@0.1.10
+- pkg:cargo/iridium_wasm@0.1.11
 - pkg:cargo/iridium_wasm@0.1.5
 - pkg:cargo/iridium_wasm@0.1.6
 - pkg:cargo/iridium_wasm@0.1.7
