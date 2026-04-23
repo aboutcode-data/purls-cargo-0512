@@ -9,3 +9,4 @@
 - pkg:cargo/libpetri-verification@1.7.0
 - pkg:cargo/libpetri-verification@1.8.0
 - pkg:cargo/libpetri-verification@1.8.1
+- pkg:cargo/libpetri-verification@1.8.2

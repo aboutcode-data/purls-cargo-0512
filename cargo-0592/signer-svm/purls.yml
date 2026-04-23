@@ -9,3 +9,4 @@
 - pkg:cargo/signer-svm@0.6.1
 - pkg:cargo/signer-svm@0.7.0
 - pkg:cargo/signer-svm@0.8.0
+- pkg:cargo/signer-svm@1.0.0

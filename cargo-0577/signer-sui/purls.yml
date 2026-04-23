@@ -6,3 +6,4 @@
 - pkg:cargo/signer-sui@0.6.1
 - pkg:cargo/signer-sui@0.7.0
 - pkg:cargo/signer-sui@0.8.0
+- pkg:cargo/signer-sui@1.0.0
