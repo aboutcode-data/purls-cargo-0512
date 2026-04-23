@@ -19,3 +19,4 @@
 - pkg:cargo/cert-helper@0.4.0
 - pkg:cargo/cert-helper@0.4.1
 - pkg:cargo/cert-helper@0.4.2
+- pkg:cargo/cert-helper@0.4.3
