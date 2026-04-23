@@ -3,3 +3,4 @@
 - pkg:cargo/freefare-sys@0.1.2
 - pkg:cargo/freefare-sys@0.2.0
 - pkg:cargo/freefare-sys@0.2.1
+- pkg:cargo/freefare-sys@1.0.0
