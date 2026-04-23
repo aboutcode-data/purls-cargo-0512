@@ -3,3 +3,4 @@
 - pkg:cargo/agentkit-provider-groq@0.2.2
 - pkg:cargo/agentkit-provider-groq@0.2.3
 - pkg:cargo/agentkit-provider-groq@0.3.0
+- pkg:cargo/agentkit-provider-groq@0.3.1
