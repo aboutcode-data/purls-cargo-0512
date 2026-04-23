@@ -10,3 +10,4 @@
 - pkg:cargo/miniz_oxide_c_api@0.2.5
 - pkg:cargo/miniz_oxide_c_api@0.3.0
 - pkg:cargo/miniz_oxide_c_api@0.3.1
+- pkg:cargo/miniz_oxide_c_api@0.3.2

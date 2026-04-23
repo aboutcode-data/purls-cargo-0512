@@ -18,3 +18,4 @@
 - pkg:cargo/cf-grpc-hub@0.1.7
 - pkg:cargo/cf-grpc-hub@0.1.8
 - pkg:cargo/cf-grpc-hub@0.1.9
+- pkg:cargo/cf-grpc-hub@0.2.0
