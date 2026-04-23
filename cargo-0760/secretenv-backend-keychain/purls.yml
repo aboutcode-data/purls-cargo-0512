@@ -1,0 +1,2 @@
+- pkg:cargo/secretenv-backend-keychain@0.5.0
+- pkg:cargo/secretenv-backend-keychain@0.6.0
