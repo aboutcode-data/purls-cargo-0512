@@ -30,3 +30,4 @@
 - pkg:cargo/haply@0.8.3
 - pkg:cargo/haply@1.0.0
 - pkg:cargo/haply@1.1.0
+- pkg:cargo/haply@1.1.1
