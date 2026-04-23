@@ -20,3 +20,4 @@
 - pkg:cargo/scooter@0.8.4
 - pkg:cargo/scooter@0.8.5
 - pkg:cargo/scooter@0.9.0
+- pkg:cargo/scooter@0.9.1

@@ -27,3 +27,4 @@
 - pkg:cargo/sqry-core@8.0.7
 - pkg:cargo/sqry-core@9.0.0
 - pkg:cargo/sqry-core@9.0.1
+- pkg:cargo/sqry-core@9.0.2
