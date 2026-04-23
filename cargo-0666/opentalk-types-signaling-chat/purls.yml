@@ -27,3 +27,4 @@
 - pkg:cargo/opentalk-types-signaling-chat@0.43.0
 - pkg:cargo/opentalk-types-signaling-chat@0.44.0
 - pkg:cargo/opentalk-types-signaling-chat@0.45.0
+- pkg:cargo/opentalk-types-signaling-chat@0.45.1
