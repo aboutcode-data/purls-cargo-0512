@@ -81,4 +81,8 @@
 - pkg:cargo/fff-search@0.6.2-nightly.a24cf55
 - pkg:cargo/fff-search@0.6.2-nightly.a677d64
 - pkg:cargo/fff-search@0.6.2-nightly.acd2f0c
+- pkg:cargo/fff-search@0.6.3
 - pkg:cargo/fff-search@0.6.3-nightly.1b79eec
+- pkg:cargo/fff-search@0.6.3-nightly.5b0098a
+- pkg:cargo/fff-search@0.6.4
+- pkg:cargo/fff-search@0.6.5-nightly.4b13a91

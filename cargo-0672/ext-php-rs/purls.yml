@@ -25,6 +25,7 @@
 - pkg:cargo/ext-php-rs@0.15.1
 - pkg:cargo/ext-php-rs@0.15.10
 - pkg:cargo/ext-php-rs@0.15.11
+- pkg:cargo/ext-php-rs@0.15.12
 - pkg:cargo/ext-php-rs@0.15.2
 - pkg:cargo/ext-php-rs@0.15.3
 - pkg:cargo/ext-php-rs@0.15.4

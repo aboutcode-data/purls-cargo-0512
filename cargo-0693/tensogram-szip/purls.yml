@@ -2,3 +2,4 @@
 - pkg:cargo/tensogram-szip@0.15.0
 - pkg:cargo/tensogram-szip@0.16.0
 - pkg:cargo/tensogram-szip@0.16.1
+- pkg:cargo/tensogram-szip@0.17.0
