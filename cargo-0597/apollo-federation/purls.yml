@@ -138,6 +138,7 @@
 - pkg:cargo/apollo-federation@2.13.1
 - pkg:cargo/apollo-federation@2.13.1-rc.0
 - pkg:cargo/apollo-federation@2.14.0-rc.0
+- pkg:cargo/apollo-federation@2.14.0-rc.1
 - pkg:cargo/apollo-federation@2.2.0
 - pkg:cargo/apollo-federation@2.2.0-preview.0
 - pkg:cargo/apollo-federation@2.2.0-rc.0
