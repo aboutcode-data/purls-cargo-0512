@@ -16,3 +16,4 @@
 - pkg:cargo/tari_utilities@0.6.2
 - pkg:cargo/tari_utilities@0.7.0
 - pkg:cargo/tari_utilities@0.8.0
+- pkg:cargo/tari_utilities@0.8.1
