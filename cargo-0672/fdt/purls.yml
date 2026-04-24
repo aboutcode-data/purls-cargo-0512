@@ -6,3 +6,4 @@
 - pkg:cargo/fdt@0.1.4
 - pkg:cargo/fdt@0.1.5
 - pkg:cargo/fdt@0.2.0-alpha1
+- pkg:cargo/fdt@0.2.0-alpha2
