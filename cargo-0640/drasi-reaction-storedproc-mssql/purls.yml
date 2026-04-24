@@ -1,6 +1,8 @@
 - pkg:cargo/drasi-reaction-storedproc-mssql@0.1.0
 - pkg:cargo/drasi-reaction-storedproc-mssql@0.2.0
 - pkg:cargo/drasi-reaction-storedproc-mssql@0.2.1
+- pkg:cargo/drasi-reaction-storedproc-mssql@0.2.10
+- pkg:cargo/drasi-reaction-storedproc-mssql@0.2.11
 - pkg:cargo/drasi-reaction-storedproc-mssql@0.2.2
 - pkg:cargo/drasi-reaction-storedproc-mssql@0.2.3
 - pkg:cargo/drasi-reaction-storedproc-mssql@0.2.4
