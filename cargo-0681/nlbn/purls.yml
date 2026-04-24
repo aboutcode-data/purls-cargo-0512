@@ -17,6 +17,8 @@
 - pkg:cargo/nlbn@1.0.23
 - pkg:cargo/nlbn@1.0.24
 - pkg:cargo/nlbn@1.0.25
+- pkg:cargo/nlbn@1.0.26
+- pkg:cargo/nlbn@1.0.27
 - pkg:cargo/nlbn@1.0.3
 - pkg:cargo/nlbn@1.0.4
 - pkg:cargo/nlbn@1.0.5
