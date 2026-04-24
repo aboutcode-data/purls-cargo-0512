@@ -11,6 +11,7 @@
 - pkg:cargo/buffi@0.3.1%2Brust.1.88.0
 - pkg:cargo/buffi@0.3.10%2Brust.1.94.0
 - pkg:cargo/buffi@0.3.11%2Brust.1.95.0
+- pkg:cargo/buffi@0.3.12%2Brust.1.95.0
 - pkg:cargo/buffi@0.3.2%2Brust.1.89.0
 - pkg:cargo/buffi@0.3.3%2Brust.1.90.0
 - pkg:cargo/buffi@0.3.4%2Brust.1.91.0
