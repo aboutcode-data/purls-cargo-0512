@@ -3,3 +3,4 @@
 - pkg:cargo/kobe-nostr@1.0.0
 - pkg:cargo/kobe-nostr@1.1.0
 - pkg:cargo/kobe-nostr@1.1.1
+- pkg:cargo/kobe-nostr@2.0.0

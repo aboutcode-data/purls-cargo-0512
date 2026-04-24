@@ -28,3 +28,4 @@
 - pkg:cargo/kobe-btc@1.0.0
 - pkg:cargo/kobe-btc@1.1.0
 - pkg:cargo/kobe-btc@1.1.1
+- pkg:cargo/kobe-btc@2.0.0
