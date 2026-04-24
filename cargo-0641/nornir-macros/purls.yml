@@ -9,3 +9,4 @@
 - pkg:cargo/nornir-macros@1.0.0-RC.1
 - pkg:cargo/nornir-macros@1.0.0-RC.2
 - pkg:cargo/nornir-macros@1.0.0-RC.3
+- pkg:cargo/nornir-macros@1.1.0
