@@ -3,3 +3,5 @@
 - pkg:cargo/pib-service-api-auth@0.14.0
 - pkg:cargo/pib-service-api-auth@0.14.2
 - pkg:cargo/pib-service-api-auth@0.15.0
+- pkg:cargo/pib-service-api-auth@0.15.2
+- pkg:cargo/pib-service-api-auth@0.16.0
