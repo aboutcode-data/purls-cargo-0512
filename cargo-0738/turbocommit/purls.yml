@@ -59,3 +59,4 @@
 - pkg:cargo/turbocommit@2.2.1
 - pkg:cargo/turbocommit@3.0.0
 - pkg:cargo/turbocommit@3.1.0
+- pkg:cargo/turbocommit@3.1.1
