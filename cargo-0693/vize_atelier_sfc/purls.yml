@@ -119,6 +119,8 @@
 - pkg:cargo/vize_atelier_sfc@0.61.0
 - pkg:cargo/vize_atelier_sfc@0.62.0
 - pkg:cargo/vize_atelier_sfc@0.63.0
+- pkg:cargo/vize_atelier_sfc@0.64.0
+- pkg:cargo/vize_atelier_sfc@0.65.0
 - pkg:cargo/vize_atelier_sfc@0.7.0
 - pkg:cargo/vize_atelier_sfc@0.8.0
 - pkg:cargo/vize_atelier_sfc@0.9.0
