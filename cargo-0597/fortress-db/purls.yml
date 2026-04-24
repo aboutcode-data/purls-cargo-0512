@@ -1,3 +1,4 @@
 - pkg:cargo/fortress-db@0.1.0
 - pkg:cargo/fortress-db@1.0.0
+- pkg:cargo/fortress-db@1.0.1
 - pkg:cargo/fortress-db@1.0.1-alpha
