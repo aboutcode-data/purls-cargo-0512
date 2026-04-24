@@ -8,3 +8,4 @@
 - pkg:cargo/momento-functions-collections-common@0.23.0
 - pkg:cargo/momento-functions-collections-common@0.23.1
 - pkg:cargo/momento-functions-collections-common@0.23.2
+- pkg:cargo/momento-functions-collections-common@0.24.0
