@@ -1,1 +1,3 @@
 - pkg:cargo/coalesce-worker@0.1.0
+- pkg:cargo/coalesce-worker@0.1.1
+- pkg:cargo/coalesce-worker@0.1.2
