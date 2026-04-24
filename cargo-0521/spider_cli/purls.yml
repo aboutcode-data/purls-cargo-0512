@@ -1871,6 +1871,9 @@
 - pkg:cargo/spider_cli@2.51.111
 - pkg:cargo/spider_cli@2.51.112
 - pkg:cargo/spider_cli@2.51.113
+- pkg:cargo/spider_cli@2.51.114
+- pkg:cargo/spider_cli@2.51.115
+- pkg:cargo/spider_cli@2.51.116
 - pkg:cargo/spider_cli@2.51.14
 - pkg:cargo/spider_cli@2.51.15
 - pkg:cargo/spider_cli@2.51.16
