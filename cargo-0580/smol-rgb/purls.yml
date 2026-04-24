@@ -10,3 +10,4 @@
 - pkg:cargo/smol-rgb@0.6.1
 - pkg:cargo/smol-rgb@0.6.2
 - pkg:cargo/smol-rgb@0.6.3
+- pkg:cargo/smol-rgb@0.7.0
