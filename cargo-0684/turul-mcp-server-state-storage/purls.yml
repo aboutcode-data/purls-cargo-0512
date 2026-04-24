@@ -7,3 +7,6 @@
 - pkg:cargo/turul-mcp-server-state-storage@0.3.32
 - pkg:cargo/turul-mcp-server-state-storage@0.3.33
 - pkg:cargo/turul-mcp-server-state-storage@0.3.34
+- pkg:cargo/turul-mcp-server-state-storage@0.3.35
+- pkg:cargo/turul-mcp-server-state-storage@0.3.36
+- pkg:cargo/turul-mcp-server-state-storage@0.3.37
