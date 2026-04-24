@@ -56,3 +56,4 @@
 - pkg:cargo/diesel_cli@2.3.5
 - pkg:cargo/diesel_cli@2.3.6
 - pkg:cargo/diesel_cli@2.3.7
+- pkg:cargo/diesel_cli@2.3.8
