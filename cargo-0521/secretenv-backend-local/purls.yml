@@ -5,3 +5,4 @@
 - pkg:cargo/secretenv-backend-local@0.5.0
 - pkg:cargo/secretenv-backend-local@0.6.0
 - pkg:cargo/secretenv-backend-local@0.7.0
+- pkg:cargo/secretenv-backend-local@0.8.0
