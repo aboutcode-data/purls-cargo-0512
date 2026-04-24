@@ -99,6 +99,8 @@
 - pkg:cargo/ebi_objects@0.3.179
 - pkg:cargo/ebi_objects@0.3.18
 - pkg:cargo/ebi_objects@0.3.180
+- pkg:cargo/ebi_objects@0.3.181
+- pkg:cargo/ebi_objects@0.3.182
 - pkg:cargo/ebi_objects@0.3.19
 - pkg:cargo/ebi_objects@0.3.2
 - pkg:cargo/ebi_objects@0.3.20
