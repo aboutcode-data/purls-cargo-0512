@@ -13,3 +13,4 @@
 - pkg:cargo/subx-cli@1.5.0
 - pkg:cargo/subx-cli@1.5.1
 - pkg:cargo/subx-cli@1.5.2
+- pkg:cargo/subx-cli@1.6.0
