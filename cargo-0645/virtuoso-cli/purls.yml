@@ -13,3 +13,5 @@
 - pkg:cargo/virtuoso-cli@0.3.4
 - pkg:cargo/virtuoso-cli@0.3.5
 - pkg:cargo/virtuoso-cli@0.3.6
+- pkg:cargo/virtuoso-cli@0.3.7
+- pkg:cargo/virtuoso-cli@0.3.8
