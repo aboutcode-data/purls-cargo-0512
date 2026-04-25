@@ -180,3 +180,5 @@
 - pkg:cargo/homeboy@0.89.1
 - pkg:cargo/homeboy@0.90.2
 - pkg:cargo/homeboy@0.91.0
+- pkg:cargo/homeboy@0.92.0
+- pkg:cargo/homeboy@0.93.0
