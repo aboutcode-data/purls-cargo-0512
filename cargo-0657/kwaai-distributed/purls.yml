@@ -34,3 +34,4 @@
 - pkg:cargo/kwaai-distributed@0.4.2
 - pkg:cargo/kwaai-distributed@0.4.3
 - pkg:cargo/kwaai-distributed@0.4.4
+- pkg:cargo/kwaai-distributed@0.4.6
