@@ -49,3 +49,4 @@
 - pkg:cargo/mrml@5.0.0
 - pkg:cargo/mrml@5.1.0
 - pkg:cargo/mrml@6.0.0
+- pkg:cargo/mrml@6.0.1
