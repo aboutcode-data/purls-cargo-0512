@@ -2,3 +2,4 @@
 - pkg:cargo/mu_uefi_guid@3.0.0
 - pkg:cargo/mu_uefi_guid@3.0.1
 - pkg:cargo/mu_uefi_guid@3.0.2
+- pkg:cargo/mu_uefi_guid@4.0.0

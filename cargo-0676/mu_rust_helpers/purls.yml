@@ -2,3 +2,4 @@
 - pkg:cargo/mu_rust_helpers@3.0.0
 - pkg:cargo/mu_rust_helpers@3.0.1
 - pkg:cargo/mu_rust_helpers@3.0.2
+- pkg:cargo/mu_rust_helpers@4.0.0
