@@ -1,5 +1,6 @@
 - pkg:cargo/fakecloud-elasticache@0.10.0
 - pkg:cargo/fakecloud-elasticache@0.10.1
+- pkg:cargo/fakecloud-elasticache@0.11.0
 - pkg:cargo/fakecloud-elasticache@0.6.0
 - pkg:cargo/fakecloud-elasticache@0.6.1
 - pkg:cargo/fakecloud-elasticache@0.7.0
