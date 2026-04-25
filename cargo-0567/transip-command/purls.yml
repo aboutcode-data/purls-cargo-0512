@@ -14,4 +14,5 @@
 - pkg:cargo/transip-command@0.3.8
 - pkg:cargo/transip-command@0.4.0
 - pkg:cargo/transip-command@0.4.1
+- pkg:cargo/transip-command@0.4.2
 - pkg:cargo/transip-command@4.0.1
