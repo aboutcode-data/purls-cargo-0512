@@ -4,6 +4,7 @@
 - pkg:cargo/agent-chorus@0.12.1
 - pkg:cargo/agent-chorus@0.12.2
 - pkg:cargo/agent-chorus@0.13.0
+- pkg:cargo/agent-chorus@0.14.1
 - pkg:cargo/agent-chorus@0.8.0
 - pkg:cargo/agent-chorus@0.8.1
 - pkg:cargo/agent-chorus@0.8.2

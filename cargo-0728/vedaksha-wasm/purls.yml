@@ -1,3 +1,5 @@
 - pkg:cargo/vedaksha-wasm@0.1.0
 - pkg:cargo/vedaksha-wasm@0.2.0
 - pkg:cargo/vedaksha-wasm@1.0.0
+- pkg:cargo/vedaksha-wasm@1.7.1
+- pkg:cargo/vedaksha-wasm@2.0.0
