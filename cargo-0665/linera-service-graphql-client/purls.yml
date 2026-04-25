@@ -23,6 +23,7 @@
 - pkg:cargo/linera-service-graphql-client@0.15.13
 - pkg:cargo/linera-service-graphql-client@0.15.14
 - pkg:cargo/linera-service-graphql-client@0.15.15
+- pkg:cargo/linera-service-graphql-client@0.15.17
 - pkg:cargo/linera-service-graphql-client@0.15.2
 - pkg:cargo/linera-service-graphql-client@0.15.3
 - pkg:cargo/linera-service-graphql-client@0.15.4
