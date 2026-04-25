@@ -1,6 +1,9 @@
 - pkg:cargo/writestead@0.1.10
 - pkg:cargo/writestead@0.1.11
 - pkg:cargo/writestead@0.1.12
+- pkg:cargo/writestead@0.1.13
+- pkg:cargo/writestead@0.1.14
+- pkg:cargo/writestead@0.1.15
 - pkg:cargo/writestead@0.1.2
 - pkg:cargo/writestead@0.1.3
 - pkg:cargo/writestead@0.1.4
