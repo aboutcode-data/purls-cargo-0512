@@ -123,6 +123,8 @@
 - pkg:cargo/icydb-schema@0.134.6
 - pkg:cargo/icydb-schema@0.134.7
 - pkg:cargo/icydb-schema@0.134.8
+- pkg:cargo/icydb-schema@0.135.0
+- pkg:cargo/icydb-schema@0.136.0
 - pkg:cargo/icydb-schema@0.14.0
 - pkg:cargo/icydb-schema@0.14.1
 - pkg:cargo/icydb-schema@0.14.2
