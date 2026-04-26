@@ -60,6 +60,7 @@
 - pkg:cargo/keyring@3.6.1
 - pkg:cargo/keyring@3.6.2
 - pkg:cargo/keyring@3.6.3
+- pkg:cargo/keyring@4.0.0
 - pkg:cargo/keyring@4.0.0-alpha.1
 - pkg:cargo/keyring@4.0.0-alpha.2
 - pkg:cargo/keyring@4.0.0-alpha.3
