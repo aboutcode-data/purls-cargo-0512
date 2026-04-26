@@ -24,3 +24,5 @@
 - pkg:cargo/fulgur@0.5.8
 - pkg:cargo/fulgur@0.5.9
 - pkg:cargo/fulgur@0.6.0
+- pkg:cargo/fulgur@0.7.0
+- pkg:cargo/fulgur@0.8.0

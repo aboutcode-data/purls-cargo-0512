@@ -10,6 +10,7 @@
 - pkg:cargo/spiffe@0.11.4
 - pkg:cargo/spiffe@0.12.0
 - pkg:cargo/spiffe@0.13.0
+- pkg:cargo/spiffe@0.14.0
 - pkg:cargo/spiffe@0.2.0
 - pkg:cargo/spiffe@0.2.1
 - pkg:cargo/spiffe@0.2.2
