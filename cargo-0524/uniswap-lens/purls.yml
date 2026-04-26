@@ -17,3 +17,4 @@
 - pkg:cargo/uniswap-lens@0.7.0
 - pkg:cargo/uniswap-lens@0.8.0
 - pkg:cargo/uniswap-lens@0.9.0
+- pkg:cargo/uniswap-lens@1.0.0
