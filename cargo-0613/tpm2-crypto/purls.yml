@@ -35,3 +35,4 @@
 - pkg:cargo/tpm2-crypto@0.8.1
 - pkg:cargo/tpm2-crypto@0.8.2
 - pkg:cargo/tpm2-crypto@0.9.0
+- pkg:cargo/tpm2-crypto@0.9.1
