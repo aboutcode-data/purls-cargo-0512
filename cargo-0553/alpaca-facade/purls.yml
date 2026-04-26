@@ -1,2 +1,4 @@
 - pkg:cargo/alpaca-facade@0.24.8
 - pkg:cargo/alpaca-facade@0.24.9
+- pkg:cargo/alpaca-facade@0.25.0
+- pkg:cargo/alpaca-facade@0.25.1
