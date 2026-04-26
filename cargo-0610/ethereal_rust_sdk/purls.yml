@@ -23,6 +23,8 @@
 - pkg:cargo/ethereal_rust_sdk@0.1.30
 - pkg:cargo/ethereal_rust_sdk@0.1.31
 - pkg:cargo/ethereal_rust_sdk@0.1.32
+- pkg:cargo/ethereal_rust_sdk@0.1.33
+- pkg:cargo/ethereal_rust_sdk@0.1.34
 - pkg:cargo/ethereal_rust_sdk@0.1.4
 - pkg:cargo/ethereal_rust_sdk@0.1.5
 - pkg:cargo/ethereal_rust_sdk@0.1.6

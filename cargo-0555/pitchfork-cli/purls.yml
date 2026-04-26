@@ -26,3 +26,4 @@
 - pkg:cargo/pitchfork-cli@2.4.0
 - pkg:cargo/pitchfork-cli@2.5.0
 - pkg:cargo/pitchfork-cli@2.6.0
+- pkg:cargo/pitchfork-cli@2.7.0
