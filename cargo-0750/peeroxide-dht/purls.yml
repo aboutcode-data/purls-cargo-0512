@@ -1,1 +1,2 @@
 - pkg:cargo/peeroxide-dht@1.0.0
+- pkg:cargo/peeroxide-dht@1.0.1
