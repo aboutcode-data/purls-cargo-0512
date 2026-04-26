@@ -383,5 +383,8 @@
 - pkg:cargo/j-cli@12.9.7
 - pkg:cargo/j-cli@12.9.70
 - pkg:cargo/j-cli@12.9.71
+- pkg:cargo/j-cli@12.9.72
+- pkg:cargo/j-cli@12.9.73
+- pkg:cargo/j-cli@12.9.74
 - pkg:cargo/j-cli@12.9.8
 - pkg:cargo/j-cli@12.9.9
