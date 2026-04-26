@@ -1,3 +1,4 @@
 - pkg:cargo/omegon-extension@0.15.23
 - pkg:cargo/omegon-extension@0.15.24
 - pkg:cargo/omegon-extension@0.15.26
+- pkg:cargo/omegon-extension@0.17.0-rc.1
