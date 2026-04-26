@@ -1,1 +1,2 @@
 - pkg:cargo/eldiron-client-wgpu@0.9.3
+- pkg:cargo/eldiron-client-wgpu@0.9.7
