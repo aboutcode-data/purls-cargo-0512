@@ -18,3 +18,4 @@
 - pkg:cargo/taudit-core@1.0.1
 - pkg:cargo/taudit-core@1.0.2
 - pkg:cargo/taudit-core@1.0.3
+- pkg:cargo/taudit-core@1.0.8
