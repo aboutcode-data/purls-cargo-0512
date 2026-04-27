@@ -26,6 +26,7 @@
 - pkg:cargo/oxc_napi@0.125.0
 - pkg:cargo/oxc_napi@0.126.0
 - pkg:cargo/oxc_napi@0.127.0
+- pkg:cargo/oxc_napi@0.128.0
 - pkg:cargo/oxc_napi@0.40.0
 - pkg:cargo/oxc_napi@0.40.1
 - pkg:cargo/oxc_napi@0.41.0

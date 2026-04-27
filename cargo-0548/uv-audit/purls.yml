@@ -11,3 +11,4 @@
 - pkg:cargo/uv-audit@0.0.38
 - pkg:cargo/uv-audit@0.0.39
 - pkg:cargo/uv-audit@0.0.40
+- pkg:cargo/uv-audit@0.0.41
