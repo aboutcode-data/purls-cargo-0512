@@ -6,3 +6,4 @@
 - pkg:cargo/cortex-sdk@1.5.1
 - pkg:cargo/cortex-sdk@1.5.2
 - pkg:cargo/cortex-sdk@1.5.3
+- pkg:cargo/cortex-sdk@1.5.4
