@@ -4,3 +4,4 @@
 - pkg:cargo/qubit-metadata@0.2.2
 - pkg:cargo/qubit-metadata@0.2.3
 - pkg:cargo/qubit-metadata@0.3.0
+- pkg:cargo/qubit-metadata@0.3.1
