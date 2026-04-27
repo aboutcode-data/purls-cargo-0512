@@ -1,3 +1,4 @@
 - pkg:cargo/plug@0.0.0-dev
+- pkg:cargo/plug@0.1.0
 - pkg:cargo/plug@0.1.0-dev
 - pkg:cargo/plug@0.1.0-dev.1
