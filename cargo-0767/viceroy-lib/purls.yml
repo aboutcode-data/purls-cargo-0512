@@ -18,6 +18,7 @@
 - pkg:cargo/viceroy-lib@0.16.3
 - pkg:cargo/viceroy-lib@0.16.4
 - pkg:cargo/viceroy-lib@0.16.5
+- pkg:cargo/viceroy-lib@0.17.0
 - pkg:cargo/viceroy-lib@0.2.10
 - pkg:cargo/viceroy-lib@0.2.11
 - pkg:cargo/viceroy-lib@0.2.12
