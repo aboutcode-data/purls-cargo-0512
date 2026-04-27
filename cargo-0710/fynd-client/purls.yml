@@ -29,3 +29,5 @@
 - pkg:cargo/fynd-client@0.53.0
 - pkg:cargo/fynd-client@0.54.0
 - pkg:cargo/fynd-client@0.55.0
+- pkg:cargo/fynd-client@0.56.0
+- pkg:cargo/fynd-client@0.56.1
