@@ -1961,6 +1961,7 @@
 - pkg:cargo/spider@2.51.132
 - pkg:cargo/spider@2.51.133
 - pkg:cargo/spider@2.51.134
+- pkg:cargo/spider@2.51.135
 - pkg:cargo/spider@2.51.14
 - pkg:cargo/spider@2.51.15
 - pkg:cargo/spider@2.51.16
