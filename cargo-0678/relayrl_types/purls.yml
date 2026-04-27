@@ -19,3 +19,4 @@
 - pkg:cargo/relayrl_types@0.5.4
 - pkg:cargo/relayrl_types@0.6.0
 - pkg:cargo/relayrl_types@0.7.0
+- pkg:cargo/relayrl_types@0.7.1
