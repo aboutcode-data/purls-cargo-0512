@@ -6,3 +6,4 @@
 - pkg:cargo/suture-driver-csv@1.1.0
 - pkg:cargo/suture-driver-csv@1.2.0
 - pkg:cargo/suture-driver-csv@5.0.0
+- pkg:cargo/suture-driver-csv@5.0.1
