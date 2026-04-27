@@ -2,6 +2,7 @@
 - pkg:cargo/busyrpc@0.11.0
 - pkg:cargo/busyrpc@0.12.0
 - pkg:cargo/busyrpc@0.13.0
+- pkg:cargo/busyrpc@0.14.0
 - pkg:cargo/busyrpc@0.2.0
 - pkg:cargo/busyrpc@0.3.0
 - pkg:cargo/busyrpc@0.5.0
