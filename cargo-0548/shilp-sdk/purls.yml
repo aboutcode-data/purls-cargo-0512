@@ -3,3 +3,4 @@
 - pkg:cargo/shilp-sdk@0.12.2
 - pkg:cargo/shilp-sdk@0.13.0
 - pkg:cargo/shilp-sdk@0.14.0
+- pkg:cargo/shilp-sdk@0.15.0
