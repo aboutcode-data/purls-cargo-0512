@@ -8,6 +8,7 @@
 - pkg:cargo/telltale-runtime@14.0.0
 - pkg:cargo/telltale-runtime@15.0.0
 - pkg:cargo/telltale-runtime@16.0.0
+- pkg:cargo/telltale-runtime@17.0.0
 - pkg:cargo/telltale-runtime@7.0.0
 - pkg:cargo/telltale-runtime@8.0.0
 - pkg:cargo/telltale-runtime@9.0.0
