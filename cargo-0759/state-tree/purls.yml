@@ -13,3 +13,4 @@
 - pkg:cargo/state-tree@4.0.0-alpha.5
 - pkg:cargo/state-tree@4.0.0-alpha.6
 - pkg:cargo/state-tree@4.0.1
+- pkg:cargo/state-tree@4.0.2
