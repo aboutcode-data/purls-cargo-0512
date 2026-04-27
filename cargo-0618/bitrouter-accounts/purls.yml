@@ -30,6 +30,7 @@
 - pkg:cargo/bitrouter-accounts@0.24.3
 - pkg:cargo/bitrouter-accounts@0.24.4
 - pkg:cargo/bitrouter-accounts@0.25.0
+- pkg:cargo/bitrouter-accounts@0.26.0
 - pkg:cargo/bitrouter-accounts@0.3.0
 - pkg:cargo/bitrouter-accounts@0.4.0
 - pkg:cargo/bitrouter-accounts@0.5.0
