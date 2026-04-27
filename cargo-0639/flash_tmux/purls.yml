@@ -12,3 +12,4 @@
 - pkg:cargo/flash_tmux@0.2.7
 - pkg:cargo/flash_tmux@0.2.8
 - pkg:cargo/flash_tmux@0.3.0
+- pkg:cargo/flash_tmux@0.3.1
