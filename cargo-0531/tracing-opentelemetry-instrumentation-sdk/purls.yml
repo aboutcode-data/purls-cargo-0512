@@ -32,3 +32,4 @@
 - pkg:cargo/tracing-opentelemetry-instrumentation-sdk@0.32.2
 - pkg:cargo/tracing-opentelemetry-instrumentation-sdk@0.32.3
 - pkg:cargo/tracing-opentelemetry-instrumentation-sdk@0.32.4
+- pkg:cargo/tracing-opentelemetry-instrumentation-sdk@0.32.5
