@@ -3,6 +3,7 @@
 - pkg:cargo/rustledger-ffi-wasi@0.11.0
 - pkg:cargo/rustledger-ffi-wasi@0.12.0
 - pkg:cargo/rustledger-ffi-wasi@0.13.0
+- pkg:cargo/rustledger-ffi-wasi@0.14.0
 - pkg:cargo/rustledger-ffi-wasi@0.7.0
 - pkg:cargo/rustledger-ffi-wasi@0.7.2
 - pkg:cargo/rustledger-ffi-wasi@0.7.4
