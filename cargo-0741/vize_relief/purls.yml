@@ -151,6 +151,8 @@
 - pkg:cargo/vize_relief@0.71.0
 - pkg:cargo/vize_relief@0.72.0
 - pkg:cargo/vize_relief@0.73.0
+- pkg:cargo/vize_relief@0.74.0
+- pkg:cargo/vize_relief@0.75.0
 - pkg:cargo/vize_relief@0.8.0
 - pkg:cargo/vize_relief@0.9.0
 - pkg:cargo/vize_relief@0.9.0-alpha
