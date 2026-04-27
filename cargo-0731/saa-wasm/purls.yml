@@ -26,3 +26,4 @@
 - pkg:cargo/saa-wasm@0.1.0-beta.9
 - pkg:cargo/saa-wasm@0.1.0-gamma.1
 - pkg:cargo/saa-wasm@0.1.0-gamma.2
+- pkg:cargo/saa-wasm@0.1.1
