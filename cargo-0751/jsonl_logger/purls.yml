@@ -1,3 +1,4 @@
 - pkg:cargo/jsonl_logger@0.3.0
 - pkg:cargo/jsonl_logger@1.10.7
 - pkg:cargo/jsonl_logger@1.7.10
+- pkg:cargo/jsonl_logger@10.10.10
