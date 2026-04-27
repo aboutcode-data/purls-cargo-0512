@@ -40,3 +40,5 @@
 - pkg:cargo/mentedb-mcp@0.5.0
 - pkg:cargo/mentedb-mcp@0.5.1
 - pkg:cargo/mentedb-mcp@0.5.2
+- pkg:cargo/mentedb-mcp@0.5.3
+- pkg:cargo/mentedb-mcp@0.5.4

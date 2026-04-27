@@ -13,3 +13,4 @@
 - pkg:cargo/aube-registry@1.0.0-beta.9
 - pkg:cargo/aube-registry@1.1.0
 - pkg:cargo/aube-registry@1.2.0
+- pkg:cargo/aube-registry@1.2.1
