@@ -133,3 +133,5 @@
 - pkg:cargo/myc-core@8.3.1-beta.5
 - pkg:cargo/myc-core@8.3.1-rc.1
 - pkg:cargo/myc-core@8.3.1-rc.2
+- pkg:cargo/myc-core@8.3.1-rc.3
+- pkg:cargo/myc-core@8.3.1-rc.4
