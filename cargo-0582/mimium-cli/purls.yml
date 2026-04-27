@@ -24,3 +24,4 @@
 - pkg:cargo/mimium-cli@4.0.0-alpha.4
 - pkg:cargo/mimium-cli@4.0.0-alpha.6
 - pkg:cargo/mimium-cli@4.0.1
+- pkg:cargo/mimium-cli@4.0.2
