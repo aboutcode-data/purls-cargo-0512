@@ -37,3 +37,4 @@
 - pkg:cargo/swc_experimental_babel@1.0.0
 - pkg:cargo/swc_experimental_babel@2.0.0
 - pkg:cargo/swc_experimental_babel@3.0.0
+- pkg:cargo/swc_experimental_babel@4.0.0
