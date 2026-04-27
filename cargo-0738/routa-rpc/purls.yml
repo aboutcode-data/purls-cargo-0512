@@ -15,6 +15,7 @@
 - pkg:cargo/routa-rpc@0.17.1
 - pkg:cargo/routa-rpc@0.17.2
 - pkg:cargo/routa-rpc@0.18.0
+- pkg:cargo/routa-rpc@0.18.1
 - pkg:cargo/routa-rpc@0.2.10
 - pkg:cargo/routa-rpc@0.2.11
 - pkg:cargo/routa-rpc@0.2.4
