@@ -39,6 +39,7 @@
 - pkg:cargo/mdfried@0.19.4
 - pkg:cargo/mdfried@0.19.5
 - pkg:cargo/mdfried@0.19.6
+- pkg:cargo/mdfried@0.19.7
 - pkg:cargo/mdfried@0.2.0
 - pkg:cargo/mdfried@0.3.0
 - pkg:cargo/mdfried@0.3.2
