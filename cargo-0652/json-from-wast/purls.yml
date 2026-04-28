@@ -15,3 +15,4 @@
 - pkg:cargo/json-from-wast@0.246.1
 - pkg:cargo/json-from-wast@0.246.2
 - pkg:cargo/json-from-wast@0.247.0
+- pkg:cargo/json-from-wast@0.248.0
