@@ -20,6 +20,7 @@
 - pkg:cargo/gix-sec@0.13.1
 - pkg:cargo/gix-sec@0.13.2
 - pkg:cargo/gix-sec@0.13.3
+- pkg:cargo/gix-sec@0.14.0
 - pkg:cargo/gix-sec@0.6.2
 - pkg:cargo/gix-sec@0.7.0
 - pkg:cargo/gix-sec@0.8.0
