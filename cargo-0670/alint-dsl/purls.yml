@@ -17,3 +17,4 @@
 - pkg:cargo/alint-dsl@0.5.12
 - pkg:cargo/alint-dsl@0.5.8
 - pkg:cargo/alint-dsl@0.5.9
+- pkg:cargo/alint-dsl@0.6.0
