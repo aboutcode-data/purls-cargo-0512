@@ -8,6 +8,7 @@
 - pkg:cargo/legato@0.0.17
 - pkg:cargo/legato@0.0.18
 - pkg:cargo/legato@0.0.19
+- pkg:cargo/legato@0.0.21
 - pkg:cargo/legato@0.0.6
 - pkg:cargo/legato@0.0.7
 - pkg:cargo/legato@0.0.8
