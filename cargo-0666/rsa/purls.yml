@@ -19,6 +19,7 @@
 - pkg:cargo/rsa@0.10.0-rc.15
 - pkg:cargo/rsa@0.10.0-rc.16
 - pkg:cargo/rsa@0.10.0-rc.17
+- pkg:cargo/rsa@0.10.0-rc.18
 - pkg:cargo/rsa@0.10.0-rc.2
 - pkg:cargo/rsa@0.10.0-rc.3
 - pkg:cargo/rsa@0.10.0-rc.4
