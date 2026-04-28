@@ -40,6 +40,7 @@
 - pkg:cargo/aws-sdk-gameliftstreams@1.41.0
 - pkg:cargo/aws-sdk-gameliftstreams@1.42.0
 - pkg:cargo/aws-sdk-gameliftstreams@1.43.0
+- pkg:cargo/aws-sdk-gameliftstreams@1.43.1
 - pkg:cargo/aws-sdk-gameliftstreams@1.5.0
 - pkg:cargo/aws-sdk-gameliftstreams@1.6.0
 - pkg:cargo/aws-sdk-gameliftstreams@1.7.0
