@@ -48,6 +48,7 @@
 - pkg:cargo/sparql_service@0.2.12
 - pkg:cargo/sparql_service@0.2.14
 - pkg:cargo/sparql_service@0.2.15
+- pkg:cargo/sparql_service@0.2.17
 - pkg:cargo/sparql_service@0.2.17-rc.1
 - pkg:cargo/sparql_service@0.2.2
 - pkg:cargo/sparql_service@0.2.6
