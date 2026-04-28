@@ -23,6 +23,7 @@
 - pkg:cargo/wasm-bindgen@0.2.117
 - pkg:cargo/wasm-bindgen@0.2.118
 - pkg:cargo/wasm-bindgen@0.2.12
+- pkg:cargo/wasm-bindgen@0.2.120
 - pkg:cargo/wasm-bindgen@0.2.13
 - pkg:cargo/wasm-bindgen@0.2.14
 - pkg:cargo/wasm-bindgen@0.2.15
