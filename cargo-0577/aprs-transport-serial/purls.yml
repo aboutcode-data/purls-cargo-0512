@@ -4,3 +4,4 @@
 - pkg:cargo/aprs-transport-serial@0.3.0
 - pkg:cargo/aprs-transport-serial@0.4.0
 - pkg:cargo/aprs-transport-serial@0.5.0
+- pkg:cargo/aprs-transport-serial@0.6.0
