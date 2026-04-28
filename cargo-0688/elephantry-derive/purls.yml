@@ -38,3 +38,4 @@
 - pkg:cargo/elephantry-derive@5.0.0
 - pkg:cargo/elephantry-derive@5.1.0
 - pkg:cargo/elephantry-derive@5.1.1
+- pkg:cargo/elephantry-derive@5.2.0
