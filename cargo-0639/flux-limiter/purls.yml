@@ -3,3 +3,4 @@
 - pkg:cargo/flux-limiter@0.7.1
 - pkg:cargo/flux-limiter@0.7.2
 - pkg:cargo/flux-limiter@0.8.0
+- pkg:cargo/flux-limiter@0.8.1
