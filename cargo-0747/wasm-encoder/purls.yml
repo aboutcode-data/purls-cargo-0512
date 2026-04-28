@@ -87,6 +87,7 @@
 - pkg:cargo/wasm-encoder@0.246.1
 - pkg:cargo/wasm-encoder@0.246.2
 - pkg:cargo/wasm-encoder@0.247.0
+- pkg:cargo/wasm-encoder@0.248.0
 - pkg:cargo/wasm-encoder@0.25.0
 - pkg:cargo/wasm-encoder@0.26.0
 - pkg:cargo/wasm-encoder@0.27.0
