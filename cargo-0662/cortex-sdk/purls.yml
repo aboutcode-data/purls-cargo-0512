@@ -9,3 +9,4 @@
 - pkg:cargo/cortex-sdk@1.5.4
 - pkg:cargo/cortex-sdk@1.5.7
 - pkg:cargo/cortex-sdk@1.5.8
+- pkg:cargo/cortex-sdk@1.5.9
