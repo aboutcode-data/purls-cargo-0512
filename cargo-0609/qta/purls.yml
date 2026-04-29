@@ -4,5 +4,6 @@
 - pkg:cargo/qta@2.10.0
 - pkg:cargo/qta@2.31.4
 - pkg:cargo/qta@2.52.1
+- pkg:cargo/qta@2.52.2
 - pkg:cargo/qta@2.7.1
 - pkg:cargo/qta@2.9.0
