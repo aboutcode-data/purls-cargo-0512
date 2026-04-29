@@ -19,3 +19,4 @@
 - pkg:cargo/snarkvm-ledger-puzzle-epoch@4.5.4
 - pkg:cargo/snarkvm-ledger-puzzle-epoch@4.6.0
 - pkg:cargo/snarkvm-ledger-puzzle-epoch@4.6.1
+- pkg:cargo/snarkvm-ledger-puzzle-epoch@4.6.2
