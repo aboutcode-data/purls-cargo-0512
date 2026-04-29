@@ -9,3 +9,5 @@
 - pkg:cargo/net-mux@0.2.2
 - pkg:cargo/net-mux@0.2.3
 - pkg:cargo/net-mux@0.2.4
+- pkg:cargo/net-mux@1.0.0
+- pkg:cargo/net-mux@1.0.1
