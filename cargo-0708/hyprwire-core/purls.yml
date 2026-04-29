@@ -1,2 +1,3 @@
 - pkg:cargo/hyprwire-core@0.2.9
 - pkg:cargo/hyprwire-core@0.3.0
+- pkg:cargo/hyprwire-core@0.3.1
