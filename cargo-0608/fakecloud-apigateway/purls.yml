@@ -1,2 +1,3 @@
 - pkg:cargo/fakecloud-apigateway@0.13.0
 - pkg:cargo/fakecloud-apigateway@0.13.1
+- pkg:cargo/fakecloud-apigateway@0.13.2
