@@ -7,3 +7,5 @@
 - pkg:cargo/aprs-transport-tcp@0.4.0
 - pkg:cargo/aprs-transport-tcp@0.5.0
 - pkg:cargo/aprs-transport-tcp@0.6.0
+- pkg:cargo/aprs-transport-tcp@1.0.0
+- pkg:cargo/aprs-transport-tcp@1.0.0-rc.1

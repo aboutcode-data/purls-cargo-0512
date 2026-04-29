@@ -32,3 +32,4 @@
 - pkg:cargo/geni@1.1.9
 - pkg:cargo/geni@1.2.0
 - pkg:cargo/geni@1.2.1
+- pkg:cargo/geni@1.3.0
