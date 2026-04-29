@@ -1,1 +1,2 @@
 - pkg:cargo/awsim-cloudformation@0.1.0
+- pkg:cargo/awsim-cloudformation@0.2.0
