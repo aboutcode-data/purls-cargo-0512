@@ -11,3 +11,5 @@
 - pkg:cargo/tari_ootle_wallet_sdk@0.29.1
 - pkg:cargo/tari_ootle_wallet_sdk@0.3.0
 - pkg:cargo/tari_ootle_wallet_sdk@0.3.1
+- pkg:cargo/tari_ootle_wallet_sdk@0.30.0
+- pkg:cargo/tari_ootle_wallet_sdk@0.30.1
