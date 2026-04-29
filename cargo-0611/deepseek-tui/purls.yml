@@ -28,3 +28,5 @@
 - pkg:cargo/deepseek-tui@0.3.7
 - pkg:cargo/deepseek-tui@0.3.9
 - pkg:cargo/deepseek-tui@0.6.5
+- pkg:cargo/deepseek-tui@0.7.0
+- pkg:cargo/deepseek-tui@0.7.1
