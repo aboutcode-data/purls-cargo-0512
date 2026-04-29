@@ -9,3 +9,4 @@
 - pkg:cargo/toolclad@0.5.2
 - pkg:cargo/toolclad@0.5.3
 - pkg:cargo/toolclad@0.6.0
+- pkg:cargo/toolclad@0.6.1
