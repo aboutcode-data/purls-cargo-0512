@@ -2,6 +2,7 @@
 - pkg:cargo/ndr-ffi@0.0.101
 - pkg:cargo/ndr-ffi@0.0.102
 - pkg:cargo/ndr-ffi@0.0.104
+- pkg:cargo/ndr-ffi@0.0.122
 - pkg:cargo/ndr-ffi@0.0.97
 - pkg:cargo/ndr-ffi@0.0.98
 - pkg:cargo/ndr-ffi@0.0.99
