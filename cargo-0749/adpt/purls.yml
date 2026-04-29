@@ -5,6 +5,7 @@
 - pkg:cargo/adpt@0.13.1
 - pkg:cargo/adpt@0.13.5
 - pkg:cargo/adpt@0.13.6
+- pkg:cargo/adpt@0.13.7
 - pkg:cargo/adpt@0.2.0
 - pkg:cargo/adpt@0.3.0
 - pkg:cargo/adpt@0.3.1

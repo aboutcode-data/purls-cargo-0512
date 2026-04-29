@@ -1,1 +1,2 @@
 - pkg:cargo/latch-retry@0.1.0
+- pkg:cargo/latch-retry@0.1.1
