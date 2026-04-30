@@ -1,3 +1,4 @@
+- pkg:cargo/type_inference@0.0.1
 - pkg:cargo/type_inference@0.1.0
 - pkg:cargo/type_inference@0.1.10
 - pkg:cargo/type_inference@0.1.11
