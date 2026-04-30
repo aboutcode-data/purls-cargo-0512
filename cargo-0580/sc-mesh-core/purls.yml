@@ -3,3 +3,4 @@
 - pkg:cargo/sc-mesh-core@0.0.5
 - pkg:cargo/sc-mesh-core@0.0.6
 - pkg:cargo/sc-mesh-core@0.0.7
+- pkg:cargo/sc-mesh-core@0.0.9
