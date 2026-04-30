@@ -5,3 +5,5 @@
 - pkg:cargo/ternlang-codegen@1.2.3
 - pkg:cargo/ternlang-codegen@1.2.4
 - pkg:cargo/ternlang-codegen@1.2.5
+- pkg:cargo/ternlang-codegen@1.2.7
+- pkg:cargo/ternlang-codegen@1.2.9
