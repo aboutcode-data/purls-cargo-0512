@@ -2,3 +2,4 @@
 - pkg:cargo/guardian-shared@0.13.3
 - pkg:cargo/guardian-shared@0.14.3
 - pkg:cargo/guardian-shared@0.14.4
+- pkg:cargo/guardian-shared@0.14.5
