@@ -4,3 +4,4 @@
 - pkg:cargo/duck-diagnostic@0.3.1
 - pkg:cargo/duck-diagnostic@0.3.2
 - pkg:cargo/duck-diagnostic@0.4.0
+- pkg:cargo/duck-diagnostic@0.5.0
