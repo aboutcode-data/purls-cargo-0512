@@ -23,6 +23,7 @@
 - pkg:cargo/metrics-util@0.20.0
 - pkg:cargo/metrics-util@0.20.1
 - pkg:cargo/metrics-util@0.20.2
+- pkg:cargo/metrics-util@0.20.3
 - pkg:cargo/metrics-util@0.3.0
 - pkg:cargo/metrics-util@0.3.1
 - pkg:cargo/metrics-util@0.3.2
