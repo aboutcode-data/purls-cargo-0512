@@ -2,3 +2,5 @@
 - pkg:cargo/nebu-ctx@0.5.5
 - pkg:cargo/nebu-ctx@0.5.6
 - pkg:cargo/nebu-ctx@0.5.9
+- pkg:cargo/nebu-ctx@0.6.0
+- pkg:cargo/nebu-ctx@0.6.1
