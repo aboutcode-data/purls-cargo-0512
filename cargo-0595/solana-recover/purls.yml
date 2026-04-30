@@ -7,3 +7,4 @@
 - pkg:cargo/solana-recover@1.0.5
 - pkg:cargo/solana-recover@1.0.6
 - pkg:cargo/solana-recover@1.0.7
+- pkg:cargo/solana-recover@1.1.0
