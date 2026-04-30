@@ -7,3 +7,4 @@
 - pkg:cargo/prax-orm-cli@0.7.0
 - pkg:cargo/prax-orm-cli@0.7.3
 - pkg:cargo/prax-orm-cli@0.8.0
+- pkg:cargo/prax-orm-cli@0.8.2
