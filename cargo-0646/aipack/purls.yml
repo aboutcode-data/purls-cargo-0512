@@ -57,6 +57,7 @@
 - pkg:cargo/aipack@0.8.20
 - pkg:cargo/aipack@0.8.21
 - pkg:cargo/aipack@0.8.22
+- pkg:cargo/aipack@0.8.23
 - pkg:cargo/aipack@0.8.3
 - pkg:cargo/aipack@0.8.4
 - pkg:cargo/aipack@0.8.5
