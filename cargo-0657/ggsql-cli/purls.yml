@@ -1,1 +1,2 @@
 - pkg:cargo/ggsql-cli@0.3.0
+- pkg:cargo/ggsql-cli@0.3.1
