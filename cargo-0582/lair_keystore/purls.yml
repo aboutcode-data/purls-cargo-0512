@@ -52,3 +52,4 @@
 - pkg:cargo/lair_keystore@0.6.2
 - pkg:cargo/lair_keystore@0.6.3
 - pkg:cargo/lair_keystore@0.7.0
+- pkg:cargo/lair_keystore@0.7.1
