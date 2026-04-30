@@ -1900,6 +1900,7 @@
 - pkg:cargo/spider_cli@2.51.141
 - pkg:cargo/spider_cli@2.51.142
 - pkg:cargo/spider_cli@2.51.143
+- pkg:cargo/spider_cli@2.51.144
 - pkg:cargo/spider_cli@2.51.15
 - pkg:cargo/spider_cli@2.51.16
 - pkg:cargo/spider_cli@2.51.17
