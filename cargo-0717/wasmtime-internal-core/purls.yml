@@ -4,4 +4,6 @@
 - pkg:cargo/wasmtime-internal-core@42.0.2
 - pkg:cargo/wasmtime-internal-core@43.0.0
 - pkg:cargo/wasmtime-internal-core@43.0.1
+- pkg:cargo/wasmtime-internal-core@43.0.2
 - pkg:cargo/wasmtime-internal-core@44.0.0
+- pkg:cargo/wasmtime-internal-core@44.0.1

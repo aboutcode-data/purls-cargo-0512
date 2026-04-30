@@ -166,6 +166,7 @@
 - pkg:cargo/dittolive-ditto-sys@4.14.4-preview.3
 - pkg:cargo/dittolive-ditto-sys@4.14.4-rc.1
 - pkg:cargo/dittolive-ditto-sys@4.14.4-rc.3
+- pkg:cargo/dittolive-ditto-sys@4.14.4-rc.4
 - pkg:cargo/dittolive-ditto-sys@4.15.0-experimental-b6835ba.0
 - pkg:cargo/dittolive-ditto-sys@4.15.0-experimental-kotlin17.1
 - pkg:cargo/dittolive-ditto-sys@4.15.0-rc.2
