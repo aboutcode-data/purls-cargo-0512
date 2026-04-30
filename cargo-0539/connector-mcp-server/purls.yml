@@ -1,4 +1,6 @@
 - pkg:cargo/connector-mcp-server@0.10.0
+- pkg:cargo/connector-mcp-server@0.10.1
+- pkg:cargo/connector-mcp-server@0.10.2
 - pkg:cargo/connector-mcp-server@0.5.0
 - pkg:cargo/connector-mcp-server@0.6.0
 - pkg:cargo/connector-mcp-server@0.7.0
