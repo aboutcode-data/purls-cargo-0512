@@ -20,6 +20,11 @@
 - pkg:cargo/liter-llm@1.4.0-rc.14
 - pkg:cargo/liter-llm@1.4.0-rc.16
 - pkg:cargo/liter-llm@1.4.0-rc.17
+- pkg:cargo/liter-llm@1.4.0-rc.18
+- pkg:cargo/liter-llm@1.4.0-rc.19
 - pkg:cargo/liter-llm@1.4.0-rc.2
+- pkg:cargo/liter-llm@1.4.0-rc.20
+- pkg:cargo/liter-llm@1.4.0-rc.21
+- pkg:cargo/liter-llm@1.4.0-rc.22
 - pkg:cargo/liter-llm@1.4.0-rc.3
 - pkg:cargo/liter-llm@1.4.0-rc.4
