@@ -91,3 +91,4 @@
 - pkg:cargo/skia-bindings@0.91.0
 - pkg:cargo/skia-bindings@0.93.0
 - pkg:cargo/skia-bindings@0.93.1
+- pkg:cargo/skia-bindings@0.97.0
