@@ -12,6 +12,7 @@
 - pkg:cargo/wsx@0.15.1
 - pkg:cargo/wsx@0.15.3
 - pkg:cargo/wsx@0.15.4
+- pkg:cargo/wsx@0.15.6
 - pkg:cargo/wsx@0.8.0
 - pkg:cargo/wsx@0.8.1
 - pkg:cargo/wsx@0.8.2
