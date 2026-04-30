@@ -1,3 +1,4 @@
 - pkg:cargo/llamactl@1.5.1
 - pkg:cargo/llamactl@1.5.2
 - pkg:cargo/llamactl@1.6.0
+- pkg:cargo/llamactl@2.0.0

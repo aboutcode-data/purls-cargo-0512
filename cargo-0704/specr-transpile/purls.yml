@@ -30,6 +30,8 @@
 - pkg:cargo/specr-transpile@0.1.35
 - pkg:cargo/specr-transpile@0.1.36
 - pkg:cargo/specr-transpile@0.1.37
+- pkg:cargo/specr-transpile@0.1.38
+- pkg:cargo/specr-transpile@0.1.39
 - pkg:cargo/specr-transpile@0.1.4
 - pkg:cargo/specr-transpile@0.1.5
 - pkg:cargo/specr-transpile@0.1.6
