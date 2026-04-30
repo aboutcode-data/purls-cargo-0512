@@ -119,3 +119,4 @@
 - pkg:cargo/seq-compiler@5.7.1
 - pkg:cargo/seq-compiler@6.0.0
 - pkg:cargo/seq-compiler@6.1.0
+- pkg:cargo/seq-compiler@6.1.2
