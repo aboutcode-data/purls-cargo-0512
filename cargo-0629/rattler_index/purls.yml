@@ -121,3 +121,4 @@
 - pkg:cargo/rattler_index@0.27.7
 - pkg:cargo/rattler_index@0.27.8
 - pkg:cargo/rattler_index@0.27.9
+- pkg:cargo/rattler_index@0.28.0

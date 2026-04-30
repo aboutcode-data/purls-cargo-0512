@@ -42,5 +42,6 @@
 - pkg:cargo/asphalt@1.0.0-pre.8
 - pkg:cargo/asphalt@1.0.0-pre.9
 - pkg:cargo/asphalt@1.1.0
+- pkg:cargo/asphalt@2.0.0
 - pkg:cargo/asphalt@2.0.0-rc.4
 - pkg:cargo/asphalt@2.0.0-rc.5
