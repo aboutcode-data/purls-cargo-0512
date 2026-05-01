@@ -1,4 +1,5 @@
 - pkg:cargo/flowfabric@0.10.0
 - pkg:cargo/flowfabric@0.11.0
 - pkg:cargo/flowfabric@0.12.0
+- pkg:cargo/flowfabric@0.13.0
 - pkg:cargo/flowfabric@0.9.0

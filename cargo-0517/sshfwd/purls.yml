@@ -1,3 +1,5 @@
 - pkg:cargo/sshfwd@0.1.0
 - pkg:cargo/sshfwd@0.1.2
 - pkg:cargo/sshfwd@0.2.0
+- pkg:cargo/sshfwd@0.3.0
+- pkg:cargo/sshfwd@0.3.1
