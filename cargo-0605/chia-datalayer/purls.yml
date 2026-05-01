@@ -17,3 +17,4 @@
 - pkg:cargo/chia-datalayer@0.41.0
 - pkg:cargo/chia-datalayer@0.41.1
 - pkg:cargo/chia-datalayer@0.42.0
+- pkg:cargo/chia-datalayer@0.42.1
