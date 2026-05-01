@@ -47,3 +47,4 @@
 - pkg:cargo/spacetimedb-sdk@2.0.4
 - pkg:cargo/spacetimedb-sdk@2.0.5
 - pkg:cargo/spacetimedb-sdk@2.1.0
+- pkg:cargo/spacetimedb-sdk@2.2.0

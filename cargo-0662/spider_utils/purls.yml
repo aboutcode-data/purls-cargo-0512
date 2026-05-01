@@ -1231,6 +1231,9 @@
 - pkg:cargo/spider_utils@2.51.15
 - pkg:cargo/spider_utils@2.51.150
 - pkg:cargo/spider_utils@2.51.151
+- pkg:cargo/spider_utils@2.51.152
+- pkg:cargo/spider_utils@2.51.153
+- pkg:cargo/spider_utils@2.51.154
 - pkg:cargo/spider_utils@2.51.16
 - pkg:cargo/spider_utils@2.51.17
 - pkg:cargo/spider_utils@2.51.18
