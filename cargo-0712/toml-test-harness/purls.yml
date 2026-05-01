@@ -28,3 +28,4 @@
 - pkg:cargo/toml-test-harness@1.4.0
 - pkg:cargo/toml-test-harness@1.5.0
 - pkg:cargo/toml-test-harness@1.6.0
+- pkg:cargo/toml-test-harness@1.7.0
