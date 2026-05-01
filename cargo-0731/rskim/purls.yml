@@ -24,3 +24,4 @@
 - pkg:cargo/rskim@2.5.0
 - pkg:cargo/rskim@2.5.1
 - pkg:cargo/rskim@2.6.0
+- pkg:cargo/rskim@2.7.0
