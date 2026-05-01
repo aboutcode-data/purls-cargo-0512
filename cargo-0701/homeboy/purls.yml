@@ -37,6 +37,10 @@
 - pkg:cargo/homeboy@0.126.0
 - pkg:cargo/homeboy@0.127.0
 - pkg:cargo/homeboy@0.128.0
+- pkg:cargo/homeboy@0.128.1
+- pkg:cargo/homeboy@0.129.0
+- pkg:cargo/homeboy@0.130.0
+- pkg:cargo/homeboy@0.131.0
 - pkg:cargo/homeboy@0.14.0
 - pkg:cargo/homeboy@0.16.0
 - pkg:cargo/homeboy@0.17.0

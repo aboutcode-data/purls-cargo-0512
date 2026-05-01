@@ -13,3 +13,4 @@
 - pkg:cargo/wasm-split-macro@0.7.3
 - pkg:cargo/wasm-split-macro@0.7.4
 - pkg:cargo/wasm-split-macro@0.7.6
+- pkg:cargo/wasm-split-macro@0.7.7

@@ -303,6 +303,7 @@
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-release-gate.2
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-release-gate.3
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-release-gate.6
+- pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-sdk-publish-test.1
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-slack-notification-removal.1
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-transports-android-module.1
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-transports-android-module.2
