@@ -1,6 +1,7 @@
 - pkg:cargo/kanidm_lib_crypto@0.1.0
 - pkg:cargo/kanidm_lib_crypto@1.1.0-rc.15-dev
 - pkg:cargo/kanidm_lib_crypto@1.1.0-rc.16
+- pkg:cargo/kanidm_lib_crypto@1.10.0
 - pkg:cargo/kanidm_lib_crypto@1.2.0
 - pkg:cargo/kanidm_lib_crypto@1.2.1
 - pkg:cargo/kanidm_lib_crypto@1.2.2
