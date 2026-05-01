@@ -3,3 +3,4 @@
 - pkg:cargo/potato-spec@0.21.1
 - pkg:cargo/potato-spec@0.22.0
 - pkg:cargo/potato-spec@0.23.0
+- pkg:cargo/potato-spec@0.24.0
