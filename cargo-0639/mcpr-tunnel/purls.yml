@@ -18,3 +18,4 @@
 - pkg:cargo/mcpr-tunnel@0.4.63
 - pkg:cargo/mcpr-tunnel@0.4.64
 - pkg:cargo/mcpr-tunnel@0.4.70
+- pkg:cargo/mcpr-tunnel@0.5.0
