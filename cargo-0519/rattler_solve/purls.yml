@@ -126,3 +126,4 @@
 - pkg:cargo/rattler_solve@5.2.1
 - pkg:cargo/rattler_solve@5.2.2
 - pkg:cargo/rattler_solve@6.0.0
+- pkg:cargo/rattler_solve@6.0.1

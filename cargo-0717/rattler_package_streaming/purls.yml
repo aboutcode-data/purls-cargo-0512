@@ -123,6 +123,7 @@
 - pkg:cargo/rattler_package_streaming@0.24.7
 - pkg:cargo/rattler_package_streaming@0.24.8
 - pkg:cargo/rattler_package_streaming@0.24.9
+- pkg:cargo/rattler_package_streaming@0.25.0
 - pkg:cargo/rattler_package_streaming@0.3.0
 - pkg:cargo/rattler_package_streaming@0.4.0
 - pkg:cargo/rattler_package_streaming@0.5.0
