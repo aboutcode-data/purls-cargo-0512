@@ -1,3 +1,5 @@
 - pkg:cargo/panproto-repl@0.37.0
 - pkg:cargo/panproto-repl@0.38.0
 - pkg:cargo/panproto-repl@0.42.0
+- pkg:cargo/panproto-repl@0.42.1
+- pkg:cargo/panproto-repl@0.42.2

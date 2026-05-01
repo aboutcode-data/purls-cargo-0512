@@ -37,3 +37,5 @@
 - pkg:cargo/panproto-parse@0.40.0
 - pkg:cargo/panproto-parse@0.41.0
 - pkg:cargo/panproto-parse@0.42.0
+- pkg:cargo/panproto-parse@0.42.1
+- pkg:cargo/panproto-parse@0.42.2
