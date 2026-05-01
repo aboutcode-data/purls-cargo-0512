@@ -43,6 +43,7 @@
 - pkg:cargo/nur@0.23.0%2B0.111.0
 - pkg:cargo/nur@0.24.0%2B0.112.1
 - pkg:cargo/nur@0.24.1%2B0.112.2
+- pkg:cargo/nur@0.24.2%2B0.112.2
 - pkg:cargo/nur@0.3.0
 - pkg:cargo/nur@0.4.0
 - pkg:cargo/nur@0.4.1

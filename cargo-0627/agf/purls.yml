@@ -1,6 +1,7 @@
 - pkg:cargo/agf@0.10.0
 - pkg:cargo/agf@0.10.1
 - pkg:cargo/agf@0.10.2
+- pkg:cargo/agf@0.10.3
 - pkg:cargo/agf@0.7.0
 - pkg:cargo/agf@0.7.3
 - pkg:cargo/agf@0.8.0
