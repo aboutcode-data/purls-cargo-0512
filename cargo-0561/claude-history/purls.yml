@@ -48,6 +48,8 @@
 - pkg:cargo/claude-history@0.1.51
 - pkg:cargo/claude-history@0.1.52
 - pkg:cargo/claude-history@0.1.53
+- pkg:cargo/claude-history@0.1.54
+- pkg:cargo/claude-history@0.1.55
 - pkg:cargo/claude-history@0.1.6
 - pkg:cargo/claude-history@0.1.7
 - pkg:cargo/claude-history@0.1.8
