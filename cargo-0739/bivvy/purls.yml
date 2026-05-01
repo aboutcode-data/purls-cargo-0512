@@ -1,5 +1,6 @@
 - pkg:cargo/bivvy@0.1.1
 - pkg:cargo/bivvy@1.0.0
+- pkg:cargo/bivvy@1.10.0
 - pkg:cargo/bivvy@1.3.0
 - pkg:cargo/bivvy@1.4.0
 - pkg:cargo/bivvy@1.5.0

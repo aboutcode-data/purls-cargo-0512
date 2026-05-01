@@ -4,3 +4,4 @@
 - pkg:cargo/zserio-rs-build@0.5.1
 - pkg:cargo/zserio-rs-build@0.5.2
 - pkg:cargo/zserio-rs-build@0.5.3
+- pkg:cargo/zserio-rs-build@0.5.4
