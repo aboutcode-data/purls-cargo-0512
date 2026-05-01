@@ -2,3 +2,4 @@
 - pkg:cargo/cu-zenoh-bridge@0.13.0
 - pkg:cargo/cu-zenoh-bridge@0.14.0
 - pkg:cargo/cu-zenoh-bridge@0.15.0
+- pkg:cargo/cu-zenoh-bridge@1.0.0-rc1

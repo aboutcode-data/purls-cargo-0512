@@ -1,2 +1,3 @@
 - pkg:cargo/cu-feetech@0.14.0
 - pkg:cargo/cu-feetech@0.15.0
+- pkg:cargo/cu-feetech@1.0.0-rc1

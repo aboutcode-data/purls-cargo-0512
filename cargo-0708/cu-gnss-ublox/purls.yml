@@ -1,3 +1,4 @@
 - pkg:cargo/cu-gnss-ublox@0.13.0
 - pkg:cargo/cu-gnss-ublox@0.14.0
 - pkg:cargo/cu-gnss-ublox@0.15.0
+- pkg:cargo/cu-gnss-ublox@1.0.0-rc1

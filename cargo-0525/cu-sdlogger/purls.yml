@@ -3,3 +3,4 @@
 - pkg:cargo/cu-sdlogger@0.13.0
 - pkg:cargo/cu-sdlogger@0.14.0
 - pkg:cargo/cu-sdlogger@0.15.0
+- pkg:cargo/cu-sdlogger@1.0.0-rc1
