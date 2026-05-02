@@ -10,3 +10,4 @@
 - pkg:cargo/lbug@0.15.3
 - pkg:cargo/lbug@0.15.4
 - pkg:cargo/lbug@0.16.0
+- pkg:cargo/lbug@0.16.1
