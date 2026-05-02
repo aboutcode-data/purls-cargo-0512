@@ -1,3 +1,4 @@
 - pkg:cargo/yesser-todo-server@1.0.0
 - pkg:cargo/yesser-todo-server@1.1.0
 - pkg:cargo/yesser-todo-server@1.1.1
+- pkg:cargo/yesser-todo-server@2.0.0
