@@ -1,3 +1,4 @@
 - pkg:cargo/python_script_runner@0.1.0
 - pkg:cargo/python_script_runner@1.7.10
 - pkg:cargo/python_script_runner@10.10.10
+- pkg:cargo/python_script_runner@7.7.7
