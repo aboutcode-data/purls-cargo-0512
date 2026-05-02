@@ -5,3 +5,4 @@
 - pkg:cargo/cyclonedds-idlc@1.3.0
 - pkg:cargo/cyclonedds-idlc@1.4.0
 - pkg:cargo/cyclonedds-idlc@1.5.0
+- pkg:cargo/cyclonedds-idlc@1.7.0
