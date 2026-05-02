@@ -24,3 +24,4 @@
 - pkg:cargo/fledge@0.9.1
 - pkg:cargo/fledge@1.0.0
 - pkg:cargo/fledge@1.0.1
+- pkg:cargo/fledge@1.0.2
