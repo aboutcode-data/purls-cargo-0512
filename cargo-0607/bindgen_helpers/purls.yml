@@ -16,3 +16,4 @@
 - pkg:cargo/bindgen_helpers@0.5.0
 - pkg:cargo/bindgen_helpers@0.5.1
 - pkg:cargo/bindgen_helpers@0.6.0
+- pkg:cargo/bindgen_helpers@0.6.1
