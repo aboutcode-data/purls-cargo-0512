@@ -36,3 +36,4 @@
 - pkg:cargo/a3s-code-core@1.9.3
 - pkg:cargo/a3s-code-core@1.9.4
 - pkg:cargo/a3s-code-core@2.0.0
+- pkg:cargo/a3s-code-core@2.0.1

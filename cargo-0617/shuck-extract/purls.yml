@@ -1,3 +1,4 @@
 - pkg:cargo/shuck-extract@0.0.18
 - pkg:cargo/shuck-extract@0.0.26
 - pkg:cargo/shuck-extract@0.0.29
+- pkg:cargo/shuck-extract@0.0.30
