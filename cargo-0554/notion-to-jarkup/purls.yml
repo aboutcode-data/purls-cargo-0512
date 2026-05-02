@@ -21,6 +21,7 @@
 - pkg:cargo/notion-to-jarkup@0.23.0
 - pkg:cargo/notion-to-jarkup@0.24.0
 - pkg:cargo/notion-to-jarkup@0.25.0
+- pkg:cargo/notion-to-jarkup@0.26.0
 - pkg:cargo/notion-to-jarkup@0.3.0
 - pkg:cargo/notion-to-jarkup@0.4.0
 - pkg:cargo/notion-to-jarkup@0.4.1
