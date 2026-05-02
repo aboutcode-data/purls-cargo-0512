@@ -2,3 +2,4 @@
 - pkg:cargo/cityjson-index-ffi-core@0.4.0
 - pkg:cargo/cityjson-index-ffi-core@0.4.1
 - pkg:cargo/cityjson-index-ffi-core@0.4.2
+- pkg:cargo/cityjson-index-ffi-core@0.9.0
