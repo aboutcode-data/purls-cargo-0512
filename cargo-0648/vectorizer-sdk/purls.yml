@@ -8,3 +8,4 @@
 - pkg:cargo/vectorizer-sdk@2.2.0
 - pkg:cargo/vectorizer-sdk@3.0.0
 - pkg:cargo/vectorizer-sdk@3.0.3
+- pkg:cargo/vectorizer-sdk@3.2.0

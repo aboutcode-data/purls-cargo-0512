@@ -1,1 +1,2 @@
 - pkg:cargo/miden-lifted-stark@0.24.0
+- pkg:cargo/miden-lifted-stark@0.25.0
