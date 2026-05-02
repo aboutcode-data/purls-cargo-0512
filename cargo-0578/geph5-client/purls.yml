@@ -16,6 +16,8 @@
 - pkg:cargo/geph5-client@0.2.1
 - pkg:cargo/geph5-client@0.2.10
 - pkg:cargo/geph5-client@0.2.100
+- pkg:cargo/geph5-client@0.2.101
+- pkg:cargo/geph5-client@0.2.102
 - pkg:cargo/geph5-client@0.2.11
 - pkg:cargo/geph5-client@0.2.12
 - pkg:cargo/geph5-client@0.2.13
