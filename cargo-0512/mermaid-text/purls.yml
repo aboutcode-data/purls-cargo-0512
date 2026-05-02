@@ -45,6 +45,7 @@
 - pkg:cargo/mermaid-text@0.40.0
 - pkg:cargo/mermaid-text@0.41.0
 - pkg:cargo/mermaid-text@0.42.0
+- pkg:cargo/mermaid-text@0.42.1
 - pkg:cargo/mermaid-text@0.6.0
 - pkg:cargo/mermaid-text@0.7.0
 - pkg:cargo/mermaid-text@0.7.1
