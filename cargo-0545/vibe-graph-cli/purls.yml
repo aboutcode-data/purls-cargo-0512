@@ -21,3 +21,4 @@
 - pkg:cargo/vibe-graph-cli@1.5.3
 - pkg:cargo/vibe-graph-cli@1.5.4
 - pkg:cargo/vibe-graph-cli@1.5.5
+- pkg:cargo/vibe-graph-cli@1.5.6
