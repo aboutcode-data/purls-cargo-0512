@@ -1,3 +1,4 @@
 - pkg:cargo/rusty-ssim-core@0.5.2
 - pkg:cargo/rusty-ssim-core@0.5.3
 - pkg:cargo/rusty-ssim-core@0.6.0
+- pkg:cargo/rusty-ssim-core@0.6.1
