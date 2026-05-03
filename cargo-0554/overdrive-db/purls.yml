@@ -10,3 +10,4 @@
 - pkg:cargo/overdrive-db@1.4.4
 - pkg:cargo/overdrive-db@1.4.5
 - pkg:cargo/overdrive-db@2.0.1
+- pkg:cargo/overdrive-db@2.2.0
