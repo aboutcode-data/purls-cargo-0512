@@ -112,6 +112,7 @@
 - pkg:cargo/greentic-pack@0.5.3
 - pkg:cargo/greentic-pack@0.5.4
 - pkg:cargo/greentic-pack@0.5.5
+- pkg:cargo/greentic-pack@0.5.6
 - pkg:cargo/greentic-pack@0.6.0-dev.25094371151
 - pkg:cargo/greentic-pack@0.6.0-dev.25097985053
 - pkg:cargo/greentic-pack@0.6.0-dev.25148337007

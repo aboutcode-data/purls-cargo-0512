@@ -79,6 +79,7 @@
 - pkg:cargo/greentic-flow@0.5.5
 - pkg:cargo/greentic-flow@0.5.6
 - pkg:cargo/greentic-flow@0.5.7
+- pkg:cargo/greentic-flow@0.5.8
 - pkg:cargo/greentic-flow@0.6.0-dev.24993430459
 - pkg:cargo/greentic-flow@0.6.0-dev.25001174716
 - pkg:cargo/greentic-flow@0.6.24888858655
