@@ -4,3 +4,7 @@
 - pkg:cargo/pylon-cli@0.2.7
 - pkg:cargo/pylon-cli@0.2.8
 - pkg:cargo/pylon-cli@0.2.9
+- pkg:cargo/pylon-cli@0.3.20
+- pkg:cargo/pylon-cli@0.3.21
+- pkg:cargo/pylon-cli@0.3.22
+- pkg:cargo/pylon-cli@0.3.23
