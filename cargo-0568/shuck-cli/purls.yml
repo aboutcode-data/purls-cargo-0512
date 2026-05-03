@@ -8,3 +8,4 @@
 - pkg:cargo/shuck-cli@0.0.26
 - pkg:cargo/shuck-cli@0.0.29
 - pkg:cargo/shuck-cli@0.0.30
+- pkg:cargo/shuck-cli@0.0.31
