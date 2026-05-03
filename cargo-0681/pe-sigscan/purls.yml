@@ -1,1 +1,2 @@
 - pkg:cargo/pe-sigscan@0.1.0
+- pkg:cargo/pe-sigscan@0.2.1
