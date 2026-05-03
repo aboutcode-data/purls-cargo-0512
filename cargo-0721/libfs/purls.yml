@@ -18,3 +18,4 @@
 - pkg:cargo/libfs@0.9.1
 - pkg:cargo/libfs@0.9.2
 - pkg:cargo/libfs@0.9.3
+- pkg:cargo/libfs@0.9.4
