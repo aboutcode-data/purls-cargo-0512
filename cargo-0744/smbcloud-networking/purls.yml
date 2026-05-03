@@ -12,6 +12,7 @@
 - pkg:cargo/smbcloud-networking@0.3.29
 - pkg:cargo/smbcloud-networking@0.3.31
 - pkg:cargo/smbcloud-networking@0.3.39
+- pkg:cargo/smbcloud-networking@0.3.41
 - pkg:cargo/smbcloud-networking@0.3.7
 - pkg:cargo/smbcloud-networking@0.3.8
 - pkg:cargo/smbcloud-networking@0.3.9
