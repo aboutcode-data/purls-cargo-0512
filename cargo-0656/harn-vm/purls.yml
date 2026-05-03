@@ -173,6 +173,7 @@
 - pkg:cargo/harn-vm@0.7.52
 - pkg:cargo/harn-vm@0.7.53
 - pkg:cargo/harn-vm@0.7.54
+- pkg:cargo/harn-vm@0.7.55
 - pkg:cargo/harn-vm@0.7.6
 - pkg:cargo/harn-vm@0.7.7
 - pkg:cargo/harn-vm@0.7.8
