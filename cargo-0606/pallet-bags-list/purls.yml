@@ -43,6 +43,7 @@
 - pkg:cargo/pallet-bags-list@44.0.0
 - pkg:cargo/pallet-bags-list@44.0.1
 - pkg:cargo/pallet-bags-list@45.0.0
+- pkg:cargo/pallet-bags-list@46.0.0
 - pkg:cargo/pallet-bags-list@5.0.0
 - pkg:cargo/pallet-bags-list@6.0.0
 - pkg:cargo/pallet-bags-list@7.0.0

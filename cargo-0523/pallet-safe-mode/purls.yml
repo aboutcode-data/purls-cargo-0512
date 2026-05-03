@@ -17,6 +17,7 @@
 - pkg:cargo/pallet-safe-mode@25.0.0
 - pkg:cargo/pallet-safe-mode@26.0.0
 - pkg:cargo/pallet-safe-mode@27.0.0
+- pkg:cargo/pallet-safe-mode@28.0.0
 - pkg:cargo/pallet-safe-mode@4.0.0
 - pkg:cargo/pallet-safe-mode@5.0.0
 - pkg:cargo/pallet-safe-mode@5.0.0-dev.1

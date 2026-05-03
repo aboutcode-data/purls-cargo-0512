@@ -32,3 +32,4 @@
 - pkg:cargo/clx@1.3.0
 - pkg:cargo/clx@2.0.0
 - pkg:cargo/clx@2.0.1
+- pkg:cargo/clx@2.0.2
