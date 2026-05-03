@@ -1,2 +1,7 @@
 - pkg:cargo/axhash-ffi@0.1.3
 - pkg:cargo/axhash-ffi@0.1.4
+- pkg:cargo/axhash-ffi@0.1.6
+- pkg:cargo/axhash-ffi@0.1.7
+- pkg:cargo/axhash-ffi@0.1.8
+- pkg:cargo/axhash-ffi@0.1.9
+- pkg:cargo/axhash-ffi@0.2.0
