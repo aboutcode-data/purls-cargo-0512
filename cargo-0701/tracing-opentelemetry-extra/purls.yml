@@ -9,3 +9,4 @@
 - pkg:cargo/tracing-opentelemetry-extra@0.31.5
 - pkg:cargo/tracing-opentelemetry-extra@0.31.6
 - pkg:cargo/tracing-opentelemetry-extra@0.31.7
+- pkg:cargo/tracing-opentelemetry-extra@0.31.8
