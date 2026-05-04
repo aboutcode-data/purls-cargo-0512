@@ -22,3 +22,4 @@
 - pkg:cargo/libc-print@0.1.7
 - pkg:cargo/libc-print@0.1.8
 - pkg:cargo/libc-print@0.1.9
+- pkg:cargo/libc-print@0.2.0

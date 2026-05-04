@@ -3,3 +3,4 @@
 - pkg:cargo/linktime@0.13.0
 - pkg:cargo/linktime@0.13.1
 - pkg:cargo/linktime@0.14.0
+- pkg:cargo/linktime@0.14.1
