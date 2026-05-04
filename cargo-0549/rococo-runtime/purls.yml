@@ -34,6 +34,7 @@
 - pkg:cargo/rococo-runtime@3.0.0
 - pkg:cargo/rococo-runtime@3.0.0-dev.1
 - pkg:cargo/rococo-runtime@30.0.0
+- pkg:cargo/rococo-runtime@31.0.0
 - pkg:cargo/rococo-runtime@4.0.0
 - pkg:cargo/rococo-runtime@5.0.0
 - pkg:cargo/rococo-runtime@6.0.0
