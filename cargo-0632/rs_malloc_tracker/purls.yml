@@ -1,1 +1,2 @@
 - pkg:cargo/rs_malloc_tracker@1.0.0
+- pkg:cargo/rs_malloc_tracker@1.0.1
