@@ -5,3 +5,4 @@
 - pkg:cargo/rust-config-tree@0.1.5
 - pkg:cargo/rust-config-tree@0.1.6
 - pkg:cargo/rust-config-tree@0.1.7
+- pkg:cargo/rust-config-tree@0.1.8
