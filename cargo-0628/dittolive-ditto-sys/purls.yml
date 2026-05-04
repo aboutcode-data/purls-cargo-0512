@@ -134,6 +134,7 @@
 - pkg:cargo/dittolive-ditto-sys@4.12.5-experimental-internal-jj-ws-support.1
 - pkg:cargo/dittolive-ditto-sys@4.12.5-rc.1
 - pkg:cargo/dittolive-ditto-sys@4.12.6-experimental-conn-limit-meshlab
+- pkg:cargo/dittolive-ditto-sys@4.12.6-experimental-conn-limit-meshlab-ipv4-cifix
 - pkg:cargo/dittolive-ditto-sys@4.13.0
 - pkg:cargo/dittolive-ditto-sys@4.13.0-experimental-internal-jj-ws-support.1
 - pkg:cargo/dittolive-ditto-sys@4.13.0-experimental-on-disk-logging.1
