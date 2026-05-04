@@ -64,5 +64,6 @@
 - pkg:cargo/symbolic-sourcemapcache@12.8.0
 - pkg:cargo/symbolic-sourcemapcache@12.9.1
 - pkg:cargo/symbolic-sourcemapcache@12.9.2
+- pkg:cargo/symbolic-sourcemapcache@13.0.0
 - pkg:cargo/symbolic-sourcemapcache@9.2.0
 - pkg:cargo/symbolic-sourcemapcache@9.2.1

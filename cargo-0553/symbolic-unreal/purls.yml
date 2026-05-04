@@ -64,6 +64,7 @@
 - pkg:cargo/symbolic-unreal@12.8.0
 - pkg:cargo/symbolic-unreal@12.9.1
 - pkg:cargo/symbolic-unreal@12.9.2
+- pkg:cargo/symbolic-unreal@13.0.0
 - pkg:cargo/symbolic-unreal@5.7.0
 - pkg:cargo/symbolic-unreal@5.7.1
 - pkg:cargo/symbolic-unreal@5.7.2
