@@ -15,3 +15,4 @@
 - pkg:cargo/aprs-transport-ax25@2.0.0-rc.2
 - pkg:cargo/aprs-transport-ax25@2.5.0
 - pkg:cargo/aprs-transport-ax25@2.6.0
+- pkg:cargo/aprs-transport-ax25@3.0.0-rc.1
