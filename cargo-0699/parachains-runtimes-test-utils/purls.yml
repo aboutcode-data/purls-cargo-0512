@@ -29,6 +29,7 @@
 - pkg:cargo/parachains-runtimes-test-utils@29.0.0
 - pkg:cargo/parachains-runtimes-test-utils@3.0.0
 - pkg:cargo/parachains-runtimes-test-utils@3.0.0-dev.1
+- pkg:cargo/parachains-runtimes-test-utils@30.0.0
 - pkg:cargo/parachains-runtimes-test-utils@4.0.0
 - pkg:cargo/parachains-runtimes-test-utils@5.0.0
 - pkg:cargo/parachains-runtimes-test-utils@6.0.0

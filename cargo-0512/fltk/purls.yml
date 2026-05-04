@@ -391,6 +391,7 @@
 - pkg:cargo/fltk@1.5.20
 - pkg:cargo/fltk@1.5.21
 - pkg:cargo/fltk@1.5.22
+- pkg:cargo/fltk@1.5.23
 - pkg:cargo/fltk@1.5.3
 - pkg:cargo/fltk@1.5.4
 - pkg:cargo/fltk@1.5.5
