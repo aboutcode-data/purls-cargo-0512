@@ -11,3 +11,4 @@
 - pkg:cargo/embedded-websocket@0.8.0
 - pkg:cargo/embedded-websocket@0.9.3
 - pkg:cargo/embedded-websocket@0.9.4
+- pkg:cargo/embedded-websocket@0.9.5
