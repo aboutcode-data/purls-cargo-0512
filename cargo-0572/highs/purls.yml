@@ -26,3 +26,4 @@
 - pkg:cargo/highs@1.7.0
 - pkg:cargo/highs@1.8.0
 - pkg:cargo/highs@2.0.0
+- pkg:cargo/highs@2.1.0
