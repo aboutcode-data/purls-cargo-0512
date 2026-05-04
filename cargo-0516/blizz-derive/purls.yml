@@ -5,3 +5,15 @@
 - pkg:cargo/blizz-derive@2.1.7
 - pkg:cargo/blizz-derive@2.1.8
 - pkg:cargo/blizz-derive@2.1.9-dev.1
+- pkg:cargo/blizz-derive@2.2.0-dev.1
+- pkg:cargo/blizz-derive@3.0.0-dev.1
+- pkg:cargo/blizz-derive@3.0.0-dev.10
+- pkg:cargo/blizz-derive@3.0.0-dev.11
+- pkg:cargo/blizz-derive@3.0.0-dev.2
+- pkg:cargo/blizz-derive@3.0.0-dev.3
+- pkg:cargo/blizz-derive@3.0.0-dev.4
+- pkg:cargo/blizz-derive@3.0.0-dev.5
+- pkg:cargo/blizz-derive@3.0.0-dev.6
+- pkg:cargo/blizz-derive@3.0.0-dev.7
+- pkg:cargo/blizz-derive@3.0.0-dev.8
+- pkg:cargo/blizz-derive@3.0.0-dev.9
