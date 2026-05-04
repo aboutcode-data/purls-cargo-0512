@@ -91,10 +91,13 @@
 - pkg:cargo/fff-grep@0.6.4
 - pkg:cargo/fff-grep@0.6.5-nightly.0f5ead1
 - pkg:cargo/fff-grep@0.6.5-nightly.1bcbce2
+- pkg:cargo/fff-grep@0.6.5-nightly.24a4a7a
 - pkg:cargo/fff-grep@0.6.5-nightly.287d7b7
 - pkg:cargo/fff-grep@0.6.5-nightly.2a03538
+- pkg:cargo/fff-grep@0.6.5-nightly.2f1e51e
 - pkg:cargo/fff-grep@0.6.5-nightly.37bda06
 - pkg:cargo/fff-grep@0.6.5-nightly.4b13a91
+- pkg:cargo/fff-grep@0.6.5-nightly.52b1e86
 - pkg:cargo/fff-grep@0.6.5-nightly.573a783
 - pkg:cargo/fff-grep@0.6.5-nightly.84ba575
 - pkg:cargo/fff-grep@0.6.5-nightly.b23a030
@@ -102,3 +105,4 @@
 - pkg:cargo/fff-grep@0.6.5-nightly.bcd3c76
 - pkg:cargo/fff-grep@0.6.5-nightly.ca7bf03
 - pkg:cargo/fff-grep@0.6.5-nightly.e00b41d
+- pkg:cargo/fff-grep@0.7.0
