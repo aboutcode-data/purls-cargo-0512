@@ -24,6 +24,7 @@
 - pkg:cargo/polkadot-node-core-candidate-validation@29.0.0
 - pkg:cargo/polkadot-node-core-candidate-validation@3.0.0
 - pkg:cargo/polkadot-node-core-candidate-validation@3.0.0-dev.1
+- pkg:cargo/polkadot-node-core-candidate-validation@30.0.0
 - pkg:cargo/polkadot-node-core-candidate-validation@4.0.0
 - pkg:cargo/polkadot-node-core-candidate-validation@5.0.0
 - pkg:cargo/polkadot-node-core-candidate-validation@6.0.0

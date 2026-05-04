@@ -27,6 +27,7 @@
 - pkg:cargo/polkadot-cli@31.0.0
 - pkg:cargo/polkadot-cli@32.0.0
 - pkg:cargo/polkadot-cli@32.0.1
+- pkg:cargo/polkadot-cli@33.0.0
 - pkg:cargo/polkadot-cli@4.0.0
 - pkg:cargo/polkadot-cli@5.0.0
 - pkg:cargo/polkadot-cli@6.0.0

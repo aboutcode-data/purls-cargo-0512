@@ -22,6 +22,7 @@
 - pkg:cargo/polkadot-node-core-chain-selection@29.0.0
 - pkg:cargo/polkadot-node-core-chain-selection@3.0.0
 - pkg:cargo/polkadot-node-core-chain-selection@3.0.0-dev.1
+- pkg:cargo/polkadot-node-core-chain-selection@30.0.0
 - pkg:cargo/polkadot-node-core-chain-selection@4.0.0
 - pkg:cargo/polkadot-node-core-chain-selection@5.0.0
 - pkg:cargo/polkadot-node-core-chain-selection@6.0.0
