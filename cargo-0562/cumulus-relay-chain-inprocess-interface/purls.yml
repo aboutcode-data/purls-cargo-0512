@@ -26,6 +26,7 @@
 - pkg:cargo/cumulus-relay-chain-inprocess-interface@0.30.0
 - pkg:cargo/cumulus-relay-chain-inprocess-interface@0.31.0
 - pkg:cargo/cumulus-relay-chain-inprocess-interface@0.32.0
+- pkg:cargo/cumulus-relay-chain-inprocess-interface@0.33.0
 - pkg:cargo/cumulus-relay-chain-inprocess-interface@0.4.0
 - pkg:cargo/cumulus-relay-chain-inprocess-interface@0.5.0
 - pkg:cargo/cumulus-relay-chain-inprocess-interface@0.6.0
