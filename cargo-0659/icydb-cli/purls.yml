@@ -136,12 +136,16 @@
 - pkg:cargo/icydb-cli@0.145.7
 - pkg:cargo/icydb-cli@0.145.8
 - pkg:cargo/icydb-cli@0.146.0
+- pkg:cargo/icydb-cli@0.146.10
+- pkg:cargo/icydb-cli@0.146.11
 - pkg:cargo/icydb-cli@0.146.2
 - pkg:cargo/icydb-cli@0.146.3
 - pkg:cargo/icydb-cli@0.146.4
 - pkg:cargo/icydb-cli@0.146.5
 - pkg:cargo/icydb-cli@0.146.6
 - pkg:cargo/icydb-cli@0.146.7
+- pkg:cargo/icydb-cli@0.146.8
+- pkg:cargo/icydb-cli@0.146.9
 - pkg:cargo/icydb-cli@0.79.0
 - pkg:cargo/icydb-cli@0.79.1
 - pkg:cargo/icydb-cli@0.79.2

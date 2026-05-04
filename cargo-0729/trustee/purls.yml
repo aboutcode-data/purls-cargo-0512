@@ -37,7 +37,11 @@
 - pkg:cargo/trustee@0.1.45
 - pkg:cargo/trustee@0.1.46
 - pkg:cargo/trustee@0.1.47
+- pkg:cargo/trustee@0.1.48
+- pkg:cargo/trustee@0.1.49
 - pkg:cargo/trustee@0.1.5
+- pkg:cargo/trustee@0.1.50
+- pkg:cargo/trustee@0.1.51
 - pkg:cargo/trustee@0.1.6
 - pkg:cargo/trustee@0.1.7
 - pkg:cargo/trustee@0.1.8
