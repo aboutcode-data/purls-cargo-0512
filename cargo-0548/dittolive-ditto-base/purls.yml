@@ -128,6 +128,7 @@
 - pkg:cargo/dittolive-ditto-base@4.9.3-rc.1
 - pkg:cargo/dittolive-ditto-base@4.9.4
 - pkg:cargo/dittolive-ditto-base@4.9.4-rc.1
+- pkg:cargo/dittolive-ditto-base@5.0.0
 - pkg:cargo/dittolive-ditto-base@5.0.0-dev-weekly.20251103.83
 - pkg:cargo/dittolive-ditto-base@5.0.0-dev-weekly.20251110.100
 - pkg:cargo/dittolive-ditto-base@5.0.0-dev-weekly.20251117.106
