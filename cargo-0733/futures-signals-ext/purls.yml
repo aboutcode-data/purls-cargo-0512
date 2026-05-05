@@ -19,6 +19,7 @@
 - pkg:cargo/futures-signals-ext@0.12.2
 - pkg:cargo/futures-signals-ext@0.13.0
 - pkg:cargo/futures-signals-ext@0.13.1
+- pkg:cargo/futures-signals-ext@0.13.2
 - pkg:cargo/futures-signals-ext@0.2.0
 - pkg:cargo/futures-signals-ext@0.3.0
 - pkg:cargo/futures-signals-ext@0.3.1

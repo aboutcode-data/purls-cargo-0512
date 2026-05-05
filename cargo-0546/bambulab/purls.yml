@@ -23,6 +23,7 @@
 - pkg:cargo/bambulab@0.4.28
 - pkg:cargo/bambulab@0.4.29
 - pkg:cargo/bambulab@0.4.3
+- pkg:cargo/bambulab@0.4.30
 - pkg:cargo/bambulab@0.4.4
 - pkg:cargo/bambulab@0.4.5
 - pkg:cargo/bambulab@0.4.6
