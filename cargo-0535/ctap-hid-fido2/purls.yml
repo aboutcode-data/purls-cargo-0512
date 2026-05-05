@@ -28,6 +28,7 @@
 - pkg:cargo/ctap-hid-fido2@3.4.2
 - pkg:cargo/ctap-hid-fido2@3.5.0
 - pkg:cargo/ctap-hid-fido2@3.5.1
+- pkg:cargo/ctap-hid-fido2@3.5.10
 - pkg:cargo/ctap-hid-fido2@3.5.2
 - pkg:cargo/ctap-hid-fido2@3.5.3
 - pkg:cargo/ctap-hid-fido2@3.5.4
