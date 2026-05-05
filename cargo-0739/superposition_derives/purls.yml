@@ -8,6 +8,7 @@
 - pkg:cargo/superposition_derives@0.104.0
 - pkg:cargo/superposition_derives@0.105.0
 - pkg:cargo/superposition_derives@0.106.0
+- pkg:cargo/superposition_derives@0.106.1
 - pkg:cargo/superposition_derives@0.3.0
 - pkg:cargo/superposition_derives@0.83.0
 - pkg:cargo/superposition_derives@0.84.0
