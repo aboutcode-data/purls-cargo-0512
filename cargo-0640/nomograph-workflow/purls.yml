@@ -1,3 +1,4 @@
 - pkg:cargo/nomograph-workflow@0.1.0
 - pkg:cargo/nomograph-workflow@0.1.1
 - pkg:cargo/nomograph-workflow@0.2.0
+- pkg:cargo/nomograph-workflow@0.3.0

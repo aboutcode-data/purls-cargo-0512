@@ -1,3 +1,4 @@
 - pkg:cargo/neurogrim-dashboard@3.4.0
 - pkg:cargo/neurogrim-dashboard@3.5.0
 - pkg:cargo/neurogrim-dashboard@4.0.0
+- pkg:cargo/neurogrim-dashboard@5.0.0
