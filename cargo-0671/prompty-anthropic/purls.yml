@@ -2,3 +2,4 @@
 - pkg:cargo/prompty-anthropic@2.0.0-alpha.12
 - pkg:cargo/prompty-anthropic@2.0.0-alpha.8
 - pkg:cargo/prompty-anthropic@2.0.0-alpha.9
+- pkg:cargo/prompty-anthropic@2.0.0-beta.1
