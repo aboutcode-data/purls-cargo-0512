@@ -21,3 +21,4 @@
 - pkg:cargo/jupyter-protocol@1.4.0
 - pkg:cargo/jupyter-protocol@1.5.0
 - pkg:cargo/jupyter-protocol@2.0.0
+- pkg:cargo/jupyter-protocol@2.0.1
