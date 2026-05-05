@@ -6,3 +6,4 @@
 - pkg:cargo/qemu-command-builder@10.0.3-5
 - pkg:cargo/qemu-command-builder@10.0.3-6
 - pkg:cargo/qemu-command-builder@11.0.0-0
+- pkg:cargo/qemu-command-builder@11.0.0-1

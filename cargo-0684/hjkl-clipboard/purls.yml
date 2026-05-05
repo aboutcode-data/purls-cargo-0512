@@ -12,3 +12,5 @@
 - pkg:cargo/hjkl-clipboard@0.4.8
 - pkg:cargo/hjkl-clipboard@0.5.0
 - pkg:cargo/hjkl-clipboard@0.5.1
+- pkg:cargo/hjkl-clipboard@0.5.2
+- pkg:cargo/hjkl-clipboard@0.5.3
