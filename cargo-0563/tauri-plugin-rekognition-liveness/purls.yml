@@ -1,1 +1,2 @@
 - pkg:cargo/tauri-plugin-rekognition-liveness@0.1.0
+- pkg:cargo/tauri-plugin-rekognition-liveness@0.2.0
