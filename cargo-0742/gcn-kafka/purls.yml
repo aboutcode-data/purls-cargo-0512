@@ -1,1 +1,2 @@
 - pkg:cargo/gcn-kafka@0.1.0
+- pkg:cargo/gcn-kafka@1.0.0
