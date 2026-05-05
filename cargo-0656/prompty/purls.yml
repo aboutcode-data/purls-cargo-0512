@@ -1,3 +1,5 @@
 - pkg:cargo/prompty@2.0.0-alpha.10
+- pkg:cargo/prompty@2.0.0-alpha.11
+- pkg:cargo/prompty@2.0.0-alpha.12
 - pkg:cargo/prompty@2.0.0-alpha.8
 - pkg:cargo/prompty@2.0.0-alpha.9
