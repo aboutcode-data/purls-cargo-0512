@@ -8,5 +8,6 @@
 - pkg:cargo/ecotokens@0.14.4
 - pkg:cargo/ecotokens@0.15.0
 - pkg:cargo/ecotokens@0.17.0
+- pkg:cargo/ecotokens@0.19.0
 - pkg:cargo/ecotokens@0.5.0
 - pkg:cargo/ecotokens@0.8.0
