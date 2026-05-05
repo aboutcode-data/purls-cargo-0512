@@ -15,3 +15,4 @@
 - pkg:cargo/hardened-malloc@13.0.1
 - pkg:cargo/hardened-malloc@16.0.2026040800
 - pkg:cargo/hardened-malloc@16.0.2026040801
+- pkg:cargo/hardened-malloc@16.0.2026040802
