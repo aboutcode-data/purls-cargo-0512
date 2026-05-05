@@ -35,3 +35,4 @@
 - pkg:cargo/unigateway@1.7.1
 - pkg:cargo/unigateway@1.8.0
 - pkg:cargo/unigateway@2.0.1
+- pkg:cargo/unigateway@2.0.2
