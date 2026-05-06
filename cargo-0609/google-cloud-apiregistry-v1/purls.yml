@@ -3,3 +3,4 @@
 - pkg:cargo/google-cloud-apiregistry-v1@0.1.1
 - pkg:cargo/google-cloud-apiregistry-v1@0.1.2
 - pkg:cargo/google-cloud-apiregistry-v1@1.0.0
+- pkg:cargo/google-cloud-apiregistry-v1@1.1.0
