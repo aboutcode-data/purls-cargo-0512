@@ -12,3 +12,4 @@
 - pkg:cargo/saorsa-transport@0.31.0
 - pkg:cargo/saorsa-transport@0.32.0
 - pkg:cargo/saorsa-transport@0.33.0
+- pkg:cargo/saorsa-transport@0.34.1
