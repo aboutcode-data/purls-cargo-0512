@@ -3,3 +3,4 @@
 - pkg:cargo/axhash@0.1.2
 - pkg:cargo/axhash@0.6.9
 - pkg:cargo/axhash@0.7.9
+- pkg:cargo/axhash@0.8.0
