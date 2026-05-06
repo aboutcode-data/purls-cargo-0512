@@ -1,1 +1,2 @@
 - pkg:cargo/weaveffi-gen-cpp@0.3.0
+- pkg:cargo/weaveffi-gen-cpp@0.4.0
