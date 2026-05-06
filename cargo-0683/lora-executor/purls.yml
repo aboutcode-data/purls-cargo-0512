@@ -9,3 +9,5 @@
 - pkg:cargo/lora-executor@0.6.0
 - pkg:cargo/lora-executor@0.7.0
 - pkg:cargo/lora-executor@0.8.0
+- pkg:cargo/lora-executor@0.8.1
+- pkg:cargo/lora-executor@0.8.2
