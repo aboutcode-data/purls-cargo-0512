@@ -5,3 +5,5 @@
 - pkg:cargo/polyvoice@0.4.1
 - pkg:cargo/polyvoice@0.4.2
 - pkg:cargo/polyvoice@0.4.3
+- pkg:cargo/polyvoice@0.5.1
+- pkg:cargo/polyvoice@0.5.2
