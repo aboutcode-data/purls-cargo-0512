@@ -18,3 +18,4 @@
 - pkg:cargo/smallbitvec@2.5.2
 - pkg:cargo/smallbitvec@2.5.3
 - pkg:cargo/smallbitvec@2.6.0
+- pkg:cargo/smallbitvec@2.6.1
