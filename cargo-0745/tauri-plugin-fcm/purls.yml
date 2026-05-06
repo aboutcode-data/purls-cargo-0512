@@ -8,3 +8,4 @@
 - pkg:cargo/tauri-plugin-fcm@0.1.7
 - pkg:cargo/tauri-plugin-fcm@0.1.8
 - pkg:cargo/tauri-plugin-fcm@0.1.9
+- pkg:cargo/tauri-plugin-fcm@0.2.0

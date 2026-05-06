@@ -1,3 +1,4 @@
+- pkg:cargo/taskcluster-upload@100.0.1
 - pkg:cargo/taskcluster-upload@43.0.0
 - pkg:cargo/taskcluster-upload@43.1.0
 - pkg:cargo/taskcluster-upload@43.2.0

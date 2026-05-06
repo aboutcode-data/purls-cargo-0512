@@ -1,3 +1,4 @@
+- pkg:cargo/taskcluster@100.0.1
 - pkg:cargo/taskcluster@40.0.3
 - pkg:cargo/taskcluster@41.0.0
 - pkg:cargo/taskcluster@41.0.1
