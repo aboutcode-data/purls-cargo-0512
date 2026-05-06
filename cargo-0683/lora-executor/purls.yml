@@ -8,3 +8,4 @@
 - pkg:cargo/lora-executor@0.5.6
 - pkg:cargo/lora-executor@0.6.0
 - pkg:cargo/lora-executor@0.7.0
+- pkg:cargo/lora-executor@0.8.0
