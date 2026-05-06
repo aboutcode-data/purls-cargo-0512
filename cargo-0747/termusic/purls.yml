@@ -2,6 +2,7 @@
 - pkg:cargo/termusic@0.11.0
 - pkg:cargo/termusic@0.12.0
 - pkg:cargo/termusic@0.12.1
+- pkg:cargo/termusic@0.13.2
 - pkg:cargo/termusic@0.2.10
 - pkg:cargo/termusic@0.2.11
 - pkg:cargo/termusic@0.2.12
