@@ -1,1 +1,5 @@
 - pkg:cargo/e2ee-backend-adapter@1.0.0
+- pkg:cargo/e2ee-backend-adapter@2.0.0
+- pkg:cargo/e2ee-backend-adapter@3.0.0
+- pkg:cargo/e2ee-backend-adapter@4.0.0
+- pkg:cargo/e2ee-backend-adapter@4.1.0
