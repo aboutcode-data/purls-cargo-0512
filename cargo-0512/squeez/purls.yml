@@ -9,6 +9,10 @@
 - pkg:cargo/squeez@1.11.0
 - pkg:cargo/squeez@1.11.1
 - pkg:cargo/squeez@1.11.2
+- pkg:cargo/squeez@1.12.0
+- pkg:cargo/squeez@1.13.0
+- pkg:cargo/squeez@1.14.0
+- pkg:cargo/squeez@1.15.0
 - pkg:cargo/squeez@1.2.0
 - pkg:cargo/squeez@1.3.0
 - pkg:cargo/squeez@1.4.0
