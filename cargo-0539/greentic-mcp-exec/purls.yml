@@ -15,6 +15,7 @@
 - pkg:cargo/greentic-mcp-exec@0.4.25
 - pkg:cargo/greentic-mcp-exec@0.5.0
 - pkg:cargo/greentic-mcp-exec@0.5.1
+- pkg:cargo/greentic-mcp-exec@0.5.2
 - pkg:cargo/greentic-mcp-exec@0.6.0-dev.24983855432
 - pkg:cargo/greentic-mcp-exec@0.6.0-dev.25152205289
 - pkg:cargo/greentic-mcp-exec@0.6.24954329392
