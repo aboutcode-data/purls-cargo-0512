@@ -13,3 +13,5 @@
 - pkg:cargo/epic-harness@0.2.3
 - pkg:cargo/epic-harness@0.2.4
 - pkg:cargo/epic-harness@0.2.5
+- pkg:cargo/epic-harness@0.3.0
+- pkg:cargo/epic-harness@0.3.1
