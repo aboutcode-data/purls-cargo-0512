@@ -46,6 +46,7 @@
 - pkg:cargo/nono@0.45.0
 - pkg:cargo/nono@0.46.0
 - pkg:cargo/nono@0.47.0
+- pkg:cargo/nono@0.47.1
 - pkg:cargo/nono@0.6.0
 - pkg:cargo/nono@0.6.0-alpha.3
 - pkg:cargo/nono@0.6.1

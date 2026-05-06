@@ -1,4 +1,5 @@
 - pkg:cargo/noodles-refget@0.1.0
+- pkg:cargo/noodles-refget@0.10.0
 - pkg:cargo/noodles-refget@0.2.0
 - pkg:cargo/noodles-refget@0.3.0
 - pkg:cargo/noodles-refget@0.4.0

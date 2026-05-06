@@ -12,6 +12,7 @@
 - pkg:cargo/noodles@0.108.0
 - pkg:cargo/noodles@0.109.0
 - pkg:cargo/noodles@0.11.0
+- pkg:cargo/noodles@0.110.0
 - pkg:cargo/noodles@0.12.0
 - pkg:cargo/noodles@0.13.0
 - pkg:cargo/noodles@0.14.0

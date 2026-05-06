@@ -44,6 +44,7 @@
 - pkg:cargo/nono-cli@0.45.0
 - pkg:cargo/nono-cli@0.46.0
 - pkg:cargo/nono-cli@0.47.0
+- pkg:cargo/nono-cli@0.47.1
 - pkg:cargo/nono-cli@0.6.0
 - pkg:cargo/nono-cli@0.6.1
 - pkg:cargo/nono-cli@0.7.0
