@@ -2,3 +2,4 @@
 - pkg:cargo/artisan@0.11.0
 - pkg:cargo/artisan@0.12.0
 - pkg:cargo/artisan@0.13.0
+- pkg:cargo/artisan@0.13.1
