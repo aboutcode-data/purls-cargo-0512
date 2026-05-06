@@ -5,6 +5,7 @@
 - pkg:cargo/ggen-utils@2.5.1
 - pkg:cargo/ggen-utils@2.6.0
 - pkg:cargo/ggen-utils@2.7.1
+- pkg:cargo/ggen-utils@26.5.5
 - pkg:cargo/ggen-utils@3.0.0
 - pkg:cargo/ggen-utils@3.2.0
 - pkg:cargo/ggen-utils@3.3.0
