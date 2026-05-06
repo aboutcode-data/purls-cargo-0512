@@ -2,3 +2,4 @@
 - pkg:cargo/spl-single-pool-cli@1.0.0
 - pkg:cargo/spl-single-pool-cli@2.0.0
 - pkg:cargo/spl-single-pool-cli@3.0.0
+- pkg:cargo/spl-single-pool-cli@4.0.0
