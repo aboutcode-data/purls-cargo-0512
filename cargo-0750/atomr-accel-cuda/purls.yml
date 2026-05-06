@@ -1,1 +1,2 @@
 - pkg:cargo/atomr-accel-cuda@0.1.0
+- pkg:cargo/atomr-accel-cuda@0.3.3
