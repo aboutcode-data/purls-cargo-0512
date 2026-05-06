@@ -2,6 +2,7 @@
 - pkg:cargo/pas-external@0.2.0
 - pkg:cargo/pas-external@0.5.0
 - pkg:cargo/pas-external@0.6.0
+- pkg:cargo/pas-external@0.7.0
 - pkg:cargo/pas-external@1.0.1
 - pkg:cargo/pas-external@2.0.0
 - pkg:cargo/pas-external@3.0.0
