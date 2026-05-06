@@ -1,3 +1,4 @@
 - pkg:cargo/rttp@0.1.0-alpha
 - pkg:cargo/rttp@1.2.1-Alpha
 - pkg:cargo/rttp@1.2.2-alpha
+- pkg:cargo/rttp@1.2.3-alpha
