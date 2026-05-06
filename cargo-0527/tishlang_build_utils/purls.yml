@@ -28,3 +28,4 @@
 - pkg:cargo/tishlang_build_utils@1.7.0
 - pkg:cargo/tishlang_build_utils@1.9.0
 - pkg:cargo/tishlang_build_utils@1.9.1
+- pkg:cargo/tishlang_build_utils@1.9.2
