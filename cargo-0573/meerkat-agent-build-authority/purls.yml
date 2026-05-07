@@ -1,1 +1,2 @@
 - pkg:cargo/meerkat-agent-build-authority@0.6.0
+- pkg:cargo/meerkat-agent-build-authority@0.6.1
