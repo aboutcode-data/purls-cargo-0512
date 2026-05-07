@@ -35,6 +35,7 @@
 - pkg:cargo/agent-file-tools@0.19.3
 - pkg:cargo/agent-file-tools@0.19.4
 - pkg:cargo/agent-file-tools@0.19.5
+- pkg:cargo/agent-file-tools@0.19.6
 - pkg:cargo/agent-file-tools@0.2.0
 - pkg:cargo/agent-file-tools@0.3.0
 - pkg:cargo/agent-file-tools@0.4.0
