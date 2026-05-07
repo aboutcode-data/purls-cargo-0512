@@ -43,3 +43,4 @@
 - pkg:cargo/iroh-base@0.96.1
 - pkg:cargo/iroh-base@0.97.0
 - pkg:cargo/iroh-base@0.98.0
+- pkg:cargo/iroh-base@1.0.0-rc.0
