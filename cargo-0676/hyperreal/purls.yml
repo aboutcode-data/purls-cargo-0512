@@ -3,5 +3,6 @@
 - pkg:cargo/hyperreal@0.10.2
 - pkg:cargo/hyperreal@0.10.3
 - pkg:cargo/hyperreal@0.10.4
+- pkg:cargo/hyperreal@0.10.5
 - pkg:cargo/hyperreal@0.9.0
 - pkg:cargo/hyperreal@0.9.1
