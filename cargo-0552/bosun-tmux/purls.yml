@@ -1,4 +1,5 @@
 - pkg:cargo/bosun-tmux@0.2.10
 - pkg:cargo/bosun-tmux@0.2.11
+- pkg:cargo/bosun-tmux@0.2.12
 - pkg:cargo/bosun-tmux@0.2.4
 - pkg:cargo/bosun-tmux@0.2.5
