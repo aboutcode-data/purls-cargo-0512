@@ -41,3 +41,4 @@
 - pkg:cargo/ntpd@1.7.0-alpha.20260122
 - pkg:cargo/ntpd@1.7.1
 - pkg:cargo/ntpd@1.7.2
+- pkg:cargo/ntpd@1.8.0
