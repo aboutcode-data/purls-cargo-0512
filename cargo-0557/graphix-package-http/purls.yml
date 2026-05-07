@@ -1,1 +1,2 @@
 - pkg:cargo/graphix-package-http@0.7.0
+- pkg:cargo/graphix-package-http@0.8.0
