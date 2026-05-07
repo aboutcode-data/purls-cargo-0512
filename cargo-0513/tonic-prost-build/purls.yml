@@ -4,3 +4,4 @@
 - pkg:cargo/tonic-prost-build@0.14.3
 - pkg:cargo/tonic-prost-build@0.14.4
 - pkg:cargo/tonic-prost-build@0.14.5
+- pkg:cargo/tonic-prost-build@0.14.6
