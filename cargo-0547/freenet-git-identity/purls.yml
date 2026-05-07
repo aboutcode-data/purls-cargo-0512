@@ -4,6 +4,8 @@
 - pkg:cargo/freenet-git-identity@0.1.11
 - pkg:cargo/freenet-git-identity@0.1.12
 - pkg:cargo/freenet-git-identity@0.1.13
+- pkg:cargo/freenet-git-identity@0.1.14
+- pkg:cargo/freenet-git-identity@0.1.15
 - pkg:cargo/freenet-git-identity@0.1.2
 - pkg:cargo/freenet-git-identity@0.1.3
 - pkg:cargo/freenet-git-identity@0.1.4
