@@ -11,6 +11,8 @@
 - pkg:cargo/mfsk-core@0.4.4
 - pkg:cargo/mfsk-core@0.5.0
 - pkg:cargo/mfsk-core@0.5.1
+- pkg:cargo/mfsk-core@0.5.10
+- pkg:cargo/mfsk-core@0.5.11
 - pkg:cargo/mfsk-core@0.5.2
 - pkg:cargo/mfsk-core@0.5.3
 - pkg:cargo/mfsk-core@0.5.4
