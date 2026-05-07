@@ -18,3 +18,4 @@
 - pkg:cargo/srcwalk@0.2.7
 - pkg:cargo/srcwalk@0.3.0
 - pkg:cargo/srcwalk@0.3.1
+- pkg:cargo/srcwalk@0.3.2

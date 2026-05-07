@@ -4,6 +4,7 @@
 - pkg:cargo/lexd-lsp@0.10.3
 - pkg:cargo/lexd-lsp@0.10.4-rc.1
 - pkg:cargo/lexd-lsp@0.10.5
+- pkg:cargo/lexd-lsp@0.10.6
 - pkg:cargo/lexd-lsp@0.8.0
 - pkg:cargo/lexd-lsp@0.8.2
 - pkg:cargo/lexd-lsp@0.8.3
