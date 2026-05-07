@@ -5,3 +5,4 @@
 - pkg:cargo/axhash@0.7.9
 - pkg:cargo/axhash@0.8.0
 - pkg:cargo/axhash@0.8.1
+- pkg:cargo/axhash@0.8.2
