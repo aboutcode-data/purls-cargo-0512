@@ -20,3 +20,4 @@
 - pkg:cargo/avif-serialize@0.8.5
 - pkg:cargo/avif-serialize@0.8.6
 - pkg:cargo/avif-serialize@0.8.8
+- pkg:cargo/avif-serialize@0.8.9
