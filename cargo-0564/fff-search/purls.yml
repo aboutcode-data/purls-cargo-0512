@@ -105,5 +105,9 @@
 - pkg:cargo/fff-search@0.7.1
 - pkg:cargo/fff-search@0.7.1-nightly.51d0583
 - pkg:cargo/fff-search@0.7.1-nightly.bb4f337
+- pkg:cargo/fff-search@0.7.2
+- pkg:cargo/fff-search@0.7.2-nightly.e5662c1
 - pkg:cargo/fff-search@0.7.2-nightly.e8dd50c
 - pkg:cargo/fff-search@0.7.2-nightly.ed0e84d
+- pkg:cargo/fff-search@0.7.2-nightly.f7daab7
+- pkg:cargo/fff-search@0.7.3-nightly.ff81719
