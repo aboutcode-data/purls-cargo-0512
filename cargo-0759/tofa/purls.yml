@@ -1,3 +1,5 @@
 - pkg:cargo/tofa@0.3.0
 - pkg:cargo/tofa@0.4.0
 - pkg:cargo/tofa@0.6.0
+- pkg:cargo/tofa@0.8.0
+- pkg:cargo/tofa@0.9.0
