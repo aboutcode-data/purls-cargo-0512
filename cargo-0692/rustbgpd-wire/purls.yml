@@ -7,3 +7,4 @@
 - pkg:cargo/rustbgpd-wire@0.8.3
 - pkg:cargo/rustbgpd-wire@0.8.4
 - pkg:cargo/rustbgpd-wire@0.8.5
+- pkg:cargo/rustbgpd-wire@0.9.0
