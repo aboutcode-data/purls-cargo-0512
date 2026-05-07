@@ -1,1 +1,2 @@
 - pkg:cargo/git-same@2.0.0
+- pkg:cargo/git-same@3.0.1
