@@ -17,3 +17,4 @@
 - pkg:cargo/tor-relay-crypto@0.39.0
 - pkg:cargo/tor-relay-crypto@0.40.0
 - pkg:cargo/tor-relay-crypto@0.41.0
+- pkg:cargo/tor-relay-crypto@0.42.0
