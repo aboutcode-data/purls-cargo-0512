@@ -21,3 +21,4 @@
 - pkg:cargo/trz-gateway-common@0.1.9
 - pkg:cargo/trz-gateway-common@0.2.0
 - pkg:cargo/trz-gateway-common@0.2.1
+- pkg:cargo/trz-gateway-common@0.2.2
