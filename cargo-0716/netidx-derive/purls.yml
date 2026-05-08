@@ -10,3 +10,4 @@
 - pkg:cargo/netidx-derive@0.28.3
 - pkg:cargo/netidx-derive@0.31.0
 - pkg:cargo/netidx-derive@0.31.5
+- pkg:cargo/netidx-derive@0.32.0
