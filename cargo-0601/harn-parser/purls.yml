@@ -184,3 +184,4 @@
 - pkg:cargo/harn-parser@0.7.7
 - pkg:cargo/harn-parser@0.7.8
 - pkg:cargo/harn-parser@0.7.9
+- pkg:cargo/harn-parser@0.8.0
