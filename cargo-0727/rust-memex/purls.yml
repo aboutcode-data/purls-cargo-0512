@@ -1,1 +1,2 @@
 - pkg:cargo/rust-memex@0.6.4
+- pkg:cargo/rust-memex@0.6.5
