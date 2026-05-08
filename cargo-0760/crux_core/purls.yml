@@ -24,6 +24,7 @@
 - pkg:cargo/crux_core@0.17.0-rc1
 - pkg:cargo/crux_core@0.17.0-rc2
 - pkg:cargo/crux_core@0.17.0-rc3
+- pkg:cargo/crux_core@0.18.0
 - pkg:cargo/crux_core@0.2.0
 - pkg:cargo/crux_core@0.3.0
 - pkg:cargo/crux_core@0.4.0
