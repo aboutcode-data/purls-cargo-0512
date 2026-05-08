@@ -8,3 +8,4 @@
 - pkg:cargo/ferogram-parsers@0.3.7
 - pkg:cargo/ferogram-parsers@0.3.8
 - pkg:cargo/ferogram-parsers@0.3.9
+- pkg:cargo/ferogram-parsers@0.4.0
