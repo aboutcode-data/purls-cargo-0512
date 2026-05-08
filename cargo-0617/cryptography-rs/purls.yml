@@ -1,1 +1,2 @@
 - pkg:cargo/cryptography-rs@0.5.0
+- pkg:cargo/cryptography-rs@0.6.0

@@ -8,3 +8,4 @@
 - pkg:cargo/figrid-board@0.5.4
 - pkg:cargo/figrid-board@0.6.10
 - pkg:cargo/figrid-board@0.6.8
+- pkg:cargo/figrid-board@0.7.1
