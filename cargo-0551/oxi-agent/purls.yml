@@ -38,3 +38,5 @@
 - pkg:cargo/oxi-agent@0.6.7
 - pkg:cargo/oxi-agent@0.6.8
 - pkg:cargo/oxi-agent@0.6.9
+- pkg:cargo/oxi-agent@0.8.0
+- pkg:cargo/oxi-agent@0.8.1

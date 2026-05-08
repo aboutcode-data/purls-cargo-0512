@@ -17,3 +17,4 @@
 - pkg:cargo/surrealkit@0.5.7
 - pkg:cargo/surrealkit@0.5.8
 - pkg:cargo/surrealkit@0.6.1
+- pkg:cargo/surrealkit@0.6.2
