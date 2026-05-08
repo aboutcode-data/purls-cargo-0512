@@ -8,3 +8,4 @@
 - pkg:cargo/trim-galore@2.1.0-beta.6
 - pkg:cargo/trim-galore@2.1.0-beta.7
 - pkg:cargo/trim-galore@2.1.0-beta.8
+- pkg:cargo/trim-galore@2.2.0

@@ -15,3 +15,4 @@
 - pkg:cargo/trellis-cli@0.8.0-rc.8
 - pkg:cargo/trellis-cli@0.8.1
 - pkg:cargo/trellis-cli@0.8.2
+- pkg:cargo/trellis-cli@0.8.3

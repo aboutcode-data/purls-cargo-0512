@@ -39,6 +39,7 @@
 - pkg:cargo/ledger-models@0.1.132
 - pkg:cargo/ledger-models@0.1.133
 - pkg:cargo/ledger-models@0.1.134
+- pkg:cargo/ledger-models@0.1.135
 - pkg:cargo/ledger-models@0.1.14
 - pkg:cargo/ledger-models@0.1.15
 - pkg:cargo/ledger-models@0.1.16
