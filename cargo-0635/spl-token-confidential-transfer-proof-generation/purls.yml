@@ -5,3 +5,4 @@
 - pkg:cargo/spl-token-confidential-transfer-proof-generation@0.4.1
 - pkg:cargo/spl-token-confidential-transfer-proof-generation@0.5.0
 - pkg:cargo/spl-token-confidential-transfer-proof-generation@0.5.1
+- pkg:cargo/spl-token-confidential-transfer-proof-generation@0.6.0

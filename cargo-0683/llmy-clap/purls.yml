@@ -24,3 +24,4 @@
 - pkg:cargo/llmy-clap@0.7.4
 - pkg:cargo/llmy-clap@0.7.5
 - pkg:cargo/llmy-clap@0.7.6
+- pkg:cargo/llmy-clap@0.8.0
