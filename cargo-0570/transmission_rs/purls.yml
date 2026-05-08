@@ -22,6 +22,7 @@
 - pkg:cargo/transmission_rs@0.8.10
 - pkg:cargo/transmission_rs@0.8.11
 - pkg:cargo/transmission_rs@0.8.12
+- pkg:cargo/transmission_rs@0.8.13
 - pkg:cargo/transmission_rs@0.8.2
 - pkg:cargo/transmission_rs@0.8.3
 - pkg:cargo/transmission_rs@0.8.4
