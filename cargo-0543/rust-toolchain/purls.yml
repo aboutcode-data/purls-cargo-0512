@@ -7,3 +7,4 @@
 - pkg:cargo/rust-toolchain@0.22.0
 - pkg:cargo/rust-toolchain@1.0.0
 - pkg:cargo/rust-toolchain@1.1.0
+- pkg:cargo/rust-toolchain@2.0.0
