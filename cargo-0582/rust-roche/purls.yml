@@ -5,3 +5,4 @@
 - pkg:cargo/rust-roche@0.1.4
 - pkg:cargo/rust-roche@0.2.3
 - pkg:cargo/rust-roche@0.2.7
+- pkg:cargo/rust-roche@0.2.8
