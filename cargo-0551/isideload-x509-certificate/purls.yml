@@ -1,1 +1,2 @@
 - pkg:cargo/isideload-x509-certificate@0.25.0
+- pkg:cargo/isideload-x509-certificate@0.26.0
