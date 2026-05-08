@@ -24,6 +24,7 @@
 - pkg:cargo/cf-modkit@0.5.9
 - pkg:cargo/cf-modkit@0.6.0
 - pkg:cargo/cf-modkit@0.6.1
+- pkg:cargo/cf-modkit@0.6.10
 - pkg:cargo/cf-modkit@0.6.2
 - pkg:cargo/cf-modkit@0.6.3
 - pkg:cargo/cf-modkit@0.6.4
