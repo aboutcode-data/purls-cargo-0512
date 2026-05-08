@@ -1,3 +1,4 @@
 - pkg:cargo/wfe-valkey@1.0.0
 - pkg:cargo/wfe-valkey@1.9.1
 - pkg:cargo/wfe-valkey@1.9.2
+- pkg:cargo/wfe-valkey@1.9.3
