@@ -15,6 +15,8 @@
 - pkg:cargo/kaizen-cli@0.1.27
 - pkg:cargo/kaizen-cli@0.1.28
 - pkg:cargo/kaizen-cli@0.1.29
+- pkg:cargo/kaizen-cli@0.1.30
+- pkg:cargo/kaizen-cli@0.1.31
 - pkg:cargo/kaizen-cli@0.1.6
 - pkg:cargo/kaizen-cli@0.1.7
 - pkg:cargo/kaizen-cli@0.1.8
