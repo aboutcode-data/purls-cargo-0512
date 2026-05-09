@@ -8,3 +8,5 @@
 - pkg:cargo/r-matrix@0.2.6
 - pkg:cargo/r-matrix@0.2.7
 - pkg:cargo/r-matrix@0.2.8
+- pkg:cargo/r-matrix@0.3.0
+- pkg:cargo/r-matrix@2.0.0
