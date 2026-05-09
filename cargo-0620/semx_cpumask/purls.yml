@@ -3,3 +3,4 @@
 - pkg:cargo/semx_cpumask@0.1.58
 - pkg:cargo/semx_cpumask@0.1.59
 - pkg:cargo/semx_cpumask@0.1.60
+- pkg:cargo/semx_cpumask@0.1.61
