@@ -97,6 +97,8 @@
 - pkg:cargo/j-cli@12.10.37
 - pkg:cargo/j-cli@12.10.38
 - pkg:cargo/j-cli@12.10.4
+- pkg:cargo/j-cli@12.10.40
+- pkg:cargo/j-cli@12.10.41
 - pkg:cargo/j-cli@12.10.5
 - pkg:cargo/j-cli@12.10.6
 - pkg:cargo/j-cli@12.10.7
