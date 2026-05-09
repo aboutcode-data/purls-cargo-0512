@@ -2,3 +2,5 @@
 - pkg:cargo/concord@1.0.1
 - pkg:cargo/concord@1.0.2
 - pkg:cargo/concord@1.0.3
+- pkg:cargo/concord@1.1.0
+- pkg:cargo/concord@1.1.1

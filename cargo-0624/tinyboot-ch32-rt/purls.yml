@@ -1,1 +1,2 @@
 - pkg:cargo/tinyboot-ch32-rt@0.4.0
+- pkg:cargo/tinyboot-ch32-rt@0.4.1
