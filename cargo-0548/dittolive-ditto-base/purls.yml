@@ -105,6 +105,7 @@
 - pkg:cargo/dittolive-ditto-base@4.14.4-experimental-gha-workflow.1
 - pkg:cargo/dittolive-ditto-base@4.14.4-experimental-gha-workflow.2
 - pkg:cargo/dittolive-ditto-base@4.14.4-experimental-gha-workflow.3
+- pkg:cargo/dittolive-ditto-base@4.14.4-experimental-gha-workflow.4
 - pkg:cargo/dittolive-ditto-base@4.14.4-preview.1
 - pkg:cargo/dittolive-ditto-base@4.14.4-preview.2
 - pkg:cargo/dittolive-ditto-base@4.14.4-preview.3
