@@ -12,3 +12,4 @@
 - pkg:cargo/ast-outline@1.0.1
 - pkg:cargo/ast-outline@1.1.0
 - pkg:cargo/ast-outline@2.0.0
+- pkg:cargo/ast-outline@2.0.1
