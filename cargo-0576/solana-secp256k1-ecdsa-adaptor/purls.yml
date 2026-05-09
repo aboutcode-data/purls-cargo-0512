@@ -1,1 +1,2 @@
 - pkg:cargo/solana-secp256k1-ecdsa-adaptor@0.1.0
+- pkg:cargo/solana-secp256k1-ecdsa-adaptor@0.2.0

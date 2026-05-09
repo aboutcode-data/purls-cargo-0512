@@ -1,3 +1,4 @@
 - pkg:cargo/atomr-discovery@0.1.0
 - pkg:cargo/atomr-discovery@0.3.0
 - pkg:cargo/atomr-discovery@0.3.1
+- pkg:cargo/atomr-discovery@0.6.0
