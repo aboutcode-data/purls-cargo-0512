@@ -1,1 +1,2 @@
 - pkg:cargo/tsqlx-sql@0.2.0
+- pkg:cargo/tsqlx-sql@0.3.0
