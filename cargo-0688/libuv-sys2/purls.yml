@@ -36,3 +36,4 @@
 - pkg:cargo/libuv-sys2@1.51.0
 - pkg:cargo/libuv-sys2@1.52.0
 - pkg:cargo/libuv-sys2@1.52.1
+- pkg:cargo/libuv-sys2@1.52.2
