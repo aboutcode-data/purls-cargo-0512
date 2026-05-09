@@ -18,6 +18,8 @@
 - pkg:cargo/legato@0.0.28
 - pkg:cargo/legato@0.0.29
 - pkg:cargo/legato@0.0.30
+- pkg:cargo/legato@0.0.31
+- pkg:cargo/legato@0.0.32
 - pkg:cargo/legato@0.0.6
 - pkg:cargo/legato@0.0.7
 - pkg:cargo/legato@0.0.8

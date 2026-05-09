@@ -1,1 +1,2 @@
 - pkg:cargo/overdrive-db@1.0.0
+- pkg:cargo/overdrive-db@2.3.0
