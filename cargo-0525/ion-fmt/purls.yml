@@ -5,3 +5,4 @@
 - pkg:cargo/ion-fmt@0.13.0
 - pkg:cargo/ion-fmt@0.14.0
 - pkg:cargo/ion-fmt@0.14.1
+- pkg:cargo/ion-fmt@0.15.0
