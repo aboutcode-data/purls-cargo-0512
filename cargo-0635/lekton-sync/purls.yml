@@ -32,6 +32,7 @@
 - pkg:cargo/lekton-sync@0.24.2
 - pkg:cargo/lekton-sync@0.24.3
 - pkg:cargo/lekton-sync@0.24.4
+- pkg:cargo/lekton-sync@0.24.5
 - pkg:cargo/lekton-sync@0.6.1
 - pkg:cargo/lekton-sync@0.6.2
 - pkg:cargo/lekton-sync@0.7.1
