@@ -1,3 +1,4 @@
 - pkg:cargo/galette-tk@0.3.0-tk
 - pkg:cargo/galette-tk@0.4.0-tk
 - pkg:cargo/galette-tk@0.5.0
+- pkg:cargo/galette-tk@0.6.0
