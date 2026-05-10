@@ -25,3 +25,4 @@
 - pkg:cargo/tree-sitter-t32@7.2.6
 - pkg:cargo/tree-sitter-t32@8.0.0
 - pkg:cargo/tree-sitter-t32@8.0.1
+- pkg:cargo/tree-sitter-t32@9.0.0
