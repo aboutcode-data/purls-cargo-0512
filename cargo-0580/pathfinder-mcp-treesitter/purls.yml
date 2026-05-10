@@ -14,3 +14,4 @@
 - pkg:cargo/pathfinder-mcp-treesitter@0.6.0
 - pkg:cargo/pathfinder-mcp-treesitter@0.6.1
 - pkg:cargo/pathfinder-mcp-treesitter@0.7.0
+- pkg:cargo/pathfinder-mcp-treesitter@0.7.1
