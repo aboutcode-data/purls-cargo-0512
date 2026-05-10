@@ -3,6 +3,7 @@
 - pkg:cargo/aptu-coder@0.10.2
 - pkg:cargo/aptu-coder@0.10.3
 - pkg:cargo/aptu-coder@0.10.4
+- pkg:cargo/aptu-coder@0.10.5
 - pkg:cargo/aptu-coder@0.7.0
 - pkg:cargo/aptu-coder@0.8.0
 - pkg:cargo/aptu-coder@0.8.1
