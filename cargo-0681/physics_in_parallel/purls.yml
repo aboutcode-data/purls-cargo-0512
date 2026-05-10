@@ -24,3 +24,4 @@
 - pkg:cargo/physics_in_parallel@2.0.7
 - pkg:cargo/physics_in_parallel@2.0.8
 - pkg:cargo/physics_in_parallel@3.0.0
+- pkg:cargo/physics_in_parallel@3.0.1
