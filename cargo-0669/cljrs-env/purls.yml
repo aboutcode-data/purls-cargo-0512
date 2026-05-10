@@ -24,3 +24,5 @@
 - pkg:cargo/cljrs-env@0.1.44
 - pkg:cargo/cljrs-env@0.1.45
 - pkg:cargo/cljrs-env@0.1.46
+- pkg:cargo/cljrs-env@0.1.47
+- pkg:cargo/cljrs-env@0.1.48
