@@ -43,6 +43,7 @@
 - pkg:cargo/file-operation@0.8.18
 - pkg:cargo/file-operation@0.8.19
 - pkg:cargo/file-operation@0.8.2
+- pkg:cargo/file-operation@0.8.20
 - pkg:cargo/file-operation@0.8.3
 - pkg:cargo/file-operation@0.8.4
 - pkg:cargo/file-operation@0.8.5
