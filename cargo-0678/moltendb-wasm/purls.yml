@@ -14,3 +14,4 @@
 - pkg:cargo/moltendb-wasm@0.7.0
 - pkg:cargo/moltendb-wasm@0.8.0
 - pkg:cargo/moltendb-wasm@0.9.0
+- pkg:cargo/moltendb-wasm@1.0.0-rc1
