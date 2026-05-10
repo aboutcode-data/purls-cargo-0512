@@ -21,6 +21,9 @@
 - pkg:cargo/compactrs@2026.4.3-r1013
 - pkg:cargo/compactrs@2026.5.10-r1217
 - pkg:cargo/compactrs@2026.5.10-r1251
+- pkg:cargo/compactrs@2026.5.10-r1313
+- pkg:cargo/compactrs@2026.5.10-r1325
+- pkg:cargo/compactrs@2026.5.10-r1415
 - pkg:cargo/compactrs@2026.5.8-r1535
 - pkg:cargo/compactrs@2026.5.8-r1705
 - pkg:cargo/compactrs@2026.5.8-r1740
