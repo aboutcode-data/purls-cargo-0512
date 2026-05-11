@@ -2,3 +2,4 @@
 - pkg:cargo/inference-gateway-adk@0.2.0
 - pkg:cargo/inference-gateway-adk@0.2.1
 - pkg:cargo/inference-gateway-adk@0.2.2
+- pkg:cargo/inference-gateway-adk@0.2.5

@@ -24,3 +24,4 @@
 - pkg:cargo/page-table-generic@0.6.7
 - pkg:cargo/page-table-generic@0.7.0
 - pkg:cargo/page-table-generic@0.7.1
+- pkg:cargo/page-table-generic@0.7.2
