@@ -10,3 +10,5 @@
 - pkg:cargo/r-matrix@0.2.8
 - pkg:cargo/r-matrix@0.3.0
 - pkg:cargo/r-matrix@2.0.0
+- pkg:cargo/r-matrix@2.0.1
+- pkg:cargo/r-matrix@2.0.2
