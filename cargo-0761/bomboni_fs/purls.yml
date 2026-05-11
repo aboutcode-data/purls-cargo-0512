@@ -9,3 +9,5 @@
 - pkg:cargo/bomboni_fs@0.1.63
 - pkg:cargo/bomboni_fs@0.1.64
 - pkg:cargo/bomboni_fs@0.2.0
+- pkg:cargo/bomboni_fs@0.3.0
+- pkg:cargo/bomboni_fs@0.3.1
