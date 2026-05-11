@@ -14,8 +14,11 @@
 - pkg:cargo/mallorca@0.2.3-rc.3
 - pkg:cargo/mallorca@0.2.3-rc.4
 - pkg:cargo/mallorca@0.2.4
+- pkg:cargo/mallorca@0.2.5
 - pkg:cargo/mallorca@0.2.5-rc.1
 - pkg:cargo/mallorca@0.2.5-rc.2
 - pkg:cargo/mallorca@0.2.5-rc.3
 - pkg:cargo/mallorca@0.2.5-rc.4
 - pkg:cargo/mallorca@0.2.5-rc.5
+- pkg:cargo/mallorca@0.2.5-rc.6
+- pkg:cargo/mallorca@0.2.6-rc.1
