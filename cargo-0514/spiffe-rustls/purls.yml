@@ -16,3 +16,4 @@
 - pkg:cargo/spiffe-rustls@0.4.9
 - pkg:cargo/spiffe-rustls@0.5.0
 - pkg:cargo/spiffe-rustls@0.6.0
+- pkg:cargo/spiffe-rustls@0.6.1
