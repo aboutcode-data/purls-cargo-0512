@@ -16,6 +16,8 @@
 - pkg:cargo/joy-ai@0.15.0
 - pkg:cargo/joy-ai@0.15.1
 - pkg:cargo/joy-ai@0.15.2
+- pkg:cargo/joy-ai@0.15.3
+- pkg:cargo/joy-ai@0.15.4
 - pkg:cargo/joy-ai@0.8.0
 - pkg:cargo/joy-ai@0.8.1
 - pkg:cargo/joy-ai@0.8.2
