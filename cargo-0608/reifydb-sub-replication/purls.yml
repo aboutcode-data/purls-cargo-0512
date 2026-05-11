@@ -4,3 +4,4 @@
 - pkg:cargo/reifydb-sub-replication@0.4.13
 - pkg:cargo/reifydb-sub-replication@0.4.8
 - pkg:cargo/reifydb-sub-replication@0.4.9
+- pkg:cargo/reifydb-sub-replication@0.5.0

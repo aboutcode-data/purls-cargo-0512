@@ -9,3 +9,4 @@
 - pkg:cargo/reifydb-webassembly@0.4.7
 - pkg:cargo/reifydb-webassembly@0.4.8
 - pkg:cargo/reifydb-webassembly@0.4.9
+- pkg:cargo/reifydb-webassembly@0.5.0
