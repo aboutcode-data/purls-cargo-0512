@@ -1,3 +1,4 @@
+- pkg:cargo/spec-ai@0.0.1
 - pkg:cargo/spec-ai@0.1.10
 - pkg:cargo/spec-ai@0.1.11
 - pkg:cargo/spec-ai@0.1.12
@@ -50,3 +51,4 @@
 - pkg:cargo/spec-ai@0.6.6-prerelease.12
 - pkg:cargo/spec-ai@0.6.7-prerelease.12
 - pkg:cargo/spec-ai@0.6.8-prerelease.12
+- pkg:cargo/spec-ai@0.7.0
