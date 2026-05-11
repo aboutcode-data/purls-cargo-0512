@@ -1,2 +1,3 @@
 - pkg:cargo/atomr-infer-runtime-vllm@0.6.4
 - pkg:cargo/atomr-infer-runtime-vllm@0.6.5
+- pkg:cargo/atomr-infer-runtime-vllm@0.8.0
