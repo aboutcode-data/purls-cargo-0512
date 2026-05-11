@@ -1,1 +1,2 @@
 - pkg:cargo/dependency-check-updates@0.1.10
+- pkg:cargo/dependency-check-updates@0.1.11
