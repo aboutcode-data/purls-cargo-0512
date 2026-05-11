@@ -1,1 +1,4 @@
 - pkg:cargo/trusty-search@0.1.60
+- pkg:cargo/trusty-search@0.2.3
+- pkg:cargo/trusty-search@0.3.2
+- pkg:cargo/trusty-search@0.3.3

@@ -119,3 +119,5 @@
 - pkg:cargo/ledger-models@0.1.97
 - pkg:cargo/ledger-models@0.1.98
 - pkg:cargo/ledger-models@0.1.99
+- pkg:cargo/ledger-models@0.2.0
+- pkg:cargo/ledger-models@0.2.1

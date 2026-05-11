@@ -2,3 +2,4 @@
 - pkg:cargo/salesforce_core@0.13.4
 - pkg:cargo/salesforce_core@0.13.5
 - pkg:cargo/salesforce_core@0.13.6
+- pkg:cargo/salesforce_core@0.14.0

@@ -1,1 +1,2 @@
 - pkg:cargo/tree-sitter-iec61131-3-st@0.0.1
+- pkg:cargo/tree-sitter-iec61131-3-st@0.0.2
