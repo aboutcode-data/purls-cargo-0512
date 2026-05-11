@@ -1,1 +1,2 @@
 - pkg:cargo/normalize-facts-rules-interpret@0.3.1
+- pkg:cargo/normalize-facts-rules-interpret@0.3.2
