@@ -39,6 +39,7 @@
 - pkg:cargo/assay-common@2.9.0
 - pkg:cargo/assay-common@3.0.0
 - pkg:cargo/assay-common@3.1.0
+- pkg:cargo/assay-common@3.10.0
 - pkg:cargo/assay-common@3.2.1
 - pkg:cargo/assay-common@3.2.2
 - pkg:cargo/assay-common@3.2.3
