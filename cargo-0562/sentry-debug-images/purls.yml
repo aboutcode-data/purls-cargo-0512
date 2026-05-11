@@ -51,3 +51,4 @@
 - pkg:cargo/sentry-debug-images@0.47.0
 - pkg:cargo/sentry-debug-images@0.48.0
 - pkg:cargo/sentry-debug-images@0.48.1
+- pkg:cargo/sentry-debug-images@0.48.2
