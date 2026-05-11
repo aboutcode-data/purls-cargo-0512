@@ -3,3 +3,4 @@
 - pkg:cargo/cu-ahrs@0.14.0
 - pkg:cargo/cu-ahrs@0.15.0
 - pkg:cargo/cu-ahrs@1.0.0-rc1
+- pkg:cargo/cu-ahrs@1.0.0-rc2

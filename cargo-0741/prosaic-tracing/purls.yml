@@ -1,1 +1,3 @@
 - pkg:cargo/prosaic-tracing@0.6.1
+- pkg:cargo/prosaic-tracing@0.6.2
+- pkg:cargo/prosaic-tracing@1.0.0
