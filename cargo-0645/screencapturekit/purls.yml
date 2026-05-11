@@ -28,3 +28,4 @@
 - pkg:cargo/screencapturekit@1.5.3
 - pkg:cargo/screencapturekit@1.5.4
 - pkg:cargo/screencapturekit@2.0.0
+- pkg:cargo/screencapturekit@2.1.0
