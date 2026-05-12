@@ -7,3 +7,4 @@
 - pkg:cargo/rspack_plugin_rsc@0.100.0-rc.3
 - pkg:cargo/rspack_plugin_rsc@0.100.1
 - pkg:cargo/rspack_plugin_rsc@0.100.2
+- pkg:cargo/rspack_plugin_rsc@0.100.3
