@@ -14,3 +14,4 @@
 - pkg:cargo/rdif-serial@0.5.4
 - pkg:cargo/rdif-serial@0.6.0
 - pkg:cargo/rdif-serial@0.7.0
+- pkg:cargo/rdif-serial@0.7.1
