@@ -6,6 +6,7 @@
 - pkg:cargo/fakecloud-stepfunctions@0.13.1
 - pkg:cargo/fakecloud-stepfunctions@0.13.2
 - pkg:cargo/fakecloud-stepfunctions@0.13.3
+- pkg:cargo/fakecloud-stepfunctions@0.14.0
 - pkg:cargo/fakecloud-stepfunctions@0.7.0
 - pkg:cargo/fakecloud-stepfunctions@0.7.1
 - pkg:cargo/fakecloud-stepfunctions@0.8.0
