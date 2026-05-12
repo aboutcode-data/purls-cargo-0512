@@ -25,3 +25,4 @@
 - pkg:cargo/db-rs@0.3.4
 - pkg:cargo/db-rs@0.3.5
 - pkg:cargo/db-rs@0.3.6
+- pkg:cargo/db-rs@0.3.7
