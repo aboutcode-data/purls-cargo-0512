@@ -2,3 +2,4 @@
 - pkg:cargo/perl-diagnostics@0.13.1
 - pkg:cargo/perl-diagnostics@0.13.2
 - pkg:cargo/perl-diagnostics@0.13.3
+- pkg:cargo/perl-diagnostics@0.14.0
