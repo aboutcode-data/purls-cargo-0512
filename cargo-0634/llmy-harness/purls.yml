@@ -1,4 +1,6 @@
 - pkg:cargo/llmy-harness@0.10.0
+- pkg:cargo/llmy-harness@0.11.0
+- pkg:cargo/llmy-harness@0.12.0
 - pkg:cargo/llmy-harness@0.5.1
 - pkg:cargo/llmy-harness@0.5.3
 - pkg:cargo/llmy-harness@0.5.5
