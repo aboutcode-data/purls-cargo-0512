@@ -1,4 +1,5 @@
 - pkg:cargo/signinum@0.0.1
+- pkg:cargo/signinum@0.4.0
 - pkg:cargo/signinum@1.0.0
 - pkg:cargo/signinum@1.0.1
 - pkg:cargo/signinum@1.0.2
