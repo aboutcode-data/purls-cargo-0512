@@ -1,3 +1,4 @@
 - pkg:cargo/mise-completions-sync@0.5.4
 - pkg:cargo/mise-completions-sync@0.5.5
 - pkg:cargo/mise-completions-sync@0.5.6
+- pkg:cargo/mise-completions-sync@0.5.7
