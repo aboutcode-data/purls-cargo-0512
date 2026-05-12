@@ -4,3 +4,4 @@
 - pkg:cargo/kenosis-cli@0.3.3
 - pkg:cargo/kenosis-cli@0.3.4
 - pkg:cargo/kenosis-cli@0.4.0
+- pkg:cargo/kenosis-cli@1.0.0
