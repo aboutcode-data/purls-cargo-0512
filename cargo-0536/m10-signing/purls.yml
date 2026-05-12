@@ -52,3 +52,4 @@
 - pkg:cargo/m10-signing@0.4.1-rc.1
 - pkg:cargo/m10-signing@0.4.1-rc.5
 - pkg:cargo/m10-signing@1.0.0
+- pkg:cargo/m10-signing@1.5.3
