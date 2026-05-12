@@ -1,2 +1,3 @@
 - pkg:cargo/sperr@0.1.0
 - pkg:cargo/sperr@0.2.0
+- pkg:cargo/sperr@0.2.1%2Bsperr.0.8.5

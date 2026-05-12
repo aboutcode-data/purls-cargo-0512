@@ -12,6 +12,7 @@
 - pkg:cargo/naia-derive@0.22.0
 - pkg:cargo/naia-derive@0.23.0
 - pkg:cargo/naia-derive@0.24.0
+- pkg:cargo/naia-derive@0.25.0
 - pkg:cargo/naia-derive@0.3.0
 - pkg:cargo/naia-derive@0.7.0
 - pkg:cargo/naia-derive@0.7.0-alpha.1
