@@ -1,3 +1,4 @@
 - pkg:cargo/openapp-sdk-core-c-bridge@0.1.50
 - pkg:cargo/openapp-sdk-core-c-bridge@0.1.51
 - pkg:cargo/openapp-sdk-core-c-bridge@0.1.52
+- pkg:cargo/openapp-sdk-core-c-bridge@0.1.53
