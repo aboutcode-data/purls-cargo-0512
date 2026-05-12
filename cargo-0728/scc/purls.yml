@@ -240,3 +240,4 @@
 - pkg:cargo/scc@3.6.8
 - pkg:cargo/scc@3.6.9
 - pkg:cargo/scc@3.7.0
+- pkg:cargo/scc@3.7.1
