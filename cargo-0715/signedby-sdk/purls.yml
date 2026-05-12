@@ -1,1 +1,3 @@
 - pkg:cargo/signedby-sdk@0.1.0
+- pkg:cargo/signedby-sdk@1.0.0
+- pkg:cargo/signedby-sdk@1.0.1
