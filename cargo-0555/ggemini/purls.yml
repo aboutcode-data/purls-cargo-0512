@@ -15,6 +15,7 @@
 - pkg:cargo/ggemini@0.19.0
 - pkg:cargo/ggemini@0.2.0
 - pkg:cargo/ggemini@0.20.0
+- pkg:cargo/ggemini@0.20.1
 - pkg:cargo/ggemini@0.3.0
 - pkg:cargo/ggemini@0.4.0
 - pkg:cargo/ggemini@0.5.0

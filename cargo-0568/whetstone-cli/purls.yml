@@ -1,3 +1,4 @@
 - pkg:cargo/whetstone-cli@2.0.0
 - pkg:cargo/whetstone-cli@2.1.1
 - pkg:cargo/whetstone-cli@2.1.2
+- pkg:cargo/whetstone-cli@2.2.2
