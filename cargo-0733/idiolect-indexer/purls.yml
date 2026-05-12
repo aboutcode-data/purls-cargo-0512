@@ -1,4 +1,5 @@
 - pkg:cargo/idiolect-indexer@0.1.0
+- pkg:cargo/idiolect-indexer@0.10.0
 - pkg:cargo/idiolect-indexer@0.2.0
 - pkg:cargo/idiolect-indexer@0.3.0
 - pkg:cargo/idiolect-indexer@0.4.0
@@ -10,3 +11,4 @@
 - pkg:cargo/idiolect-indexer@0.6.1
 - pkg:cargo/idiolect-indexer@0.7.0
 - pkg:cargo/idiolect-indexer@0.8.0
+- pkg:cargo/idiolect-indexer@0.9.0
