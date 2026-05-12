@@ -68,3 +68,4 @@
 - pkg:cargo/bcmr@0.5.9
 - pkg:cargo/bcmr@0.6.0
 - pkg:cargo/bcmr@0.6.1
+- pkg:cargo/bcmr@0.6.2

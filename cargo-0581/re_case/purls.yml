@@ -189,3 +189,4 @@
 - pkg:cargo/re_case@0.31.3
 - pkg:cargo/re_case@0.31.4
 - pkg:cargo/re_case@0.32.0-alpha.1
+- pkg:cargo/re_case@0.32.0-rc.1

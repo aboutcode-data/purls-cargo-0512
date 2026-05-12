@@ -14,3 +14,4 @@
 - pkg:cargo/typespec@0.8.0
 - pkg:cargo/typespec@0.9.0
 - pkg:cargo/typespec@0.9.1
+- pkg:cargo/typespec@1.0.0
