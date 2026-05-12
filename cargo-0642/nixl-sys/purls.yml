@@ -20,3 +20,4 @@
 - pkg:cargo/nixl-sys@0.9.0
 - pkg:cargo/nixl-sys@1.0.0
 - pkg:cargo/nixl-sys@1.0.1
+- pkg:cargo/nixl-sys@1.1.0
