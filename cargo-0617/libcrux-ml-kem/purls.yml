@@ -18,4 +18,5 @@
 - pkg:cargo/libcrux-ml-kem@0.0.7-pre.2
 - pkg:cargo/libcrux-ml-kem@0.0.8
 - pkg:cargo/libcrux-ml-kem@0.0.8-rc.1
+- pkg:cargo/libcrux-ml-kem@0.0.9
 - pkg:cargo/libcrux-ml-kem@0.0.9-rc.1

@@ -8,5 +8,6 @@
 - pkg:cargo/libcrux@0.0.2-pre.2
 - pkg:cargo/libcrux@0.0.3
 - pkg:cargo/libcrux@0.0.3-rc.1
+- pkg:cargo/libcrux@0.0.4
 - pkg:cargo/libcrux@0.0.4-rc.1
 - pkg:cargo/libcrux@0.0.4-rc.2
