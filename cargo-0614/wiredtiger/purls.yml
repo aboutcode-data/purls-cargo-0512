@@ -1,1 +1,2 @@
 - pkg:cargo/wiredtiger@11.2.0-1
+- pkg:cargo/wiredtiger@12.0.0
