@@ -110,6 +110,7 @@
 - pkg:cargo/fff-search@0.7.2-nightly.e8dd50c
 - pkg:cargo/fff-search@0.7.2-nightly.ed0e84d
 - pkg:cargo/fff-search@0.7.2-nightly.f7daab7
+- pkg:cargo/fff-search@0.7.3-nightly.1104a8d
 - pkg:cargo/fff-search@0.7.3-nightly.39f67c0
 - pkg:cargo/fff-search@0.7.3-nightly.8cb1f47
 - pkg:cargo/fff-search@0.7.3-nightly.8f74f50
