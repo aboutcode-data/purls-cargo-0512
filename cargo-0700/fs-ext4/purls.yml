@@ -1,1 +1,2 @@
 - pkg:cargo/fs-ext4@0.1.4
+- pkg:cargo/fs-ext4@0.2.0
