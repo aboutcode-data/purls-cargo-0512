@@ -16,3 +16,4 @@
 - pkg:cargo/c2pa-azure@0.80.3
 - pkg:cargo/c2pa-azure@0.82.1
 - pkg:cargo/c2pa-azure@0.83.0
+- pkg:cargo/c2pa-azure@0.84.0
