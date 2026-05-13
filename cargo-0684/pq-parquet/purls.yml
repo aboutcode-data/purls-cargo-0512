@@ -4,3 +4,4 @@
 - pkg:cargo/pq-parquet@1.0.5
 - pkg:cargo/pq-parquet@1.0.6
 - pkg:cargo/pq-parquet@1.0.7
+- pkg:cargo/pq-parquet@1.0.8
