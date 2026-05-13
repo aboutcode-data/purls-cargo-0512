@@ -1,1 +1,2 @@
 - pkg:cargo/otel-bootstrap@0.4.0
+- pkg:cargo/otel-bootstrap@2.0.0
