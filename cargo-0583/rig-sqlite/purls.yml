@@ -39,3 +39,4 @@
 - pkg:cargo/rig-sqlite@0.2.3
 - pkg:cargo/rig-sqlite@0.2.4
 - pkg:cargo/rig-sqlite@0.2.5
+- pkg:cargo/rig-sqlite@0.2.6
