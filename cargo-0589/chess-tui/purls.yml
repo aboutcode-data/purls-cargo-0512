@@ -25,3 +25,4 @@
 - pkg:cargo/chess-tui@2.6.0
 - pkg:cargo/chess-tui@2.6.1
 - pkg:cargo/chess-tui@2.6.2
+- pkg:cargo/chess-tui@2.7.0
