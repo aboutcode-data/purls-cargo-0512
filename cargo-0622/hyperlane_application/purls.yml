@@ -95,3 +95,4 @@
 - pkg:cargo/hyperlane_application@21.2.0
 - pkg:cargo/hyperlane_application@21.3.0
 - pkg:cargo/hyperlane_application@21.4.2
+- pkg:cargo/hyperlane_application@22.0.0
