@@ -1,3 +1,4 @@
 - pkg:cargo/heimdall-process-hardening@0.1.10
+- pkg:cargo/heimdall-process-hardening@0.1.16
 - pkg:cargo/heimdall-process-hardening@0.1.8
 - pkg:cargo/heimdall-process-hardening@0.1.9
