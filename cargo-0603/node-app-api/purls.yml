@@ -1,2 +1,8 @@
 - pkg:cargo/node-app-api@1.0.0-experimental
 - pkg:cargo/node-app-api@1.0.1-experimental
+- pkg:cargo/node-app-api@5.19.1
+- pkg:cargo/node-app-api@5.20.0
+- pkg:cargo/node-app-api@5.20.1
+- pkg:cargo/node-app-api@5.20.2
+- pkg:cargo/node-app-api@5.20.3
+- pkg:cargo/node-app-api@5.21.0
