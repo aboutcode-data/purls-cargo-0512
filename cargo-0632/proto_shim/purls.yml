@@ -29,3 +29,4 @@
 - pkg:cargo/proto_shim@0.7.9
 - pkg:cargo/proto_shim@0.8.0
 - pkg:cargo/proto_shim@0.8.1
+- pkg:cargo/proto_shim@0.8.2
