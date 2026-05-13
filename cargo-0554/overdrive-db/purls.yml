@@ -9,3 +9,6 @@
 - pkg:cargo/overdrive-db@2.3.7
 - pkg:cargo/overdrive-db@2.3.8
 - pkg:cargo/overdrive-db@2.3.9
+- pkg:cargo/overdrive-db@2.4.0
+- pkg:cargo/overdrive-db@2.4.1
+- pkg:cargo/overdrive-db@2.4.2
