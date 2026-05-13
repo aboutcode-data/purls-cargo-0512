@@ -1,3 +1,4 @@
 - pkg:cargo/bitwarden-cli@0.5.0
 - pkg:cargo/bitwarden-cli@1.0.0
 - pkg:cargo/bitwarden-cli@2.0.0
+- pkg:cargo/bitwarden-cli@3.0.0
