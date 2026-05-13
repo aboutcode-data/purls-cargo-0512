@@ -11,3 +11,4 @@
 - pkg:cargo/qubit-batch@0.5.3
 - pkg:cargo/qubit-batch@0.6.0
 - pkg:cargo/qubit-batch@0.7.0
+- pkg:cargo/qubit-batch@0.7.1
