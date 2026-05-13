@@ -36,6 +36,7 @@
 - pkg:cargo/filetime@0.2.26
 - pkg:cargo/filetime@0.2.27
 - pkg:cargo/filetime@0.2.28
+- pkg:cargo/filetime@0.2.29
 - pkg:cargo/filetime@0.2.3
 - pkg:cargo/filetime@0.2.4
 - pkg:cargo/filetime@0.2.5
