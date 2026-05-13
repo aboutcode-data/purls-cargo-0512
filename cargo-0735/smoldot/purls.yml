@@ -27,3 +27,4 @@
 - pkg:cargo/smoldot@1.0.0
 - pkg:cargo/smoldot@1.1.0
 - pkg:cargo/smoldot@1.1.1
+- pkg:cargo/smoldot@1.1.2
