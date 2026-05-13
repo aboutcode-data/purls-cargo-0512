@@ -4,3 +4,4 @@
 - pkg:cargo/buoyant_kernel@0.21.102
 - pkg:cargo/buoyant_kernel@0.21.103
 - pkg:cargo/buoyant_kernel@0.21.200
+- pkg:cargo/buoyant_kernel@0.22.0
