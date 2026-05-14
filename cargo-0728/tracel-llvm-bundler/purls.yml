@@ -6,3 +6,4 @@
 - pkg:cargo/tracel-llvm-bundler@20.1.4-6
 - pkg:cargo/tracel-llvm-bundler@20.1.4-7
 - pkg:cargo/tracel-llvm-bundler@22.1.4-1
+- pkg:cargo/tracel-llvm-bundler@22.1.4-2
