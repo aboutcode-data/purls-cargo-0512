@@ -22,6 +22,9 @@
 - pkg:cargo/ripvec@0.13.22
 - pkg:cargo/ripvec@0.13.23
 - pkg:cargo/ripvec@0.13.24
+- pkg:cargo/ripvec@0.13.25
+- pkg:cargo/ripvec@0.13.26
+- pkg:cargo/ripvec@0.13.27
 - pkg:cargo/ripvec@0.13.3
 - pkg:cargo/ripvec@0.13.4
 - pkg:cargo/ripvec@0.13.5
