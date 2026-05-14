@@ -1,2 +1,3 @@
 - pkg:cargo/normordis-pdf@2.4.0
 - pkg:cargo/normordis-pdf@2.5.0
+- pkg:cargo/normordis-pdf@2.5.1
