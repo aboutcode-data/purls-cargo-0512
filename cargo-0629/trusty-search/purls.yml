@@ -14,6 +14,8 @@
 - pkg:cargo/trusty-search@0.3.3
 - pkg:cargo/trusty-search@0.3.30
 - pkg:cargo/trusty-search@0.3.31
+- pkg:cargo/trusty-search@0.3.33
+- pkg:cargo/trusty-search@0.3.34
 - pkg:cargo/trusty-search@0.3.4
 - pkg:cargo/trusty-search@0.3.5
 - pkg:cargo/trusty-search@0.3.6
