@@ -24,6 +24,7 @@
 - pkg:cargo/sprocket@0.22.0
 - pkg:cargo/sprocket@0.23.0
 - pkg:cargo/sprocket@0.24.0
+- pkg:cargo/sprocket@0.25.0
 - pkg:cargo/sprocket@0.3.0
 - pkg:cargo/sprocket@0.4.0
 - pkg:cargo/sprocket@0.5.0
