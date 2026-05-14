@@ -1,1 +1,3 @@
 - pkg:cargo/frankensearch-rerank@0.1.0
+- pkg:cargo/frankensearch-rerank@0.2.0
+- pkg:cargo/frankensearch-rerank@0.2.1
