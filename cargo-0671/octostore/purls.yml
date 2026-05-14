@@ -1,3 +1,4 @@
+- pkg:cargo/octostore@0.10.0
 - pkg:cargo/octostore@0.2.2
 - pkg:cargo/octostore@0.2.5
 - pkg:cargo/octostore@0.2.6
