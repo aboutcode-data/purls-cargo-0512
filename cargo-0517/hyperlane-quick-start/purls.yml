@@ -259,6 +259,7 @@
 - pkg:cargo/hyperlane-quick-start@21.3.0
 - pkg:cargo/hyperlane-quick-start@21.4.2
 - pkg:cargo/hyperlane-quick-start@22.0.0
+- pkg:cargo/hyperlane-quick-start@23.0.2
 - pkg:cargo/hyperlane-quick-start@9.2.0
 - pkg:cargo/hyperlane-quick-start@9.2.1
 - pkg:cargo/hyperlane-quick-start@9.2.10
