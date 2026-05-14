@@ -22,3 +22,7 @@
 - pkg:cargo/polygon_unionfind@0.7.1
 - pkg:cargo/polygon_unionfind@0.7.2
 - pkg:cargo/polygon_unionfind@0.7.3
+- pkg:cargo/polygon_unionfind@0.7.4
+- pkg:cargo/polygon_unionfind@0.7.5
+- pkg:cargo/polygon_unionfind@0.7.6
+- pkg:cargo/polygon_unionfind@0.7.8
