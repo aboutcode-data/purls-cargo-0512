@@ -1940,6 +1940,8 @@
 - pkg:cargo/spider_cli@2.51.18
 - pkg:cargo/spider_cli@2.51.180
 - pkg:cargo/spider_cli@2.51.181
+- pkg:cargo/spider_cli@2.51.182
+- pkg:cargo/spider_cli@2.51.183
 - pkg:cargo/spider_cli@2.51.19
 - pkg:cargo/spider_cli@2.51.2
 - pkg:cargo/spider_cli@2.51.20
