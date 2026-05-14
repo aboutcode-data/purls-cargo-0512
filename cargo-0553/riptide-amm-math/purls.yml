@@ -3,3 +3,5 @@
 - pkg:cargo/riptide-amm-math@0.2.7
 - pkg:cargo/riptide-amm-math@1.0.0
 - pkg:cargo/riptide-amm-math@1.0.3
+- pkg:cargo/riptide-amm-math@1.0.4
+- pkg:cargo/riptide-amm-math@2.0.0
