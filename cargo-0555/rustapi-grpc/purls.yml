@@ -6,3 +6,5 @@
 - pkg:cargo/rustapi-grpc@0.1.443
 - pkg:cargo/rustapi-grpc@0.1.450
 - pkg:cargo/rustapi-grpc@0.1.453
+- pkg:cargo/rustapi-grpc@0.1.470
+- pkg:cargo/rustapi-grpc@0.1.478
