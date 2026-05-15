@@ -2,3 +2,4 @@
 - pkg:cargo/uselesskey-pkcs11-mock@0.7.0
 - pkg:cargo/uselesskey-pkcs11-mock@0.7.1
 - pkg:cargo/uselesskey-pkcs11-mock@0.8.0
+- pkg:cargo/uselesskey-pkcs11-mock@0.9.0
