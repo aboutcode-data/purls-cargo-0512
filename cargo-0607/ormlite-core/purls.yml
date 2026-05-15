@@ -51,6 +51,7 @@
 - pkg:cargo/ormlite-core@0.24.1
 - pkg:cargo/ormlite-core@0.24.2
 - pkg:cargo/ormlite-core@0.24.3
+- pkg:cargo/ormlite-core@0.24.4
 - pkg:cargo/ormlite-core@0.3.0
 - pkg:cargo/ormlite-core@0.3.1
 - pkg:cargo/ormlite-core@0.3.2
