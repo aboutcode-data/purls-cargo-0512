@@ -1,1 +1,2 @@
 - pkg:cargo/wilhelm_renderer_sys@0.10.0
+- pkg:cargo/wilhelm_renderer_sys@0.10.1
