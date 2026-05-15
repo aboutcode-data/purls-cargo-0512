@@ -1,1 +1,4 @@
 - pkg:cargo/tiles-tui-file-manager@10.34.75
+- pkg:cargo/tiles-tui-file-manager@12.0.0
+- pkg:cargo/tiles-tui-file-manager@12.1.0
+- pkg:cargo/tiles-tui-file-manager@13.9.0
