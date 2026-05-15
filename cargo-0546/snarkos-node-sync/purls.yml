@@ -31,3 +31,4 @@
 - pkg:cargo/snarkos-node-sync@4.6.0
 - pkg:cargo/snarkos-node-sync@4.6.2
 - pkg:cargo/snarkos-node-sync@4.6.3
+- pkg:cargo/snarkos-node-sync@4.6.4

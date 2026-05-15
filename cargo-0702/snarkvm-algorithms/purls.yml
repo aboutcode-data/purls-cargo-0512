@@ -120,3 +120,4 @@
 - pkg:cargo/snarkvm-algorithms@4.6.1
 - pkg:cargo/snarkvm-algorithms@4.6.2
 - pkg:cargo/snarkvm-algorithms@4.6.3
+- pkg:cargo/snarkvm-algorithms@4.6.4
