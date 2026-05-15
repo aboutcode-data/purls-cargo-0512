@@ -12,3 +12,4 @@
 - pkg:cargo/axum-oidc@0.6.0
 - pkg:cargo/axum-oidc@1.0.0-dev-0
 - pkg:cargo/axum-oidc@1.0.0-dev-1
+- pkg:cargo/axum-oidc@1.0.0-dev-2
