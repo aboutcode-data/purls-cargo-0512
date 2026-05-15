@@ -8,6 +8,7 @@
 - pkg:cargo/nokhwa@0.10.0-rc.6
 - pkg:cargo/nokhwa@0.10.1
 - pkg:cargo/nokhwa@0.10.10
+- pkg:cargo/nokhwa@0.10.11
 - pkg:cargo/nokhwa@0.10.2
 - pkg:cargo/nokhwa@0.10.3
 - pkg:cargo/nokhwa@0.10.4
