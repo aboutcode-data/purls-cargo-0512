@@ -2,3 +2,4 @@
 - pkg:cargo/phpdoc-parser@0.11.1
 - pkg:cargo/phpdoc-parser@0.12.0
 - pkg:cargo/phpdoc-parser@0.12.1
+- pkg:cargo/phpdoc-parser@0.12.2
