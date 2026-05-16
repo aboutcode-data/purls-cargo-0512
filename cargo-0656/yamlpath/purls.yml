@@ -39,3 +39,4 @@
 - pkg:cargo/yamlpath@1.24.0-rc3
 - pkg:cargo/yamlpath@1.24.1
 - pkg:cargo/yamlpath@1.25.0
+- pkg:cargo/yamlpath@1.25.1
