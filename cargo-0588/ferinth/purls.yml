@@ -12,6 +12,7 @@
 - pkg:cargo/ferinth@2.11.0
 - pkg:cargo/ferinth@2.11.1
 - pkg:cargo/ferinth@2.12.0
+- pkg:cargo/ferinth@2.13.0
 - pkg:cargo/ferinth@2.2.0
 - pkg:cargo/ferinth@2.2.1
 - pkg:cargo/ferinth@2.2.2

@@ -309,6 +309,9 @@
 - pkg:cargo/icydb-schema@0.155.6
 - pkg:cargo/icydb-schema@0.156.0
 - pkg:cargo/icydb-schema@0.156.1
+- pkg:cargo/icydb-schema@0.156.3
+- pkg:cargo/icydb-schema@0.156.4
+- pkg:cargo/icydb-schema@0.156.6
 - pkg:cargo/icydb-schema@0.16.1
 - pkg:cargo/icydb-schema@0.16.2
 - pkg:cargo/icydb-schema@0.16.3
