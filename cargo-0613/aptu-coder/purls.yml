@@ -8,6 +8,7 @@
 - pkg:cargo/aptu-coder@0.12.1
 - pkg:cargo/aptu-coder@0.13.2
 - pkg:cargo/aptu-coder@0.13.3
+- pkg:cargo/aptu-coder@0.13.4
 - pkg:cargo/aptu-coder@0.7.0
 - pkg:cargo/aptu-coder@0.8.0
 - pkg:cargo/aptu-coder@0.8.1
