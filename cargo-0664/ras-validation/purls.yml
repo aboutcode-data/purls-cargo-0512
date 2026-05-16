@@ -7,3 +7,4 @@
 - pkg:cargo/ras-validation@2.6.0
 - pkg:cargo/ras-validation@2.7.0
 - pkg:cargo/ras-validation@2.8.0
+- pkg:cargo/ras-validation@3.0.0

@@ -7,3 +7,4 @@
 - pkg:cargo/ras-llm-cerebras@2.6.0
 - pkg:cargo/ras-llm-cerebras@2.7.0
 - pkg:cargo/ras-llm-cerebras@2.8.0
+- pkg:cargo/ras-llm-cerebras@3.0.0
