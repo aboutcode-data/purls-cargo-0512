@@ -43,6 +43,7 @@
 - pkg:cargo/mockforge-sdk@0.3.132
 - pkg:cargo/mockforge-sdk@0.3.133
 - pkg:cargo/mockforge-sdk@0.3.134
+- pkg:cargo/mockforge-sdk@0.3.135
 - pkg:cargo/mockforge-sdk@0.3.17
 - pkg:cargo/mockforge-sdk@0.3.18
 - pkg:cargo/mockforge-sdk@0.3.19

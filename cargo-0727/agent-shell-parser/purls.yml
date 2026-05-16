@@ -1,1 +1,2 @@
 - pkg:cargo/agent-shell-parser@0.2.0
+- pkg:cargo/agent-shell-parser@0.2.1
