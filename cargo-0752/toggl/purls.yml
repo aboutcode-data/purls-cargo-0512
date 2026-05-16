@@ -13,3 +13,5 @@
 - pkg:cargo/toggl@0.4.7
 - pkg:cargo/toggl@0.4.8
 - pkg:cargo/toggl@0.4.9
+- pkg:cargo/toggl@0.5.0
+- pkg:cargo/toggl@0.5.1

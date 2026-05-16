@@ -111,7 +111,9 @@
 - pkg:cargo/fff-search@0.7.2-nightly.ed0e84d
 - pkg:cargo/fff-search@0.7.2-nightly.f7daab7
 - pkg:cargo/fff-search@0.7.3-nightly.1104a8d
+- pkg:cargo/fff-search@0.7.3-nightly.398e669
 - pkg:cargo/fff-search@0.7.3-nightly.39f67c0
+- pkg:cargo/fff-search@0.7.3-nightly.4693adf
 - pkg:cargo/fff-search@0.7.3-nightly.8cb1f47
 - pkg:cargo/fff-search@0.7.3-nightly.8f74f50
 - pkg:cargo/fff-search@0.7.3-nightly.a1efd5e
@@ -120,3 +122,8 @@
 - pkg:cargo/fff-search@0.7.3-nightly.bea54cc
 - pkg:cargo/fff-search@0.7.3-nightly.d56006d
 - pkg:cargo/fff-search@0.7.3-nightly.ff81719
+- pkg:cargo/fff-search@0.8.0
+- pkg:cargo/fff-search@0.8.1
+- pkg:cargo/fff-search@0.8.1-nightly.97c1812
+- pkg:cargo/fff-search@0.8.1-nightly.e5cdf92
+- pkg:cargo/fff-search@0.8.2-nightly.6645a68

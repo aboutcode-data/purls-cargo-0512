@@ -1,4 +1,5 @@
 - pkg:cargo/miden-package-registry@0.22.1
 - pkg:cargo/miden-package-registry@0.22.2
 - pkg:cargo/miden-package-registry@0.22.3
+- pkg:cargo/miden-package-registry@0.22.4
 - pkg:cargo/miden-package-registry@0.23.0
