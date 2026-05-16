@@ -8,3 +8,5 @@
 - pkg:cargo/apimock-server@5.5.0
 - pkg:cargo/apimock-server@5.6.0
 - pkg:cargo/apimock-server@5.7.0
+- pkg:cargo/apimock-server@5.8.0
+- pkg:cargo/apimock-server@5.9.0
