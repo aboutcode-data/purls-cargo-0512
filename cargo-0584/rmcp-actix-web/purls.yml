@@ -11,6 +11,7 @@
 - pkg:cargo/rmcp-actix-web@0.12.6
 - pkg:cargo/rmcp-actix-web@0.12.7
 - pkg:cargo/rmcp-actix-web@0.12.8
+- pkg:cargo/rmcp-actix-web@0.12.9
 - pkg:cargo/rmcp-actix-web@0.2.0
 - pkg:cargo/rmcp-actix-web@0.2.1
 - pkg:cargo/rmcp-actix-web@0.2.2

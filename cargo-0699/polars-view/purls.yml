@@ -85,6 +85,7 @@
 - pkg:cargo/polars-view@0.53.4
 - pkg:cargo/polars-view@0.53.5
 - pkg:cargo/polars-view@0.53.6
+- pkg:cargo/polars-view@0.53.7
 - pkg:cargo/polars-view@0.6.0
 - pkg:cargo/polars-view@0.7.0
 - pkg:cargo/polars-view@0.8.0
