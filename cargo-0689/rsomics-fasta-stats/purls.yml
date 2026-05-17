@@ -5,3 +5,5 @@
 - pkg:cargo/rsomics-fasta-stats@0.3.2
 - pkg:cargo/rsomics-fasta-stats@0.4.0
 - pkg:cargo/rsomics-fasta-stats@0.4.3
+- pkg:cargo/rsomics-fasta-stats@0.4.4
+- pkg:cargo/rsomics-fasta-stats@0.4.5
