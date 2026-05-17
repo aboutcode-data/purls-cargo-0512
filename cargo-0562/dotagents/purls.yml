@@ -2,3 +2,4 @@
 - pkg:cargo/dotagents@0.0.0-nightly
 - pkg:cargo/dotagents@0.0.0-rc
 - pkg:cargo/dotagents@0.0.0-rc.1
+- pkg:cargo/dotagents@0.1.0
