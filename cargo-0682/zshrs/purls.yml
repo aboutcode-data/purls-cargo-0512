@@ -14,6 +14,7 @@
 - pkg:cargo/zshrs@0.11.2
 - pkg:cargo/zshrs@0.11.3
 - pkg:cargo/zshrs@0.11.4
+- pkg:cargo/zshrs@0.11.5
 - pkg:cargo/zshrs@0.8.17
 - pkg:cargo/zshrs@0.9.0
 - pkg:cargo/zshrs@0.9.1
