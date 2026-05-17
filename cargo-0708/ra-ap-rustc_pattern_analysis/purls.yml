@@ -64,6 +64,7 @@
 - pkg:cargo/ra-ap-rustc_pattern_analysis@0.164.0
 - pkg:cargo/ra-ap-rustc_pattern_analysis@0.165.0
 - pkg:cargo/ra-ap-rustc_pattern_analysis@0.166.0
+- pkg:cargo/ra-ap-rustc_pattern_analysis@0.167.0
 - pkg:cargo/ra-ap-rustc_pattern_analysis@0.28.0
 - pkg:cargo/ra-ap-rustc_pattern_analysis@0.33.0
 - pkg:cargo/ra-ap-rustc_pattern_analysis@0.34.0
