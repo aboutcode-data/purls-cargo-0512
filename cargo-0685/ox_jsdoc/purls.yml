@@ -1,2 +1,3 @@
 - pkg:cargo/ox_jsdoc@0.0.13
 - pkg:cargo/ox_jsdoc@0.0.15
+- pkg:cargo/ox_jsdoc@0.0.16
