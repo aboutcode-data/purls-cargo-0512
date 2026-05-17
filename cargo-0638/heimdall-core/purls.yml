@@ -13,4 +13,6 @@
 - pkg:cargo/heimdall-core@0.1.30
 - pkg:cargo/heimdall-core@0.1.31
 - pkg:cargo/heimdall-core@0.1.32
+- pkg:cargo/heimdall-core@0.1.33
+- pkg:cargo/heimdall-core@0.1.34
 - pkg:cargo/heimdall-core@0.1.8
