@@ -1,5 +1,6 @@
 - pkg:cargo/tensorlake@0.1.0
 - pkg:cargo/tensorlake@0.5.1
+- pkg:cargo/tensorlake@0.5.13
 - pkg:cargo/tensorlake@0.5.2
 - pkg:cargo/tensorlake@0.5.3
 - pkg:cargo/tensorlake@0.5.4
