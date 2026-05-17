@@ -11,3 +11,5 @@
 - pkg:cargo/solo-cli@0.5.0
 - pkg:cargo/solo-cli@0.5.1
 - pkg:cargo/solo-cli@0.6.3
+- pkg:cargo/solo-cli@0.7.0
+- pkg:cargo/solo-cli@0.7.1
