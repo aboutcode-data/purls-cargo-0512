@@ -2,3 +2,4 @@
 - pkg:cargo/tree-sitter-al@2.4.0
 - pkg:cargo/tree-sitter-al@2.5.0
 - pkg:cargo/tree-sitter-al@2.5.1
+- pkg:cargo/tree-sitter-al@2.5.2
