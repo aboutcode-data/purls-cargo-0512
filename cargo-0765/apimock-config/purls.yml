@@ -2,6 +2,7 @@
 - pkg:cargo/apimock-config@5.0.1
 - pkg:cargo/apimock-config@5.1.1
 - pkg:cargo/apimock-config@5.1.2
+- pkg:cargo/apimock-config@5.10.0
 - pkg:cargo/apimock-config@5.2.0
 - pkg:cargo/apimock-config@5.3.0
 - pkg:cargo/apimock-config@5.4.0
