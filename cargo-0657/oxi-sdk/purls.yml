@@ -4,3 +4,5 @@
 - pkg:cargo/oxi-sdk@0.15.1
 - pkg:cargo/oxi-sdk@0.15.2
 - pkg:cargo/oxi-sdk@0.15.3
+- pkg:cargo/oxi-sdk@0.16.0
+- pkg:cargo/oxi-sdk@0.16.1
