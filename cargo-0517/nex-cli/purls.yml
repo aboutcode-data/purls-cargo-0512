@@ -1,1 +1,3 @@
+- pkg:cargo/nex-cli@1.0.0
 - pkg:cargo/nex-cli@6.4.0
+- pkg:cargo/nex-cli@6.4.1
