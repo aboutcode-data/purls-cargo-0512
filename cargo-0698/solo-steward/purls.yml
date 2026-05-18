@@ -1,3 +1,4 @@
+- pkg:cargo/solo-steward@0.10.0
 - pkg:cargo/solo-steward@0.3.0
 - pkg:cargo/solo-steward@0.3.3
 - pkg:cargo/solo-steward@0.3.4
