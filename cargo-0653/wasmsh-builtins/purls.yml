@@ -7,3 +7,4 @@
 - pkg:cargo/wasmsh-builtins@0.5.9
 - pkg:cargo/wasmsh-builtins@0.6.2
 - pkg:cargo/wasmsh-builtins@0.6.3
+- pkg:cargo/wasmsh-builtins@0.7.0
