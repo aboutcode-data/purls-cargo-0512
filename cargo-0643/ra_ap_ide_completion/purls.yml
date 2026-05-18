@@ -185,6 +185,7 @@
 - pkg:cargo/ra_ap_ide_completion@0.0.330
 - pkg:cargo/ra_ap_ide_completion@0.0.331
 - pkg:cargo/ra_ap_ide_completion@0.0.332
+- pkg:cargo/ra_ap_ide_completion@0.0.333
 - pkg:cargo/ra_ap_ide_completion@0.0.39
 - pkg:cargo/ra_ap_ide_completion@0.0.41
 - pkg:cargo/ra_ap_ide_completion@0.0.42

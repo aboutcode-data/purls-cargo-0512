@@ -8,3 +8,4 @@
 - pkg:cargo/apple-metal@0.6.0
 - pkg:cargo/apple-metal@0.6.1
 - pkg:cargo/apple-metal@0.8.0
+- pkg:cargo/apple-metal@0.8.1
