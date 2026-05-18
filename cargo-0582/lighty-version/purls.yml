@@ -1,3 +1,8 @@
 - pkg:cargo/lighty-version@0.6.2
 - pkg:cargo/lighty-version@0.8.2
 - pkg:cargo/lighty-version@0.8.6
+- pkg:cargo/lighty-version@26.5.1
+- pkg:cargo/lighty-version@26.5.2
+- pkg:cargo/lighty-version@26.5.3
+- pkg:cargo/lighty-version@26.5.4
+- pkg:cargo/lighty-version@26.5.5
