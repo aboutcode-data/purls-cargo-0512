@@ -18,3 +18,4 @@
 - pkg:cargo/moltendb-core@0.9.0
 - pkg:cargo/moltendb-core@1.0.0-rc1
 - pkg:cargo/moltendb-core@1.0.0-rc2
+- pkg:cargo/moltendb-core@1.0.0-rc3
