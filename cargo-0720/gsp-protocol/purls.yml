@@ -20,3 +20,5 @@
 - pkg:cargo/gsp-protocol@1.4.2
 - pkg:cargo/gsp-protocol@1.5.1
 - pkg:cargo/gsp-protocol@1.5.2
+- pkg:cargo/gsp-protocol@1.5.3
+- pkg:cargo/gsp-protocol@1.5.4
