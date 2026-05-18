@@ -168,6 +168,7 @@
 - pkg:cargo/lemmy_db_schema@0.20.0-alpha.5
 - pkg:cargo/lemmy_db_schema@1.0.0-alpha.0
 - pkg:cargo/lemmy_db_schema@1.0.0-alpha.18
+- pkg:cargo/lemmy_db_schema@1.0.0-alpha.19
 - pkg:cargo/lemmy_db_schema@1.0.0-alpha.3
 - pkg:cargo/lemmy_db_schema@1.0.0-alpha.4
 - pkg:cargo/lemmy_db_schema@1.0.0-alpha.5

@@ -2,6 +2,8 @@
 - pkg:cargo/wafrift-genome-registry@0.2.11
 - pkg:cargo/wafrift-genome-registry@0.2.12
 - pkg:cargo/wafrift-genome-registry@0.2.13
+- pkg:cargo/wafrift-genome-registry@0.2.14
+- pkg:cargo/wafrift-genome-registry@0.2.15
 - pkg:cargo/wafrift-genome-registry@0.2.3
 - pkg:cargo/wafrift-genome-registry@0.2.4
 - pkg:cargo/wafrift-genome-registry@0.2.5
