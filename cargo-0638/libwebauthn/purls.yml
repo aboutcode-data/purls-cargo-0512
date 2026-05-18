@@ -1,3 +1,4 @@
 - pkg:cargo/libwebauthn@0.1.2
 - pkg:cargo/libwebauthn@0.2.2
 - pkg:cargo/libwebauthn@0.3.0
+- pkg:cargo/libwebauthn@0.5.0
