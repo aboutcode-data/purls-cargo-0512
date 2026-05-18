@@ -15,3 +15,4 @@
 - pkg:cargo/quantwave-polars@0.1.7
 - pkg:cargo/quantwave-polars@0.1.8
 - pkg:cargo/quantwave-polars@0.1.9
+- pkg:cargo/quantwave-polars@0.3.0
