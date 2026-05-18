@@ -8,3 +8,4 @@
 - pkg:cargo/mmap-io@0.9.7
 - pkg:cargo/mmap-io@0.9.8
 - pkg:cargo/mmap-io@0.9.9
+- pkg:cargo/mmap-io@1.0.0
