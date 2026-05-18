@@ -22,3 +22,4 @@
 - pkg:cargo/microcad-export@0.2.9
 - pkg:cargo/microcad-export@0.3.0
 - pkg:cargo/microcad-export@0.4.0
+- pkg:cargo/microcad-export@0.5.0
