@@ -1,1 +1,4 @@
+- pkg:cargo/tree-sitter-css-svelte@0.1.10
+- pkg:cargo/tree-sitter-css-svelte@0.1.11
 - pkg:cargo/tree-sitter-css-svelte@0.1.8
+- pkg:cargo/tree-sitter-css-svelte@0.1.9
