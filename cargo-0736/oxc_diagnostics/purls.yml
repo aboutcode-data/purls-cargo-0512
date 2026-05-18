@@ -55,6 +55,7 @@
 - pkg:cargo/oxc_diagnostics@0.13.5
 - pkg:cargo/oxc_diagnostics@0.130.0
 - pkg:cargo/oxc_diagnostics@0.131.0
+- pkg:cargo/oxc_diagnostics@0.132.0
 - pkg:cargo/oxc_diagnostics@0.14.0
 - pkg:cargo/oxc_diagnostics@0.15.0
 - pkg:cargo/oxc_diagnostics@0.16.0
