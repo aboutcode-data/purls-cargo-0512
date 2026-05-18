@@ -22,7 +22,13 @@
 - pkg:cargo/kanade@0.17.0
 - pkg:cargo/kanade@0.17.1
 - pkg:cargo/kanade@0.18.0
+- pkg:cargo/kanade@0.18.1
+- pkg:cargo/kanade@0.19.0
 - pkg:cargo/kanade@0.2.0
+- pkg:cargo/kanade@0.20.0
+- pkg:cargo/kanade@0.21.0
+- pkg:cargo/kanade@0.21.1
+- pkg:cargo/kanade@0.21.2
 - pkg:cargo/kanade@0.3.0
 - pkg:cargo/kanade@0.3.1
 - pkg:cargo/kanade@0.3.2
