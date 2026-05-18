@@ -13,6 +13,7 @@
 - pkg:cargo/jenkins@0.1.21
 - pkg:cargo/jenkins@0.1.22
 - pkg:cargo/jenkins@0.1.24
+- pkg:cargo/jenkins@0.1.25
 - pkg:cargo/jenkins@0.1.3
 - pkg:cargo/jenkins@0.1.4
 - pkg:cargo/jenkins@0.1.5
