@@ -14,6 +14,7 @@
 - pkg:cargo/hjkl-vim@0.21.0
 - pkg:cargo/hjkl-vim@0.22.0
 - pkg:cargo/hjkl-vim@0.23.0
+- pkg:cargo/hjkl-vim@0.23.1
 - pkg:cargo/hjkl-vim@0.3.0
 - pkg:cargo/hjkl-vim@0.4.0
 - pkg:cargo/hjkl-vim@0.5.0
