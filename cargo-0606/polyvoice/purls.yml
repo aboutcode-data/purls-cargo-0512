@@ -14,3 +14,5 @@
 - pkg:cargo/polyvoice@0.6.0-alpha.6
 - pkg:cargo/polyvoice@0.6.0-alpha.7
 - pkg:cargo/polyvoice@0.6.0-alpha.8
+- pkg:cargo/polyvoice@0.6.1
+- pkg:cargo/polyvoice@0.6.2
