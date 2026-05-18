@@ -275,6 +275,8 @@
 - pkg:cargo/icydb-cli@0.157.19
 - pkg:cargo/icydb-cli@0.157.2
 - pkg:cargo/icydb-cli@0.157.20
+- pkg:cargo/icydb-cli@0.157.21
+- pkg:cargo/icydb-cli@0.157.22
 - pkg:cargo/icydb-cli@0.157.3
 - pkg:cargo/icydb-cli@0.157.4
 - pkg:cargo/icydb-cli@0.157.6
