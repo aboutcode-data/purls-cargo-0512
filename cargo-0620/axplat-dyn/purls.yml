@@ -12,3 +12,4 @@
 - pkg:cargo/axplat-dyn@0.5.5
 - pkg:cargo/axplat-dyn@0.5.6
 - pkg:cargo/axplat-dyn@0.5.9
+- pkg:cargo/axplat-dyn@0.6.0

@@ -1,3 +1,4 @@
 - pkg:cargo/ax-plat-aarch64-qemu-virt@0.5.1
 - pkg:cargo/ax-plat-aarch64-qemu-virt@0.5.2
 - pkg:cargo/ax-plat-aarch64-qemu-virt@0.5.7
+- pkg:cargo/ax-plat-aarch64-qemu-virt@0.5.8

@@ -2,3 +2,4 @@
 - pkg:cargo/ax-config-gen@0.4.2
 - pkg:cargo/ax-config-gen@0.4.7
 - pkg:cargo/ax-config-gen@0.4.8
+- pkg:cargo/ax-config-gen@0.4.9
