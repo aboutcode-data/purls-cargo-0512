@@ -24,3 +24,4 @@
 - pkg:cargo/truce-build@0.43.0
 - pkg:cargo/truce-build@0.44.0
 - pkg:cargo/truce-build@0.45.0
+- pkg:cargo/truce-build@0.45.2

@@ -21,3 +21,4 @@
 - pkg:cargo/truce-utils@0.43.0
 - pkg:cargo/truce-utils@0.44.0
 - pkg:cargo/truce-utils@0.45.0
+- pkg:cargo/truce-utils@0.45.2
