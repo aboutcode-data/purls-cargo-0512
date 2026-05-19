@@ -1,0 +1,2 @@
+- pkg:cargo/epics-modbus-rs@0.18.2
+- pkg:cargo/epics-modbus-rs@0.18.3
