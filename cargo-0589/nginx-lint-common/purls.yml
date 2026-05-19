@@ -5,6 +5,7 @@
 - pkg:cargo/nginx-lint-common@0.10.4
 - pkg:cargo/nginx-lint-common@0.10.5
 - pkg:cargo/nginx-lint-common@0.11.0
+- pkg:cargo/nginx-lint-common@0.12.0
 - pkg:cargo/nginx-lint-common@0.5.0
 - pkg:cargo/nginx-lint-common@0.6.0
 - pkg:cargo/nginx-lint-common@0.7.0
