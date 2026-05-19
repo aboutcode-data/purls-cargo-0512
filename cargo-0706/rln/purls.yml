@@ -20,3 +20,4 @@
 - pkg:cargo/rln@1.0.0
 - pkg:cargo/rln@2.0.0
 - pkg:cargo/rln@2.0.1
+- pkg:cargo/rln@2.0.2
