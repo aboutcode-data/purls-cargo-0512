@@ -131,3 +131,5 @@
 - pkg:cargo/fff-grep@0.8.1-nightly.97c1812
 - pkg:cargo/fff-grep@0.8.1-nightly.e5cdf92
 - pkg:cargo/fff-grep@0.8.2-nightly.6645a68
+- pkg:cargo/fff-grep@0.8.2-nightly.9a0deb3
+- pkg:cargo/fff-grep@0.8.2-nightly.ee070aa
