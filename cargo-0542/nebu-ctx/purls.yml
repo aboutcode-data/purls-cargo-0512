@@ -17,3 +17,6 @@
 - pkg:cargo/nebu-ctx@0.7.9
 - pkg:cargo/nebu-ctx@0.8.0
 - pkg:cargo/nebu-ctx@0.8.2
+- pkg:cargo/nebu-ctx@0.8.3
+- pkg:cargo/nebu-ctx@0.8.4
+- pkg:cargo/nebu-ctx@0.8.5
