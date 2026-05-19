@@ -4,3 +4,4 @@
 - pkg:cargo/teaql-sql@0.7.3
 - pkg:cargo/teaql-sql@0.7.4
 - pkg:cargo/teaql-sql@0.7.5
+- pkg:cargo/teaql-sql@0.7.6

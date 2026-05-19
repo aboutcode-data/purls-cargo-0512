@@ -172,3 +172,4 @@
 - pkg:cargo/lemmy_db_schema@1.0.0-alpha.3
 - pkg:cargo/lemmy_db_schema@1.0.0-alpha.4
 - pkg:cargo/lemmy_db_schema@1.0.0-alpha.5
+- pkg:cargo/lemmy_db_schema@1.0.0-beta.0
