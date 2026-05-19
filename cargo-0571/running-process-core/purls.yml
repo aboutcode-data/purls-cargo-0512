@@ -5,3 +5,4 @@
 - pkg:cargo/running-process-core@3.0.16
 - pkg:cargo/running-process-core@3.0.17
 - pkg:cargo/running-process-core@3.1.0
+- pkg:cargo/running-process-core@3.2.0
