@@ -1,3 +1,4 @@
+- pkg:cargo/sophia_resource@0.10.0
 - pkg:cargo/sophia_resource@0.8.0
 - pkg:cargo/sophia_resource@0.8.0-alpha.1
 - pkg:cargo/sophia_resource@0.8.0-alpha.2
