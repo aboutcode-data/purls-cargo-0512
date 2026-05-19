@@ -1,2 +1,4 @@
 - pkg:cargo/lobstercove-lichen-core@0.5.20
+- pkg:cargo/lobstercove-lichen-core@0.5.52
+- pkg:cargo/lobstercove-lichen-core@0.5.53
 - pkg:cargo/lobstercove-lichen-core@0.5.7
