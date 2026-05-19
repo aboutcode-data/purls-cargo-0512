@@ -105,6 +105,9 @@
 - pkg:cargo/dittolive-ditto-sys@4.11.6-rc.3
 - pkg:cargo/dittolive-ditto-sys@4.11.7
 - pkg:cargo/dittolive-ditto-sys@4.11.7-rc.1
+- pkg:cargo/dittolive-ditto-sys@4.11.8-experimental-gha-workflow.1
+- pkg:cargo/dittolive-ditto-sys@4.11.8-experimental-gha-workflow.2
+- pkg:cargo/dittolive-ditto-sys@4.11.8-preview.0
 - pkg:cargo/dittolive-ditto-sys@4.12.0
 - pkg:cargo/dittolive-ditto-sys@4.12.0-experimental-js-persistence-directory.1
 - pkg:cargo/dittolive-ditto-sys@4.12.0-experimental-untangle.0
@@ -304,6 +307,7 @@
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-all-sdks.2
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-all-sdks.3
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-all-sdks.4
+- pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-aws-profile.1
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-gha-workflow.1
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-gha-workflow.12
 - pkg:cargo/dittolive-ditto-sys@5.1.0-experimental-gha-workflow.13
