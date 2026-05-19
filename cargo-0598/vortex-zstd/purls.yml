@@ -32,3 +32,4 @@
 - pkg:cargo/vortex-zstd@0.68.0
 - pkg:cargo/vortex-zstd@0.69.0
 - pkg:cargo/vortex-zstd@0.70.0
+- pkg:cargo/vortex-zstd@0.71.0

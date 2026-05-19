@@ -1,3 +1,4 @@
 - pkg:cargo/vortex-compressor@0.68.0
 - pkg:cargo/vortex-compressor@0.69.0
 - pkg:cargo/vortex-compressor@0.70.0
+- pkg:cargo/vortex-compressor@0.71.0
