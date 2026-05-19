@@ -15,3 +15,4 @@
 - pkg:cargo/libpetri-verification@2.0.0
 - pkg:cargo/libpetri-verification@2.1.0
 - pkg:cargo/libpetri-verification@2.3.0
+- pkg:cargo/libpetri-verification@2.3.1
