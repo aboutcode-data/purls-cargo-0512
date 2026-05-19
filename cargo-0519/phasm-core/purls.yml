@@ -5,3 +5,4 @@
 - pkg:cargo/phasm-core@0.2.5
 - pkg:cargo/phasm-core@0.2.6
 - pkg:cargo/phasm-core@0.2.8
+- pkg:cargo/phasm-core@0.2.9
