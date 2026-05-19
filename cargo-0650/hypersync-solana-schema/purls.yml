@@ -1,1 +1,2 @@
 - pkg:cargo/hypersync-solana-schema@0.0.1
+- pkg:cargo/hypersync-solana-schema@0.0.2-rc.1

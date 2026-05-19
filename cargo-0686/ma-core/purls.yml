@@ -4,6 +4,7 @@
 - pkg:cargo/ma-core@0.10.10
 - pkg:cargo/ma-core@0.10.11
 - pkg:cargo/ma-core@0.10.12
+- pkg:cargo/ma-core@0.10.13
 - pkg:cargo/ma-core@0.10.2
 - pkg:cargo/ma-core@0.10.3
 - pkg:cargo/ma-core@0.10.4
