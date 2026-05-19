@@ -54,3 +54,4 @@
 - pkg:cargo/zksync-wrapper-prover@0.155.8-1
 - pkg:cargo/zksync-wrapper-prover@0.155.9
 - pkg:cargo/zksync-wrapper-prover@0.156.0
+- pkg:cargo/zksync-wrapper-prover@0.156.1
