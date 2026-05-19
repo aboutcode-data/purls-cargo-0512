@@ -100,6 +100,7 @@
 - pkg:cargo/rustrtc@0.3.59
 - pkg:cargo/rustrtc@0.3.6
 - pkg:cargo/rustrtc@0.3.60
+- pkg:cargo/rustrtc@0.3.61
 - pkg:cargo/rustrtc@0.3.7
 - pkg:cargo/rustrtc@0.3.8
 - pkg:cargo/rustrtc@0.3.9
