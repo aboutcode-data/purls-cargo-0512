@@ -38,3 +38,6 @@
 - pkg:cargo/formal-ai@0.54.0
 - pkg:cargo/formal-ai@0.55.0
 - pkg:cargo/formal-ai@0.56.0
+- pkg:cargo/formal-ai@0.62.0
+- pkg:cargo/formal-ai@0.63.0
+- pkg:cargo/formal-ai@0.64.0
