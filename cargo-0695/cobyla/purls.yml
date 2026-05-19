@@ -17,3 +17,4 @@
 - pkg:cargo/cobyla@0.8.0
 - pkg:cargo/cobyla@1.0.0
 - pkg:cargo/cobyla@1.0.1
+- pkg:cargo/cobyla@1.0.2-rc.1

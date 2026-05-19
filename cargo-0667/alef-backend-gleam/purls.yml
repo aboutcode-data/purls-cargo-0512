@@ -148,3 +148,4 @@
 - pkg:cargo/alef-backend-gleam@0.16.69
 - pkg:cargo/alef-backend-gleam@0.16.71
 - pkg:cargo/alef-backend-gleam@0.16.8
+- pkg:cargo/alef-backend-gleam@0.17.0
