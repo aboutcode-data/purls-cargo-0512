@@ -24,6 +24,7 @@
 - pkg:cargo/revme@13.0.0
 - pkg:cargo/revme@14.0.0
 - pkg:cargo/revme@15.0.0
+- pkg:cargo/revme@16.0.0
 - pkg:cargo/revme@2.0.0
 - pkg:cargo/revme@2.1.0
 - pkg:cargo/revme@2.2.0
