@@ -16,3 +16,4 @@
 - pkg:cargo/hrdf-routing-engine@0.6.2
 - pkg:cargo/hrdf-routing-engine@0.6.3
 - pkg:cargo/hrdf-routing-engine@0.7.0
+- pkg:cargo/hrdf-routing-engine@0.7.1
