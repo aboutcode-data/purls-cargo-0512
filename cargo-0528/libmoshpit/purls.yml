@@ -1,3 +1,5 @@
 - pkg:cargo/libmoshpit@0.1.0
 - pkg:cargo/libmoshpit@0.2.0
 - pkg:cargo/libmoshpit@0.8.1
+- pkg:cargo/libmoshpit@0.8.2
+- pkg:cargo/libmoshpit@0.8.3
