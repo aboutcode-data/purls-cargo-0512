@@ -1,0 +1,2 @@
+- pkg:cargo/clickhouse-cloud-api@0.2.0
+- pkg:cargo/clickhouse-cloud-api@0.2.1
