@@ -1,5 +1,6 @@
 - pkg:cargo/kornia-io@0.1.10
 - pkg:cargo/kornia-io@0.1.10-rc.3
+- pkg:cargo/kornia-io@0.1.14
 - pkg:cargo/kornia-io@0.1.6-rc.4
 - pkg:cargo/kornia-io@0.1.6-rc.5
 - pkg:cargo/kornia-io@0.1.7
