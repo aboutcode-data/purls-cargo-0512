@@ -10,3 +10,4 @@
 - pkg:cargo/vamo-macros@0.0.7
 - pkg:cargo/vamo-macros@0.0.8
 - pkg:cargo/vamo-macros@0.0.9-beta.1
+- pkg:cargo/vamo-macros@0.0.9-beta.4
