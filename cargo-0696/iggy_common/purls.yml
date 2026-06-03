@@ -1,5 +1,6 @@
 - pkg:cargo/iggy_common@0.10.0
 - pkg:cargo/iggy_common@0.10.1-edge.1
+- pkg:cargo/iggy_common@0.10.1-edge.2
 - pkg:cargo/iggy_common@0.7.0
 - pkg:cargo/iggy_common@0.7.0-edge.1
 - pkg:cargo/iggy_common@0.8.0
