@@ -1,3 +1,4 @@
 - pkg:cargo/bevy-s2n-quic@0.18.0
 - pkg:cargo/bevy-s2n-quic@0.18.1
 - pkg:cargo/bevy-s2n-quic@0.18.2
+- pkg:cargo/bevy-s2n-quic@0.18.3
