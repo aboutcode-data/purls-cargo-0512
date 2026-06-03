@@ -15,6 +15,7 @@
 - pkg:cargo/ep-core@21.0.0
 - pkg:cargo/ep-core@22.0.0
 - pkg:cargo/ep-core@22.1.0
+- pkg:cargo/ep-core@22.2.0
 - pkg:cargo/ep-core@3.0.0
 - pkg:cargo/ep-core@3.0.1
 - pkg:cargo/ep-core@3.0.2
