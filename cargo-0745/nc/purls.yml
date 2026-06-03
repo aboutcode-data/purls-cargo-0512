@@ -74,3 +74,4 @@
 - pkg:cargo/nc@0.9.5
 - pkg:cargo/nc@0.9.6
 - pkg:cargo/nc@0.9.7
+- pkg:cargo/nc@0.9.8
