@@ -48,3 +48,5 @@
 - pkg:cargo/ifc-lite-core@2.3.0
 - pkg:cargo/ifc-lite-core@2.4.0
 - pkg:cargo/ifc-lite-core@2.4.1
+- pkg:cargo/ifc-lite-core@2.4.2
+- pkg:cargo/ifc-lite-core@3.0.0
