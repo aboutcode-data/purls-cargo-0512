@@ -19,9 +19,11 @@
 - pkg:cargo/bibox@0.2.3
 - pkg:cargo/bibox@0.2.30
 - pkg:cargo/bibox@0.2.31
+- pkg:cargo/bibox@0.2.32
 - pkg:cargo/bibox@0.2.4
 - pkg:cargo/bibox@0.2.5
 - pkg:cargo/bibox@0.2.6
 - pkg:cargo/bibox@0.2.7
 - pkg:cargo/bibox@0.2.8
 - pkg:cargo/bibox@0.2.9
+- pkg:cargo/bibox@0.3.0
