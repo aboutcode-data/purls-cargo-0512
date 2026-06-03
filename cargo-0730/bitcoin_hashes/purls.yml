@@ -6,6 +6,8 @@
 - pkg:cargo/bitcoin_hashes@0.13.1
 - pkg:cargo/bitcoin_hashes@0.14.0
 - pkg:cargo/bitcoin_hashes@0.14.1
+- pkg:cargo/bitcoin_hashes@0.14.100
+- pkg:cargo/bitcoin_hashes@0.14.2
 - pkg:cargo/bitcoin_hashes@0.15.0
 - pkg:cargo/bitcoin_hashes@0.16.0
 - pkg:cargo/bitcoin_hashes@0.17.0
@@ -13,6 +15,7 @@
 - pkg:cargo/bitcoin_hashes@0.19.0
 - pkg:cargo/bitcoin_hashes@0.2.0
 - pkg:cargo/bitcoin_hashes@0.20.0
+- pkg:cargo/bitcoin_hashes@0.21.0
 - pkg:cargo/bitcoin_hashes@0.3.0
 - pkg:cargo/bitcoin_hashes@0.3.1
 - pkg:cargo/bitcoin_hashes@0.3.2
@@ -35,3 +38,4 @@
 - pkg:cargo/bitcoin_hashes@0.9.5
 - pkg:cargo/bitcoin_hashes@0.9.6
 - pkg:cargo/bitcoin_hashes@0.9.7
+- pkg:cargo/bitcoin_hashes@1.0.0
