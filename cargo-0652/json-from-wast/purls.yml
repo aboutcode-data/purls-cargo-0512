@@ -17,3 +17,5 @@
 - pkg:cargo/json-from-wast@0.247.0
 - pkg:cargo/json-from-wast@0.248.0
 - pkg:cargo/json-from-wast@0.249.0
+- pkg:cargo/json-from-wast@0.250.0
+- pkg:cargo/json-from-wast@0.251.0

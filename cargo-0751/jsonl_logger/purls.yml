@@ -2,4 +2,9 @@
 - pkg:cargo/jsonl_logger@1.10.7
 - pkg:cargo/jsonl_logger@1.7.10
 - pkg:cargo/jsonl_logger@10.10.10
+- pkg:cargo/jsonl_logger@60.60.64
+- pkg:cargo/jsonl_logger@60.60.65
+- pkg:cargo/jsonl_logger@60.60.66
+- pkg:cargo/jsonl_logger@60.60.68
 - pkg:cargo/jsonl_logger@7.7.7
+- pkg:cargo/jsonl_logger@70.70.70
