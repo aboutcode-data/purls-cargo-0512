@@ -13,6 +13,7 @@
 - pkg:cargo/aranya-policy-vm@0.2.0
 - pkg:cargo/aranya-policy-vm@0.20.0
 - pkg:cargo/aranya-policy-vm@0.21.0
+- pkg:cargo/aranya-policy-vm@0.22.0
 - pkg:cargo/aranya-policy-vm@0.3.0
 - pkg:cargo/aranya-policy-vm@0.3.1
 - pkg:cargo/aranya-policy-vm@0.4.0
