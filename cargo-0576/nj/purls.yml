@@ -10,6 +10,8 @@
 - pkg:cargo/nj@0.0.20
 - pkg:cargo/nj@0.0.21
 - pkg:cargo/nj@0.0.22
+- pkg:cargo/nj@0.0.23
+- pkg:cargo/nj@0.0.24
 - pkg:cargo/nj@0.0.3
 - pkg:cargo/nj@0.0.7
 - pkg:cargo/nj@0.0.8
