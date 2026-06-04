@@ -4,6 +4,9 @@
 - pkg:cargo/sandogasa-fedrq@0.11.0
 - pkg:cargo/sandogasa-fedrq@0.11.1
 - pkg:cargo/sandogasa-fedrq@0.11.2
+- pkg:cargo/sandogasa-fedrq@0.11.3
+- pkg:cargo/sandogasa-fedrq@0.11.4
+- pkg:cargo/sandogasa-fedrq@0.12.0
 - pkg:cargo/sandogasa-fedrq@0.6.3
 - pkg:cargo/sandogasa-fedrq@0.7.0
 - pkg:cargo/sandogasa-fedrq@0.8.0
