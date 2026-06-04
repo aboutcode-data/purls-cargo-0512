@@ -3,3 +3,4 @@
 - pkg:cargo/salesforce_core_restapi@0.13.5
 - pkg:cargo/salesforce_core_restapi@0.13.6
 - pkg:cargo/salesforce_core_restapi@0.14.0
+- pkg:cargo/salesforce_core_restapi@0.15.0
