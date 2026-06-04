@@ -198,6 +198,9 @@
 - pkg:cargo/deno_ops@0.274.0
 - pkg:cargo/deno_ops@0.275.0
 - pkg:cargo/deno_ops@0.276.0
+- pkg:cargo/deno_ops@0.277.0
+- pkg:cargo/deno_ops@0.278.0
+- pkg:cargo/deno_ops@0.279.0
 - pkg:cargo/deno_ops@0.28.0
 - pkg:cargo/deno_ops@0.29.0
 - pkg:cargo/deno_ops@0.3.0
