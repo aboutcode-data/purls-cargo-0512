@@ -2,3 +2,5 @@
 - pkg:cargo/destructive_command_guard@0.4.2
 - pkg:cargo/destructive_command_guard@0.4.3
 - pkg:cargo/destructive_command_guard@0.4.5
+- pkg:cargo/destructive_command_guard@0.5.4
+- pkg:cargo/destructive_command_guard@0.5.6
