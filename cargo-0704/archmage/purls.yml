@@ -37,6 +37,9 @@
 - pkg:cargo/archmage@0.9.21
 - pkg:cargo/archmage@0.9.22
 - pkg:cargo/archmage@0.9.23
+- pkg:cargo/archmage@0.9.24
+- pkg:cargo/archmage@0.9.25
+- pkg:cargo/archmage@0.9.26
 - pkg:cargo/archmage@0.9.3
 - pkg:cargo/archmage@0.9.4
 - pkg:cargo/archmage@0.9.5
