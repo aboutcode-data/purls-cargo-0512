@@ -5,3 +5,5 @@
 - pkg:cargo/Kget@1.5.4
 - pkg:cargo/Kget@1.6.0
 - pkg:cargo/Kget@1.6.1
+- pkg:cargo/Kget@1.6.3
+- pkg:cargo/Kget@1.7.0
