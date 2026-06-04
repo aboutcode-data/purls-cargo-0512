@@ -1,0 +1,5 @@
+- pkg:cargo/deepseek-rust-cli@1.20.3
+- pkg:cargo/deepseek-rust-cli@1.20.4
+- pkg:cargo/deepseek-rust-cli@1.20.5
+- pkg:cargo/deepseek-rust-cli@1.20.6
+- pkg:cargo/deepseek-rust-cli@1.20.7
