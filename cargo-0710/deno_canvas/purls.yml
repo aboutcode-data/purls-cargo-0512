@@ -1,5 +1,8 @@
 - pkg:cargo/deno_canvas@0.10.0
 - pkg:cargo/deno_canvas@0.11.0
+- pkg:cargo/deno_canvas@0.110.0
+- pkg:cargo/deno_canvas@0.111.0
+- pkg:cargo/deno_canvas@0.112.0
 - pkg:cargo/deno_canvas@0.12.0
 - pkg:cargo/deno_canvas@0.13.0
 - pkg:cargo/deno_canvas@0.14.0

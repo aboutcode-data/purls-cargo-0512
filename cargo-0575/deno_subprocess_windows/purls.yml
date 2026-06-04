@@ -34,6 +34,9 @@
 - pkg:cargo/deno_subprocess_windows@0.40.0
 - pkg:cargo/deno_subprocess_windows@0.41.0
 - pkg:cargo/deno_subprocess_windows@0.42.0
+- pkg:cargo/deno_subprocess_windows@0.43.0
+- pkg:cargo/deno_subprocess_windows@0.44.0
+- pkg:cargo/deno_subprocess_windows@0.45.0
 - pkg:cargo/deno_subprocess_windows@0.5.0
 - pkg:cargo/deno_subprocess_windows@0.6.0
 - pkg:cargo/deno_subprocess_windows@0.7.0
