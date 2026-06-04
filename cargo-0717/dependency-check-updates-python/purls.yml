@@ -1,3 +1,5 @@
 - pkg:cargo/dependency-check-updates-python@0.1.10
 - pkg:cargo/dependency-check-updates-python@0.1.11
 - pkg:cargo/dependency-check-updates-python@0.1.12
+- pkg:cargo/dependency-check-updates-python@0.1.13
+- pkg:cargo/dependency-check-updates-python@0.1.14

@@ -114,3 +114,6 @@
 - pkg:cargo/defituna-client@3.6.8
 - pkg:cargo/defituna-client@3.6.9
 - pkg:cargo/defituna-client@3.7.0
+- pkg:cargo/defituna-client@3.7.1
+- pkg:cargo/defituna-client@3.7.2
+- pkg:cargo/defituna-client@3.7.3
