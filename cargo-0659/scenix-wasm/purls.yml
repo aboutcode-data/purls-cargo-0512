@@ -1,0 +1,3 @@
+- pkg:cargo/scenix-wasm@0.9.0
+- pkg:cargo/scenix-wasm@1.0.0
+- pkg:cargo/scenix-wasm@1.1.0
