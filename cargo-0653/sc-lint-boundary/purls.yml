@@ -1,1 +1,3 @@
 - pkg:cargo/sc-lint-boundary@0.1.0
+- pkg:cargo/sc-lint-boundary@0.2.0
+- pkg:cargo/sc-lint-boundary@0.3.0
