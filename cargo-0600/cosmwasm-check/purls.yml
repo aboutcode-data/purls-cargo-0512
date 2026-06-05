@@ -105,3 +105,5 @@
 - pkg:cargo/cosmwasm-check@3.0.5
 - pkg:cargo/cosmwasm-check@3.0.5-rc.0
 - pkg:cargo/cosmwasm-check@3.0.6
+- pkg:cargo/cosmwasm-check@3.0.7
+- pkg:cargo/cosmwasm-check@3.1.0-rc.0
