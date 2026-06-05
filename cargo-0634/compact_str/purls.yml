@@ -17,4 +17,6 @@
 - pkg:cargo/compact_str@0.8.0
 - pkg:cargo/compact_str@0.8.0-beta
 - pkg:cargo/compact_str@0.8.1
+- pkg:cargo/compact_str@0.8.2
 - pkg:cargo/compact_str@0.9.0
+- pkg:cargo/compact_str@0.9.1

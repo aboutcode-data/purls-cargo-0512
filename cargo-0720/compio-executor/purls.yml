@@ -1,2 +1,4 @@
+- pkg:cargo/compio-executor@0.1.0
 - pkg:cargo/compio-executor@0.1.0-rc.1
 - pkg:cargo/compio-executor@0.1.0-rc.2
+- pkg:cargo/compio-executor@0.1.1
