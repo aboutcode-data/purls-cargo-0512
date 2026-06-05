@@ -18,6 +18,8 @@
 - pkg:cargo/previa-runner@1.0.0-alpha.3
 - pkg:cargo/previa-runner@1.0.0-alpha.30
 - pkg:cargo/previa-runner@1.0.0-alpha.4
+- pkg:cargo/previa-runner@1.0.0-alpha.40
+- pkg:cargo/previa-runner@1.0.0-alpha.41
 - pkg:cargo/previa-runner@1.0.0-alpha.5
 - pkg:cargo/previa-runner@1.0.0-alpha.6
 - pkg:cargo/previa-runner@1.0.0-alpha.7
