@@ -7,4 +7,5 @@
 - pkg:cargo/compio-process@0.7.0
 - pkg:cargo/compio-process@0.8.0
 - pkg:cargo/compio-process@0.9.0
+- pkg:cargo/compio-process@0.9.1
 - pkg:cargo/compio-process@0.9.1-rc.1
