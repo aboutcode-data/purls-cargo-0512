@@ -23,3 +23,4 @@
 - pkg:cargo/aerospike@2.0.0-alpha.8
 - pkg:cargo/aerospike@2.0.0-alpha.9
 - pkg:cargo/aerospike@2.1.0
+- pkg:cargo/aerospike@3.0.0-alpha.1

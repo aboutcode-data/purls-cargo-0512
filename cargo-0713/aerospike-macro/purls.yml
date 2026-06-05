@@ -11,3 +11,4 @@
 - pkg:cargo/aerospike-macro@2.0.0-alpha.8
 - pkg:cargo/aerospike-macro@2.0.0-alpha.9
 - pkg:cargo/aerospike-macro@2.1.0
+- pkg:cargo/aerospike-macro@3.0.0-alpha.1
