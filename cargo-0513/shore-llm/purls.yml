@@ -13,3 +13,4 @@
 - pkg:cargo/shore-llm@7.0.1
 - pkg:cargo/shore-llm@7.0.2
 - pkg:cargo/shore-llm@8.0.0
+- pkg:cargo/shore-llm@9.0.0
