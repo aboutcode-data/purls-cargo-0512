@@ -29,6 +29,7 @@
 - pkg:cargo/prost-reflect@0.16.1
 - pkg:cargo/prost-reflect@0.16.2
 - pkg:cargo/prost-reflect@0.16.3
+- pkg:cargo/prost-reflect@0.16.4
 - pkg:cargo/prost-reflect@0.2.0
 - pkg:cargo/prost-reflect@0.3.0
 - pkg:cargo/prost-reflect@0.3.1
