@@ -5,3 +5,6 @@
 - pkg:cargo/proxy-nostr-relay@0.2.1
 - pkg:cargo/proxy-nostr-relay@0.2.2
 - pkg:cargo/proxy-nostr-relay@0.3.1
+- pkg:cargo/proxy-nostr-relay@1.0.0
+- pkg:cargo/proxy-nostr-relay@1.0.1
+- pkg:cargo/proxy-nostr-relay@1.0.2
