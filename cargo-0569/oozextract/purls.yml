@@ -8,3 +8,6 @@
 - pkg:cargo/oozextract@0.4.1
 - pkg:cargo/oozextract@0.4.2
 - pkg:cargo/oozextract@0.5.0
+- pkg:cargo/oozextract@0.5.2
+- pkg:cargo/oozextract@0.5.3
+- pkg:cargo/oozextract@0.5.4
