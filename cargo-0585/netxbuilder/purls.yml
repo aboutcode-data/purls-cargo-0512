@@ -13,3 +13,4 @@
 - pkg:cargo/netxbuilder@1.5.1
 - pkg:cargo/netxbuilder@1.5.2
 - pkg:cargo/netxbuilder@2.0.0
+- pkg:cargo/netxbuilder@3.0.0
