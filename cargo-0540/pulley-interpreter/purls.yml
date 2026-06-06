@@ -66,3 +66,4 @@
 - pkg:cargo/pulley-interpreter@44.0.1
 - pkg:cargo/pulley-interpreter@44.0.2
 - pkg:cargo/pulley-interpreter@45.0.0
+- pkg:cargo/pulley-interpreter@45.0.1
