@@ -23,6 +23,9 @@
 - pkg:cargo/concord@2.0.7
 - pkg:cargo/concord@2.1.0
 - pkg:cargo/concord@2.1.1
+- pkg:cargo/concord@2.1.10
+- pkg:cargo/concord@2.1.11
+- pkg:cargo/concord@2.1.12
 - pkg:cargo/concord@2.1.2
 - pkg:cargo/concord@2.1.3
 - pkg:cargo/concord@2.1.4
