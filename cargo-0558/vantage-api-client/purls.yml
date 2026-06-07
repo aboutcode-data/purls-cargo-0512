@@ -14,3 +14,4 @@
 - pkg:cargo/vantage-api-client@0.5.4
 - pkg:cargo/vantage-api-client@0.5.5
 - pkg:cargo/vantage-api-client@0.5.6
+- pkg:cargo/vantage-api-client@0.5.7
