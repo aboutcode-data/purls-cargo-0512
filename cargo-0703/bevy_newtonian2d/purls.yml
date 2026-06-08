@@ -1,3 +1,4 @@
 - pkg:cargo/bevy_newtonian2d@0.1.0
 - pkg:cargo/bevy_newtonian2d@0.18.0
+- pkg:cargo/bevy_newtonian2d@0.18.1
 - pkg:cargo/bevy_newtonian2d@0.2.0
