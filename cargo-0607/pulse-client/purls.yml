@@ -1,2 +1,5 @@
 - pkg:cargo/pulse-client@2.6.0
 - pkg:cargo/pulse-client@2.6.1
+- pkg:cargo/pulse-client@2.7.0
+- pkg:cargo/pulse-client@2.7.1
+- pkg:cargo/pulse-client@2.7.4
