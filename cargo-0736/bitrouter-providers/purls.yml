@@ -37,6 +37,7 @@
 - pkg:cargo/bitrouter-providers@0.33.0
 - pkg:cargo/bitrouter-providers@1.0.0-alpha.1
 - pkg:cargo/bitrouter-providers@1.0.0-alpha.10
+- pkg:cargo/bitrouter-providers@1.0.0-alpha.11
 - pkg:cargo/bitrouter-providers@1.0.0-alpha.2
 - pkg:cargo/bitrouter-providers@1.0.0-alpha.3
 - pkg:cargo/bitrouter-providers@1.0.0-alpha.4
