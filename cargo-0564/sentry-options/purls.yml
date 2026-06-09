@@ -27,3 +27,4 @@
 - pkg:cargo/sentry-options@1.0.7
 - pkg:cargo/sentry-options@1.0.8
 - pkg:cargo/sentry-options@1.0.9
+- pkg:cargo/sentry-options@1.1.0
