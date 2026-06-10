@@ -1,2 +1,4 @@
 - pkg:cargo/connect2axum-codegen@0.1.0
 - pkg:cargo/connect2axum-codegen@0.2.0
+- pkg:cargo/connect2axum-codegen@0.3.0
+- pkg:cargo/connect2axum-codegen@0.4.0
