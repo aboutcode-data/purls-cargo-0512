@@ -3,3 +3,4 @@
 - pkg:cargo/proc_macro2_diagnostic@0.2.0
 - pkg:cargo/proc_macro2_diagnostic@0.3.0
 - pkg:cargo/proc_macro2_diagnostic@0.3.1
+- pkg:cargo/proc_macro2_diagnostic@0.4.0
