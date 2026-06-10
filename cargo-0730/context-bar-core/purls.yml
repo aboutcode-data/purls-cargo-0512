@@ -1,7 +1,12 @@
 - pkg:cargo/context-bar-core@0.6.0
 - pkg:cargo/context-bar-core@0.6.1
 - pkg:cargo/context-bar-core@0.7.0
+- pkg:cargo/context-bar-core@0.7.10
 - pkg:cargo/context-bar-core@0.7.2
 - pkg:cargo/context-bar-core@0.7.3
 - pkg:cargo/context-bar-core@0.7.4
 - pkg:cargo/context-bar-core@0.7.5
+- pkg:cargo/context-bar-core@0.7.6
+- pkg:cargo/context-bar-core@0.7.7
+- pkg:cargo/context-bar-core@0.7.8
+- pkg:cargo/context-bar-core@0.7.9
