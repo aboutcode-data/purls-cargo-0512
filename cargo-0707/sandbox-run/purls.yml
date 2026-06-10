@@ -1,1 +1,2 @@
 - pkg:cargo/sandbox-run@0.23.1
+- pkg:cargo/sandbox-run@0.24.0
