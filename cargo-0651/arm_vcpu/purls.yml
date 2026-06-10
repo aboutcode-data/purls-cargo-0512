@@ -8,6 +8,7 @@
 - pkg:cargo/arm_vcpu@0.5.0
 - pkg:cargo/arm_vcpu@0.5.1
 - pkg:cargo/arm_vcpu@0.5.10
+- pkg:cargo/arm_vcpu@0.5.11
 - pkg:cargo/arm_vcpu@0.5.2
 - pkg:cargo/arm_vcpu@0.5.4
 - pkg:cargo/arm_vcpu@0.5.5
