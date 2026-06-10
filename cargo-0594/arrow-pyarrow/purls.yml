@@ -12,3 +12,4 @@
 - pkg:cargo/arrow-pyarrow@58.1.0
 - pkg:cargo/arrow-pyarrow@58.2.0
 - pkg:cargo/arrow-pyarrow@58.3.0
+- pkg:cargo/arrow-pyarrow@59.0.0
