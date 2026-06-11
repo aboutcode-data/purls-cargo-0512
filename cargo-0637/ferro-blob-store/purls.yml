@@ -1,3 +1,4 @@
 - pkg:cargo/ferro-blob-store@0.0.1
 - pkg:cargo/ferro-blob-store@0.0.2
 - pkg:cargo/ferro-blob-store@0.0.3
+- pkg:cargo/ferro-blob-store@1.0.0
