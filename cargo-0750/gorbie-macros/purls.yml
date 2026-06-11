@@ -1,3 +1,4 @@
 - pkg:cargo/gorbie-macros@0.2.1
 - pkg:cargo/gorbie-macros@0.7.0
 - pkg:cargo/gorbie-macros@0.8.0
+- pkg:cargo/gorbie-macros@0.9.0
