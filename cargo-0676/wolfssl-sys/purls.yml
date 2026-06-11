@@ -24,3 +24,4 @@
 - pkg:cargo/wolfssl-sys@3.2.0
 - pkg:cargo/wolfssl-sys@4.0.0
 - pkg:cargo/wolfssl-sys@4.1.0
+- pkg:cargo/wolfssl-sys@4.2.0
