@@ -19,3 +19,5 @@
 - pkg:cargo/protosol@8.2.0
 - pkg:cargo/protosol@8.3.0
 - pkg:cargo/protosol@8.4.0
+- pkg:cargo/protosol@9.0.0
+- pkg:cargo/protosol@9.0.1
