@@ -10,3 +10,4 @@
 - pkg:cargo/osdk-frame-allocator@0.17.0
 - pkg:cargo/osdk-frame-allocator@0.17.1
 - pkg:cargo/osdk-frame-allocator@0.17.2
+- pkg:cargo/osdk-frame-allocator@0.18.0
