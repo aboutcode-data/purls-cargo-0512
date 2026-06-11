@@ -47,7 +47,15 @@
 - pkg:cargo/lumen@2.20.1
 - pkg:cargo/lumen@2.21.0
 - pkg:cargo/lumen@2.22.0
+- pkg:cargo/lumen@2.23.0
+- pkg:cargo/lumen@2.24.0
+- pkg:cargo/lumen@2.25.0
+- pkg:cargo/lumen@2.26.0
+- pkg:cargo/lumen@2.27.0
+- pkg:cargo/lumen@2.28.0
+- pkg:cargo/lumen@2.29.0
 - pkg:cargo/lumen@2.3.0
+- pkg:cargo/lumen@2.30.0
 - pkg:cargo/lumen@2.4.0
 - pkg:cargo/lumen@2.5.0
 - pkg:cargo/lumen@2.6.0
