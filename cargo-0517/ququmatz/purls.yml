@@ -5,6 +5,9 @@
 - pkg:cargo/ququmatz@0.11.1
 - pkg:cargo/ququmatz@0.11.2
 - pkg:cargo/ququmatz@0.12.0
+- pkg:cargo/ququmatz@0.13.0
+- pkg:cargo/ququmatz@0.14.0
+- pkg:cargo/ququmatz@0.14.1
 - pkg:cargo/ququmatz@0.2.0
 - pkg:cargo/ququmatz@0.3.0
 - pkg:cargo/ququmatz@0.4.0
