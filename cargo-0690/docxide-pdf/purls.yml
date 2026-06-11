@@ -6,6 +6,8 @@
 - pkg:cargo/docxide-pdf@0.13.0
 - pkg:cargo/docxide-pdf@0.13.1
 - pkg:cargo/docxide-pdf@0.14.0
+- pkg:cargo/docxide-pdf@0.15.0
+- pkg:cargo/docxide-pdf@0.15.1
 - pkg:cargo/docxide-pdf@0.6.0
 - pkg:cargo/docxide-pdf@0.7.0
 - pkg:cargo/docxide-pdf@0.7.1
