@@ -12,6 +12,11 @@
 - pkg:cargo/superposition_derives@0.106.2
 - pkg:cargo/superposition_derives@0.107.0
 - pkg:cargo/superposition_derives@0.107.1
+- pkg:cargo/superposition_derives@0.108.0
+- pkg:cargo/superposition_derives@0.109.0
+- pkg:cargo/superposition_derives@0.110.0
+- pkg:cargo/superposition_derives@0.111.0
+- pkg:cargo/superposition_derives@0.112.0
 - pkg:cargo/superposition_derives@0.3.0
 - pkg:cargo/superposition_derives@0.83.0
 - pkg:cargo/superposition_derives@0.84.0
