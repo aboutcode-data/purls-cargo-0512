@@ -7,3 +7,4 @@
 - pkg:cargo/protoc-gen-buffa@0.5.2
 - pkg:cargo/protoc-gen-buffa@0.6.0
 - pkg:cargo/protoc-gen-buffa@0.7.0
+- pkg:cargo/protoc-gen-buffa@0.7.1
