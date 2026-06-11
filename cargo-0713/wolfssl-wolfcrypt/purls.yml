@@ -3,3 +3,4 @@
 - pkg:cargo/wolfssl-wolfcrypt@1.0.0
 - pkg:cargo/wolfssl-wolfcrypt@1.1.0
 - pkg:cargo/wolfssl-wolfcrypt@1.2.0
+- pkg:cargo/wolfssl-wolfcrypt@2.0.0
