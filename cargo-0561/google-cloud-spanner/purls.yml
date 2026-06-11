@@ -32,6 +32,7 @@
 - pkg:cargo/google-cloud-spanner@0.31.1
 - pkg:cargo/google-cloud-spanner@0.32.0
 - pkg:cargo/google-cloud-spanner@0.33.0
+- pkg:cargo/google-cloud-spanner@0.34.1-preview
 - pkg:cargo/google-cloud-spanner@0.4.0
 - pkg:cargo/google-cloud-spanner@0.5.0
 - pkg:cargo/google-cloud-spanner@0.6.0
