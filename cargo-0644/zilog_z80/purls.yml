@@ -5,6 +5,7 @@
 - pkg:cargo/zilog_z80@0.15.0
 - pkg:cargo/zilog_z80@0.16.0
 - pkg:cargo/zilog_z80@0.17.0
+- pkg:cargo/zilog_z80@0.18.0
 - pkg:cargo/zilog_z80@0.5.0
 - pkg:cargo/zilog_z80@0.6.0
 - pkg:cargo/zilog_z80@0.7.0
