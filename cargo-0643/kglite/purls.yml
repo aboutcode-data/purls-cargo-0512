@@ -4,6 +4,7 @@
 - pkg:cargo/kglite@0.10.12
 - pkg:cargo/kglite@0.10.13
 - pkg:cargo/kglite@0.10.14
+- pkg:cargo/kglite@0.10.15
 - pkg:cargo/kglite@0.10.2
 - pkg:cargo/kglite@0.10.3
 - pkg:cargo/kglite@0.10.4
