@@ -7,3 +7,4 @@
 - pkg:cargo/gitbundle-sdk@3.3.5
 - pkg:cargo/gitbundle-sdk@3.4.1
 - pkg:cargo/gitbundle-sdk@3.4.2
+- pkg:cargo/gitbundle-sdk@3.5.0

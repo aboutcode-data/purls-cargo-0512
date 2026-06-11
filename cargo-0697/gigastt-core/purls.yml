@@ -2,6 +2,8 @@
 - pkg:cargo/gigastt-core@2.0.1
 - pkg:cargo/gigastt-core@2.0.11
 - pkg:cargo/gigastt-core@2.0.12
+- pkg:cargo/gigastt-core@2.0.13
+- pkg:cargo/gigastt-core@2.0.14
 - pkg:cargo/gigastt-core@2.0.2
 - pkg:cargo/gigastt-core@2.0.3
 - pkg:cargo/gigastt-core@2.0.4
