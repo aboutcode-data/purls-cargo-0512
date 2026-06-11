@@ -1,1 +1,2 @@
 - pkg:cargo/cargo-util-terminal@0.0.0
+- pkg:cargo/cargo-util-terminal@0.1.0
