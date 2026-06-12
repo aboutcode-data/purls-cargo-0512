@@ -21,3 +21,4 @@
 - pkg:cargo/google-cloud-lro@1.5.0
 - pkg:cargo/google-cloud-lro@1.6.0
 - pkg:cargo/google-cloud-lro@1.7.0
+- pkg:cargo/google-cloud-lro@1.8.0
