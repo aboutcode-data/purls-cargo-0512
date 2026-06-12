@@ -1,0 +1,11 @@
+- pkg:cargo/sourced_rust@0.1.6
+- pkg:cargo/sourced_rust@0.1.7
+- pkg:cargo/sourced_rust@0.1.8
+- pkg:cargo/sourced_rust@0.2.0
+- pkg:cargo/sourced_rust@0.2.1
+- pkg:cargo/sourced_rust@0.3.0
+- pkg:cargo/sourced_rust@0.4.0
+- pkg:cargo/sourced_rust@0.5.0
+- pkg:cargo/sourced_rust@0.6.0
+- pkg:cargo/sourced_rust@1.0.0
+- pkg:cargo/sourced_rust@1.1.0
