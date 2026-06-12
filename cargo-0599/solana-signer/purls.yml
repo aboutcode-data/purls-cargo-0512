@@ -3,3 +3,4 @@
 - pkg:cargo/solana-signer@2.2.0
 - pkg:cargo/solana-signer@2.2.1
 - pkg:cargo/solana-signer@3.0.0
+- pkg:cargo/solana-signer@3.0.1
