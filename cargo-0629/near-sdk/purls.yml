@@ -68,6 +68,7 @@
 - pkg:cargo/near-sdk@5.26.1
 - pkg:cargo/near-sdk@5.27.0
 - pkg:cargo/near-sdk@5.28.0
+- pkg:cargo/near-sdk@5.28.1
 - pkg:cargo/near-sdk@5.3.0
 - pkg:cargo/near-sdk@5.4.0
 - pkg:cargo/near-sdk@5.5.0
