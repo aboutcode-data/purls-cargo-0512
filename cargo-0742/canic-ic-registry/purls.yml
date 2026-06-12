@@ -45,5 +45,7 @@
 - pkg:cargo/canic-ic-registry@0.65.19
 - pkg:cargo/canic-ic-registry@0.65.2
 - pkg:cargo/canic-ic-registry@0.65.20
+- pkg:cargo/canic-ic-registry@0.65.21
+- pkg:cargo/canic-ic-registry@0.65.22
 - pkg:cargo/canic-ic-registry@0.65.3
 - pkg:cargo/canic-ic-registry@0.65.4
