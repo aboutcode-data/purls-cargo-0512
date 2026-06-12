@@ -190,6 +190,8 @@
 - pkg:cargo/vize_armature@0.202.0
 - pkg:cargo/vize_armature@0.203.0
 - pkg:cargo/vize_armature@0.204.0
+- pkg:cargo/vize_armature@0.206.0
+- pkg:cargo/vize_armature@0.208.0
 - pkg:cargo/vize_armature@0.21.0
 - pkg:cargo/vize_armature@0.22.0
 - pkg:cargo/vize_armature@0.23.0
