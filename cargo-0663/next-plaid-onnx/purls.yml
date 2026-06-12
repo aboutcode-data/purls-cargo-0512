@@ -33,3 +33,5 @@
 - pkg:cargo/next-plaid-onnx@1.5.0
 - pkg:cargo/next-plaid-onnx@1.5.1
 - pkg:cargo/next-plaid-onnx@1.5.2
+- pkg:cargo/next-plaid-onnx@1.5.3
+- pkg:cargo/next-plaid-onnx@1.5.4
