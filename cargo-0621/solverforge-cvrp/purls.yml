@@ -7,6 +7,9 @@
 - pkg:cargo/solverforge-cvrp@0.13.1
 - pkg:cargo/solverforge-cvrp@0.14.0
 - pkg:cargo/solverforge-cvrp@0.14.1
+- pkg:cargo/solverforge-cvrp@0.15.0
+- pkg:cargo/solverforge-cvrp@0.15.1
+- pkg:cargo/solverforge-cvrp@0.15.2
 - pkg:cargo/solverforge-cvrp@0.5.15
 - pkg:cargo/solverforge-cvrp@0.5.16
 - pkg:cargo/solverforge-cvrp@0.5.17

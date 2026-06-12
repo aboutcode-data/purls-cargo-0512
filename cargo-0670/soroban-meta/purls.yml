@@ -22,3 +22,5 @@
 - pkg:cargo/soroban-meta@25.3.1
 - pkg:cargo/soroban-meta@26.0.0
 - pkg:cargo/soroban-meta@26.0.0-rc.1
+- pkg:cargo/soroban-meta@26.0.1
+- pkg:cargo/soroban-meta@26.1.0

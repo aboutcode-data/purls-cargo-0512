@@ -59,3 +59,4 @@
 - pkg:cargo/soroban-spec-tools@25.1.0
 - pkg:cargo/soroban-spec-tools@25.2.0
 - pkg:cargo/soroban-spec-tools@26.0.0
+- pkg:cargo/soroban-spec-tools@26.1.0
