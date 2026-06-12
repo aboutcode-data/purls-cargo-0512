@@ -2,3 +2,4 @@
 - pkg:cargo/sola-raylib-sys@5.5.3
 - pkg:cargo/sola-raylib-sys@6.0.0
 - pkg:cargo/sola-raylib-sys@6.1.0
+- pkg:cargo/sola-raylib-sys@6.2.0
