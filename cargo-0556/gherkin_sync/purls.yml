@@ -2,3 +2,9 @@
 - pkg:cargo/gherkin_sync@0.2.0
 - pkg:cargo/gherkin_sync@0.3.0
 - pkg:cargo/gherkin_sync@0.4.0
+- pkg:cargo/gherkin_sync@1.5.0
+- pkg:cargo/gherkin_sync@1.5.1
+- pkg:cargo/gherkin_sync@1.5.2
+- pkg:cargo/gherkin_sync@1.6.0
+- pkg:cargo/gherkin_sync@1.6.1
+- pkg:cargo/gherkin_sync@1.6.2
