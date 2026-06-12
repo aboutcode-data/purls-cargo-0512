@@ -368,3 +368,5 @@
 - pkg:cargo/solana-frozen-abi-macro@3.2.1
 - pkg:cargo/solana-frozen-abi-macro@3.3.0
 - pkg:cargo/solana-frozen-abi-macro@3.4.0
+- pkg:cargo/solana-frozen-abi-macro@3.5.0
+- pkg:cargo/solana-frozen-abi-macro@3.6.0
