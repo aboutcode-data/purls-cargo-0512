@@ -1,2 +1,3 @@
 - pkg:cargo/vetis-macros@0.1.0
 - pkg:cargo/vetis-macros@0.1.1-beta.1
+- pkg:cargo/vetis-macros@0.1.1-beta.2
