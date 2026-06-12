@@ -16,3 +16,5 @@
 - pkg:cargo/newslookout@0.4.7
 - pkg:cargo/newslookout@0.4.8
 - pkg:cargo/newslookout@0.4.9
+- pkg:cargo/newslookout@0.5.0
+- pkg:cargo/newslookout@1.0.0
