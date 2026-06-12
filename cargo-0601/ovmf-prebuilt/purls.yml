@@ -9,3 +9,4 @@
 - pkg:cargo/ovmf-prebuilt@0.2.6
 - pkg:cargo/ovmf-prebuilt@0.2.7
 - pkg:cargo/ovmf-prebuilt@0.2.8
+- pkg:cargo/ovmf-prebuilt@0.2.9
