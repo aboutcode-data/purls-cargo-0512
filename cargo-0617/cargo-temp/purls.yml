@@ -32,3 +32,4 @@
 - pkg:cargo/cargo-temp@0.3.4
 - pkg:cargo/cargo-temp@0.3.5
 - pkg:cargo/cargo-temp@0.4.0
+- pkg:cargo/cargo-temp@0.4.1
