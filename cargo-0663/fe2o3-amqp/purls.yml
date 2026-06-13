@@ -44,6 +44,8 @@
 - pkg:cargo/fe2o3-amqp@0.13.2
 - pkg:cargo/fe2o3-amqp@0.13.3
 - pkg:cargo/fe2o3-amqp@0.14.0
+- pkg:cargo/fe2o3-amqp@0.15.0
+- pkg:cargo/fe2o3-amqp@0.15.1
 - pkg:cargo/fe2o3-amqp@0.2.0
 - pkg:cargo/fe2o3-amqp@0.2.1
 - pkg:cargo/fe2o3-amqp@0.2.2
