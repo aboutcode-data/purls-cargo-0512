@@ -367,3 +367,5 @@
 - pkg:cargo/git-mit-config@6.0.7
 - pkg:cargo/git-mit-config@6.0.8
 - pkg:cargo/git-mit-config@6.0.9
+- pkg:cargo/git-mit-config@6.1.0
+- pkg:cargo/git-mit-config@6.2.0
