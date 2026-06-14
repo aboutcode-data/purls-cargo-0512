@@ -1,1 +1,2 @@
 - pkg:cargo/glsl-to-cxx@0.68.0
+- pkg:cargo/glsl-to-cxx@0.69.0
