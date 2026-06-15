@@ -5,3 +5,4 @@
 - pkg:cargo/t0x-macros@0.1.4
 - pkg:cargo/t0x-macros@0.1.5
 - pkg:cargo/t0x-macros@0.1.8
+- pkg:cargo/t0x-macros@0.2.0
