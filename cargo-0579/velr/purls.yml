@@ -18,6 +18,7 @@
 - pkg:cargo/velr@0.2.20
 - pkg:cargo/velr@0.2.21
 - pkg:cargo/velr@0.2.22
+- pkg:cargo/velr@0.2.23
 - pkg:cargo/velr@0.2.6
 - pkg:cargo/velr@0.2.7
 - pkg:cargo/velr@0.2.9
