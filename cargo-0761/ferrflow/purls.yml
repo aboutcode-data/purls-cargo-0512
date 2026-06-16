@@ -107,3 +107,7 @@
 - pkg:cargo/ferrflow@5.3.6
 - pkg:cargo/ferrflow@5.4.0
 - pkg:cargo/ferrflow@5.5.0
+- pkg:cargo/ferrflow@5.6.0
+- pkg:cargo/ferrflow@5.7.0
+- pkg:cargo/ferrflow@5.8.0
+- pkg:cargo/ferrflow@5.9.0
