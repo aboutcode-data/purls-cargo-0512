@@ -371,3 +371,4 @@
 - pkg:cargo/git-mit-relates-to@6.2.0
 - pkg:cargo/git-mit-relates-to@6.3.0
 - pkg:cargo/git-mit-relates-to@6.4.0
+- pkg:cargo/git-mit-relates-to@6.4.1
