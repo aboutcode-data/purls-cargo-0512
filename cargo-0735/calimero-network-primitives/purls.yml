@@ -86,6 +86,7 @@
 - pkg:cargo/calimero-network-primitives@0.11.0-rc.1
 - pkg:cargo/calimero-network-primitives@0.11.0-rc.2
 - pkg:cargo/calimero-network-primitives@0.11.0-rc.3
+- pkg:cargo/calimero-network-primitives@0.11.0-rc.4
 - pkg:cargo/calimero-network-primitives@0.2.0
 - pkg:cargo/calimero-network-primitives@0.2.2
 - pkg:cargo/calimero-network-primitives@0.2.3
