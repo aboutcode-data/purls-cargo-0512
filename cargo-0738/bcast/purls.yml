@@ -27,3 +27,4 @@
 - pkg:cargo/bcast@0.0.7
 - pkg:cargo/bcast@0.0.8
 - pkg:cargo/bcast@0.0.9
+- pkg:cargo/bcast@1.0.0-rc.1
