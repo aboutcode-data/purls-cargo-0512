@@ -8,3 +8,5 @@
 - pkg:cargo/pso-zk-canonical@0.5.1
 - pkg:cargo/pso-zk-canonical@0.6.0
 - pkg:cargo/pso-zk-canonical@0.7.0
+- pkg:cargo/pso-zk-canonical@0.8.0
+- pkg:cargo/pso-zk-canonical@0.9.0
