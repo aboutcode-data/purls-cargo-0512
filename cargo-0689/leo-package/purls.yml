@@ -56,3 +56,5 @@
 - pkg:cargo/leo-package@4.0.0
 - pkg:cargo/leo-package@4.0.1
 - pkg:cargo/leo-package@4.0.2
+- pkg:cargo/leo-package@4.1.0
+- pkg:cargo/leo-package@4.2.0
