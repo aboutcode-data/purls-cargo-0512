@@ -1,2 +1,3 @@
 - pkg:cargo/sudo-proxy@0.11.2
 - pkg:cargo/sudo-proxy@0.12.0
+- pkg:cargo/sudo-proxy@1.0.0
