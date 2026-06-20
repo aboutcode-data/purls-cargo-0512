@@ -9,3 +9,4 @@
 - pkg:cargo/git-simple-encrypt@1.5.0
 - pkg:cargo/git-simple-encrypt@2.0.0
 - pkg:cargo/git-simple-encrypt@3.0.0
+- pkg:cargo/git-simple-encrypt@3.0.1
