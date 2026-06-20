@@ -4,3 +4,4 @@
 - pkg:cargo/kasm@1.0.0
 - pkg:cargo/kasm@2.0.2
 - pkg:cargo/kasm@2.0.3
+- pkg:cargo/kasm@2.0.5
