@@ -12,3 +12,4 @@
 - pkg:cargo/doctrine@0.4.7
 - pkg:cargo/doctrine@0.4.8
 - pkg:cargo/doctrine@0.4.9
+- pkg:cargo/doctrine@0.5.1
