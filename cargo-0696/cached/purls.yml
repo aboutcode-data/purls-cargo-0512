@@ -95,3 +95,4 @@
 - pkg:cargo/cached@2.0.0
 - pkg:cargo/cached@2.0.1
 - pkg:cargo/cached@2.0.2
+- pkg:cargo/cached@3.0.0-rc.1
