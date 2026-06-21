@@ -25,6 +25,10 @@
 - pkg:cargo/harn-rules@0.8.124
 - pkg:cargo/harn-rules@0.8.125
 - pkg:cargo/harn-rules@0.8.126
+- pkg:cargo/harn-rules@0.8.127
+- pkg:cargo/harn-rules@0.8.128
+- pkg:cargo/harn-rules@0.8.129
+- pkg:cargo/harn-rules@0.8.130
 - pkg:cargo/harn-rules@0.8.61
 - pkg:cargo/harn-rules@0.8.62
 - pkg:cargo/harn-rules@0.8.63
