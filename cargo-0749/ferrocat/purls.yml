@@ -15,3 +15,5 @@
 - pkg:cargo/ferrocat@1.0.0
 - pkg:cargo/ferrocat@1.1.0
 - pkg:cargo/ferrocat@1.1.1
+- pkg:cargo/ferrocat@1.2.0
+- pkg:cargo/ferrocat@1.2.1
