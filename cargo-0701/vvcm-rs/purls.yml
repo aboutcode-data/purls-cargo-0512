@@ -2,3 +2,4 @@
 - pkg:cargo/vvcm-rs@1.1.0
 - pkg:cargo/vvcm-rs@1.2.0
 - pkg:cargo/vvcm-rs@1.3.0
+- pkg:cargo/vvcm-rs@2.0.0
