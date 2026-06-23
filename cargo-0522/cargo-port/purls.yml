@@ -7,3 +7,4 @@
 - pkg:cargo/cargo-port@0.1.3
 - pkg:cargo/cargo-port@0.1.4
 - pkg:cargo/cargo-port@0.1.5
+- pkg:cargo/cargo-port@0.2.0
