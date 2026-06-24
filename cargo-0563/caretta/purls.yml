@@ -28,3 +28,5 @@
 - pkg:cargo/caretta@0.14.4
 - pkg:cargo/caretta@0.14.5
 - pkg:cargo/caretta@0.15.1
+- pkg:cargo/caretta@0.15.2
+- pkg:cargo/caretta@0.15.3
