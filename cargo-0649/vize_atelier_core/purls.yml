@@ -228,6 +228,8 @@
 - pkg:cargo/vize_atelier_core@0.254.0
 - pkg:cargo/vize_atelier_core@0.255.0
 - pkg:cargo/vize_atelier_core@0.256.0
+- pkg:cargo/vize_atelier_core@0.257.0
+- pkg:cargo/vize_atelier_core@0.258.0
 - pkg:cargo/vize_atelier_core@0.26.0
 - pkg:cargo/vize_atelier_core@0.28.0
 - pkg:cargo/vize_atelier_core@0.29.0
