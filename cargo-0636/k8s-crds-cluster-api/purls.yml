@@ -1,3 +1,4 @@
 - pkg:cargo/k8s-crds-cluster-api@1.12.1
 - pkg:cargo/k8s-crds-cluster-api@1.12.2
 - pkg:cargo/k8s-crds-cluster-api@1.12.5
+- pkg:cargo/k8s-crds-cluster-api@1.13.2
