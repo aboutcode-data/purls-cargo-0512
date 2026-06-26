@@ -33,3 +33,4 @@
 - pkg:cargo/lua-rs-lfs@0.3.4
 - pkg:cargo/lua-rs-lfs@0.3.5
 - pkg:cargo/lua-rs-lfs@0.3.6
+- pkg:cargo/lua-rs-lfs@0.3.7
