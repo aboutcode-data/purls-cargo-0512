@@ -375,3 +375,4 @@
 - pkg:cargo/git-mit-config@6.4.2
 - pkg:cargo/git-mit-config@6.4.3
 - pkg:cargo/git-mit-config@6.5.0
+- pkg:cargo/git-mit-config@6.5.1
