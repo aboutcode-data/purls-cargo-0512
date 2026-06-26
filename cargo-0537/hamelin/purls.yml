@@ -21,6 +21,9 @@
 - pkg:cargo/hamelin@0.14.1
 - pkg:cargo/hamelin@0.15.0
 - pkg:cargo/hamelin@0.15.1
+- pkg:cargo/hamelin@0.15.2
+- pkg:cargo/hamelin@0.15.3
+- pkg:cargo/hamelin@0.15.4
 - pkg:cargo/hamelin@0.2.14
 - pkg:cargo/hamelin@0.3.0
 - pkg:cargo/hamelin@0.3.1
