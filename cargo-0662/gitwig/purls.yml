@@ -2,3 +2,5 @@
 - pkg:cargo/gitwig@1.2.4
 - pkg:cargo/gitwig@1.2.5
 - pkg:cargo/gitwig@1.2.6
+- pkg:cargo/gitwig@1.2.7
+- pkg:cargo/gitwig@1.3.1
