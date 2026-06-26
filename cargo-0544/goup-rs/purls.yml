@@ -21,6 +21,7 @@
 - pkg:cargo/goup-rs@0.16.0
 - pkg:cargo/goup-rs@0.16.1
 - pkg:cargo/goup-rs@0.16.10
+- pkg:cargo/goup-rs@0.16.12
 - pkg:cargo/goup-rs@0.16.2
 - pkg:cargo/goup-rs@0.16.3
 - pkg:cargo/goup-rs@0.16.4
