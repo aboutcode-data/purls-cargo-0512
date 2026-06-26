@@ -71,9 +71,12 @@
 - pkg:cargo/kailash-plugin-macros@4.16.0
 - pkg:cargo/kailash-plugin-macros@4.16.1
 - pkg:cargo/kailash-plugin-macros@4.17.0
+- pkg:cargo/kailash-plugin-macros@4.18.0
+- pkg:cargo/kailash-plugin-macros@4.19.0
 - pkg:cargo/kailash-plugin-macros@4.2.0
 - pkg:cargo/kailash-plugin-macros@4.2.1
 - pkg:cargo/kailash-plugin-macros@4.2.2
+- pkg:cargo/kailash-plugin-macros@4.20.0
 - pkg:cargo/kailash-plugin-macros@4.3.0
 - pkg:cargo/kailash-plugin-macros@4.3.1
 - pkg:cargo/kailash-plugin-macros@4.3.2
