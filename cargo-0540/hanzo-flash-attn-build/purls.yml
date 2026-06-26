@@ -2,3 +2,5 @@
 - pkg:cargo/hanzo-flash-attn-build@0.11.3
 - pkg:cargo/hanzo-flash-attn-build@0.11.5
 - pkg:cargo/hanzo-flash-attn-build@0.11.6
+- pkg:cargo/hanzo-flash-attn-build@0.11.7
+- pkg:cargo/hanzo-flash-attn-build@0.11.8
