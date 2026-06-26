@@ -222,6 +222,8 @@
 - pkg:cargo/vize_fresco@0.259.0
 - pkg:cargo/vize_fresco@0.26.0
 - pkg:cargo/vize_fresco@0.260.0
+- pkg:cargo/vize_fresco@0.261.0
+- pkg:cargo/vize_fresco@0.262.0
 - pkg:cargo/vize_fresco@0.28.0
 - pkg:cargo/vize_fresco@0.29.0
 - pkg:cargo/vize_fresco@0.3.0
