@@ -9,6 +9,7 @@
 - pkg:cargo/vizier@0.10.6
 - pkg:cargo/vizier@0.10.7
 - pkg:cargo/vizier@0.10.8
+- pkg:cargo/vizier@0.10.9
 - pkg:cargo/vizier@0.2.0
 - pkg:cargo/vizier@0.2.0-rc.1
 - pkg:cargo/vizier@0.2.0-rc.2
