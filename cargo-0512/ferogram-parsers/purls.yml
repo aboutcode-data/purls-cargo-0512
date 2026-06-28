@@ -15,3 +15,4 @@
 - pkg:cargo/ferogram-parsers@0.5.2
 - pkg:cargo/ferogram-parsers@0.6.0
 - pkg:cargo/ferogram-parsers@0.6.2
+- pkg:cargo/ferogram-parsers@0.6.3
