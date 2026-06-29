@@ -1,1 +1,2 @@
 - pkg:cargo/bmi160_rust_no_std_esp32@0.1.0
+- pkg:cargo/bmi160_rust_no_std_esp32@0.1.1
