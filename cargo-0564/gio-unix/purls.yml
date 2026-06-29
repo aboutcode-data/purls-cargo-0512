@@ -4,3 +4,4 @@
 - pkg:cargo/gio-unix@0.22.0-alpha.2
 - pkg:cargo/gio-unix@0.22.0-alpha.3
 - pkg:cargo/gio-unix@0.22.6
+- pkg:cargo/gio-unix@0.22.8
