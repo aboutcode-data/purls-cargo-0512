@@ -7,3 +7,4 @@
 - pkg:cargo/egui_deferred_table@0.1.6
 - pkg:cargo/egui_deferred_table@0.1.7
 - pkg:cargo/egui_deferred_table@0.2.0
+- pkg:cargo/egui_deferred_table@0.3.0
