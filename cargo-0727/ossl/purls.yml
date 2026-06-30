@@ -3,3 +3,4 @@
 - pkg:cargo/ossl@1.4.0
 - pkg:cargo/ossl@1.5.0
 - pkg:cargo/ossl@1.5.1
+- pkg:cargo/ossl@1.5.2
