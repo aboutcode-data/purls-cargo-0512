@@ -1,6 +1,9 @@
 - pkg:cargo/luna-core@1.1.0
 - pkg:cargo/luna-core@1.3.0
 - pkg:cargo/luna-core@2.1.0
+- pkg:cargo/luna-core@2.10.0
+- pkg:cargo/luna-core@2.11.0
+- pkg:cargo/luna-core@2.12.0
 - pkg:cargo/luna-core@2.2.0
 - pkg:cargo/luna-core@2.3.0
 - pkg:cargo/luna-core@2.4.0
