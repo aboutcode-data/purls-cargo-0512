@@ -6,3 +6,5 @@
 - pkg:cargo/tvision-rs-macros@0.4.0
 - pkg:cargo/tvision-rs-macros@0.5.0
 - pkg:cargo/tvision-rs-macros@0.6.0
+- pkg:cargo/tvision-rs-macros@0.7.0
+- pkg:cargo/tvision-rs-macros@0.8.0
