@@ -40,3 +40,4 @@
 - pkg:cargo/next-plaid-onnx@1.5.7
 - pkg:cargo/next-plaid-onnx@1.6.0
 - pkg:cargo/next-plaid-onnx@1.6.1
+- pkg:cargo/next-plaid-onnx@1.6.2
