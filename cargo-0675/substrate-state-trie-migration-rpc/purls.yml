@@ -46,6 +46,7 @@
 - pkg:cargo/substrate-state-trie-migration-rpc@5.0.0
 - pkg:cargo/substrate-state-trie-migration-rpc@50.0.0
 - pkg:cargo/substrate-state-trie-migration-rpc@51.0.0
+- pkg:cargo/substrate-state-trie-migration-rpc@52.0.0
 - pkg:cargo/substrate-state-trie-migration-rpc@6.0.0
 - pkg:cargo/substrate-state-trie-migration-rpc@7.0.0
 - pkg:cargo/substrate-state-trie-migration-rpc@8.0.0
