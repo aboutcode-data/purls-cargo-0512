@@ -9,3 +9,4 @@
 - pkg:cargo/heddle-daemon@0.5.1
 - pkg:cargo/heddle-daemon@0.6.0
 - pkg:cargo/heddle-daemon@0.7.0
+- pkg:cargo/heddle-daemon@0.8.0
