@@ -5,3 +5,4 @@
 - pkg:cargo/vv-agent@0.4.1
 - pkg:cargo/vv-agent@0.4.6
 - pkg:cargo/vv-agent@0.4.7
+- pkg:cargo/vv-agent@0.4.8
