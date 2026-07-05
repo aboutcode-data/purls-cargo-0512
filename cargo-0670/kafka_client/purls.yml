@@ -1,3 +1,6 @@
 - pkg:cargo/kafka_client@0.1.0
 - pkg:cargo/kafka_client@0.1.0-beta
 - pkg:cargo/kafka_client@0.1.1
+- pkg:cargo/kafka_client@0.1.2
+- pkg:cargo/kafka_client@0.2.0
+- pkg:cargo/kafka_client@0.3.0
