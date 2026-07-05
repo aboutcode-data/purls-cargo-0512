@@ -12,3 +12,4 @@
 - pkg:cargo/hermesmq-proto@0.6.3
 - pkg:cargo/hermesmq-proto@0.6.4
 - pkg:cargo/hermesmq-proto@0.6.5
+- pkg:cargo/hermesmq-proto@0.8.0
