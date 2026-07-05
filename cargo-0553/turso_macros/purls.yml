@@ -93,6 +93,7 @@
 - pkg:cargo/turso_macros@0.7.0-pre.14
 - pkg:cargo/turso_macros@0.7.0-pre.15
 - pkg:cargo/turso_macros@0.7.0-pre.17
+- pkg:cargo/turso_macros@0.7.0-pre.18
 - pkg:cargo/turso_macros@0.7.0-pre.2
 - pkg:cargo/turso_macros@0.7.0-pre.3
 - pkg:cargo/turso_macros@0.7.0-pre.4
