@@ -16,3 +16,4 @@
 - pkg:cargo/carapace_spec_clap@1.1.4
 - pkg:cargo/carapace_spec_clap@1.1.5
 - pkg:cargo/carapace_spec_clap@1.2.0
+- pkg:cargo/carapace_spec_clap@1.2.1
