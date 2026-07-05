@@ -1,3 +1,6 @@
+- pkg:cargo/haloumi-synthesis@0.5.12
+- pkg:cargo/haloumi-synthesis@0.5.13
+- pkg:cargo/haloumi-synthesis@0.5.15
 - pkg:cargo/haloumi-synthesis@0.5.3
 - pkg:cargo/haloumi-synthesis@0.5.4
 - pkg:cargo/haloumi-synthesis@0.5.5
