@@ -5,3 +5,4 @@
 - pkg:cargo/harness-rs-orchestrator@0.0.21
 - pkg:cargo/harness-rs-orchestrator@0.0.22
 - pkg:cargo/harness-rs-orchestrator@0.0.23
+- pkg:cargo/harness-rs-orchestrator@0.0.24
