@@ -52,6 +52,9 @@
 - pkg:cargo/cargo-nextest@0.9.137
 - pkg:cargo/cargo-nextest@0.9.138
 - pkg:cargo/cargo-nextest@0.9.14
+- pkg:cargo/cargo-nextest@0.9.140
+- pkg:cargo/cargo-nextest@0.9.140-b.1
+- pkg:cargo/cargo-nextest@0.9.140-b.2
 - pkg:cargo/cargo-nextest@0.9.15
 - pkg:cargo/cargo-nextest@0.9.16
 - pkg:cargo/cargo-nextest@0.9.17
