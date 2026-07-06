@@ -23,4 +23,5 @@
 - pkg:cargo/ferrocat@2.0.0
 - pkg:cargo/ferrocat@2.1.0
 - pkg:cargo/ferrocat@2.1.1
+- pkg:cargo/ferrocat@2.2.0
 - pkg:cargo/ferrocat@3.0.0
