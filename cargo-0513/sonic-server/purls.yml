@@ -37,3 +37,4 @@
 - pkg:cargo/sonic-server@1.6.0
 - pkg:cargo/sonic-server@1.7.0
 - pkg:cargo/sonic-server@1.7.1
+- pkg:cargo/sonic-server@1.7.2
