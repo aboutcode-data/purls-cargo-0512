@@ -8,3 +8,4 @@
 - pkg:cargo/verifiable-credential-toolkit@0.5.0
 - pkg:cargo/verifiable-credential-toolkit@0.5.1
 - pkg:cargo/verifiable-credential-toolkit@0.6.0
+- pkg:cargo/verifiable-credential-toolkit@0.7.0
