@@ -72,3 +72,4 @@
 - pkg:cargo/rmcp-openapi-server@0.31.0
 - pkg:cargo/rmcp-openapi-server@0.31.1
 - pkg:cargo/rmcp-openapi-server@0.31.2
+- pkg:cargo/rmcp-openapi-server@0.31.3
