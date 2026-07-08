@@ -7,6 +7,7 @@
 - pkg:cargo/doctrine@0.15.1
 - pkg:cargo/doctrine@0.15.2
 - pkg:cargo/doctrine@0.17.0
+- pkg:cargo/doctrine@0.18.1
 - pkg:cargo/doctrine@0.2.0
 - pkg:cargo/doctrine@0.2.1
 - pkg:cargo/doctrine@0.3.0
