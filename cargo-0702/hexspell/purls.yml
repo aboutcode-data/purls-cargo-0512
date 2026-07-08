@@ -3,3 +3,4 @@
 - pkg:cargo/hexspell@0.0.3
 - pkg:cargo/hexspell@0.0.4
 - pkg:cargo/hexspell@0.0.5
+- pkg:cargo/hexspell@1.0.0
