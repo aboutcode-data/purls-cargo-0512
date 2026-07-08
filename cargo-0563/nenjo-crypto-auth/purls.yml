@@ -12,3 +12,4 @@
 - pkg:cargo/nenjo-crypto-auth@0.22.0
 - pkg:cargo/nenjo-crypto-auth@0.23.0
 - pkg:cargo/nenjo-crypto-auth@0.24.0
+- pkg:cargo/nenjo-crypto-auth@0.25.0
