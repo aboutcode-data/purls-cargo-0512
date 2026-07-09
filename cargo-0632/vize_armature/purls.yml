@@ -272,6 +272,9 @@
 - pkg:cargo/vize_armature@0.283.0
 - pkg:cargo/vize_armature@0.284.0
 - pkg:cargo/vize_armature@0.285.0
+- pkg:cargo/vize_armature@0.286.0
+- pkg:cargo/vize_armature@0.287.0
+- pkg:cargo/vize_armature@0.288.0
 - pkg:cargo/vize_armature@0.29.0
 - pkg:cargo/vize_armature@0.3.0
 - pkg:cargo/vize_armature@0.30.0
