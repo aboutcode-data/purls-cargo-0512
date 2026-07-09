@@ -38,3 +38,4 @@
 - pkg:cargo/cairo-size-profiler@2.19.0-rc.2
 - pkg:cargo/cairo-size-profiler@2.19.0-rc.3
 - pkg:cargo/cairo-size-profiler@2.19.2
+- pkg:cargo/cairo-size-profiler@2.20.0-rc.0
