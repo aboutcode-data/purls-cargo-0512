@@ -8,7 +8,11 @@
 - pkg:cargo/hanzo-kernel@0.2.14
 - pkg:cargo/hanzo-kernel@0.2.15
 - pkg:cargo/hanzo-kernel@0.2.16
+- pkg:cargo/hanzo-kernel@0.2.17
+- pkg:cargo/hanzo-kernel@0.2.18
+- pkg:cargo/hanzo-kernel@0.2.19
 - pkg:cargo/hanzo-kernel@0.2.2
+- pkg:cargo/hanzo-kernel@0.2.20
 - pkg:cargo/hanzo-kernel@0.2.3
 - pkg:cargo/hanzo-kernel@0.2.4
 - pkg:cargo/hanzo-kernel@0.2.5
