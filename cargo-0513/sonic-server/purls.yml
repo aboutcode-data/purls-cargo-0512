@@ -39,3 +39,4 @@
 - pkg:cargo/sonic-server@1.7.1
 - pkg:cargo/sonic-server@1.7.2
 - pkg:cargo/sonic-server@1.7.3
+- pkg:cargo/sonic-server@1.7.4
