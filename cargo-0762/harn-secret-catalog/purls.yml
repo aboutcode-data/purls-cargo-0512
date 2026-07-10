@@ -1,4 +1,11 @@
 - pkg:cargo/harn-secret-catalog@0.10.0
+- pkg:cargo/harn-secret-catalog@0.10.1
+- pkg:cargo/harn-secret-catalog@0.10.2
+- pkg:cargo/harn-secret-catalog@0.10.3
+- pkg:cargo/harn-secret-catalog@0.10.4
+- pkg:cargo/harn-secret-catalog@0.10.5
+- pkg:cargo/harn-secret-catalog@0.10.6
+- pkg:cargo/harn-secret-catalog@0.10.7
 - pkg:cargo/harn-secret-catalog@0.9.11
 - pkg:cargo/harn-secret-catalog@0.9.12
 - pkg:cargo/harn-secret-catalog@0.9.13
