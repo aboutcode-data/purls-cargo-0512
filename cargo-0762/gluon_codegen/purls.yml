@@ -17,6 +17,7 @@
 - pkg:cargo/gluon_codegen@0.17.2
 - pkg:cargo/gluon_codegen@0.18.0
 - pkg:cargo/gluon_codegen@0.18.2
+- pkg:cargo/gluon_codegen@0.18.3
 - pkg:cargo/gluon_codegen@0.8.0
 - pkg:cargo/gluon_codegen@0.8.1
 - pkg:cargo/gluon_codegen@0.9.0
