@@ -37,3 +37,4 @@
 - pkg:cargo/gitwig@2.3.8
 - pkg:cargo/gitwig@2.3.9
 - pkg:cargo/gitwig@2.4.1
+- pkg:cargo/gitwig@2.4.2
