@@ -1,6 +1,7 @@
 - pkg:cargo/documented@0.1.0
 - pkg:cargo/documented@0.1.1
 - pkg:cargo/documented@0.1.2
+- pkg:cargo/documented@0.10.0
 - pkg:cargo/documented@0.2.0
 - pkg:cargo/documented@0.3.0
 - pkg:cargo/documented@0.4.0
