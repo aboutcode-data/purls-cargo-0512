@@ -16,3 +16,4 @@
 - pkg:cargo/egui_dialogs@0.3.6
 - pkg:cargo/egui_dialogs@0.3.7
 - pkg:cargo/egui_dialogs@0.3.8
+- pkg:cargo/egui_dialogs@0.4.0
