@@ -1,3 +1,4 @@
 - pkg:cargo/newt-inference@0.6.1
 - pkg:cargo/newt-inference@0.6.2
 - pkg:cargo/newt-inference@0.7.1
+- pkg:cargo/newt-inference@0.7.3
