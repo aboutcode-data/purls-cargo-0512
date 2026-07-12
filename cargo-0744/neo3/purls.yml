@@ -30,3 +30,4 @@
 - pkg:cargo/neo3@1.4.0
 - pkg:cargo/neo3@2.0.0
 - pkg:cargo/neo3@2.0.1
+- pkg:cargo/neo3@2.1.0
