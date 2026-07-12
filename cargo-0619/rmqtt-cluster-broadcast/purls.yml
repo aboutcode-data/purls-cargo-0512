@@ -13,3 +13,4 @@
 - pkg:cargo/rmqtt-cluster-broadcast@0.19.1
 - pkg:cargo/rmqtt-cluster-broadcast@0.20.0
 - pkg:cargo/rmqtt-cluster-broadcast@0.21.0
+- pkg:cargo/rmqtt-cluster-broadcast@0.22.0
