@@ -6,3 +6,4 @@
 - pkg:cargo/visdom-ai-tracing-protocol@0.23.0
 - pkg:cargo/visdom-ai-tracing-protocol@0.23.1
 - pkg:cargo/visdom-ai-tracing-protocol@0.23.2
+- pkg:cargo/visdom-ai-tracing-protocol@0.23.3
