@@ -11,4 +11,6 @@
 - pkg:cargo/kagaya@0.11.0
 - pkg:cargo/kagaya@0.11.1
 - pkg:cargo/kagaya@0.14.1
+- pkg:cargo/kagaya@0.15.0-alpha.1
+- pkg:cargo/kagaya@0.15.0-alpha.2
 - pkg:cargo/kagaya@0.9.0
