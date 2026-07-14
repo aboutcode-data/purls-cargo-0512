@@ -1,3 +1,4 @@
+- pkg:cargo/zuko@0.10.0
 - pkg:cargo/zuko@0.9.12
 - pkg:cargo/zuko@0.9.13
 - pkg:cargo/zuko@0.9.15
