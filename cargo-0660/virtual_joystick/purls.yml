@@ -20,3 +20,4 @@
 - pkg:cargo/virtual_joystick@2.7.0
 - pkg:cargo/virtual_joystick@2.7.1
 - pkg:cargo/virtual_joystick@2.7.2
+- pkg:cargo/virtual_joystick@2.8.0
