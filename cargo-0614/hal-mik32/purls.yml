@@ -1,3 +1,4 @@
 - pkg:cargo/hal-mik32@0.1.0
 - pkg:cargo/hal-mik32@0.2.0
 - pkg:cargo/hal-mik32@0.2.1
+- pkg:cargo/hal-mik32@0.2.2
