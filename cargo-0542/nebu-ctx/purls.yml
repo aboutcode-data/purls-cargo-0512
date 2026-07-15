@@ -5,6 +5,8 @@
 - pkg:cargo/nebu-ctx@0.10.4
 - pkg:cargo/nebu-ctx@0.10.5
 - pkg:cargo/nebu-ctx@0.10.6
+- pkg:cargo/nebu-ctx@0.10.7
+- pkg:cargo/nebu-ctx@0.10.8
 - pkg:cargo/nebu-ctx@0.2.7
 - pkg:cargo/nebu-ctx@0.5.5
 - pkg:cargo/nebu-ctx@0.5.6
