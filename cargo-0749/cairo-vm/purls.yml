@@ -60,3 +60,4 @@
 - pkg:cargo/cairo-vm@3.0.1
 - pkg:cargo/cairo-vm@3.1.0
 - pkg:cargo/cairo-vm@3.2.0
+- pkg:cargo/cairo-vm@3.2.1
