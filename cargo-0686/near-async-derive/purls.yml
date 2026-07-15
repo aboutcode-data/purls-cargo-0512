@@ -50,3 +50,4 @@
 - pkg:cargo/near-async-derive@0.37.0-rc.1
 - pkg:cargo/near-async-derive@0.37.0-rc.2
 - pkg:cargo/near-async-derive@0.37.0-rc.3
+- pkg:cargo/near-async-derive@0.37.1
