@@ -9,6 +9,7 @@
 - pkg:cargo/sshcerts@0.14.0
 - pkg:cargo/sshcerts@0.14.1
 - pkg:cargo/sshcerts@0.15.0
+- pkg:cargo/sshcerts@0.15.1
 - pkg:cargo/sshcerts@0.3.10
 - pkg:cargo/sshcerts@0.3.11
 - pkg:cargo/sshcerts@0.3.12
