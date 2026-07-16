@@ -1,2 +1,3 @@
 - pkg:cargo/epaper-dithering-core@3.0.0
 - pkg:cargo/epaper-dithering-core@4.0.0
+- pkg:cargo/epaper-dithering-core@4.0.1
