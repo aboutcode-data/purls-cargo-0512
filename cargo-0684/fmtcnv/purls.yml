@@ -1,7 +1,16 @@
 - pkg:cargo/fmtcnv@2.2.1
 - pkg:cargo/fmtcnv@2.3.0
 - pkg:cargo/fmtcnv@2.3.1
+- pkg:cargo/fmtcnv@2.3.10
+- pkg:cargo/fmtcnv@2.3.12
+- pkg:cargo/fmtcnv@2.3.13
+- pkg:cargo/fmtcnv@2.3.14
+- pkg:cargo/fmtcnv@2.3.15
 - pkg:cargo/fmtcnv@2.3.2
 - pkg:cargo/fmtcnv@2.3.3
 - pkg:cargo/fmtcnv@2.3.4
 - pkg:cargo/fmtcnv@2.3.5
+- pkg:cargo/fmtcnv@2.3.6
+- pkg:cargo/fmtcnv@2.3.7
+- pkg:cargo/fmtcnv@2.3.8
+- pkg:cargo/fmtcnv@2.3.9
