@@ -19,3 +19,8 @@
 - pkg:cargo/platz-sdk@0.6.1
 - pkg:cargo/platz-sdk@0.6.2
 - pkg:cargo/platz-sdk@0.6.3
+- pkg:cargo/platz-sdk@0.7.0-beta.1
+- pkg:cargo/platz-sdk@0.7.0-beta.2
+- pkg:cargo/platz-sdk@0.7.0-beta.3
+- pkg:cargo/platz-sdk@0.7.0-beta.4
+- pkg:cargo/platz-sdk@0.7.0-beta.5

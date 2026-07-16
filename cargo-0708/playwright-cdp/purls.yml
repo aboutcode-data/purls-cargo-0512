@@ -1,0 +1,3 @@
+- pkg:cargo/playwright-cdp@0.1.1
+- pkg:cargo/playwright-cdp@0.2.0
+- pkg:cargo/playwright-cdp@0.3.0
