@@ -20,6 +20,10 @@
 - pkg:cargo/toml-test-harness@1.0.0
 - pkg:cargo/toml-test-harness@1.1.0
 - pkg:cargo/toml-test-harness@1.1.1
+- pkg:cargo/toml-test-harness@1.10.0
+- pkg:cargo/toml-test-harness@1.11.0
+- pkg:cargo/toml-test-harness@1.12.0
+- pkg:cargo/toml-test-harness@1.13.0
 - pkg:cargo/toml-test-harness@1.2.0
 - pkg:cargo/toml-test-harness@1.3.0
 - pkg:cargo/toml-test-harness@1.3.1
