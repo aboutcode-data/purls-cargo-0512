@@ -5,3 +5,11 @@
 - pkg:cargo/tool_macros@0.2.2
 - pkg:cargo/tool_macros@0.3.0
 - pkg:cargo/tool_macros@0.4.0
+- pkg:cargo/tool_macros@0.4.1
+- pkg:cargo/tool_macros@0.4.2
+- pkg:cargo/tool_macros@0.4.3
+- pkg:cargo/tool_macros@0.4.4
+- pkg:cargo/tool_macros@0.4.5
+- pkg:cargo/tool_macros@0.5.0
+- pkg:cargo/tool_macros@0.5.1
+- pkg:cargo/tool_macros@0.5.2
