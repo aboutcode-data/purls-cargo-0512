@@ -1,2 +1,3 @@
 - pkg:cargo/thirdpass-ansible@1.1.1
 - pkg:cargo/thirdpass-ansible@1.1.2
+- pkg:cargo/thirdpass-ansible@2.0.0
