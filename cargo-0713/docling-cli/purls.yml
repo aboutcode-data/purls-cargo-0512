@@ -20,3 +20,6 @@
 - pkg:cargo/docling-cli@0.38.1
 - pkg:cargo/docling-cli@0.38.2
 - pkg:cargo/docling-cli@0.40.0
+- pkg:cargo/docling-cli@0.40.1
+- pkg:cargo/docling-cli@0.40.2
+- pkg:cargo/docling-cli@0.40.3
