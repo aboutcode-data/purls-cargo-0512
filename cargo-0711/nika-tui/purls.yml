@@ -1,3 +1,4 @@
+- pkg:cargo/nika-tui@0.0.1
 - pkg:cargo/nika-tui@0.38.0
 - pkg:cargo/nika-tui@0.47.0
 - pkg:cargo/nika-tui@0.47.1
