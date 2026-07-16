@@ -95,6 +95,8 @@
 - pkg:cargo/synth-backend-riscv@0.43.1
 - pkg:cargo/synth-backend-riscv@0.44.0
 - pkg:cargo/synth-backend-riscv@0.45.0
+- pkg:cargo/synth-backend-riscv@0.45.1
+- pkg:cargo/synth-backend-riscv@0.45.2
 - pkg:cargo/synth-backend-riscv@0.6.0
 - pkg:cargo/synth-backend-riscv@0.7.0
 - pkg:cargo/synth-backend-riscv@0.8.0
