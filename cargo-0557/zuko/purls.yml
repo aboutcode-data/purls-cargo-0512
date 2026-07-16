@@ -5,6 +5,7 @@
 - pkg:cargo/zuko@0.10.4
 - pkg:cargo/zuko@0.10.5
 - pkg:cargo/zuko@0.10.6
+- pkg:cargo/zuko@0.10.7
 - pkg:cargo/zuko@0.9.12
 - pkg:cargo/zuko@0.9.13
 - pkg:cargo/zuko@0.9.15
