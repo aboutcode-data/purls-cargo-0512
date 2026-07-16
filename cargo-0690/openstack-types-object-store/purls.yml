@@ -1,0 +1,2 @@
+- pkg:cargo/openstack-types-object-store@0.1.0
+- pkg:cargo/openstack-types-object-store@0.22.7
