@@ -1,5 +1,8 @@
 - pkg:cargo/jacs-binding-core@0.10.0
 - pkg:cargo/jacs-binding-core@0.10.1
+- pkg:cargo/jacs-binding-core@0.10.2
+- pkg:cargo/jacs-binding-core@0.11.2
+- pkg:cargo/jacs-binding-core@0.11.3
 - pkg:cargo/jacs-binding-core@0.9.10
 - pkg:cargo/jacs-binding-core@0.9.11
 - pkg:cargo/jacs-binding-core@0.9.12
