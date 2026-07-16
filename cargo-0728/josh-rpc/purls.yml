@@ -1,1 +1,2 @@
 - pkg:cargo/josh-rpc@26.5.8
+- pkg:cargo/josh-rpc@26.6.11
