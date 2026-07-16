@@ -9,3 +9,4 @@
 - pkg:cargo/ninja-xtask@0.2.4
 - pkg:cargo/ninja-xtask@0.2.5
 - pkg:cargo/ninja-xtask@0.2.6
+- pkg:cargo/ninja-xtask@0.3.0
