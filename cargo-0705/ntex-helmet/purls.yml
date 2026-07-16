@@ -6,3 +6,4 @@
 - pkg:cargo/ntex-helmet@0.3.0
 - pkg:cargo/ntex-helmet@0.4.0
 - pkg:cargo/ntex-helmet@1.0.0
+- pkg:cargo/ntex-helmet@1.0.1
