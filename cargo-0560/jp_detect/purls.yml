@@ -1,3 +1,5 @@
 - pkg:cargo/jp_detect@0.2.0
 - pkg:cargo/jp_detect@0.2.2
 - pkg:cargo/jp_detect@0.2.3
+- pkg:cargo/jp_detect@0.2.4
+- pkg:cargo/jp_detect@1.0.0
