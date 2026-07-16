@@ -15,3 +15,4 @@
 - pkg:cargo/tokio-xmpp@3.5.0
 - pkg:cargo/tokio-xmpp@4.0.0
 - pkg:cargo/tokio-xmpp@5.0.0
+- pkg:cargo/tokio-xmpp@6.0.0
