@@ -8,3 +8,7 @@
 - pkg:cargo/ras-llm-anthropic@2.7.0
 - pkg:cargo/ras-llm-anthropic@2.8.0
 - pkg:cargo/ras-llm-anthropic@3.0.0
+- pkg:cargo/ras-llm-anthropic@3.1.0
+- pkg:cargo/ras-llm-anthropic@4.0.0
+- pkg:cargo/ras-llm-anthropic@4.1.0
+- pkg:cargo/ras-llm-anthropic@4.2.0

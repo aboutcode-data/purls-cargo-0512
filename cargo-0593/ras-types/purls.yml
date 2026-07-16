@@ -8,3 +8,7 @@
 - pkg:cargo/ras-types@2.7.0
 - pkg:cargo/ras-types@2.8.0
 - pkg:cargo/ras-types@3.0.0
+- pkg:cargo/ras-types@3.1.0
+- pkg:cargo/ras-types@4.0.0
+- pkg:cargo/ras-types@4.1.0
+- pkg:cargo/ras-types@4.2.0
