@@ -6,3 +6,4 @@
 - pkg:cargo/qslib@0.14.0-rc6
 - pkg:cargo/qslib@0.15.0
 - pkg:cargo/qslib@0.15.1
+- pkg:cargo/qslib@0.15.2
