@@ -12,3 +12,5 @@
 - pkg:cargo/raylib@5.0.2
 - pkg:cargo/raylib@5.5.0
 - pkg:cargo/raylib@5.5.1
+- pkg:cargo/raylib@6.0.0
+- pkg:cargo/raylib@6.0.0-rc.2
