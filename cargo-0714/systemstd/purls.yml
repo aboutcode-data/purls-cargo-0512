@@ -8,3 +8,4 @@
 - pkg:cargo/systemstd@0.2.2
 - pkg:cargo/systemstd@0.3.0
 - pkg:cargo/systemstd@1.0.0
+- pkg:cargo/systemstd@1.1.0
