@@ -6,3 +6,4 @@
 - pkg:cargo/rasant@0.6.0
 - pkg:cargo/rasant@0.7.0
 - pkg:cargo/rasant@0.8.0
+- pkg:cargo/rasant@1.0.0
