@@ -10,3 +10,5 @@
 - pkg:cargo/thrift@0.15.0
 - pkg:cargo/thrift@0.16.0
 - pkg:cargo/thrift@0.17.0
+- pkg:cargo/thrift@0.23.0
+- pkg:cargo/thrift@0.24.0
