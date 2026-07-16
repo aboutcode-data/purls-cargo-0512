@@ -118,7 +118,13 @@
 - pkg:cargo/sysd-manager@2.19.1
 - pkg:cargo/sysd-manager@2.19.2
 - pkg:cargo/sysd-manager@2.19.4
+- pkg:cargo/sysd-manager@2.19.5
+- pkg:cargo/sysd-manager@2.19.6
 - pkg:cargo/sysd-manager@2.2.0
+- pkg:cargo/sysd-manager@2.20.0
+- pkg:cargo/sysd-manager@2.20.1
+- pkg:cargo/sysd-manager@2.20.3
+- pkg:cargo/sysd-manager@2.20.4
 - pkg:cargo/sysd-manager@2.5.1
 - pkg:cargo/sysd-manager@2.6.0
 - pkg:cargo/sysd-manager@2.6.1
