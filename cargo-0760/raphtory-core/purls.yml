@@ -4,3 +4,4 @@
 - pkg:cargo/raphtory-core@0.16.4
 - pkg:cargo/raphtory-core@0.16.5
 - pkg:cargo/raphtory-core@0.17.0
+- pkg:cargo/raphtory-core@0.18.5
