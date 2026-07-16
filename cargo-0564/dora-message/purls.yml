@@ -61,3 +61,4 @@
 - pkg:cargo/dora-message@0.6.0
 - pkg:cargo/dora-message@0.7.0
 - pkg:cargo/dora-message@0.8.0
+- pkg:cargo/dora-message@1.0.0-rc1
