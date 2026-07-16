@@ -1,4 +1,6 @@
 - pkg:cargo/tower-sessions-surrealdb-store@0.1.0
+- pkg:cargo/tower-sessions-surrealdb-store@0.10.0
+- pkg:cargo/tower-sessions-surrealdb-store@0.10.0-surrealv2
 - pkg:cargo/tower-sessions-surrealdb-store@0.2.0
 - pkg:cargo/tower-sessions-surrealdb-store@0.3.0
 - pkg:cargo/tower-sessions-surrealdb-store@0.4.0
@@ -9,3 +11,6 @@
 - pkg:cargo/tower-sessions-surrealdb-store@0.6.0-surrealv1
 - pkg:cargo/tower-sessions-surrealdb-store@0.7.0
 - pkg:cargo/tower-sessions-surrealdb-store@0.7.0-surrealv1
+- pkg:cargo/tower-sessions-surrealdb-store@0.8.0
+- pkg:cargo/tower-sessions-surrealdb-store@0.8.0-surrealv2
+- pkg:cargo/tower-sessions-surrealdb-store@0.9.0
