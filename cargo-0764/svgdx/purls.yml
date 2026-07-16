@@ -29,6 +29,8 @@
 - pkg:cargo/svgdx@0.29.0
 - pkg:cargo/svgdx@0.3.0
 - pkg:cargo/svgdx@0.3.1
+- pkg:cargo/svgdx@0.30.0
+- pkg:cargo/svgdx@0.31.0
 - pkg:cargo/svgdx@0.4.0
 - pkg:cargo/svgdx@0.4.1
 - pkg:cargo/svgdx@0.4.2
