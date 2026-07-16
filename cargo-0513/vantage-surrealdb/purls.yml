@@ -20,3 +20,5 @@
 - pkg:cargo/vantage-surrealdb@0.5.7
 - pkg:cargo/vantage-surrealdb@0.5.8
 - pkg:cargo/vantage-surrealdb@0.5.9
+- pkg:cargo/vantage-surrealdb@0.6.0
+- pkg:cargo/vantage-surrealdb@0.6.1
