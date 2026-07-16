@@ -1,4 +1,6 @@
+- pkg:cargo/rama-unix@0.3.0
 - pkg:cargo/rama-unix@0.3.0-alpha.1
 - pkg:cargo/rama-unix@0.3.0-alpha.2
 - pkg:cargo/rama-unix@0.3.0-alpha.3
 - pkg:cargo/rama-unix@0.3.0-alpha.4
+- pkg:cargo/rama-unix@0.3.0-rc1
