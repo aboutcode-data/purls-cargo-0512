@@ -18,3 +18,5 @@
 - pkg:cargo/tor-key-forge@0.40.0
 - pkg:cargo/tor-key-forge@0.41.0
 - pkg:cargo/tor-key-forge@0.42.0
+- pkg:cargo/tor-key-forge@0.43.0
+- pkg:cargo/tor-key-forge@0.44.0
