@@ -6,6 +6,7 @@
 - pkg:cargo/value-bag-serde1@1.11.0
 - pkg:cargo/value-bag-serde1@1.11.1
 - pkg:cargo/value-bag-serde1@1.12.0
+- pkg:cargo/value-bag-serde1@1.13.0
 - pkg:cargo/value-bag-serde1@1.2.0
 - pkg:cargo/value-bag-serde1@1.3.0
 - pkg:cargo/value-bag-serde1@1.4.0
