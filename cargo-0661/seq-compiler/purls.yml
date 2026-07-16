@@ -145,3 +145,7 @@
 - pkg:cargo/seq-compiler@7.4.5
 - pkg:cargo/seq-compiler@7.5.6
 - pkg:cargo/seq-compiler@7.5.7
+- pkg:cargo/seq-compiler@7.6.0
+- pkg:cargo/seq-compiler@7.6.1
+- pkg:cargo/seq-compiler@7.7.0
+- pkg:cargo/seq-compiler@7.7.1
