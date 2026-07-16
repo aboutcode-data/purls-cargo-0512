@@ -1,4 +1,8 @@
 - pkg:cargo/ratify-protocol@1.0.0-alpha.10
+- pkg:cargo/ratify-protocol@1.0.0-alpha.11
+- pkg:cargo/ratify-protocol@1.0.0-alpha.12
+- pkg:cargo/ratify-protocol@1.0.0-alpha.13
+- pkg:cargo/ratify-protocol@1.0.0-alpha.14
 - pkg:cargo/ratify-protocol@1.0.0-alpha.5
 - pkg:cargo/ratify-protocol@1.0.0-alpha.6
 - pkg:cargo/ratify-protocol@1.0.0-alpha.7
