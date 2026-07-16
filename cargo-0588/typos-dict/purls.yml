@@ -88,7 +88,12 @@
 - pkg:cargo/typos-dict@0.13.24
 - pkg:cargo/typos-dict@0.13.25
 - pkg:cargo/typos-dict@0.13.26
+- pkg:cargo/typos-dict@0.13.27
+- pkg:cargo/typos-dict@0.13.28
+- pkg:cargo/typos-dict@0.13.29
 - pkg:cargo/typos-dict@0.13.3
+- pkg:cargo/typos-dict@0.13.30
+- pkg:cargo/typos-dict@0.13.31
 - pkg:cargo/typos-dict@0.13.4
 - pkg:cargo/typos-dict@0.13.5
 - pkg:cargo/typos-dict@0.13.6
