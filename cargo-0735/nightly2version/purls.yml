@@ -25,3 +25,4 @@
 - pkg:cargo/nightly2version@1.94.0
 - pkg:cargo/nightly2version@1.94.1
 - pkg:cargo/nightly2version@1.95.0
+- pkg:cargo/nightly2version@1.97.0
