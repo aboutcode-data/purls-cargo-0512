@@ -18,3 +18,4 @@
 - pkg:cargo/termal@4.1.1
 - pkg:cargo/termal@4.2.0
 - pkg:cargo/termal@4.2.1
+- pkg:cargo/termal@5.0.0
