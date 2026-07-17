@@ -61,6 +61,10 @@
 - pkg:cargo/pgwire@0.39.0
 - pkg:cargo/pgwire@0.4.0
 - pkg:cargo/pgwire@0.40.0
+- pkg:cargo/pgwire@0.40.1
+- pkg:cargo/pgwire@0.40.2
+- pkg:cargo/pgwire@0.40.3
+- pkg:cargo/pgwire@0.40.4
 - pkg:cargo/pgwire@0.5.0
 - pkg:cargo/pgwire@0.6.0
 - pkg:cargo/pgwire@0.6.1
