@@ -15,3 +15,5 @@
 - pkg:cargo/tehuti-client-server@0.21.0
 - pkg:cargo/tehuti-client-server@0.22.0
 - pkg:cargo/tehuti-client-server@0.22.1
+- pkg:cargo/tehuti-client-server@0.23.0
+- pkg:cargo/tehuti-client-server@0.23.1
