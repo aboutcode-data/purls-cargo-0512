@@ -52,6 +52,7 @@
 - pkg:cargo/adblock@0.12.5
 - pkg:cargo/adblock@0.12.6
 - pkg:cargo/adblock@0.13.0
+- pkg:cargo/adblock@0.13.1
 - pkg:cargo/adblock@0.2.0
 - pkg:cargo/adblock@0.2.1
 - pkg:cargo/adblock@0.2.10
