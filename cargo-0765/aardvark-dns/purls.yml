@@ -19,3 +19,4 @@
 - pkg:cargo/aardvark-dns@1.7.0-dev
 - pkg:cargo/aardvark-dns@1.8.0
 - pkg:cargo/aardvark-dns@1.9.0
+- pkg:cargo/aardvark-dns@2.0.0
