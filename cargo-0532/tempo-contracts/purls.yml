@@ -4,3 +4,7 @@
 - pkg:cargo/tempo-contracts@1.5.1
 - pkg:cargo/tempo-contracts@1.6.0
 - pkg:cargo/tempo-contracts@1.7.0
+- pkg:cargo/tempo-contracts@1.7.2
+- pkg:cargo/tempo-contracts@1.7.3
+- pkg:cargo/tempo-contracts@1.8.0
+- pkg:cargo/tempo-contracts@1.8.1
