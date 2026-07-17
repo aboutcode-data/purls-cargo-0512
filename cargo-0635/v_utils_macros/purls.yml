@@ -94,6 +94,8 @@
 - pkg:cargo/v_utils_macros@2.11.53
 - pkg:cargo/v_utils_macros@2.11.54
 - pkg:cargo/v_utils_macros@2.11.55
+- pkg:cargo/v_utils_macros@2.11.56
+- pkg:cargo/v_utils_macros@2.11.57
 - pkg:cargo/v_utils_macros@2.11.6
 - pkg:cargo/v_utils_macros@2.11.7
 - pkg:cargo/v_utils_macros@2.11.8
