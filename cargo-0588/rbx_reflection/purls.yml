@@ -27,3 +27,4 @@
 - pkg:cargo/rbx_reflection@5.0.0
 - pkg:cargo/rbx_reflection@6.0.0
 - pkg:cargo/rbx_reflection@6.1.0
+- pkg:cargo/rbx_reflection@7.0.0
