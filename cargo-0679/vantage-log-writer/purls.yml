@@ -6,3 +6,4 @@
 - pkg:cargo/vantage-log-writer@0.5.2
 - pkg:cargo/vantage-log-writer@0.5.3
 - pkg:cargo/vantage-log-writer@0.6.0
+- pkg:cargo/vantage-log-writer@0.6.1
