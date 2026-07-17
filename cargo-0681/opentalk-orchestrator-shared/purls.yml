@@ -9,3 +9,4 @@
 - pkg:cargo/opentalk-orchestrator-shared@0.6.0
 - pkg:cargo/opentalk-orchestrator-shared@0.7.0
 - pkg:cargo/opentalk-orchestrator-shared@0.8.0
+- pkg:cargo/opentalk-orchestrator-shared@0.9.0
