@@ -12,6 +12,7 @@
 - pkg:cargo/objectiveai-cli@2.2.1
 - pkg:cargo/objectiveai-cli@2.2.10
 - pkg:cargo/objectiveai-cli@2.2.11
+- pkg:cargo/objectiveai-cli@2.2.12
 - pkg:cargo/objectiveai-cli@2.2.2
 - pkg:cargo/objectiveai-cli@2.2.4
 - pkg:cargo/objectiveai-cli@2.2.5
