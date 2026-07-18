@@ -43,6 +43,7 @@
 - pkg:cargo/jammi-encoders@0.44.0
 - pkg:cargo/jammi-encoders@0.45.0
 - pkg:cargo/jammi-encoders@0.46.0
+- pkg:cargo/jammi-encoders@0.47.0
 - pkg:cargo/jammi-encoders@0.5.0
 - pkg:cargo/jammi-encoders@0.5.4
 - pkg:cargo/jammi-encoders@0.5.5
