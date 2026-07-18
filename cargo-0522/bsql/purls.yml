@@ -23,3 +23,5 @@
 - pkg:cargo/bsql@0.8.0
 - pkg:cargo/bsql@0.9.0
 - pkg:cargo/bsql@1.0.0-alpha.1
+- pkg:cargo/bsql@1.0.0-alpha.2
+- pkg:cargo/bsql@1.0.0-alpha.3
