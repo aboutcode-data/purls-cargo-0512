@@ -49,3 +49,4 @@
 - pkg:cargo/opentalk-types-api-v1@0.58.1
 - pkg:cargo/opentalk-types-api-v1@0.59.0
 - pkg:cargo/opentalk-types-api-v1@0.60.0
+- pkg:cargo/opentalk-types-api-v1@0.61.0
