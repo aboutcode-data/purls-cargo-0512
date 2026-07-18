@@ -24,6 +24,7 @@
 - pkg:cargo/superposition_derives@0.115.2
 - pkg:cargo/superposition_derives@0.115.3
 - pkg:cargo/superposition_derives@0.115.4
+- pkg:cargo/superposition_derives@0.115.5
 - pkg:cargo/superposition_derives@0.3.0
 - pkg:cargo/superposition_derives@0.83.0
 - pkg:cargo/superposition_derives@0.84.0
