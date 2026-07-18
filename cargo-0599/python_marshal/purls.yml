@@ -22,3 +22,4 @@
 - pkg:cargo/python_marshal@0.4.5
 - pkg:cargo/python_marshal@0.4.6
 - pkg:cargo/python_marshal@0.4.7
+- pkg:cargo/python_marshal@0.4.8
