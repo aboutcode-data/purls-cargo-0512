@@ -9,3 +9,4 @@
 - pkg:cargo/systemstd@0.3.0
 - pkg:cargo/systemstd@1.0.0
 - pkg:cargo/systemstd@1.1.0
+- pkg:cargo/systemstd@2.0.0
