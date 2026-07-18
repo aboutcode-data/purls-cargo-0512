@@ -1,1 +1,2 @@
 - pkg:cargo/openvm-rv32-adapters@0.0.0-reserved
+- pkg:cargo/openvm-rv32-adapters@2.0.1
