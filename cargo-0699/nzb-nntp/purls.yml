@@ -1,5 +1,9 @@
 - pkg:cargo/nzb-nntp@0.2.17
 - pkg:cargo/nzb-nntp@0.2.18
+- pkg:cargo/nzb-nntp@0.2.19
+- pkg:cargo/nzb-nntp@0.2.20
+- pkg:cargo/nzb-nntp@0.2.21
+- pkg:cargo/nzb-nntp@0.2.22
 - pkg:cargo/nzb-nntp@0.2.3
 - pkg:cargo/nzb-nntp@0.2.4
 - pkg:cargo/nzb-nntp@0.2.6
