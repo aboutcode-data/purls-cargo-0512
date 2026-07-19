@@ -4,3 +4,4 @@
 - pkg:cargo/bladeink-compiler@1.2.5
 - pkg:cargo/bladeink-compiler@1.2.6
 - pkg:cargo/bladeink-compiler@1.2.7
+- pkg:cargo/bladeink-compiler@2.0.0
