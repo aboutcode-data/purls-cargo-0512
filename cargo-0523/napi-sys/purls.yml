@@ -32,3 +32,5 @@
 - pkg:cargo/napi-sys@3.1.1
 - pkg:cargo/napi-sys@3.2.0
 - pkg:cargo/napi-sys@3.2.1
+- pkg:cargo/napi-sys@3.2.2
+- pkg:cargo/napi-sys@3.2.3
