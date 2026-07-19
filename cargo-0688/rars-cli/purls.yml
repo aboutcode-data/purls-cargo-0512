@@ -6,3 +6,5 @@
 - pkg:cargo/rars-cli@0.4.0
 - pkg:cargo/rars-cli@0.4.1
 - pkg:cargo/rars-cli@0.4.2
+- pkg:cargo/rars-cli@0.4.3
+- pkg:cargo/rars-cli@0.4.4
