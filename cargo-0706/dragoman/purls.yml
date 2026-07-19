@@ -60,7 +60,11 @@
 - pkg:cargo/dragoman@0.4.24
 - pkg:cargo/dragoman@0.4.25
 - pkg:cargo/dragoman@0.4.26
+- pkg:cargo/dragoman@0.4.27
+- pkg:cargo/dragoman@0.4.28
+- pkg:cargo/dragoman@0.4.29
 - pkg:cargo/dragoman@0.4.3
+- pkg:cargo/dragoman@0.4.30
 - pkg:cargo/dragoman@0.4.4
 - pkg:cargo/dragoman@0.4.5
 - pkg:cargo/dragoman@0.4.6
