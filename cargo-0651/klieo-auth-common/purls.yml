@@ -1,0 +1,16 @@
+- pkg:cargo/klieo-auth-common@0.38.0
+- pkg:cargo/klieo-auth-common@0.39.0
+- pkg:cargo/klieo-auth-common@0.40.0
+- pkg:cargo/klieo-auth-common@0.41.0
+- pkg:cargo/klieo-auth-common@0.41.1
+- pkg:cargo/klieo-auth-common@0.41.2
+- pkg:cargo/klieo-auth-common@0.41.3
+- pkg:cargo/klieo-auth-common@1.0.0
+- pkg:cargo/klieo-auth-common@2.1.0
+- pkg:cargo/klieo-auth-common@2.2.0
+- pkg:cargo/klieo-auth-common@2.3.0
+- pkg:cargo/klieo-auth-common@3.0.0
+- pkg:cargo/klieo-auth-common@3.1.0
+- pkg:cargo/klieo-auth-common@3.2.0
+- pkg:cargo/klieo-auth-common@3.2.1
+- pkg:cargo/klieo-auth-common@3.3.0
