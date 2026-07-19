@@ -16,6 +16,9 @@
 - pkg:cargo/testty@0.12.9
 - pkg:cargo/testty@0.13.0
 - pkg:cargo/testty@0.13.1
+- pkg:cargo/testty@0.13.2
+- pkg:cargo/testty@0.13.3
+- pkg:cargo/testty@0.13.4
 - pkg:cargo/testty@0.6.10
 - pkg:cargo/testty@0.6.11
 - pkg:cargo/testty@0.6.12
