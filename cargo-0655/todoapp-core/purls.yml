@@ -4,3 +4,4 @@
 - pkg:cargo/todoapp-core@0.4.1
 - pkg:cargo/todoapp-core@0.5.0
 - pkg:cargo/todoapp-core@0.6.0
+- pkg:cargo/todoapp-core@0.7.0
