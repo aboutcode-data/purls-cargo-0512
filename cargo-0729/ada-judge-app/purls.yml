@@ -21,3 +21,5 @@
 - pkg:cargo/ada-judge-app@0.2.6
 - pkg:cargo/ada-judge-app@0.2.7
 - pkg:cargo/ada-judge-app@0.2.9
+- pkg:cargo/ada-judge-app@0.3.0
+- pkg:cargo/ada-judge-app@0.3.1
