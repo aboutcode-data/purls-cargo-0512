@@ -9,6 +9,8 @@
 - pkg:cargo/synapse-gateway@0.5.11
 - pkg:cargo/synapse-gateway@0.5.12
 - pkg:cargo/synapse-gateway@0.5.14
+- pkg:cargo/synapse-gateway@0.5.15
+- pkg:cargo/synapse-gateway@0.5.17
 - pkg:cargo/synapse-gateway@0.5.2
 - pkg:cargo/synapse-gateway@0.5.3
 - pkg:cargo/synapse-gateway@0.5.4
