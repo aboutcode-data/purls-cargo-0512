@@ -70,6 +70,7 @@
 - pkg:cargo/sea-orm-migration@1.1.8
 - pkg:cargo/sea-orm-migration@1.1.9
 - pkg:cargo/sea-orm-migration@1.2.0-rc.1
+- pkg:cargo/sea-orm-migration@2.0.0
 - pkg:cargo/sea-orm-migration@2.0.0-rc.1
 - pkg:cargo/sea-orm-migration@2.0.0-rc.10
 - pkg:cargo/sea-orm-migration@2.0.0-rc.11
