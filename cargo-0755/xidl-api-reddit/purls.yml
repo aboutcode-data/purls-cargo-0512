@@ -20,3 +20,4 @@
 - pkg:cargo/xidl-api-reddit@0.83.0
 - pkg:cargo/xidl-api-reddit@0.83.1
 - pkg:cargo/xidl-api-reddit@0.84.0
+- pkg:cargo/xidl-api-reddit@0.85.0
