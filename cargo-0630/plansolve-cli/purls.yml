@@ -5,3 +5,5 @@
 - pkg:cargo/plansolve-cli@0.1.5
 - pkg:cargo/plansolve-cli@0.25.1
 - pkg:cargo/plansolve-cli@0.25.2
+- pkg:cargo/plansolve-cli@0.25.3
+- pkg:cargo/plansolve-cli@0.25.4
