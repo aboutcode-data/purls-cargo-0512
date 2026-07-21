@@ -13,6 +13,7 @@
 - pkg:cargo/tofupilot@2.11.4
 - pkg:cargo/tofupilot@2.12.1
 - pkg:cargo/tofupilot@2.13.0
+- pkg:cargo/tofupilot@2.14.0
 - pkg:cargo/tofupilot@2.4.0
 - pkg:cargo/tofupilot@2.5.0
 - pkg:cargo/tofupilot@2.6.0
