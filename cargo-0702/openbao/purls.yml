@@ -22,3 +22,4 @@
 - pkg:cargo/openbao@2.0.0
 - pkg:cargo/openbao@2.0.1
 - pkg:cargo/openbao@2.0.2
+- pkg:cargo/openbao@2.1.0
