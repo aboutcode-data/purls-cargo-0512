@@ -2,3 +2,5 @@
 - pkg:cargo/open-tauri-remote-webview-macros@0.0.6-alpha.5
 - pkg:cargo/open-tauri-remote-webview-macros@0.0.6-alpha.6
 - pkg:cargo/open-tauri-remote-webview-macros@0.0.6-alpha.7
+- pkg:cargo/open-tauri-remote-webview-macros@0.0.7-alpha.0
+- pkg:cargo/open-tauri-remote-webview-macros@0.0.7-alpha.1
