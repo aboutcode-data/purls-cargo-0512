@@ -1,2 +1,6 @@
+- pkg:cargo/onerom-cli@0.1.10
+- pkg:cargo/onerom-cli@0.1.11
 - pkg:cargo/onerom-cli@0.1.4
 - pkg:cargo/onerom-cli@0.1.6
+- pkg:cargo/onerom-cli@0.1.8
+- pkg:cargo/onerom-cli@0.1.9
