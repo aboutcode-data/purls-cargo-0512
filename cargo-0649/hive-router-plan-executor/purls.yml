@@ -45,6 +45,7 @@
 - pkg:cargo/hive-router-plan-executor@6.21.0
 - pkg:cargo/hive-router-plan-executor@6.21.1
 - pkg:cargo/hive-router-plan-executor@6.22.1
+- pkg:cargo/hive-router-plan-executor@6.23.0
 - pkg:cargo/hive-router-plan-executor@6.3.0
 - pkg:cargo/hive-router-plan-executor@6.3.2
 - pkg:cargo/hive-router-plan-executor@6.3.3
