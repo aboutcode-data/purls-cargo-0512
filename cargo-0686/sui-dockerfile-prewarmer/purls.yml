@@ -16,6 +16,7 @@
 - pkg:cargo/sui-dockerfile-prewarmer@0.1.116
 - pkg:cargo/sui-dockerfile-prewarmer@0.1.117
 - pkg:cargo/sui-dockerfile-prewarmer@0.1.118
+- pkg:cargo/sui-dockerfile-prewarmer@0.1.141
 - pkg:cargo/sui-dockerfile-prewarmer@0.1.15
 - pkg:cargo/sui-dockerfile-prewarmer@0.1.16
 - pkg:cargo/sui-dockerfile-prewarmer@0.1.17
