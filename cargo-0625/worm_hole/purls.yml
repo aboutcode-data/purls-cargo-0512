@@ -17,3 +17,6 @@
 - pkg:cargo/worm_hole@3.0.2
 - pkg:cargo/worm_hole@4.0.0
 - pkg:cargo/worm_hole@4.0.1
+- pkg:cargo/worm_hole@4.0.2
+- pkg:cargo/worm_hole@4.1.0
+- pkg:cargo/worm_hole@4.1.1
