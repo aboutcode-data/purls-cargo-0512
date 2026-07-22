@@ -12,3 +12,5 @@
 - pkg:cargo/surrealdb-mcp@3.2.0-beta.2
 - pkg:cargo/surrealdb-mcp@3.2.0-beta.3
 - pkg:cargo/surrealdb-mcp@3.2.1
+- pkg:cargo/surrealdb-mcp@3.2.2
+- pkg:cargo/surrealdb-mcp@3.2.3
