@@ -16,6 +16,16 @@
 - pkg:cargo/embacle@0.14.4
 - pkg:cargo/embacle@0.14.5
 - pkg:cargo/embacle@0.14.6
+- pkg:cargo/embacle@0.15.13
+- pkg:cargo/embacle@0.15.14
+- pkg:cargo/embacle@0.16.0
+- pkg:cargo/embacle@0.17.0
+- pkg:cargo/embacle@0.18.0
+- pkg:cargo/embacle@0.19.0
+- pkg:cargo/embacle@0.19.3
+- pkg:cargo/embacle@0.19.4
+- pkg:cargo/embacle@0.19.5
+- pkg:cargo/embacle@0.19.6
 - pkg:cargo/embacle@0.2.1
 - pkg:cargo/embacle@0.3.0
 - pkg:cargo/embacle@0.4.0
