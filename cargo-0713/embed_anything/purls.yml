@@ -16,3 +16,4 @@
 - pkg:cargo/embed_anything@0.6.4
 - pkg:cargo/embed_anything@0.6.5
 - pkg:cargo/embed_anything@0.6.7
+- pkg:cargo/embed_anything@0.7.1
