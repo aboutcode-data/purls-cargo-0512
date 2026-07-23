@@ -1,3 +1,7 @@
-- pkg:cargo/xhfs@0.2.0
-- pkg:cargo/xhfs@0.2.1
-- pkg:cargo/xhfs@0.2.2
+- pkg:cargo/xhfs@0.3.11
+- pkg:cargo/xhfs@0.3.4
+- pkg:cargo/xhfs@0.3.6
+- pkg:cargo/xhfs@0.3.8
+- pkg:cargo/xhfs@0.3.9
+- pkg:cargo/xhfs@0.4.0
+- pkg:cargo/xhfs@0.4.5
