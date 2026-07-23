@@ -2,5 +2,6 @@
 - pkg:cargo/caching-matrix@1.13.0
 - pkg:cargo/caching-matrix@1.13.1
 - pkg:cargo/caching-matrix@1.14.0
+- pkg:cargo/caching-matrix@1.14.2
 - pkg:cargo/caching-matrix@1.9.1
 - pkg:cargo/caching-matrix@1.9.4

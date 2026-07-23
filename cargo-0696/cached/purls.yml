@@ -102,3 +102,5 @@
 - pkg:cargo/cached@3.0.0-rc.5
 - pkg:cargo/cached@3.0.0-rc.6
 - pkg:cargo/cached@3.0.0-rc.7
+- pkg:cargo/cached@3.0.0-rc.8
+- pkg:cargo/cached@3.0.0-rc.9
