@@ -11,3 +11,4 @@
 - pkg:cargo/mock_instant@0.5.2
 - pkg:cargo/mock_instant@0.5.3
 - pkg:cargo/mock_instant@0.6.0
+- pkg:cargo/mock_instant@0.6.1
