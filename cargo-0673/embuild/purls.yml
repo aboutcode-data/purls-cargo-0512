@@ -43,3 +43,4 @@
 - pkg:cargo/embuild@0.32.0
 - pkg:cargo/embuild@0.33.0
 - pkg:cargo/embuild@0.33.1
+- pkg:cargo/embuild@0.33.2
