@@ -75,3 +75,5 @@
 - pkg:cargo/mit-commit@3.2.3
 - pkg:cargo/mit-commit@3.3.0
 - pkg:cargo/mit-commit@3.3.1
+- pkg:cargo/mit-commit@3.3.2
+- pkg:cargo/mit-commit@3.3.3
