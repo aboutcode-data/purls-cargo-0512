@@ -7,3 +7,5 @@
 - pkg:cargo/holochain_client_instrumented@0.5.0
 - pkg:cargo/holochain_client_instrumented@0.5.0-dev.0
 - pkg:cargo/holochain_client_instrumented@0.6.0
+- pkg:cargo/holochain_client_instrumented@0.7.0
+- pkg:cargo/holochain_client_instrumented@0.7.1
