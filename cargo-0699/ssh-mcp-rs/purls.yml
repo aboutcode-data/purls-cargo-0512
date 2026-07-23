@@ -1,2 +1,4 @@
 - pkg:cargo/ssh-mcp-rs@2.1.0
 - pkg:cargo/ssh-mcp-rs@3.0.0
+- pkg:cargo/ssh-mcp-rs@3.0.1
+- pkg:cargo/ssh-mcp-rs@3.0.2
