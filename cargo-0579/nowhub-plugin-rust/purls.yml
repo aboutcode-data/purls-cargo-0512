@@ -1,0 +1,3 @@
+- pkg:cargo/nowhub-plugin-rust@1.0.0
+- pkg:cargo/nowhub-plugin-rust@1.0.1
+- pkg:cargo/nowhub-plugin-rust@1.0.2
