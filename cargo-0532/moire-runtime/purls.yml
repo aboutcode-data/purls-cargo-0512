@@ -1,3 +1,4 @@
 - pkg:cargo/moire-runtime@0.0.0
 - pkg:cargo/moire-runtime@1.0.0
 - pkg:cargo/moire-runtime@1.0.1
+- pkg:cargo/moire-runtime@2.0.0-rc.0
