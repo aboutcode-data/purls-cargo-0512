@@ -2,3 +2,5 @@
 - pkg:cargo/miden-debug-dap@0.6.1
 - pkg:cargo/miden-debug-dap@0.7.0
 - pkg:cargo/miden-debug-dap@0.7.1
+- pkg:cargo/miden-debug-dap@0.8.0
+- pkg:cargo/miden-debug-dap@0.9.0
