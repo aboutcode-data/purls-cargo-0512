@@ -9,3 +9,4 @@
 - pkg:cargo/nodejs-semver@4.0.0
 - pkg:cargo/nodejs-semver@4.1.0
 - pkg:cargo/nodejs-semver@4.2.0
+- pkg:cargo/nodejs-semver@5.0.0
