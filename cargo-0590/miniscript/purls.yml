@@ -51,7 +51,10 @@
 - pkg:cargo/miniscript@12.3.4
 - pkg:cargo/miniscript@12.3.5
 - pkg:cargo/miniscript@12.3.6
+- pkg:cargo/miniscript@12.3.7
 - pkg:cargo/miniscript@13.0.0
+- pkg:cargo/miniscript@13.0.1
+- pkg:cargo/miniscript@13.1.0
 - pkg:cargo/miniscript@2.0.0
 - pkg:cargo/miniscript@2.1.0
 - pkg:cargo/miniscript@3.0.0
