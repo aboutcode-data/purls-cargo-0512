@@ -13,3 +13,6 @@
 - pkg:cargo/fastlanes@0.3.0
 - pkg:cargo/fastlanes@0.4.0
 - pkg:cargo/fastlanes@0.5.0
+- pkg:cargo/fastlanes@0.5.1
+- pkg:cargo/fastlanes@0.5.2
+- pkg:cargo/fastlanes@0.6.0
