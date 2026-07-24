@@ -1,0 +1,6 @@
+- pkg:cargo/faucet-source-mysql@1.0.0
+- pkg:cargo/faucet-source-mysql@1.1.0
+- pkg:cargo/faucet-source-mysql@1.1.1
+- pkg:cargo/faucet-source-mysql@1.2.0
+- pkg:cargo/faucet-source-mysql@1.3.0
+- pkg:cargo/faucet-source-mysql@1.4.0
