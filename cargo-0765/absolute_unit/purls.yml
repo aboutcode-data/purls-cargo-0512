@@ -4,4 +4,6 @@
 - pkg:cargo/absolute_unit@0.11.2
 - pkg:cargo/absolute_unit@0.11.3
 - pkg:cargo/absolute_unit@0.11.4
+- pkg:cargo/absolute_unit@0.12.0
+- pkg:cargo/absolute_unit@0.12.1
 - pkg:cargo/absolute_unit@0.9.0
