@@ -20,3 +20,5 @@
 - pkg:cargo/htsget-axum@0.8.4
 - pkg:cargo/htsget-axum@0.8.5
 - pkg:cargo/htsget-axum@0.8.6
+- pkg:cargo/htsget-axum@0.9.0
+- pkg:cargo/htsget-axum@0.9.1
