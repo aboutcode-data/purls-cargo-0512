@@ -51,3 +51,5 @@
 - pkg:cargo/vrc-get@1.9.0-rc.0
 - pkg:cargo/vrc-get@1.9.1
 - pkg:cargo/vrc-get@1.9.1-beta.1
+- pkg:cargo/vrc-get@1.9.2
+- pkg:cargo/vrc-get@1.9.2-rc.0
