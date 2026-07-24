@@ -111,3 +111,6 @@
 - pkg:cargo/lance-datagen@4.0.0
 - pkg:cargo/lance-datagen@4.0.1
 - pkg:cargo/lance-datagen@6.0.0
+- pkg:cargo/lance-datagen@6.0.1
+- pkg:cargo/lance-datagen@7.0.0
+- pkg:cargo/lance-datagen@8.0.0

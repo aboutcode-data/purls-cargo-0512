@@ -31,6 +31,8 @@
 - pkg:cargo/lancedb@0.27.1
 - pkg:cargo/lancedb@0.27.2
 - pkg:cargo/lancedb@0.29.0
+- pkg:cargo/lancedb@0.30.0
+- pkg:cargo/lancedb@0.31.0
 - pkg:cargo/lancedb@0.4.11
 - pkg:cargo/lancedb@0.4.12
 - pkg:cargo/lancedb@0.4.13
