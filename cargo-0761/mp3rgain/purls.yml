@@ -30,6 +30,7 @@
 - pkg:cargo/mp3rgain@2.0.3
 - pkg:cargo/mp3rgain@2.0.4
 - pkg:cargo/mp3rgain@2.1.0
+- pkg:cargo/mp3rgain@2.10.0
 - pkg:cargo/mp3rgain@2.2.0
 - pkg:cargo/mp3rgain@2.2.1
 - pkg:cargo/mp3rgain@2.2.2
@@ -40,3 +41,18 @@
 - pkg:cargo/mp3rgain@2.5.0
 - pkg:cargo/mp3rgain@2.6.0
 - pkg:cargo/mp3rgain@2.6.1
+- pkg:cargo/mp3rgain@2.6.2
+- pkg:cargo/mp3rgain@2.6.3
+- pkg:cargo/mp3rgain@2.7.0
+- pkg:cargo/mp3rgain@2.7.1
+- pkg:cargo/mp3rgain@2.7.2
+- pkg:cargo/mp3rgain@2.7.3
+- pkg:cargo/mp3rgain@2.8.0
+- pkg:cargo/mp3rgain@2.8.1
+- pkg:cargo/mp3rgain@2.9.0
+- pkg:cargo/mp3rgain@2.9.1
+- pkg:cargo/mp3rgain@2.9.2
+- pkg:cargo/mp3rgain@2.9.3
+- pkg:cargo/mp3rgain@2.9.4
+- pkg:cargo/mp3rgain@2.9.5
+- pkg:cargo/mp3rgain@2.9.6
