@@ -5,3 +5,5 @@
 - pkg:cargo/http-request-derive-client-reqwest@0.4.1
 - pkg:cargo/http-request-derive-client-reqwest@0.4.2
 - pkg:cargo/http-request-derive-client-reqwest@0.5.0
+- pkg:cargo/http-request-derive-client-reqwest@0.6.0
+- pkg:cargo/http-request-derive-client-reqwest@0.6.1
