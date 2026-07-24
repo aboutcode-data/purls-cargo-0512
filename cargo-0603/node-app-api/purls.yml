@@ -34,3 +34,4 @@
 - pkg:cargo/node-app-api@6.1.0
 - pkg:cargo/node-app-api@6.1.1
 - pkg:cargo/node-app-api@6.2.0
+- pkg:cargo/node-app-api@6.3.0
