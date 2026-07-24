@@ -13,6 +13,10 @@
 - pkg:cargo/ptars@0.0.15
 - pkg:cargo/ptars@0.0.16
 - pkg:cargo/ptars@0.0.17
+- pkg:cargo/ptars@0.0.18
+- pkg:cargo/ptars@0.0.19
+- pkg:cargo/ptars@0.0.20
+- pkg:cargo/ptars@0.0.21
 - pkg:cargo/ptars@0.0.7
 - pkg:cargo/ptars@0.0.8
 - pkg:cargo/ptars@0.0.9
