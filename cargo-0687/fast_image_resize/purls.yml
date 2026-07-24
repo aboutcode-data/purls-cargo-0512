@@ -56,3 +56,4 @@
 - pkg:cargo/fast_image_resize@5.5.0
 - pkg:cargo/fast_image_resize@5.6.0
 - pkg:cargo/fast_image_resize@6.0.0
+- pkg:cargo/fast_image_resize@6.1.0
