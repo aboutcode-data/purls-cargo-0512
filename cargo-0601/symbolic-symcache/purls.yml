@@ -80,6 +80,7 @@
 - pkg:cargo/symbolic-symcache@13.9.0
 - pkg:cargo/symbolic-symcache@14.0.0-alpha.1
 - pkg:cargo/symbolic-symcache@14.0.0-alpha.2
+- pkg:cargo/symbolic-symcache@14.0.0-alpha.3
 - pkg:cargo/symbolic-symcache@2.0.0
 - pkg:cargo/symbolic-symcache@2.0.1
 - pkg:cargo/symbolic-symcache@2.0.2
