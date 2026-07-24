@@ -31,3 +31,4 @@
 - pkg:cargo/openpgp-card@0.5.1
 - pkg:cargo/openpgp-card@0.6.0
 - pkg:cargo/openpgp-card@0.6.1
+- pkg:cargo/openpgp-card@0.7.0
