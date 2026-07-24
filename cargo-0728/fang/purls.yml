@@ -4,6 +4,7 @@
 - pkg:cargo/fang@0.10.2
 - pkg:cargo/fang@0.10.3
 - pkg:cargo/fang@0.10.4
+- pkg:cargo/fang@0.11.0
 - pkg:cargo/fang@0.11.0-rc0
 - pkg:cargo/fang@0.11.0-rc1
 - pkg:cargo/fang@0.2.0
