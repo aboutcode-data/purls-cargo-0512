@@ -21,3 +21,6 @@
 - pkg:cargo/langchainrust@0.2.7
 - pkg:cargo/langchainrust@0.2.8
 - pkg:cargo/langchainrust@0.2.9
+- pkg:cargo/langchainrust@0.3.0
+- pkg:cargo/langchainrust@0.4.0
+- pkg:cargo/langchainrust@0.4.1
