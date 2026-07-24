@@ -29,6 +29,8 @@
 - pkg:cargo/noetl@4.18.0
 - pkg:cargo/noetl@4.19.0
 - pkg:cargo/noetl@4.2.0
+- pkg:cargo/noetl@4.20.0
+- pkg:cargo/noetl@4.21.0
 - pkg:cargo/noetl@4.3.0
 - pkg:cargo/noetl@4.4.0
 - pkg:cargo/noetl@4.5.0
