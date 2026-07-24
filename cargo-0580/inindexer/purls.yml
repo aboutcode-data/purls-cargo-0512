@@ -15,3 +15,5 @@
 - pkg:cargo/inindexer@5.0.0
 - pkg:cargo/inindexer@5.0.1
 - pkg:cargo/inindexer@6.0.0
+- pkg:cargo/inindexer@7.0.0
+- pkg:cargo/inindexer@8.0.0
