@@ -5,6 +5,7 @@
 - pkg:cargo/noya-cli@0.0.13
 - pkg:cargo/noya-cli@0.0.15
 - pkg:cargo/noya-cli@0.0.16
+- pkg:cargo/noya-cli@0.0.17
 - pkg:cargo/noya-cli@0.0.2
 - pkg:cargo/noya-cli@0.0.3
 - pkg:cargo/noya-cli@0.0.4
