@@ -57,6 +57,10 @@
 - pkg:cargo/former_meta@2.41.0
 - pkg:cargo/former_meta@2.42.0
 - pkg:cargo/former_meta@2.43.0
+- pkg:cargo/former_meta@2.44.0
+- pkg:cargo/former_meta@2.45.0
+- pkg:cargo/former_meta@2.46.1
+- pkg:cargo/former_meta@2.47.1
 - pkg:cargo/former_meta@2.5.0
 - pkg:cargo/former_meta@2.6.0
 - pkg:cargo/former_meta@2.7.0
