@@ -5,6 +5,13 @@
 - pkg:cargo/swh-graph@11.2.1
 - pkg:cargo/swh-graph@11.3.0
 - pkg:cargo/swh-graph@11.4.1
+- pkg:cargo/swh-graph@11.4.3
+- pkg:cargo/swh-graph@11.4.4
+- pkg:cargo/swh-graph@11.4.5
+- pkg:cargo/swh-graph@12.0.0
+- pkg:cargo/swh-graph@12.1.0
+- pkg:cargo/swh-graph@12.1.1
+- pkg:cargo/swh-graph@12.1.2
 - pkg:cargo/swh-graph@5.0.0
 - pkg:cargo/swh-graph@5.1.0
 - pkg:cargo/swh-graph@5.1.1
