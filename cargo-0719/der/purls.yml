@@ -61,3 +61,4 @@
 - pkg:cargo/der@0.8.0-rc.7
 - pkg:cargo/der@0.8.0-rc.8
 - pkg:cargo/der@0.8.0-rc.9
+- pkg:cargo/der@0.8.1
