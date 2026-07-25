@@ -1,6 +1,9 @@
 - pkg:cargo/swc_ecma_regexp_visit@0.0.0
 - pkg:cargo/swc_ecma_regexp_visit@0.1.0
 - pkg:cargo/swc_ecma_regexp_visit@0.10.0
+- pkg:cargo/swc_ecma_regexp_visit@0.11.0
+- pkg:cargo/swc_ecma_regexp_visit@0.12.0
+- pkg:cargo/swc_ecma_regexp_visit@0.13.0
 - pkg:cargo/swc_ecma_regexp_visit@0.2.0
 - pkg:cargo/swc_ecma_regexp_visit@0.2.1
 - pkg:cargo/swc_ecma_regexp_visit@0.3.0
