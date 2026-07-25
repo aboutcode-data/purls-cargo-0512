@@ -2,6 +2,10 @@
 - pkg:cargo/swc_plugin_backend_wasmtime@0.2.0
 - pkg:cargo/swc_plugin_backend_wasmtime@1.0.0
 - pkg:cargo/swc_plugin_backend_wasmtime@1.0.2
+- pkg:cargo/swc_plugin_backend_wasmtime@10.0.0
+- pkg:cargo/swc_plugin_backend_wasmtime@11.0.0
+- pkg:cargo/swc_plugin_backend_wasmtime@12.0.0
+- pkg:cargo/swc_plugin_backend_wasmtime@13.0.0
 - pkg:cargo/swc_plugin_backend_wasmtime@2.0.0
 - pkg:cargo/swc_plugin_backend_wasmtime@3.0.0
 - pkg:cargo/swc_plugin_backend_wasmtime@4.0.0

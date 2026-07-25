@@ -323,6 +323,11 @@
 - pkg:cargo/swc_common@21.0.0
 - pkg:cargo/swc_common@21.0.1
 - pkg:cargo/swc_common@21.0.2
+- pkg:cargo/swc_common@22.0.0
+- pkg:cargo/swc_common@23.0.0
+- pkg:cargo/swc_common@23.0.1
+- pkg:cargo/swc_common@23.0.2
+- pkg:cargo/swc_common@24.0.0
 - pkg:cargo/swc_common@3.0.0
 - pkg:cargo/swc_common@4.0.0
 - pkg:cargo/swc_common@4.0.1
