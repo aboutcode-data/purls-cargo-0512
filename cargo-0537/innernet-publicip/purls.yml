@@ -1,2 +1,3 @@
 - pkg:cargo/innernet-publicip@1.7.0
 - pkg:cargo/innernet-publicip@1.7.1
+- pkg:cargo/innernet-publicip@2.0.0
