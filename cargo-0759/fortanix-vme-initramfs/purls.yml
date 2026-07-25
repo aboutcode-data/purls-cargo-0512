@@ -1,1 +1,2 @@
 - pkg:cargo/fortanix-vme-initramfs@0.1.0
+- pkg:cargo/fortanix-vme-initramfs@0.2.0
