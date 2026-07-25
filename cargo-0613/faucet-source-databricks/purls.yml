@@ -1,1 +1,2 @@
 - pkg:cargo/faucet-source-databricks@1.0.0
+- pkg:cargo/faucet-source-databricks@1.1.0
