@@ -1,1 +1,4 @@
 - pkg:cargo/rkt@0.6.0
+- pkg:cargo/rkt@1.0.0
+- pkg:cargo/rkt@1.0.1
+- pkg:cargo/rkt@1.1.0
