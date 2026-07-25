@@ -22,3 +22,8 @@
 - pkg:cargo/gpt-image-2-core@0.6.6
 - pkg:cargo/gpt-image-2-core@0.6.7
 - pkg:cargo/gpt-image-2-core@0.6.8
+- pkg:cargo/gpt-image-2-core@0.6.9
+- pkg:cargo/gpt-image-2-core@0.7.0
+- pkg:cargo/gpt-image-2-core@0.7.1
+- pkg:cargo/gpt-image-2-core@0.7.2
+- pkg:cargo/gpt-image-2-core@0.7.3
