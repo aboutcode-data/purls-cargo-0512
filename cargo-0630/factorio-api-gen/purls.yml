@@ -12,3 +12,4 @@
 - pkg:cargo/factorio-api-gen@0.2.1
 - pkg:cargo/factorio-api-gen@0.3.0
 - pkg:cargo/factorio-api-gen@0.3.2
+- pkg:cargo/factorio-api-gen@0.4.0
