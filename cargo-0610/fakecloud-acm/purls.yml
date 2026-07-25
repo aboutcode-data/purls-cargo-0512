@@ -49,3 +49,4 @@
 - pkg:cargo/fakecloud-acm@0.43.0
 - pkg:cargo/fakecloud-acm@0.44.0
 - pkg:cargo/fakecloud-acm@0.44.1
+- pkg:cargo/fakecloud-acm@0.44.2
