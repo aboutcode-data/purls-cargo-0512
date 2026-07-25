@@ -93,3 +93,4 @@
 - pkg:cargo/noodles-vcf@0.88.0
 - pkg:cargo/noodles-vcf@0.89.0
 - pkg:cargo/noodles-vcf@0.9.0
+- pkg:cargo/noodles-vcf@0.90.0
