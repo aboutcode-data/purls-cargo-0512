@@ -1,3 +1,4 @@
 - pkg:cargo/lambdamux@0.1.0
 - pkg:cargo/lambdamux@1.0.0
 - pkg:cargo/lambdamux@1.0.1
+- pkg:cargo/lambdamux@1.0.2
