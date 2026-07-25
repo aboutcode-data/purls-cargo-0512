@@ -130,3 +130,4 @@
 - pkg:cargo/injective-cosmwasm@0.3.4-1
 - pkg:cargo/injective-cosmwasm@0.3.5-1
 - pkg:cargo/injective-cosmwasm@0.3.6
+- pkg:cargo/injective-cosmwasm@0.3.7
