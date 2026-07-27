@@ -36,3 +36,4 @@
 - pkg:cargo/node-app-build@6.4.3
 - pkg:cargo/node-app-build@6.5.0
 - pkg:cargo/node-app-build@6.6.0
+- pkg:cargo/node-app-build@6.7.0
