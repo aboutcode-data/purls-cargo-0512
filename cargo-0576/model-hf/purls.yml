@@ -1,1 +1,2 @@
 - pkg:cargo/model-hf@0.68.0
+- pkg:cargo/model-hf@0.74.0
