@@ -9,3 +9,4 @@
 - pkg:cargo/fakecloud-efs@0.44.1
 - pkg:cargo/fakecloud-efs@0.44.2
 - pkg:cargo/fakecloud-efs@0.44.3
+- pkg:cargo/fakecloud-efs@0.44.4
