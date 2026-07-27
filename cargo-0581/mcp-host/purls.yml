@@ -36,4 +36,5 @@
 - pkg:cargo/mcp-host@0.1.7
 - pkg:cargo/mcp-host@0.1.70
 - pkg:cargo/mcp-host@0.1.8
+- pkg:cargo/mcp-host@0.1.80
 - pkg:cargo/mcp-host@0.1.9
