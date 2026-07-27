@@ -1,3 +1,4 @@
 - pkg:cargo/cf-gears-tenant-resolver@0.1.21
 - pkg:cargo/cf-gears-tenant-resolver@0.1.22
 - pkg:cargo/cf-gears-tenant-resolver@0.1.23
+- pkg:cargo/cf-gears-tenant-resolver@0.1.24

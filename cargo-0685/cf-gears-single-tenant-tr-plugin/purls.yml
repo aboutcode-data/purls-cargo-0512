@@ -1,3 +1,4 @@
 - pkg:cargo/cf-gears-single-tenant-tr-plugin@0.1.22
 - pkg:cargo/cf-gears-single-tenant-tr-plugin@0.1.23
 - pkg:cargo/cf-gears-single-tenant-tr-plugin@0.1.24
+- pkg:cargo/cf-gears-single-tenant-tr-plugin@0.1.25
