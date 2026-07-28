@@ -42,3 +42,4 @@
 - pkg:cargo/fakecloud-k8s@0.44.3
 - pkg:cargo/fakecloud-k8s@0.44.4
 - pkg:cargo/fakecloud-k8s@0.44.5
+- pkg:cargo/fakecloud-k8s@0.44.6
