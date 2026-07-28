@@ -22,3 +22,4 @@
 - pkg:cargo/fory-derive@1.3.0-rc.1
 - pkg:cargo/fory-derive@1.4.0
 - pkg:cargo/fory-derive@1.4.0-rc.1
+- pkg:cargo/fory-derive@1.5.0-rc.1
