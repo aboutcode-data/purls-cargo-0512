@@ -293,3 +293,4 @@
 - pkg:cargo/holochain_test_wasm_common@0.7.0-rc.1
 - pkg:cargo/holochain_test_wasm_common@0.7.0-rc.2
 - pkg:cargo/holochain_test_wasm_common@0.7.0-rc.3
+- pkg:cargo/holochain_test_wasm_common@0.7.0-rc.4
