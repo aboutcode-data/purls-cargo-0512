@@ -1,0 +1,2 @@
+- pkg:cargo/http3-quic@0.0.10
+- pkg:cargo/http3-quic@0.0.11
