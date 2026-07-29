@@ -61,3 +61,4 @@
 - pkg:cargo/mockforge-platform-signing@0.3.208
 - pkg:cargo/mockforge-platform-signing@0.3.209
 - pkg:cargo/mockforge-platform-signing@0.3.210
+- pkg:cargo/mockforge-platform-signing@0.3.211
