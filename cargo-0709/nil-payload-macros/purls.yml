@@ -25,3 +25,5 @@
 - pkg:cargo/nil-payload-macros@0.7.0
 - pkg:cargo/nil-payload-macros@0.7.1
 - pkg:cargo/nil-payload-macros@0.7.2
+- pkg:cargo/nil-payload-macros@0.7.3
+- pkg:cargo/nil-payload-macros@0.7.4
