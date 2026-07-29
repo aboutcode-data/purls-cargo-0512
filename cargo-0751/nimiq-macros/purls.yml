@@ -13,3 +13,4 @@
 - pkg:cargo/nimiq-macros@1.6.1
 - pkg:cargo/nimiq-macros@1.7.0
 - pkg:cargo/nimiq-macros@1.7.1
+- pkg:cargo/nimiq-macros@1.7.2
