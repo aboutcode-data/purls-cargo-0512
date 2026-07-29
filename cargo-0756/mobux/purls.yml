@@ -35,6 +35,8 @@
 - pkg:cargo/mobux@0.22.1
 - pkg:cargo/mobux@0.23.0
 - pkg:cargo/mobux@0.24.0
+- pkg:cargo/mobux@0.25.0
+- pkg:cargo/mobux@0.25.1
 - pkg:cargo/mobux@0.3.0
 - pkg:cargo/mobux@0.4.0
 - pkg:cargo/mobux@0.5.0
