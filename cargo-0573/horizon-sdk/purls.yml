@@ -4,3 +4,5 @@
 - pkg:cargo/horizon-sdk@6.9.0
 - pkg:cargo/horizon-sdk@7.0.0
 - pkg:cargo/horizon-sdk@8.0.0
+- pkg:cargo/horizon-sdk@8.1.0
+- pkg:cargo/horizon-sdk@8.1.1
