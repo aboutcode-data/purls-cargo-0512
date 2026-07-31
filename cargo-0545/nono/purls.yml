@@ -82,5 +82,6 @@
 - pkg:cargo/nono@0.69.0
 - pkg:cargo/nono@0.7.0
 - pkg:cargo/nono@0.70.0
+- pkg:cargo/nono@0.71.0
 - pkg:cargo/nono@0.8.1
 - pkg:cargo/nono@0.9.0
