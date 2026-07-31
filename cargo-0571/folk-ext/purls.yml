@@ -26,3 +26,5 @@
 - pkg:cargo/folk-ext@0.5.0
 - pkg:cargo/folk-ext@0.5.1
 - pkg:cargo/folk-ext@0.6.0
+- pkg:cargo/folk-ext@0.6.1
+- pkg:cargo/folk-ext@0.6.2
