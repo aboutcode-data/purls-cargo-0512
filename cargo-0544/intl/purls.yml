@@ -17,3 +17,5 @@
 - pkg:cargo/intl@0.5.3
 - pkg:cargo/intl@0.5.4
 - pkg:cargo/intl@0.5.5
+- pkg:cargo/intl@0.5.6
+- pkg:cargo/intl@0.6.0
