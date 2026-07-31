@@ -212,6 +212,7 @@
 - pkg:cargo/swc_plugin_proxy@25.0.0
 - pkg:cargo/swc_plugin_proxy@26.0.0
 - pkg:cargo/swc_plugin_proxy@27.0.0
+- pkg:cargo/swc_plugin_proxy@28.0.0
 - pkg:cargo/swc_plugin_proxy@3.0.0
 - pkg:cargo/swc_plugin_proxy@4.0.0
 - pkg:cargo/swc_plugin_proxy@5.0.0

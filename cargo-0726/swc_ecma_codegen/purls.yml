@@ -607,6 +607,7 @@
 - pkg:cargo/swc_ecma_codegen@28.0.2
 - pkg:cargo/swc_ecma_codegen@29.0.0
 - pkg:cargo/swc_ecma_codegen@3.0.0
+- pkg:cargo/swc_ecma_codegen@30.0.0
 - pkg:cargo/swc_ecma_codegen@4.0.0
 - pkg:cargo/swc_ecma_codegen@4.0.1
 - pkg:cargo/swc_ecma_codegen@4.0.2

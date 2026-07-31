@@ -161,6 +161,7 @@
 - pkg:cargo/swc_ecma_compat_es2022@49.0.0
 - pkg:cargo/swc_ecma_compat_es2022@5.0.0
 - pkg:cargo/swc_ecma_compat_es2022@50.0.0
+- pkg:cargo/swc_ecma_compat_es2022@51.0.0
 - pkg:cargo/swc_ecma_compat_es2022@6.0.0
 - pkg:cargo/swc_ecma_compat_es2022@6.0.1
 - pkg:cargo/swc_ecma_compat_es2022@7.0.0
