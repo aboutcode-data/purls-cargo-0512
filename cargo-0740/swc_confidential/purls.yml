@@ -70,6 +70,7 @@
 - pkg:cargo/swc_confidential@12.0.0
 - pkg:cargo/swc_confidential@13.0.0
 - pkg:cargo/swc_confidential@14.0.0
+- pkg:cargo/swc_confidential@15.0.0
 - pkg:cargo/swc_confidential@2.0.0
 - pkg:cargo/swc_confidential@3.0.0
 - pkg:cargo/swc_confidential@4.0.0
