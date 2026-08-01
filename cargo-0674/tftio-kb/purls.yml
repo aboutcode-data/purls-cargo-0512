@@ -2,3 +2,9 @@
 - pkg:cargo/tftio-kb@2.5.2
 - pkg:cargo/tftio-kb@2.5.3
 - pkg:cargo/tftio-kb@2.5.4
+- pkg:cargo/tftio-kb@2.6.0
+- pkg:cargo/tftio-kb@2.7.0
+- pkg:cargo/tftio-kb@3.0.0
+- pkg:cargo/tftio-kb@3.1.0
+- pkg:cargo/tftio-kb@3.2.0
+- pkg:cargo/tftio-kb@4.0.0
