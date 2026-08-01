@@ -21,3 +21,7 @@
 - pkg:cargo/opt@0.5.7
 - pkg:cargo/opt@0.5.8
 - pkg:cargo/opt@0.5.9
+- pkg:cargo/opt@0.6.0
+- pkg:cargo/opt@0.7.0
+- pkg:cargo/opt@0.8.0
+- pkg:cargo/opt@0.8.1
