@@ -3,3 +3,4 @@
 - pkg:cargo/noyalib-wasm@0.0.15
 - pkg:cargo/noyalib-wasm@0.0.16
 - pkg:cargo/noyalib-wasm@0.0.17
+- pkg:cargo/noyalib-wasm@0.0.18
