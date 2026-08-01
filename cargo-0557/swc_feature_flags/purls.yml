@@ -9,6 +9,7 @@
 - pkg:cargo/swc_feature_flags@12.0.0
 - pkg:cargo/swc_feature_flags@13.0.0
 - pkg:cargo/swc_feature_flags@14.0.0
+- pkg:cargo/swc_feature_flags@15.0.0
 - pkg:cargo/swc_feature_flags@2.0.0
 - pkg:cargo/swc_feature_flags@3.0.0
 - pkg:cargo/swc_feature_flags@4.0.0
