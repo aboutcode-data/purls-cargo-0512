@@ -10,3 +10,4 @@
 - pkg:cargo/qta@2.57.0
 - pkg:cargo/qta@2.7.1
 - pkg:cargo/qta@2.9.0
+- pkg:cargo/qta@3.0.0
