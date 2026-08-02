@@ -44,6 +44,7 @@
 - pkg:cargo/bobcat-events@0.7.44
 - pkg:cargo/bobcat-events@0.7.45
 - pkg:cargo/bobcat-events@0.7.47
+- pkg:cargo/bobcat-events@0.7.48
 - pkg:cargo/bobcat-events@0.7.5
 - pkg:cargo/bobcat-events@0.7.6
 - pkg:cargo/bobcat-events@0.7.7
