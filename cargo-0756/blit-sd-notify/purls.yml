@@ -1,1 +1,2 @@
 - pkg:cargo/blit-sd-notify@0.43.0
+- pkg:cargo/blit-sd-notify@0.44.0
