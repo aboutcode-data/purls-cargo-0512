@@ -56,6 +56,7 @@
 - pkg:cargo/noetl-tools@3.24.0
 - pkg:cargo/noetl-tools@3.25.0
 - pkg:cargo/noetl-tools@3.26.0
+- pkg:cargo/noetl-tools@3.26.1
 - pkg:cargo/noetl-tools@3.3.0
 - pkg:cargo/noetl-tools@3.4.0
 - pkg:cargo/noetl-tools@3.5.0
