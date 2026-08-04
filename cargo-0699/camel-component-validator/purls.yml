@@ -16,6 +16,7 @@
 - pkg:cargo/camel-component-validator@0.24.0
 - pkg:cargo/camel-component-validator@0.25.0
 - pkg:cargo/camel-component-validator@0.25.1
+- pkg:cargo/camel-component-validator@0.26.0
 - pkg:cargo/camel-component-validator@0.6.3
 - pkg:cargo/camel-component-validator@0.7.0
 - pkg:cargo/camel-component-validator@0.7.1
