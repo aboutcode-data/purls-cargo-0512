@@ -170,3 +170,4 @@
 - pkg:cargo/inferadb-common-ratelimit@0.1.0-dev.20260802
 - pkg:cargo/inferadb-common-ratelimit@0.1.0-dev.20260803
 - pkg:cargo/inferadb-common-ratelimit@0.1.0-dev.20260804
+- pkg:cargo/inferadb-common-ratelimit@0.1.0-dev.20260805
