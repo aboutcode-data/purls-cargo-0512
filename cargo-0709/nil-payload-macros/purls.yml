@@ -28,6 +28,8 @@
 - pkg:cargo/nil-payload-macros@0.7.11
 - pkg:cargo/nil-payload-macros@0.7.12
 - pkg:cargo/nil-payload-macros@0.7.13
+- pkg:cargo/nil-payload-macros@0.7.14
+- pkg:cargo/nil-payload-macros@0.7.15
 - pkg:cargo/nil-payload-macros@0.7.2
 - pkg:cargo/nil-payload-macros@0.7.3
 - pkg:cargo/nil-payload-macros@0.7.4
