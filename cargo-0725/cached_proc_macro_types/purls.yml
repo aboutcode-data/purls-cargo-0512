@@ -2,6 +2,7 @@
 - pkg:cargo/cached_proc_macro_types@0.1.1
 - pkg:cargo/cached_proc_macro_types@1.0.0
 - pkg:cargo/cached_proc_macro_types@3.0.0-rc.1
+- pkg:cargo/cached_proc_macro_types@3.0.0-rc.10
 - pkg:cargo/cached_proc_macro_types@3.0.0-rc.2
 - pkg:cargo/cached_proc_macro_types@3.0.0-rc.3
 - pkg:cargo/cached_proc_macro_types@3.0.0-rc.4
