@@ -72,3 +72,4 @@
 - pkg:cargo/jsonschema-cli@0.49.2
 - pkg:cargo/jsonschema-cli@0.49.3
 - pkg:cargo/jsonschema-cli@0.49.4
+- pkg:cargo/jsonschema-cli@0.49.5
