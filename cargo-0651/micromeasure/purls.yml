@@ -4,6 +4,9 @@
 - pkg:cargo/micromeasure@0.11.1
 - pkg:cargo/micromeasure@0.12.0
 - pkg:cargo/micromeasure@0.12.1
+- pkg:cargo/micromeasure@0.13.0
+- pkg:cargo/micromeasure@0.14.0
+- pkg:cargo/micromeasure@0.14.1
 - pkg:cargo/micromeasure@0.2.0
 - pkg:cargo/micromeasure@0.3.0
 - pkg:cargo/micromeasure@0.4.0
