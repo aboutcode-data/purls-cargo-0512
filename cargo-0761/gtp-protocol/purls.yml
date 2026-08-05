@@ -28,3 +28,5 @@
 - pkg:cargo/gtp-protocol@1.8.0
 - pkg:cargo/gtp-protocol@1.8.1
 - pkg:cargo/gtp-protocol@1.8.2
+- pkg:cargo/gtp-protocol@1.9.0
+- pkg:cargo/gtp-protocol@1.9.1
