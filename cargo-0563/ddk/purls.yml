@@ -28,3 +28,4 @@
 - pkg:cargo/ddk@1.1.0
 - pkg:cargo/ddk@1.1.1
 - pkg:cargo/ddk@1.1.2
+- pkg:cargo/ddk@2.0.0-rc.1
