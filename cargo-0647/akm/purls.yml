@@ -8,3 +8,7 @@
 - pkg:cargo/akm@1.0.0-alpha.7
 - pkg:cargo/akm@1.0.0-alpha.8
 - pkg:cargo/akm@1.0.0-alpha.9
+- pkg:cargo/akm@1.0.0-rc1
+- pkg:cargo/akm@1.0.0-rc2
+- pkg:cargo/akm@1.0.0-rc4
+- pkg:cargo/akm@1.0.0-rc5
