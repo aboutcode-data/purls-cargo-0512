@@ -33,6 +33,8 @@
 - pkg:cargo/noetl@4.21.0
 - pkg:cargo/noetl@4.21.1
 - pkg:cargo/noetl@4.21.2
+- pkg:cargo/noetl@4.21.3
+- pkg:cargo/noetl@4.21.4
 - pkg:cargo/noetl@4.3.0
 - pkg:cargo/noetl@4.4.0
 - pkg:cargo/noetl@4.5.0
