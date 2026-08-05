@@ -2,6 +2,8 @@
 - pkg:cargo/mpp@0.10.0
 - pkg:cargo/mpp@0.10.2
 - pkg:cargo/mpp@0.10.3
+- pkg:cargo/mpp@0.10.4
+- pkg:cargo/mpp@0.11.0
 - pkg:cargo/mpp@0.7.0
 - pkg:cargo/mpp@0.8.0
 - pkg:cargo/mpp@0.8.1
