@@ -1,3 +1,4 @@
+- pkg:cargo/zsh@0.12.24
 - pkg:cargo/zsh@0.8.10
 - pkg:cargo/zsh@0.8.11
 - pkg:cargo/zsh@0.8.12
