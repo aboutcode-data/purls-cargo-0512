@@ -22,6 +22,7 @@
 - pkg:cargo/cargo-wasix@0.1.30
 - pkg:cargo/cargo-wasix@0.1.31
 - pkg:cargo/cargo-wasix@0.1.32
+- pkg:cargo/cargo-wasix@0.1.33
 - pkg:cargo/cargo-wasix@0.1.6
 - pkg:cargo/cargo-wasix@0.1.7
 - pkg:cargo/cargo-wasix@0.1.8
