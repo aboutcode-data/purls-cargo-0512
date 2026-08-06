@@ -9,4 +9,5 @@
 - pkg:cargo/fathomdb-cli@0.7.2
 - pkg:cargo/fathomdb-cli@0.8.0
 - pkg:cargo/fathomdb-cli@0.8.20
+- pkg:cargo/fathomdb-cli@0.8.21
 - pkg:cargo/fathomdb-cli@0.8.9
