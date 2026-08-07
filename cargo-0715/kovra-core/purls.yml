@@ -1,1 +1,3 @@
 - pkg:cargo/kovra-core@0.8.0
+- pkg:cargo/kovra-core@0.9.0
+- pkg:cargo/kovra-core@0.9.1
