@@ -1,1 +1,2 @@
 - pkg:cargo/faucet-sink-clickhouse@1.0.0
+- pkg:cargo/faucet-sink-clickhouse@1.0.1

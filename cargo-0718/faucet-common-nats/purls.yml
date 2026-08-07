@@ -1,1 +1,2 @@
 - pkg:cargo/faucet-common-nats@1.0.0
+- pkg:cargo/faucet-common-nats@1.0.1
