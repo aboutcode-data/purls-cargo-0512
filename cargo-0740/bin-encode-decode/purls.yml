@@ -48,7 +48,15 @@
 - pkg:cargo/bin-encode-decode@1.1.41
 - pkg:cargo/bin-encode-decode@1.1.42
 - pkg:cargo/bin-encode-decode@1.1.43
+- pkg:cargo/bin-encode-decode@1.1.44
+- pkg:cargo/bin-encode-decode@1.1.45
+- pkg:cargo/bin-encode-decode@1.1.46
+- pkg:cargo/bin-encode-decode@1.1.47
+- pkg:cargo/bin-encode-decode@1.1.48
+- pkg:cargo/bin-encode-decode@1.1.49
 - pkg:cargo/bin-encode-decode@1.1.5
+- pkg:cargo/bin-encode-decode@1.1.50
+- pkg:cargo/bin-encode-decode@1.1.51
 - pkg:cargo/bin-encode-decode@1.1.6
 - pkg:cargo/bin-encode-decode@1.1.7
 - pkg:cargo/bin-encode-decode@1.1.8
