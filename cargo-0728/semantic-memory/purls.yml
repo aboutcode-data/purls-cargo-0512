@@ -14,3 +14,4 @@
 - pkg:cargo/semantic-memory@0.5.7
 - pkg:cargo/semantic-memory@0.5.8
 - pkg:cargo/semantic-memory@0.5.9
+- pkg:cargo/semantic-memory@0.6.0
