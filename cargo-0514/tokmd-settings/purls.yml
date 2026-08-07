@@ -5,6 +5,7 @@
 - pkg:cargo/tokmd-settings@1.13.0
 - pkg:cargo/tokmd-settings@1.13.1
 - pkg:cargo/tokmd-settings@1.14.0
+- pkg:cargo/tokmd-settings@1.15.0
 - pkg:cargo/tokmd-settings@1.6.3
 - pkg:cargo/tokmd-settings@1.7.2
 - pkg:cargo/tokmd-settings@1.7.3
