@@ -41,3 +41,7 @@
 - pkg:cargo/yamlpath@1.25.0
 - pkg:cargo/yamlpath@1.25.1
 - pkg:cargo/yamlpath@1.25.2
+- pkg:cargo/yamlpath@1.26.1
+- pkg:cargo/yamlpath@1.27.0
+- pkg:cargo/yamlpath@1.28.0
+- pkg:cargo/yamlpath@1.29.0
