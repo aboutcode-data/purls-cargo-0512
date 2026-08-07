@@ -51,3 +51,4 @@
 - pkg:cargo/encrypt_config@1.0.9
 - pkg:cargo/encrypt_config@2.0.0
 - pkg:cargo/encrypt_config@2.0.1
+- pkg:cargo/encrypt_config@2.0.2
