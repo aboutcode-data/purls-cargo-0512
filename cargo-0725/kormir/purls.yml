@@ -33,3 +33,4 @@
 - pkg:cargo/kormir@1.1.0
 - pkg:cargo/kormir@1.1.1
 - pkg:cargo/kormir@1.1.2
+- pkg:cargo/kormir@2.0.0-rc.1
