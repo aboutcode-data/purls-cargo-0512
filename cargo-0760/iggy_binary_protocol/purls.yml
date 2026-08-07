@@ -1,6 +1,11 @@
 - pkg:cargo/iggy_binary_protocol@0.10.0
 - pkg:cargo/iggy_binary_protocol@0.10.1-edge.1
 - pkg:cargo/iggy_binary_protocol@0.10.1-edge.2
+- pkg:cargo/iggy_binary_protocol@0.10.2-edge.1
+- pkg:cargo/iggy_binary_protocol@0.10.3-edge.1
+- pkg:cargo/iggy_binary_protocol@0.10.3-edge.2
+- pkg:cargo/iggy_binary_protocol@0.10.3-edge.3
+- pkg:cargo/iggy_binary_protocol@0.11.0-edge.1
 - pkg:cargo/iggy_binary_protocol@0.7.0
 - pkg:cargo/iggy_binary_protocol@0.7.0-edge.1
 - pkg:cargo/iggy_binary_protocol@0.8.0
