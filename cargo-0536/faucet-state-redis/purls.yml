@@ -6,3 +6,4 @@
 - pkg:cargo/faucet-state-redis@1.0.5
 - pkg:cargo/faucet-state-redis@1.0.6
 - pkg:cargo/faucet-state-redis@1.0.7
+- pkg:cargo/faucet-state-redis@1.0.8

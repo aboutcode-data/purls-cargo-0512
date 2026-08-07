@@ -1,3 +1,4 @@
 - pkg:cargo/faucet-source-singer@1.0.0
 - pkg:cargo/faucet-source-singer@1.1.0
 - pkg:cargo/faucet-source-singer@1.1.1
+- pkg:cargo/faucet-source-singer@1.1.2
