@@ -3,3 +3,4 @@
 - pkg:cargo/freeimage-sys@3.18.1
 - pkg:cargo/freeimage-sys@3.18.2
 - pkg:cargo/freeimage-sys@3.18.3
+- pkg:cargo/freeimage-sys@3.19.11
