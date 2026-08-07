@@ -49,3 +49,10 @@
 - pkg:cargo/kiddo@5.2.4
 - pkg:cargo/kiddo@5.3.0
 - pkg:cargo/kiddo@5.3.1
+- pkg:cargo/kiddo@5.3.2
+- pkg:cargo/kiddo@5.3.3
+- pkg:cargo/kiddo@6.0.0
+- pkg:cargo/kiddo@6.0.0-alpha.1
+- pkg:cargo/kiddo@6.0.0-alpha.2
+- pkg:cargo/kiddo@6.0.0-alpha.3
+- pkg:cargo/kiddo@6.0.0-alpha.4
