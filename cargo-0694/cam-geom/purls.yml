@@ -13,6 +13,7 @@
 - pkg:cargo/cam-geom@0.15.2
 - pkg:cargo/cam-geom@0.15.3
 - pkg:cargo/cam-geom@0.16.0
+- pkg:cargo/cam-geom@0.17.0
 - pkg:cargo/cam-geom@0.2.0
 - pkg:cargo/cam-geom@0.2.1
 - pkg:cargo/cam-geom@0.3.0
