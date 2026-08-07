@@ -1,4 +1,6 @@
 - pkg:cargo/pubky@0.1.0
+- pkg:cargo/pubky@0.10.0
+- pkg:cargo/pubky@0.10.0-alpha.0
 - pkg:cargo/pubky@0.3.0
 - pkg:cargo/pubky@0.4.0
 - pkg:cargo/pubky@0.4.1
@@ -26,3 +28,5 @@
 - pkg:cargo/pubky@0.8.0
 - pkg:cargo/pubky@0.9.0
 - pkg:cargo/pubky@0.9.1
+- pkg:cargo/pubky@0.9.2
+- pkg:cargo/pubky@0.9.3
