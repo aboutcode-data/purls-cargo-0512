@@ -9,6 +9,7 @@
 - pkg:cargo/lw@0.6.0
 - pkg:cargo/lw@0.6.1
 - pkg:cargo/lw@0.6.10
+- pkg:cargo/lw@0.6.11
 - pkg:cargo/lw@0.6.2
 - pkg:cargo/lw@0.6.3
 - pkg:cargo/lw@0.6.4
@@ -17,3 +18,5 @@
 - pkg:cargo/lw@0.6.7
 - pkg:cargo/lw@0.6.8
 - pkg:cargo/lw@0.6.9
+- pkg:cargo/lw@0.8.0
+- pkg:cargo/lw@0.8.1

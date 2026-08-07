@@ -1,4 +1,5 @@
 - pkg:cargo/is@0.1.0
+- pkg:cargo/is@0.10.0
 - pkg:cargo/is@0.2.0
 - pkg:cargo/is@0.2.1
 - pkg:cargo/is@0.3.0
