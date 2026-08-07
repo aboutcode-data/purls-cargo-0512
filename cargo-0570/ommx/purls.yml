@@ -28,4 +28,9 @@
 - pkg:cargo/ommx@2.5.1
 - pkg:cargo/ommx@2.5.2
 - pkg:cargo/ommx@2.5.3
+- pkg:cargo/ommx@2.6.0
+- pkg:cargo/ommx@2.6.1
 - pkg:cargo/ommx@3.0.0-alpha.1
+- pkg:cargo/ommx@3.0.0-alpha.2
+- pkg:cargo/ommx@3.0.0-beta.1
+- pkg:cargo/ommx@3.0.0-beta.2
