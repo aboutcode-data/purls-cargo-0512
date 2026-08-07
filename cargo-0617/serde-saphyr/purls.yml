@@ -28,4 +28,7 @@
 - pkg:cargo/serde-saphyr@0.0.8
 - pkg:cargo/serde-saphyr@0.0.8-alpha-pre
 - pkg:cargo/serde-saphyr@0.0.9
+- pkg:cargo/serde-saphyr@1.0.0
 - pkg:cargo/serde-saphyr@1.0.0-rc.1
+- pkg:cargo/serde-saphyr@1.0.0-rc.2
+- pkg:cargo/serde-saphyr@1.0.1
