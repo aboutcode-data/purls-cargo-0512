@@ -1,0 +1,4 @@
+- pkg:cargo/docsrs-cli@0.1.0
+- pkg:cargo/docsrs-cli@0.1.2
+- pkg:cargo/docsrs-cli@1.1.0
+- pkg:cargo/docsrs-cli@1.2.0
