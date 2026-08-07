@@ -6,3 +6,4 @@
 - pkg:cargo/mysql-common-derive@0.31.2
 - pkg:cargo/mysql-common-derive@0.32.0
 - pkg:cargo/mysql-common-derive@0.32.1
+- pkg:cargo/mysql-common-derive@0.32.2
