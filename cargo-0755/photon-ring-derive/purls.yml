@@ -1,3 +1,4 @@
 - pkg:cargo/photon-ring-derive@2.0.0
 - pkg:cargo/photon-ring-derive@2.3.0
 - pkg:cargo/photon-ring-derive@2.5.0
+- pkg:cargo/photon-ring-derive@3.0.0
