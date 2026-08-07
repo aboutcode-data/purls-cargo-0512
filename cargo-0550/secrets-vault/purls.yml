@@ -1,1 +1,2 @@
 - pkg:cargo/secrets-vault@1.0.0
+- pkg:cargo/secrets-vault@2.0.0
