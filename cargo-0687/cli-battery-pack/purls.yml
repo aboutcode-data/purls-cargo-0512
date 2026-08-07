@@ -10,3 +10,5 @@
 - pkg:cargo/cli-battery-pack@0.5.1
 - pkg:cargo/cli-battery-pack@0.6.0
 - pkg:cargo/cli-battery-pack@0.6.1
+- pkg:cargo/cli-battery-pack@0.6.2
+- pkg:cargo/cli-battery-pack@0.6.3
