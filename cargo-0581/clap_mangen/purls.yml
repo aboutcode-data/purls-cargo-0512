@@ -46,3 +46,5 @@
 - pkg:cargo/clap_mangen@0.2.8
 - pkg:cargo/clap_mangen@0.2.9
 - pkg:cargo/clap_mangen@0.3.0
+- pkg:cargo/clap_mangen@0.3.1
+- pkg:cargo/clap_mangen@0.3.2
