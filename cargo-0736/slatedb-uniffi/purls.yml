@@ -1,0 +1,4 @@
+- pkg:cargo/slatedb-uniffi@0.13.1
+- pkg:cargo/slatedb-uniffi@0.14.0
+- pkg:cargo/slatedb-uniffi@0.14.1
+- pkg:cargo/slatedb-uniffi@0.15.0
