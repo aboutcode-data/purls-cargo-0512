@@ -1,6 +1,8 @@
 - pkg:cargo/langchainrust@0.1.0
 - pkg:cargo/langchainrust@0.1.1
 - pkg:cargo/langchainrust@0.1.2
+- pkg:cargo/langchainrust@0.11.0
+- pkg:cargo/langchainrust@0.12.0
 - pkg:cargo/langchainrust@0.2.0
 - pkg:cargo/langchainrust@0.2.1
 - pkg:cargo/langchainrust@0.2.10
