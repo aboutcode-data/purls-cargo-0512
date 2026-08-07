@@ -73,3 +73,5 @@
 - pkg:cargo/fyi_msg@2.4.4
 - pkg:cargo/fyi_msg@2.5.0
 - pkg:cargo/fyi_msg@2.6.0
+- pkg:cargo/fyi_msg@2.6.1
+- pkg:cargo/fyi_msg@2.6.2
