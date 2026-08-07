@@ -1,1 +1,4 @@
 - pkg:cargo/kornia-algebra@0.1.14
+- pkg:cargo/kornia-algebra@0.1.15-rc.2
+- pkg:cargo/kornia-algebra@0.1.15-rc.3
+- pkg:cargo/kornia-algebra@0.1.15-rc.4

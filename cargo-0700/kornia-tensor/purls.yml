@@ -1,6 +1,9 @@
 - pkg:cargo/kornia-tensor@0.1.10
 - pkg:cargo/kornia-tensor@0.1.10-rc.3
 - pkg:cargo/kornia-tensor@0.1.14
+- pkg:cargo/kornia-tensor@0.1.15-rc.2
+- pkg:cargo/kornia-tensor@0.1.15-rc.3
+- pkg:cargo/kornia-tensor@0.1.15-rc.4
 - pkg:cargo/kornia-tensor@0.1.8
 - pkg:cargo/kornia-tensor@0.1.9
 - pkg:cargo/kornia-tensor@0.1.9-rc.1
