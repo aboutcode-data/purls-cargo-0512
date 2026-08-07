@@ -21,3 +21,4 @@
 - pkg:cargo/cmdparsing@2.2.3
 - pkg:cargo/cmdparsing@2.2.4
 - pkg:cargo/cmdparsing@2.2.5
+- pkg:cargo/cmdparsing@2.2.6
