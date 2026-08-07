@@ -21,3 +21,5 @@
 - pkg:cargo/serial_test_derive@3.3.1
 - pkg:cargo/serial_test_derive@3.4.0
 - pkg:cargo/serial_test_derive@3.5.0
+- pkg:cargo/serial_test_derive@4.0.0
+- pkg:cargo/serial_test_derive@4.0.1
