@@ -2,3 +2,4 @@
 - pkg:cargo/tokio-dbus-xml@0.0.15
 - pkg:cargo/tokio-dbus-xml@0.0.16
 - pkg:cargo/tokio-dbus-xml@0.0.17
+- pkg:cargo/tokio-dbus-xml@0.1.0
