@@ -6,3 +6,5 @@
 - pkg:cargo/assert_tv_macros@0.6.3
 - pkg:cargo/assert_tv_macros@0.6.4
 - pkg:cargo/assert_tv_macros@0.6.5
+- pkg:cargo/assert_tv_macros@0.6.6
+- pkg:cargo/assert_tv_macros@0.6.7
