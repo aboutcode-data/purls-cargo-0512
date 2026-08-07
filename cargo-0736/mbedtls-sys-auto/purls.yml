@@ -17,6 +17,7 @@
 - pkg:cargo/mbedtls-sys-auto@2.28.12
 - pkg:cargo/mbedtls-sys-auto@2.28.13
 - pkg:cargo/mbedtls-sys-auto@2.28.14
+- pkg:cargo/mbedtls-sys-auto@2.28.15
 - pkg:cargo/mbedtls-sys-auto@2.28.3
 - pkg:cargo/mbedtls-sys-auto@2.28.4%2Bmbedtls-2.28.3
 - pkg:cargo/mbedtls-sys-auto@2.28.7
