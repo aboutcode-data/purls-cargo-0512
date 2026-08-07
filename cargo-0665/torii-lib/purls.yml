@@ -2,3 +2,4 @@
 - pkg:cargo/torii-lib@0.10.0
 - pkg:cargo/torii-lib@0.11.0
 - pkg:cargo/torii-lib@0.12.0
+- pkg:cargo/torii-lib@0.13.0
