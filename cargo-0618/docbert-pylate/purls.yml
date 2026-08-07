@@ -3,3 +3,4 @@
 - pkg:cargo/docbert-pylate@0.7.0
 - pkg:cargo/docbert-pylate@0.8.0
 - pkg:cargo/docbert-pylate@0.9.0
+- pkg:cargo/docbert-pylate@1.0.0
