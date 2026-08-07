@@ -56,3 +56,8 @@
 - pkg:cargo/geph5-broker-protocol@0.2.9
 - pkg:cargo/geph5-broker-protocol@0.2.90
 - pkg:cargo/geph5-broker-protocol@0.2.92
+- pkg:cargo/geph5-broker-protocol@0.3.0
+- pkg:cargo/geph5-broker-protocol@0.3.1
+- pkg:cargo/geph5-broker-protocol@0.3.4
+- pkg:cargo/geph5-broker-protocol@0.3.5
+- pkg:cargo/geph5-broker-protocol@0.3.6
