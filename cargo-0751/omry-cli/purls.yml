@@ -2,3 +2,7 @@
 - pkg:cargo/omry-cli@0.13.1
 - pkg:cargo/omry-cli@0.14.0
 - pkg:cargo/omry-cli@0.14.1
+- pkg:cargo/omry-cli@0.15.0
+- pkg:cargo/omry-cli@0.15.1
+- pkg:cargo/omry-cli@0.15.2
+- pkg:cargo/omry-cli@0.15.3
