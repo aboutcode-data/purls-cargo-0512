@@ -134,3 +134,10 @@
 - pkg:cargo/hugo-build@0.160.1
 - pkg:cargo/hugo-build@0.161.0
 - pkg:cargo/hugo-build@0.161.1
+- pkg:cargo/hugo-build@0.162.0
+- pkg:cargo/hugo-build@0.162.1
+- pkg:cargo/hugo-build@0.163.0
+- pkg:cargo/hugo-build@0.163.1
+- pkg:cargo/hugo-build@0.163.2
+- pkg:cargo/hugo-build@0.163.3
+- pkg:cargo/hugo-build@0.164.0
