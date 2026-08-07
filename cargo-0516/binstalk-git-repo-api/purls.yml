@@ -43,6 +43,9 @@
 - pkg:cargo/binstalk-git-repo-api@0.5.41
 - pkg:cargo/binstalk-git-repo-api@0.5.42
 - pkg:cargo/binstalk-git-repo-api@0.5.43
+- pkg:cargo/binstalk-git-repo-api@0.5.44
+- pkg:cargo/binstalk-git-repo-api@0.5.45
+- pkg:cargo/binstalk-git-repo-api@0.5.46
 - pkg:cargo/binstalk-git-repo-api@0.5.5
 - pkg:cargo/binstalk-git-repo-api@0.5.6
 - pkg:cargo/binstalk-git-repo-api@0.5.7
