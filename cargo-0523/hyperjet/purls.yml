@@ -1,1 +1,9 @@
+- pkg:cargo/hyperjet@1.10.0
+- pkg:cargo/hyperjet@1.11.0
+- pkg:cargo/hyperjet@1.12.0
+- pkg:cargo/hyperjet@1.12.1
+- pkg:cargo/hyperjet@1.13.0
 - pkg:cargo/hyperjet@1.7.0
+- pkg:cargo/hyperjet@1.7.1
+- pkg:cargo/hyperjet@1.8.0
+- pkg:cargo/hyperjet@1.9.0
