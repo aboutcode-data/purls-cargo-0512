@@ -111,10 +111,16 @@
 - pkg:cargo/lance-core@2.0.1
 - pkg:cargo/lance-core@3.0.0
 - pkg:cargo/lance-core@3.0.1
+- pkg:cargo/lance-core@3.0.2
 - pkg:cargo/lance-core@4.0.0
 - pkg:cargo/lance-core@4.0.1
+- pkg:cargo/lance-core@4.0.2
 - pkg:cargo/lance-core@6.0.0
 - pkg:cargo/lance-core@6.0.1
+- pkg:cargo/lance-core@6.1.0
 - pkg:cargo/lance-core@7.0.0
+- pkg:cargo/lance-core@7.1.0
 - pkg:cargo/lance-core@8.0.0
+- pkg:cargo/lance-core@8.0.1
 - pkg:cargo/lance-core@9.0.0
+- pkg:cargo/lance-core@9.0.1

@@ -1,2 +1,4 @@
 - pkg:cargo/lance-derive@8.0.0
+- pkg:cargo/lance-derive@8.0.1
 - pkg:cargo/lance-derive@9.0.0
+- pkg:cargo/lance-derive@9.0.1
