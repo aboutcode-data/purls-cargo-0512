@@ -1,1 +1,2 @@
 - pkg:cargo/bitcoin-network-kind@0.1.0
+- pkg:cargo/bitcoin-network-kind@1.0.0
