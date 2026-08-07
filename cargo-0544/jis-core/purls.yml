@@ -1,1 +1,3 @@
 - pkg:cargo/jis-core@0.3.0
+- pkg:cargo/jis-core@0.4.0
+- pkg:cargo/jis-core@0.4.0-beta.1
