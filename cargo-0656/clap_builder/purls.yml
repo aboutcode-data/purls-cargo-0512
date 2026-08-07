@@ -103,3 +103,6 @@
 - pkg:cargo/clap_builder@4.5.8
 - pkg:cargo/clap_builder@4.5.9
 - pkg:cargo/clap_builder@4.6.0
+- pkg:cargo/clap_builder@4.6.2
+- pkg:cargo/clap_builder@4.6.5
+- pkg:cargo/clap_builder@4.6.6

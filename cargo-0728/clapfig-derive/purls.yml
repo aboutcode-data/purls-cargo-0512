@@ -1,0 +1,8 @@
+- pkg:cargo/clapfig-derive@0.20.0
+- pkg:cargo/clapfig-derive@0.21.2
+- pkg:cargo/clapfig-derive@0.21.3
+- pkg:cargo/clapfig-derive@0.21.4
+- pkg:cargo/clapfig-derive@0.21.5-rc.1
+- pkg:cargo/clapfig-derive@0.21.5-rc.2
+- pkg:cargo/clapfig-derive@0.21.5-rc.3
+- pkg:cargo/clapfig-derive@0.21.6-release-rc
