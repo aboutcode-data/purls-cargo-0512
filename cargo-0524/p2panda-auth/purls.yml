@@ -3,3 +3,5 @@
 - pkg:cargo/p2panda-auth@0.5.1
 - pkg:cargo/p2panda-auth@0.5.2
 - pkg:cargo/p2panda-auth@0.6.0
+- pkg:cargo/p2panda-auth@0.6.1
+- pkg:cargo/p2panda-auth@0.7.0
