@@ -1,2 +1,4 @@
 - pkg:cargo/zpdf-writer@0.10.0
 - pkg:cargo/zpdf-writer@0.11.0
+- pkg:cargo/zpdf-writer@0.12.0
+- pkg:cargo/zpdf-writer@0.12.1
