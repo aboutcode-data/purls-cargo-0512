@@ -13,3 +13,4 @@
 - pkg:cargo/jsonschema-regex@0.49.4
 - pkg:cargo/jsonschema-regex@0.49.5
 - pkg:cargo/jsonschema-regex@0.49.6
+- pkg:cargo/jsonschema-regex@0.49.7
