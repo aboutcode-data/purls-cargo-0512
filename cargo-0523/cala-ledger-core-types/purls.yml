@@ -137,6 +137,7 @@
 - pkg:cargo/cala-ledger-core-types@0.21.1
 - pkg:cargo/cala-ledger-core-types@0.21.2
 - pkg:cargo/cala-ledger-core-types@0.22.0
+- pkg:cargo/cala-ledger-core-types@0.22.1
 - pkg:cargo/cala-ledger-core-types@0.3.0
 - pkg:cargo/cala-ledger-core-types@0.3.1
 - pkg:cargo/cala-ledger-core-types@0.3.10
