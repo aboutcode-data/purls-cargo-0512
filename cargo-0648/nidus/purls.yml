@@ -58,6 +58,7 @@
 - pkg:cargo/nidus@0.6.1
 - pkg:cargo/nidus@0.60.0
 - pkg:cargo/nidus@0.61.0
+- pkg:cargo/nidus@0.62.0
 - pkg:cargo/nidus@0.7.0
 - pkg:cargo/nidus@0.7.1
 - pkg:cargo/nidus@0.8.0
