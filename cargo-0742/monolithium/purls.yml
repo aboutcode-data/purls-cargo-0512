@@ -1,3 +1,5 @@
 - pkg:cargo/monolithium@1.0.0
 - pkg:cargo/monolithium@1.1.0
 - pkg:cargo/monolithium@1.2.0
+- pkg:cargo/monolithium@1.3.0
+- pkg:cargo/monolithium@1.3.1
