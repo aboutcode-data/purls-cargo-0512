@@ -370,3 +370,4 @@
 - pkg:cargo/holochain_cli@0.7.0-rc.4
 - pkg:cargo/holochain_cli@0.7.0-rc.5
 - pkg:cargo/holochain_cli@0.8.0-dev.0
+- pkg:cargo/holochain_cli@0.8.0-dev.1
