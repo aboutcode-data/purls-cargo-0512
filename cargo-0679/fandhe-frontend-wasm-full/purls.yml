@@ -4,3 +4,4 @@
 - pkg:cargo/fandhe-frontend-wasm-full@0.5.1
 - pkg:cargo/fandhe-frontend-wasm-full@0.6.0
 - pkg:cargo/fandhe-frontend-wasm-full@0.7.0
+- pkg:cargo/fandhe-frontend-wasm-full@0.7.1
