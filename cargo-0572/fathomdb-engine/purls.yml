@@ -27,4 +27,5 @@
 - pkg:cargo/fathomdb-engine@0.8.0
 - pkg:cargo/fathomdb-engine@0.8.20
 - pkg:cargo/fathomdb-engine@0.8.21
+- pkg:cargo/fathomdb-engine@0.8.22
 - pkg:cargo/fathomdb-engine@0.8.9
