@@ -6,3 +6,5 @@
 - pkg:cargo/cf-gears-authn-resolver@0.2.21
 - pkg:cargo/cf-gears-authn-resolver@0.2.22
 - pkg:cargo/cf-gears-authn-resolver@0.2.23
+- pkg:cargo/cf-gears-authn-resolver@0.2.24
+- pkg:cargo/cf-gears-authn-resolver@0.2.25
