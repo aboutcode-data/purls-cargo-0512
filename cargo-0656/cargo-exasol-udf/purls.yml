@@ -17,3 +17,4 @@
 - pkg:cargo/cargo-exasol-udf@0.21.1
 - pkg:cargo/cargo-exasol-udf@0.21.2
 - pkg:cargo/cargo-exasol-udf@0.21.3
+- pkg:cargo/cargo-exasol-udf@0.21.4
