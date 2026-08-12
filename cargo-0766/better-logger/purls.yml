@@ -18,3 +18,4 @@
 - pkg:cargo/better-logger@2.2.1
 - pkg:cargo/better-logger@2.3.1
 - pkg:cargo/better-logger@2.3.2
+- pkg:cargo/better-logger@2.3.3
