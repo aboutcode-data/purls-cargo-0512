@@ -1,6 +1,10 @@
 - pkg:cargo/example-muxio-rpc-service-definition@0.10.0-alpha
 - pkg:cargo/example-muxio-rpc-service-definition@0.10.1-alpha
 - pkg:cargo/example-muxio-rpc-service-definition@0.10.2-alpha
+- pkg:cargo/example-muxio-rpc-service-definition@0.11.0-alpha
+- pkg:cargo/example-muxio-rpc-service-definition@0.12.0-alpha
+- pkg:cargo/example-muxio-rpc-service-definition@0.12.0-test
+- pkg:cargo/example-muxio-rpc-service-definition@0.14.0-alpha
 - pkg:cargo/example-muxio-rpc-service-definition@0.4.0-alpha
 - pkg:cargo/example-muxio-rpc-service-definition@0.5.0-alpha
 - pkg:cargo/example-muxio-rpc-service-definition@0.6.0-alpha
