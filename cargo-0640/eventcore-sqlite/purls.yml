@@ -2,3 +2,12 @@
 - pkg:cargo/eventcore-sqlite@0.7.0
 - pkg:cargo/eventcore-sqlite@0.7.1
 - pkg:cargo/eventcore-sqlite@0.8.0
+- pkg:cargo/eventcore-sqlite@0.8.1
+- pkg:cargo/eventcore-sqlite@0.9.0
+- pkg:cargo/eventcore-sqlite@1.0.0
+- pkg:cargo/eventcore-sqlite@1.0.1
+- pkg:cargo/eventcore-sqlite@1.0.2
+- pkg:cargo/eventcore-sqlite@1.1.0
+- pkg:cargo/eventcore-sqlite@1.1.0-alpha.1
+- pkg:cargo/eventcore-sqlite@1.1.1
+- pkg:cargo/eventcore-sqlite@2.0.0
