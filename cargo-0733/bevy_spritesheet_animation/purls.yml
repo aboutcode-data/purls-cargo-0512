@@ -19,3 +19,5 @@
 - pkg:cargo/bevy_spritesheet_animation@5.1.0
 - pkg:cargo/bevy_spritesheet_animation@6.0.0
 - pkg:cargo/bevy_spritesheet_animation@6.1.0
+- pkg:cargo/bevy_spritesheet_animation@7.0.0
+- pkg:cargo/bevy_spritesheet_animation@7.0.1
