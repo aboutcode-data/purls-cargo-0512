@@ -1,3 +1,4 @@
 - pkg:cargo/forgedb-coordinator@0.1.0
 - pkg:cargo/forgedb-coordinator@0.2.0
 - pkg:cargo/forgedb-coordinator@0.2.1
+- pkg:cargo/forgedb-coordinator@0.2.2
