@@ -12,3 +12,7 @@
 - pkg:cargo/qtty@0.7.0
 - pkg:cargo/qtty@0.7.1
 - pkg:cargo/qtty@0.8.1
+- pkg:cargo/qtty@0.8.2
+- pkg:cargo/qtty@0.8.3
+- pkg:cargo/qtty@0.8.4
+- pkg:cargo/qtty@0.8.5
