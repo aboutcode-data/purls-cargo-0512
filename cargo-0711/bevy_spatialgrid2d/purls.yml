@@ -1,2 +1,5 @@
 - pkg:cargo/bevy_spatialgrid2d@0.18.0
 - pkg:cargo/bevy_spatialgrid2d@0.18.1
+- pkg:cargo/bevy_spatialgrid2d@0.18.2
+- pkg:cargo/bevy_spatialgrid2d@0.19.0
+- pkg:cargo/bevy_spatialgrid2d@0.19.1
