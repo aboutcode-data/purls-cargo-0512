@@ -12,3 +12,4 @@
 - pkg:cargo/nimiq-key-derivation@1.7.0
 - pkg:cargo/nimiq-key-derivation@1.7.1
 - pkg:cargo/nimiq-key-derivation@1.7.2
+- pkg:cargo/nimiq-key-derivation@2.0.0
