@@ -1,1 +1,2 @@
+- pkg:cargo/sdl3-net-sys@0.6.0%2BSDL-net-3.2.0
 - pkg:cargo/sdl3-net-sys@0.6.0-pre-0%2BSDL-net-3.1.0-prerelease

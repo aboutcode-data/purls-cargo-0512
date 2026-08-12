@@ -1,1 +1,2 @@
 - pkg:cargo/sdl3-net-src@3.1.0-prerelease
+- pkg:cargo/sdl3-net-src@3.2.0
