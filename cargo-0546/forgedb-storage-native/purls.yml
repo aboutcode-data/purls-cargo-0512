@@ -5,3 +5,4 @@
 - pkg:cargo/forgedb-storage-native@0.1.5
 - pkg:cargo/forgedb-storage-native@0.1.6
 - pkg:cargo/forgedb-storage-native@0.1.7
+- pkg:cargo/forgedb-storage-native@0.2.0
