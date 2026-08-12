@@ -13,3 +13,4 @@
 - pkg:cargo/bevy-panic-handler@5.0.0
 - pkg:cargo/bevy-panic-handler@6.0.0
 - pkg:cargo/bevy-panic-handler@7.0.0
+- pkg:cargo/bevy-panic-handler@8.0.0
