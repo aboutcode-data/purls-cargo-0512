@@ -2,6 +2,9 @@
 - pkg:cargo/x448@0.1.1
 - pkg:cargo/x448@0.14.0-pre.0
 - pkg:cargo/x448@0.14.0-pre.1
+- pkg:cargo/x448@0.14.0-pre.10
+- pkg:cargo/x448@0.14.0-pre.11
+- pkg:cargo/x448@0.14.0-pre.12
 - pkg:cargo/x448@0.14.0-pre.2
 - pkg:cargo/x448@0.14.0-pre.3
 - pkg:cargo/x448@0.14.0-pre.4
