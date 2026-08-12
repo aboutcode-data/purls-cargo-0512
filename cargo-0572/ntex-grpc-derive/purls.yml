@@ -11,3 +11,4 @@
 - pkg:cargo/ntex-grpc-derive@0.7.0
 - pkg:cargo/ntex-grpc-derive@0.7.1
 - pkg:cargo/ntex-grpc-derive@2.0.0
+- pkg:cargo/ntex-grpc-derive@2.1.0
