@@ -1,3 +1,5 @@
 - pkg:cargo/ffpb@0.1.0
 - pkg:cargo/ffpb@0.1.1
 - pkg:cargo/ffpb@0.1.2
+- pkg:cargo/ffpb@0.2.0
+- pkg:cargo/ffpb@0.2.1
