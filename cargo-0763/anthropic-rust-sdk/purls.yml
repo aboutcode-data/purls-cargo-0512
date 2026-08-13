@@ -1,0 +1,6 @@
+- pkg:cargo/anthropic-rust-sdk@0.1.0
+- pkg:cargo/anthropic-rust-sdk@0.106.0
+- pkg:cargo/anthropic-rust-sdk@0.106.1
+- pkg:cargo/anthropic-rust-sdk@0.110.0
+- pkg:cargo/anthropic-rust-sdk@0.110.1
+- pkg:cargo/anthropic-rust-sdk@0.112.3
