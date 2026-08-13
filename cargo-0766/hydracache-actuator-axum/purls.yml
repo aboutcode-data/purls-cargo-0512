@@ -53,3 +53,4 @@
 - pkg:cargo/hydracache-actuator-axum@0.65.0
 - pkg:cargo/hydracache-actuator-axum@0.66.0
 - pkg:cargo/hydracache-actuator-axum@0.67.0
+- pkg:cargo/hydracache-actuator-axum@0.68.0
