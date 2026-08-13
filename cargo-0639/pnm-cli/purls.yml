@@ -17,12 +17,15 @@
 - pkg:cargo/pnm-cli@0.11.18
 - pkg:cargo/pnm-cli@0.11.20
 - pkg:cargo/pnm-cli@0.11.21
+- pkg:cargo/pnm-cli@0.11.22
 - pkg:cargo/pnm-cli@0.11.4
 - pkg:cargo/pnm-cli@0.11.5
 - pkg:cargo/pnm-cli@0.11.6
 - pkg:cargo/pnm-cli@0.11.7
 - pkg:cargo/pnm-cli@0.11.8
 - pkg:cargo/pnm-cli@0.11.9
+- pkg:cargo/pnm-cli@0.12.0
+- pkg:cargo/pnm-cli@0.12.1
 - pkg:cargo/pnm-cli@0.2.0
 - pkg:cargo/pnm-cli@0.2.1
 - pkg:cargo/pnm-cli@0.3.0
