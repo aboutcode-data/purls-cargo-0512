@@ -6,3 +6,7 @@
 - pkg:cargo/tjson-udf@0.2.3
 - pkg:cargo/tjson-udf@0.3.0
 - pkg:cargo/tjson-udf@0.4.0
+- pkg:cargo/tjson-udf@0.5.0
+- pkg:cargo/tjson-udf@0.5.1
+- pkg:cargo/tjson-udf@0.6.0
+- pkg:cargo/tjson-udf@0.7.0
