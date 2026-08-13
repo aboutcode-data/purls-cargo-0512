@@ -12,3 +12,4 @@
 - pkg:cargo/minco-aws-adapters@1.3.0
 - pkg:cargo/minco-aws-adapters@1.4.0
 - pkg:cargo/minco-aws-adapters@1.5.0
+- pkg:cargo/minco-aws-adapters@1.6.0
