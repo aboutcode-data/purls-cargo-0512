@@ -1,0 +1,4 @@
+- pkg:cargo/anoma-risc0-verifier-bindings@1.0.0-rc.0
+- pkg:cargo/anoma-risc0-verifier-bindings@1.2.0
+- pkg:cargo/anoma-risc0-verifier-bindings@1.2.1
+- pkg:cargo/anoma-risc0-verifier-bindings@1.2.2
