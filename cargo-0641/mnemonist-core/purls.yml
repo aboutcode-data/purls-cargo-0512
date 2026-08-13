@@ -1,5 +1,8 @@
 - pkg:cargo/mnemonist-core@0.10.0
 - pkg:cargo/mnemonist-core@0.10.1
+- pkg:cargo/mnemonist-core@0.10.2
+- pkg:cargo/mnemonist-core@0.11.0
+- pkg:cargo/mnemonist-core@0.12.0
 - pkg:cargo/mnemonist-core@0.4.3
 - pkg:cargo/mnemonist-core@0.5.0
 - pkg:cargo/mnemonist-core@0.5.1
