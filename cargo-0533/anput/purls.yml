@@ -44,6 +44,8 @@
 - pkg:cargo/anput@0.23.1
 - pkg:cargo/anput@0.23.2
 - pkg:cargo/anput@0.23.3
+- pkg:cargo/anput@0.23.4
+- pkg:cargo/anput@0.24.0
 - pkg:cargo/anput@0.5.0
 - pkg:cargo/anput@0.5.1
 - pkg:cargo/anput@0.5.2
