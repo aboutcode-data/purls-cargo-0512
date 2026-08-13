@@ -7,6 +7,7 @@
 - pkg:cargo/hadris-macros@1.1.2
 - pkg:cargo/hadris-macros@1.2.0
 - pkg:cargo/hadris-macros@1.2.1
+- pkg:cargo/hadris-macros@2.0.0
 - pkg:cargo/hadris-macros@2.0.0-rc.1
 - pkg:cargo/hadris-macros@2.0.0-rc.2
 - pkg:cargo/hadris-macros@2.0.0-rc.3

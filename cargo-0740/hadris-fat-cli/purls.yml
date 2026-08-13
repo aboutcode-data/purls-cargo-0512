@@ -7,6 +7,7 @@
 - pkg:cargo/hadris-fat-cli@1.1.2
 - pkg:cargo/hadris-fat-cli@1.2.0
 - pkg:cargo/hadris-fat-cli@1.2.1
+- pkg:cargo/hadris-fat-cli@2.0.0
 - pkg:cargo/hadris-fat-cli@2.0.0-rc.1
 - pkg:cargo/hadris-fat-cli@2.0.0-rc.2
 - pkg:cargo/hadris-fat-cli@2.0.0-rc.3
