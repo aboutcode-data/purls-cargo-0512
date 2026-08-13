@@ -23,3 +23,4 @@
 - pkg:cargo/lynn_tcp@1.2.0-rc.1
 - pkg:cargo/lynn_tcp@1.2.0-rc.2
 - pkg:cargo/lynn_tcp@1.2.5
+- pkg:cargo/lynn_tcp@2.0.0-rc.1

@@ -1,3 +1,5 @@
+- pkg:cargo/lyrix@26.10.0
+- pkg:cargo/lyrix@26.10.1
 - pkg:cargo/lyrix@26.2.1
 - pkg:cargo/lyrix@26.4.1
 - pkg:cargo/lyrix@26.4.2
@@ -5,3 +7,13 @@
 - pkg:cargo/lyrix@26.4.4
 - pkg:cargo/lyrix@26.4.5
 - pkg:cargo/lyrix@26.4.6
+- pkg:cargo/lyrix@26.5.0
+- pkg:cargo/lyrix@26.6.0
+- pkg:cargo/lyrix@26.6.1
+- pkg:cargo/lyrix@26.7.0
+- pkg:cargo/lyrix@26.7.1
+- pkg:cargo/lyrix@26.7.2
+- pkg:cargo/lyrix@26.8.0
+- pkg:cargo/lyrix@26.8.1
+- pkg:cargo/lyrix@26.8.2
+- pkg:cargo/lyrix@26.9.0
