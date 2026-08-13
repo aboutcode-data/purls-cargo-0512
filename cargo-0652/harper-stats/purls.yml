@@ -58,3 +58,4 @@
 - pkg:cargo/harper-stats@2.0.0
 - pkg:cargo/harper-stats@2.4.0
 - pkg:cargo/harper-stats@2.5.0
+- pkg:cargo/harper-stats@2.7.0
