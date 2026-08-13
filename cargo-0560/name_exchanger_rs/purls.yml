@@ -1,2 +1,4 @@
 - pkg:cargo/name_exchanger_rs@2.2.0
 - pkg:cargo/name_exchanger_rs@2.2.1
+- pkg:cargo/name_exchanger_rs@2.3.1
+- pkg:cargo/name_exchanger_rs@2.3.2
