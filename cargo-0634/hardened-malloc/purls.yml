@@ -22,3 +22,7 @@
 - pkg:cargo/hardened-malloc@16.0.2026060601
 - pkg:cargo/hardened-malloc@16.0.2026060602
 - pkg:cargo/hardened-malloc@16.0.2026060603
+- pkg:cargo/hardened-malloc@16.0.2026071500
+- pkg:cargo/hardened-malloc@16.0.2026071501
+- pkg:cargo/hardened-malloc@16.0.2026071502
+- pkg:cargo/hardened-malloc@16.0.2026071503
