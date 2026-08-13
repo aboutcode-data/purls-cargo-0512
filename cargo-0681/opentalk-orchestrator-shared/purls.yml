@@ -1,6 +1,10 @@
 - pkg:cargo/opentalk-orchestrator-shared@0.1.0
 - pkg:cargo/opentalk-orchestrator-shared@0.1.1
 - pkg:cargo/opentalk-orchestrator-shared@0.10.0
+- pkg:cargo/opentalk-orchestrator-shared@0.11.0
+- pkg:cargo/opentalk-orchestrator-shared@0.12.0
+- pkg:cargo/opentalk-orchestrator-shared@0.13.0
+- pkg:cargo/opentalk-orchestrator-shared@0.14.0
 - pkg:cargo/opentalk-orchestrator-shared@0.2.0
 - pkg:cargo/opentalk-orchestrator-shared@0.3.0
 - pkg:cargo/opentalk-orchestrator-shared@0.4.0
