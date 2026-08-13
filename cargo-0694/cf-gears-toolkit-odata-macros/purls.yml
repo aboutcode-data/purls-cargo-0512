@@ -1,4 +1,6 @@
 - pkg:cargo/cf-gears-toolkit-odata-macros@0.6.10
+- pkg:cargo/cf-gears-toolkit-odata-macros@0.6.11
+- pkg:cargo/cf-gears-toolkit-odata-macros@0.6.12
 - pkg:cargo/cf-gears-toolkit-odata-macros@0.6.5
 - pkg:cargo/cf-gears-toolkit-odata-macros@0.6.6
 - pkg:cargo/cf-gears-toolkit-odata-macros@0.6.7
