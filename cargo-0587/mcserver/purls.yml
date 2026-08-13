@@ -12,6 +12,7 @@
 - pkg:cargo/mcserver@0.1.9
 - pkg:cargo/mcserver@0.2.0
 - pkg:cargo/mcserver@0.2.2
+- pkg:cargo/mcserver@0.2.3
 - pkg:cargo/mcserver@0.6.0
 - pkg:cargo/mcserver@0.6.1
 - pkg:cargo/mcserver@0.6.2
