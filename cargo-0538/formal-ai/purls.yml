@@ -294,6 +294,9 @@
 - pkg:cargo/formal-ai@0.339.2
 - pkg:cargo/formal-ai@0.339.3
 - pkg:cargo/formal-ai@0.34.0
+- pkg:cargo/formal-ai@0.340.0
+- pkg:cargo/formal-ai@0.341.0
+- pkg:cargo/formal-ai@0.342.0
 - pkg:cargo/formal-ai@0.36.0
 - pkg:cargo/formal-ai@0.36.1
 - pkg:cargo/formal-ai@0.37.0
