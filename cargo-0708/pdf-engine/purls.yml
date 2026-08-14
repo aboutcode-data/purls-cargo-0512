@@ -1,4 +1,5 @@
 - pkg:cargo/pdf-engine@1.0.0-beta.17
+- pkg:cargo/pdf-engine@1.0.0-beta.18
 - pkg:cargo/pdf-engine@1.0.0-beta.3
 - pkg:cargo/pdf-engine@1.0.0-beta.4
 - pkg:cargo/pdf-engine@1.0.0-beta.5
