@@ -1,1 +1,2 @@
 - pkg:cargo/connectrpc-health@0.7.0
+- pkg:cargo/connectrpc-health@0.8.0
