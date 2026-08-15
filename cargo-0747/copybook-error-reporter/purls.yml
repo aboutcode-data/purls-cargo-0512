@@ -1,1 +1,2 @@
 - pkg:cargo/copybook-error-reporter@0.4.3
+- pkg:cargo/copybook-error-reporter@0.5.0
