@@ -1,1 +1,4 @@
 - pkg:cargo/constellation-metagraph-sdk@0.2.0
+- pkg:cargo/constellation-metagraph-sdk@1.8.0-rc.4
+- pkg:cargo/constellation-metagraph-sdk@1.8.0-rc.5
+- pkg:cargo/constellation-metagraph-sdk@1.8.0-rc.7
