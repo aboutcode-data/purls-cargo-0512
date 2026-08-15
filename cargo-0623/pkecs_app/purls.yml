@@ -5,3 +5,7 @@
 - pkg:cargo/pkecs_app@1.0.3
 - pkg:cargo/pkecs_app@2.0.0
 - pkg:cargo/pkecs_app@2.0.1
+- pkg:cargo/pkecs_app@6.0.0
+- pkg:cargo/pkecs_app@7.0.0
+- pkg:cargo/pkecs_app@7.1.0
+- pkg:cargo/pkecs_app@7.2.0
