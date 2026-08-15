@@ -32,3 +32,5 @@
 - pkg:cargo/convco@0.6.2
 - pkg:cargo/convco@0.6.3
 - pkg:cargo/convco@0.6.4
+- pkg:cargo/convco@0.7.0
+- pkg:cargo/convco@0.7.1
