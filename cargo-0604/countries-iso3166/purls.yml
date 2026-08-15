@@ -9,3 +9,4 @@
 - pkg:cargo/countries-iso3166@1.5.1
 - pkg:cargo/countries-iso3166@1.5.2
 - pkg:cargo/countries-iso3166@1.6.0
+- pkg:cargo/countries-iso3166@1.7.0
