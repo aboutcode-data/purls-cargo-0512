@@ -29,6 +29,7 @@
 - pkg:cargo/nucleation@0.1.9
 - pkg:cargo/nucleation@0.10.12
 - pkg:cargo/nucleation@0.10.13
+- pkg:cargo/nucleation@0.10.14
 - pkg:cargo/nucleation@0.10.8
 - pkg:cargo/nucleation@0.10.9
 - pkg:cargo/nucleation@0.3.1
