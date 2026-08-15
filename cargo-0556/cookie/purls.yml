@@ -50,6 +50,7 @@
 - pkg:cargo/cookie@0.18.0
 - pkg:cargo/cookie@0.18.0-rc.0
 - pkg:cargo/cookie@0.18.1
+- pkg:cargo/cookie@0.18.2
 - pkg:cargo/cookie@0.2.0
 - pkg:cargo/cookie@0.2.1
 - pkg:cargo/cookie@0.2.2
