@@ -31,3 +31,12 @@
 - pkg:cargo/colgrep@1.5.2
 - pkg:cargo/colgrep@1.5.3
 - pkg:cargo/colgrep@1.5.4
+- pkg:cargo/colgrep@1.5.5
+- pkg:cargo/colgrep@1.5.6
+- pkg:cargo/colgrep@1.5.7
+- pkg:cargo/colgrep@1.6.0
+- pkg:cargo/colgrep@1.6.1
+- pkg:cargo/colgrep@1.6.2
+- pkg:cargo/colgrep@1.6.3
+- pkg:cargo/colgrep@1.6.4
+- pkg:cargo/colgrep@1.6.5
