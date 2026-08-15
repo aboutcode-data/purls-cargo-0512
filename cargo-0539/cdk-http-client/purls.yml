@@ -23,3 +23,4 @@
 - pkg:cargo/cdk-http-client@0.17.3
 - pkg:cargo/cdk-http-client@0.17.3-rc.0
 - pkg:cargo/cdk-http-client@0.17.4
+- pkg:cargo/cdk-http-client@0.17.5
