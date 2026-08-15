@@ -16,3 +16,4 @@
 - pkg:cargo/type-bridge-core-lib@1.5.7
 - pkg:cargo/type-bridge-core-lib@1.5.8
 - pkg:cargo/type-bridge-core-lib@1.5.9
+- pkg:cargo/type-bridge-core-lib@2.0.1
