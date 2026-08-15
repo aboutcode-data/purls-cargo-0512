@@ -4,6 +4,8 @@
 - pkg:cargo/tyml_api_generator@0.1.11
 - pkg:cargo/tyml_api_generator@0.1.12
 - pkg:cargo/tyml_api_generator@0.1.13
+- pkg:cargo/tyml_api_generator@0.1.14
+- pkg:cargo/tyml_api_generator@0.1.15
 - pkg:cargo/tyml_api_generator@0.1.2
 - pkg:cargo/tyml_api_generator@0.1.3
 - pkg:cargo/tyml_api_generator@0.1.4

@@ -99,6 +99,7 @@
 - pkg:cargo/typos-dict@0.13.6
 - pkg:cargo/typos-dict@0.13.8
 - pkg:cargo/typos-dict@0.13.9
+- pkg:cargo/typos-dict@0.14.0
 - pkg:cargo/typos-dict@0.2.0
 - pkg:cargo/typos-dict@0.2.1
 - pkg:cargo/typos-dict@0.3.0
