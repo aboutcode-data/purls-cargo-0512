@@ -27,3 +27,5 @@
 - pkg:cargo/codspeed-divan-compat-walltime@4.5.0
 - pkg:cargo/codspeed-divan-compat-walltime@4.6.0
 - pkg:cargo/codspeed-divan-compat-walltime@4.7.0
+- pkg:cargo/codspeed-divan-compat-walltime@5.0.0
+- pkg:cargo/codspeed-divan-compat-walltime@5.0.1
