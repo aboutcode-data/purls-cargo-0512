@@ -8,3 +8,4 @@
 - pkg:cargo/haste-fhir-profiling@0.18.0
 - pkg:cargo/haste-fhir-profiling@0.19.0
 - pkg:cargo/haste-fhir-profiling@0.20.0
+- pkg:cargo/haste-fhir-profiling@0.21.0
