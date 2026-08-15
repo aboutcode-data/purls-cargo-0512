@@ -1,2 +1,3 @@
 - pkg:cargo/openvm-algebra-complex-macros@0.0.0-reserved
 - pkg:cargo/openvm-algebra-complex-macros@2.0.1
+- pkg:cargo/openvm-algebra-complex-macros@2.0.2
