@@ -1,3 +1,5 @@
 - pkg:cargo/pktana-cli@0.1.0
 - pkg:cargo/pktana-cli@0.3.1
 - pkg:cargo/pktana-cli@0.4.0
+- pkg:cargo/pktana-cli@0.5.0
+- pkg:cargo/pktana-cli@0.6.0
