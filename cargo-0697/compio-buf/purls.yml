@@ -13,3 +13,4 @@
 - pkg:cargo/compio-buf@0.8.1
 - pkg:cargo/compio-buf@0.8.2
 - pkg:cargo/compio-buf@0.8.2-rc.1
+- pkg:cargo/compio-buf@0.8.3
