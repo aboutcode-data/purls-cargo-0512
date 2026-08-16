@@ -24,3 +24,4 @@
 - pkg:cargo/dcrypt-utils@1.2.3
 - pkg:cargo/dcrypt-utils@2.0.0
 - pkg:cargo/dcrypt-utils@3.0.0
+- pkg:cargo/dcrypt-utils@4.0.0

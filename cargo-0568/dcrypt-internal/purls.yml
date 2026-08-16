@@ -24,3 +24,4 @@
 - pkg:cargo/dcrypt-internal@1.2.3
 - pkg:cargo/dcrypt-internal@2.0.0
 - pkg:cargo/dcrypt-internal@3.0.0
+- pkg:cargo/dcrypt-internal@4.0.0
