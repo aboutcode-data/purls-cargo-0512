@@ -3,3 +3,4 @@
 - pkg:cargo/send_cells@0.2.0
 - pkg:cargo/send_cells@0.2.1
 - pkg:cargo/send_cells@0.2.2
+- pkg:cargo/send_cells@0.2.5
