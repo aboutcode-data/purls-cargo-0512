@@ -52,6 +52,7 @@
 - pkg:cargo/fff-search@0.10.5-nightly.a166255
 - pkg:cargo/fff-search@0.10.5-nightly.f565d37
 - pkg:cargo/fff-search@0.10.6-nightly.be2dd8d
+- pkg:cargo/fff-search@0.10.6-nightly.d7c0ddc
 - pkg:cargo/fff-search@0.10.6-nightly.f4def12
 - pkg:cargo/fff-search@0.2.4
 - pkg:cargo/fff-search@0.2.5-dev.dc8228e
