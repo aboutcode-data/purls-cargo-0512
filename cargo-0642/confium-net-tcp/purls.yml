@@ -1,1 +1,2 @@
 - pkg:cargo/confium-net-tcp@0.3.0
+- pkg:cargo/confium-net-tcp@0.4.7
