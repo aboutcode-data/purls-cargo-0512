@@ -1,2 +1,5 @@
 - pkg:cargo/codex-wrangler@1.0.0
 - pkg:cargo/codex-wrangler@1.0.11
+- pkg:cargo/codex-wrangler@1.1.0
+- pkg:cargo/codex-wrangler@1.1.1
+- pkg:cargo/codex-wrangler@1.2.0
