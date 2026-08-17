@@ -1,2 +1,4 @@
 - pkg:cargo/apologist@1.0.2
 - pkg:cargo/apologist@1.0.4
+- pkg:cargo/apologist@1.1.0
+- pkg:cargo/apologist@1.2.0
