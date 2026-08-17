@@ -4,3 +4,4 @@
 - pkg:cargo/bdinfo-rs-core@1.2.0
 - pkg:cargo/bdinfo-rs-core@2.0.0
 - pkg:cargo/bdinfo-rs-core@3.0.0
+- pkg:cargo/bdinfo-rs-core@4.0.0
