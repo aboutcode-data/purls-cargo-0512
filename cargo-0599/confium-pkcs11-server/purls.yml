@@ -1,1 +1,2 @@
 - pkg:cargo/confium-pkcs11-server@0.3.0
+- pkg:cargo/confium-pkcs11-server@0.4.7

@@ -1,1 +1,2 @@
 - pkg:cargo/confium-crypto-vss@0.3.0
+- pkg:cargo/confium-crypto-vss@0.4.7

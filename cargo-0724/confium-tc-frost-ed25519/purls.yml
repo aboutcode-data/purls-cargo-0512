@@ -1,1 +1,2 @@
 - pkg:cargo/confium-tc-frost-ed25519@0.3.0
+- pkg:cargo/confium-tc-frost-ed25519@0.4.7
