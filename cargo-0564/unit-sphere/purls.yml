@@ -17,3 +17,6 @@
 - pkg:cargo/unit-sphere@0.6.5
 - pkg:cargo/unit-sphere@1.0.0
 - pkg:cargo/unit-sphere@1.0.1
+- pkg:cargo/unit-sphere@1.0.2
+- pkg:cargo/unit-sphere@2.0.0
+- pkg:cargo/unit-sphere@2.0.1
