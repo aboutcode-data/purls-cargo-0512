@@ -1,2 +1,6 @@
 - pkg:cargo/kamaji-proto@0.0.0
 - pkg:cargo/kamaji-proto@0.8.16
+- pkg:cargo/kamaji-proto@0.8.20
+- pkg:cargo/kamaji-proto@0.8.21
+- pkg:cargo/kamaji-proto@0.8.22
+- pkg:cargo/kamaji-proto@0.8.26
