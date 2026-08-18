@@ -6,6 +6,7 @@
 - pkg:cargo/pijul@0.12.0
 - pkg:cargo/pijul@0.12.1
 - pkg:cargo/pijul@0.12.2
+- pkg:cargo/pijul@0.15.0
 - pkg:cargo/pijul@0.3.0
 - pkg:cargo/pijul@0.3.1
 - pkg:cargo/pijul@0.3.2
@@ -97,7 +98,16 @@
 - pkg:cargo/pijul@1.0.0-beta
 - pkg:cargo/pijul@1.0.0-beta.1
 - pkg:cargo/pijul@1.0.0-beta.11
+- pkg:cargo/pijul@1.0.0-beta.12
+- pkg:cargo/pijul@1.0.0-beta.13
+- pkg:cargo/pijul@1.0.0-beta.14
+- pkg:cargo/pijul@1.0.0-beta.15
+- pkg:cargo/pijul@1.0.0-beta.17
+- pkg:cargo/pijul@1.0.0-beta.18
+- pkg:cargo/pijul@1.0.0-beta.19
 - pkg:cargo/pijul@1.0.0-beta.2
+- pkg:cargo/pijul@1.0.0-beta.20
+- pkg:cargo/pijul@1.0.0-beta.21
 - pkg:cargo/pijul@1.0.0-beta.3
 - pkg:cargo/pijul@1.0.0-beta.4
 - pkg:cargo/pijul@1.0.0-beta.5
