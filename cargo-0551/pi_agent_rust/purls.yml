@@ -1,2 +1,5 @@
 - pkg:cargo/pi_agent_rust@0.1.13
+- pkg:cargo/pi_agent_rust@0.1.18
+- pkg:cargo/pi_agent_rust@0.1.22
+- pkg:cargo/pi_agent_rust@0.1.23
 - pkg:cargo/pi_agent_rust@0.1.7
