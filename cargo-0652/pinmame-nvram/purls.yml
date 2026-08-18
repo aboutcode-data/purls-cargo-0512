@@ -25,6 +25,10 @@
 - pkg:cargo/pinmame-nvram@0.4.0
 - pkg:cargo/pinmame-nvram@0.4.1
 - pkg:cargo/pinmame-nvram@0.4.10
+- pkg:cargo/pinmame-nvram@0.4.11
+- pkg:cargo/pinmame-nvram@0.4.12
+- pkg:cargo/pinmame-nvram@0.4.13
+- pkg:cargo/pinmame-nvram@0.4.14
 - pkg:cargo/pinmame-nvram@0.4.2
 - pkg:cargo/pinmame-nvram@0.4.3
 - pkg:cargo/pinmame-nvram@0.4.4
