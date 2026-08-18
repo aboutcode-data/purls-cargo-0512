@@ -4,3 +4,5 @@
 - pkg:cargo/sge_programs@1.0.3
 - pkg:cargo/sge_programs@1.0.4
 - pkg:cargo/sge_programs@1.1.0
+- pkg:cargo/sge_programs@1.1.1
+- pkg:cargo/sge_programs@1.2.0
