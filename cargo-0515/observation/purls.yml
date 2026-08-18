@@ -1,2 +1,5 @@
 - pkg:cargo/observation@0.8.16
 - pkg:cargo/observation@0.8.20
+- pkg:cargo/observation@0.8.21
+- pkg:cargo/observation@0.8.22
+- pkg:cargo/observation@0.8.26
