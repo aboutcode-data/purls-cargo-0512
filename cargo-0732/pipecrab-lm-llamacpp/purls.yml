@@ -1,0 +1,6 @@
+- pkg:cargo/pipecrab-lm-llamacpp@0.3.0
+- pkg:cargo/pipecrab-lm-llamacpp@0.4.0
+- pkg:cargo/pipecrab-lm-llamacpp@0.5.0
+- pkg:cargo/pipecrab-lm-llamacpp@0.5.1
+- pkg:cargo/pipecrab-lm-llamacpp@0.6.0
+- pkg:cargo/pipecrab-lm-llamacpp@0.7.0
