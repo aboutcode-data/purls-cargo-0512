@@ -26,3 +26,4 @@
 - pkg:cargo/openapi-forge-cli@0.1.7
 - pkg:cargo/openapi-forge-cli@0.1.8
 - pkg:cargo/openapi-forge-cli@0.1.9
+- pkg:cargo/openapi-forge-cli@1.0.1
