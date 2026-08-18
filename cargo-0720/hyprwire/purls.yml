@@ -34,3 +34,4 @@
 - pkg:cargo/hyprwire@0.4.4
 - pkg:cargo/hyprwire@0.5.0
 - pkg:cargo/hyprwire@0.5.1
+- pkg:cargo/hyprwire@0.5.2
