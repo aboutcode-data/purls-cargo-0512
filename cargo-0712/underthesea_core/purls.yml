@@ -1,3 +1,5 @@
 - pkg:cargo/underthesea_core@1.0.4
 - pkg:cargo/underthesea_core@3.2.0
 - pkg:cargo/underthesea_core@3.3.0
+- pkg:cargo/underthesea_core@3.3.1
+- pkg:cargo/underthesea_core@3.3.2
