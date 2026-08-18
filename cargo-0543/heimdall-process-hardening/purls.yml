@@ -24,5 +24,6 @@
 - pkg:cargo/heimdall-process-hardening@0.1.41
 - pkg:cargo/heimdall-process-hardening@0.1.42
 - pkg:cargo/heimdall-process-hardening@0.1.43
+- pkg:cargo/heimdall-process-hardening@0.1.44
 - pkg:cargo/heimdall-process-hardening@0.1.8
 - pkg:cargo/heimdall-process-hardening@0.1.9
