@@ -50,3 +50,4 @@
 - pkg:cargo/forklaunch@1.4.5
 - pkg:cargo/forklaunch@1.4.6
 - pkg:cargo/forklaunch@1.4.7
+- pkg:cargo/forklaunch@1.5.0
