@@ -63,5 +63,6 @@
 - pkg:cargo/hydracache-sqlx@0.68.0
 - pkg:cargo/hydracache-sqlx@0.69.0
 - pkg:cargo/hydracache-sqlx@0.7.0
+- pkg:cargo/hydracache-sqlx@0.70.0
 - pkg:cargo/hydracache-sqlx@0.8.0
 - pkg:cargo/hydracache-sqlx@0.9.0

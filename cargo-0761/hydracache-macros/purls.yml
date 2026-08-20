@@ -61,3 +61,4 @@
 - pkg:cargo/hydracache-macros@0.67.0
 - pkg:cargo/hydracache-macros@0.68.0
 - pkg:cargo/hydracache-macros@0.69.0
+- pkg:cargo/hydracache-macros@0.70.0
