@@ -4,3 +4,4 @@
 - pkg:cargo/bevy_rpack@0.2.0
 - pkg:cargo/bevy_rpack@0.3.0
 - pkg:cargo/bevy_rpack@0.3.1
+- pkg:cargo/bevy_rpack@0.5.0
