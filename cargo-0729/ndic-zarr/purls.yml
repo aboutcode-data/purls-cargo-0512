@@ -1,3 +1,4 @@
 - pkg:cargo/ndic-zarr@0.0.2
 - pkg:cargo/ndic-zarr@0.1.0
 - pkg:cargo/ndic-zarr@0.2.3
+- pkg:cargo/ndic-zarr@0.2.4
