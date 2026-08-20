@@ -9,3 +9,5 @@
 - pkg:cargo/fast-dav-rs@0.4.4
 - pkg:cargo/fast-dav-rs@0.5.0
 - pkg:cargo/fast-dav-rs@0.6.0
+- pkg:cargo/fast-dav-rs@0.7.0
+- pkg:cargo/fast-dav-rs@0.7.2
