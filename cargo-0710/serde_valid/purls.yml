@@ -57,3 +57,4 @@
 - pkg:cargo/serde_valid@2.0.1
 - pkg:cargo/serde_valid@2.0.2
 - pkg:cargo/serde_valid@2.0.3
+- pkg:cargo/serde_valid@2.0.4
