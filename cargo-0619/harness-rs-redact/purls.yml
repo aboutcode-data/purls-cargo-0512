@@ -22,3 +22,4 @@
 - pkg:cargo/harness-rs-redact@0.0.47
 - pkg:cargo/harness-rs-redact@0.0.48
 - pkg:cargo/harness-rs-redact@0.0.49
+- pkg:cargo/harness-rs-redact@0.0.50
