@@ -1,4 +1,6 @@
 - pkg:cargo/garasu@0.1.0
+- pkg:cargo/garasu@0.1.11
+- pkg:cargo/garasu@0.1.12
 - pkg:cargo/garasu@0.1.2
 - pkg:cargo/garasu@0.1.3
 - pkg:cargo/garasu@0.1.4
