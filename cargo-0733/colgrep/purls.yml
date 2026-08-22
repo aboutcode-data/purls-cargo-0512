@@ -40,3 +40,4 @@
 - pkg:cargo/colgrep@1.6.3
 - pkg:cargo/colgrep@1.6.4
 - pkg:cargo/colgrep@1.6.5
+- pkg:cargo/colgrep@1.7.0
