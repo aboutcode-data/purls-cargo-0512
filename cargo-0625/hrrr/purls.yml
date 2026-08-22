@@ -10,6 +10,7 @@
 - pkg:cargo/hrrr@1.2.0
 - pkg:cargo/hrrr@1.2.10
 - pkg:cargo/hrrr@1.2.12
+- pkg:cargo/hrrr@1.2.13
 - pkg:cargo/hrrr@1.2.5
 - pkg:cargo/hrrr@1.2.6
 - pkg:cargo/hrrr@1.2.8
