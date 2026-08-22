@@ -54,3 +54,4 @@
 - pkg:cargo/naga@29.0.3
 - pkg:cargo/naga@29.0.4
 - pkg:cargo/naga@30.0.0
+- pkg:cargo/naga@30.0.1
