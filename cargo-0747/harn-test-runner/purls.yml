@@ -9,6 +9,7 @@
 - pkg:cargo/harn-test-runner@0.10.108
 - pkg:cargo/harn-test-runner@0.10.109
 - pkg:cargo/harn-test-runner@0.10.110
+- pkg:cargo/harn-test-runner@0.10.111
 - pkg:cargo/harn-test-runner@0.10.67
 - pkg:cargo/harn-test-runner@0.10.68
 - pkg:cargo/harn-test-runner@0.10.69
