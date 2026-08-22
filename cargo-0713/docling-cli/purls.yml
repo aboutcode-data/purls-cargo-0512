@@ -73,6 +73,11 @@
 - pkg:cargo/docling-cli@1.11.1
 - pkg:cargo/docling-cli@1.11.2
 - pkg:cargo/docling-cli@1.12.0
+- pkg:cargo/docling-cli@1.13.0
+- pkg:cargo/docling-cli@1.14.0
+- pkg:cargo/docling-cli@1.14.1
+- pkg:cargo/docling-cli@1.14.2
+- pkg:cargo/docling-cli@1.15.0
 - pkg:cargo/docling-cli@1.2.0
 - pkg:cargo/docling-cli@1.3.0
 - pkg:cargo/docling-cli@1.4.0
