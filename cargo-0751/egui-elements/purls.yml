@@ -1,3 +1,4 @@
 - pkg:cargo/egui-elements@1.0.0
 - pkg:cargo/egui-elements@1.0.10
 - pkg:cargo/egui-elements@1.0.20
+- pkg:cargo/egui-elements@1.0.30
