@@ -17,6 +17,7 @@
 - pkg:cargo/whetstone-cli@3.10.0
 - pkg:cargo/whetstone-cli@3.10.1
 - pkg:cargo/whetstone-cli@3.11.0
+- pkg:cargo/whetstone-cli@3.12.0
 - pkg:cargo/whetstone-cli@3.2.0
 - pkg:cargo/whetstone-cli@3.3.0
 - pkg:cargo/whetstone-cli@3.4.0
