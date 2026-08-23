@@ -52,6 +52,7 @@
 - pkg:cargo/unigateway@2.14.1
 - pkg:cargo/unigateway@2.14.2
 - pkg:cargo/unigateway@2.15.0
+- pkg:cargo/unigateway@2.15.1
 - pkg:cargo/unigateway@2.2.0
 - pkg:cargo/unigateway@2.3.0
 - pkg:cargo/unigateway@2.3.1
