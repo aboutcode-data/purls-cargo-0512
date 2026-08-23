@@ -1,2 +1,4 @@
 - pkg:cargo/harken@0.3.1
 - pkg:cargo/harken@0.4.1
+- pkg:cargo/harken@0.4.2
+- pkg:cargo/harken@0.5.0
