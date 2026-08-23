@@ -104,7 +104,9 @@
 - pkg:cargo/omnizip-flac@0.16.76
 - pkg:cargo/omnizip-flac@0.16.77
 - pkg:cargo/omnizip-flac@0.16.78
+- pkg:cargo/omnizip-flac@0.16.79
 - pkg:cargo/omnizip-flac@0.16.8
+- pkg:cargo/omnizip-flac@0.16.80
 - pkg:cargo/omnizip-flac@0.16.9
 - pkg:cargo/omnizip-flac@0.4.0
 - pkg:cargo/omnizip-flac@0.5.0
