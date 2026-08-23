@@ -1,3 +1,4 @@
 - pkg:cargo/usage-rs@0.0.0
 - pkg:cargo/usage-rs@6.0.0
 - pkg:cargo/usage-rs@6.1.0
+- pkg:cargo/usage-rs@6.1.1
