@@ -8,3 +8,4 @@
 - pkg:cargo/knowdit-kg-model@0.6.0
 - pkg:cargo/knowdit-kg-model@1.0.0
 - pkg:cargo/knowdit-kg-model@1.0.1
+- pkg:cargo/knowdit-kg-model@2.0.1
