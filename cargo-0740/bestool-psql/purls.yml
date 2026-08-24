@@ -61,3 +61,4 @@
 - pkg:cargo/bestool-psql@1.7.6
 - pkg:cargo/bestool-psql@1.7.7
 - pkg:cargo/bestool-psql@1.7.8
+- pkg:cargo/bestool-psql@1.7.9
