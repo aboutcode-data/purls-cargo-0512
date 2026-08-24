@@ -54,6 +54,7 @@
 - pkg:cargo/bestool-psql@1.6.2
 - pkg:cargo/bestool-psql@1.7.0
 - pkg:cargo/bestool-psql@1.7.1
+- pkg:cargo/bestool-psql@1.7.10
 - pkg:cargo/bestool-psql@1.7.2
 - pkg:cargo/bestool-psql@1.7.3
 - pkg:cargo/bestool-psql@1.7.4
