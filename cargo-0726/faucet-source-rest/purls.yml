@@ -11,3 +11,4 @@
 - pkg:cargo/faucet-source-rest@1.4.2
 - pkg:cargo/faucet-source-rest@1.4.3
 - pkg:cargo/faucet-source-rest@1.4.4
+- pkg:cargo/faucet-source-rest@1.5.0
