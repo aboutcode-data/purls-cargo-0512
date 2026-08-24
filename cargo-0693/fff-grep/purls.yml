@@ -53,6 +53,7 @@
 - pkg:cargo/fff-grep@0.10.5-nightly.f565d37
 - pkg:cargo/fff-grep@0.10.6-nightly.28fce41
 - pkg:cargo/fff-grep@0.10.6-nightly.611dd87
+- pkg:cargo/fff-grep@0.10.6-nightly.9c39dd7
 - pkg:cargo/fff-grep@0.10.6-nightly.be2dd8d
 - pkg:cargo/fff-grep@0.10.6-nightly.d5b4abd
 - pkg:cargo/fff-grep@0.10.6-nightly.d7c0ddc
