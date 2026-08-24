@@ -3,3 +3,5 @@
 - pkg:cargo/pdfbull@0.12.2
 - pkg:cargo/pdfbull@0.13.0
 - pkg:cargo/pdfbull@0.13.5
+- pkg:cargo/pdfbull@0.13.6
+- pkg:cargo/pdfbull@0.13.7
