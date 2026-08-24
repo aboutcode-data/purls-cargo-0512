@@ -117,3 +117,6 @@
 - pkg:cargo/omnizip-blosc@0.16.88
 - pkg:cargo/omnizip-blosc@0.16.89
 - pkg:cargo/omnizip-blosc@0.16.9
+- pkg:cargo/omnizip-blosc@0.16.90
+- pkg:cargo/omnizip-blosc@0.16.91
+- pkg:cargo/omnizip-blosc@0.16.92
