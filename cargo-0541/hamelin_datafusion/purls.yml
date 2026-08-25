@@ -37,6 +37,7 @@
 - pkg:cargo/hamelin_datafusion@0.18.0
 - pkg:cargo/hamelin_datafusion@0.19.0
 - pkg:cargo/hamelin_datafusion@0.20.0
+- pkg:cargo/hamelin_datafusion@0.20.1
 - pkg:cargo/hamelin_datafusion@0.3.10
 - pkg:cargo/hamelin_datafusion@0.4.4
 - pkg:cargo/hamelin_datafusion@0.6.10
