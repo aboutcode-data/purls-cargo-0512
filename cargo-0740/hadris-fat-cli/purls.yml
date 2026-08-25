@@ -13,3 +13,4 @@
 - pkg:cargo/hadris-fat-cli@2.0.0-rc.3
 - pkg:cargo/hadris-fat-cli@2.0.0-rc.4
 - pkg:cargo/hadris-fat-cli@2.1.0
+- pkg:cargo/hadris-fat-cli@2.2.0
