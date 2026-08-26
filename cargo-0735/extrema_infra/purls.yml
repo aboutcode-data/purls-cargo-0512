@@ -32,6 +32,7 @@
 - pkg:cargo/extrema_infra@0.3.0
 - pkg:cargo/extrema_infra@0.3.1
 - pkg:cargo/extrema_infra@0.3.10
+- pkg:cargo/extrema_infra@0.3.11
 - pkg:cargo/extrema_infra@0.3.2
 - pkg:cargo/extrema_infra@0.3.3
 - pkg:cargo/extrema_infra@0.3.4
