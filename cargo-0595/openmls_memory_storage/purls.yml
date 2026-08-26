@@ -7,6 +7,7 @@
 - pkg:cargo/openmls_memory_storage@0.4.1
 - pkg:cargo/openmls_memory_storage@0.4.1-rc.1
 - pkg:cargo/openmls_memory_storage@0.5.0
+- pkg:cargo/openmls_memory_storage@0.6.0
 - pkg:cargo/openmls_memory_storage@0.6.0-rc.1
 - pkg:cargo/openmls_memory_storage@0.6.0-rc.2
 - pkg:cargo/openmls_memory_storage@0.6.0-rc.3
