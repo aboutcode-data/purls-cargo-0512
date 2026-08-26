@@ -2,3 +2,4 @@
 - pkg:cargo/usage-dynamic@6.2.0
 - pkg:cargo/usage-dynamic@6.3.0
 - pkg:cargo/usage-dynamic@6.4.0
+- pkg:cargo/usage-dynamic@6.4.1
