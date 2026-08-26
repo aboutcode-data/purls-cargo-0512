@@ -1,3 +1,4 @@
 - pkg:cargo/colibri-stateless@2.0.3
 - pkg:cargo/colibri-stateless@2.0.4
 - pkg:cargo/colibri-stateless@2.0.5
+- pkg:cargo/colibri-stateless@2.0.6
