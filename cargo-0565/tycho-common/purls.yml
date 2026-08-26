@@ -243,6 +243,9 @@
 - pkg:cargo/tycho-common@0.362.0
 - pkg:cargo/tycho-common@0.363.0
 - pkg:cargo/tycho-common@0.364.0
+- pkg:cargo/tycho-common@0.365.0
+- pkg:cargo/tycho-common@0.366.0
+- pkg:cargo/tycho-common@0.366.1
 - pkg:cargo/tycho-common@0.63.1
 - pkg:cargo/tycho-common@0.64.1
 - pkg:cargo/tycho-common@0.64.2
