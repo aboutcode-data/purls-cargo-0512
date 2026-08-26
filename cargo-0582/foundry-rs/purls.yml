@@ -27,6 +27,7 @@
 - pkg:cargo/foundry-rs@0.6.11
 - pkg:cargo/foundry-rs@0.6.12
 - pkg:cargo/foundry-rs@0.6.14
+- pkg:cargo/foundry-rs@0.6.15
 - pkg:cargo/foundry-rs@0.6.2
 - pkg:cargo/foundry-rs@0.6.3
 - pkg:cargo/foundry-rs@0.6.4
