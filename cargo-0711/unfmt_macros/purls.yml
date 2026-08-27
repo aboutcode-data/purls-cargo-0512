@@ -6,3 +6,5 @@
 - pkg:cargo/unfmt_macros@0.2.2
 - pkg:cargo/unfmt_macros@0.2.3
 - pkg:cargo/unfmt_macros@0.3.0
+- pkg:cargo/unfmt_macros@0.3.1
+- pkg:cargo/unfmt_macros@0.3.2
