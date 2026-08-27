@@ -18,3 +18,4 @@
 - pkg:cargo/compose-lens@0.1.9
 - pkg:cargo/compose-lens@0.2.0
 - pkg:cargo/compose-lens@0.3.0
+- pkg:cargo/compose-lens@0.3.1
