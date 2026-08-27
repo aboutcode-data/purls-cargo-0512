@@ -7,6 +7,7 @@
 - pkg:cargo/omni-stream@0.12.2
 - pkg:cargo/omni-stream@0.12.3
 - pkg:cargo/omni-stream@0.12.4
+- pkg:cargo/omni-stream@0.13.0
 - pkg:cargo/omni-stream@0.2.0
 - pkg:cargo/omni-stream@0.3.0
 - pkg:cargo/omni-stream@0.4.0
