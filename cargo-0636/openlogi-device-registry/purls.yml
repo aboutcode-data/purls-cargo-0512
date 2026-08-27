@@ -1,1 +1,2 @@
 - pkg:cargo/openlogi-device-registry@0.8.0
+- pkg:cargo/openlogi-device-registry@0.8.1
