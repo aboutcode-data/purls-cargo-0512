@@ -9,3 +9,4 @@
 - pkg:cargo/mseq@2.2.2
 - pkg:cargo/mseq@2.2.3
 - pkg:cargo/mseq@2.2.4
+- pkg:cargo/mseq@3.0.0
