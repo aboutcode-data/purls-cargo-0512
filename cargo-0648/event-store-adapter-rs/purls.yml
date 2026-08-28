@@ -134,3 +134,4 @@
 - pkg:cargo/event-store-adapter-rs@1.3.9
 - pkg:cargo/event-store-adapter-rs@1.4.0
 - pkg:cargo/event-store-adapter-rs@2.0.0
+- pkg:cargo/event-store-adapter-rs@2.0.1
