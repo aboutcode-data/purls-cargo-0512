@@ -1,3 +1,4 @@
 - pkg:cargo/egui_lens@0.1.0
 - pkg:cargo/egui_lens@0.4.0
 - pkg:cargo/egui_lens@0.5.0
+- pkg:cargo/egui_lens@0.6.0
