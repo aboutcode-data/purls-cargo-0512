@@ -106,3 +106,4 @@
 - pkg:cargo/forc-test@0.71.0
 - pkg:cargo/forc-test@0.71.2
 - pkg:cargo/forc-test@0.72.0
+- pkg:cargo/forc-test@0.72.1
