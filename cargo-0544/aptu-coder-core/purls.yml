@@ -67,6 +67,8 @@
 - pkg:cargo/aptu-coder-core@0.32.0
 - pkg:cargo/aptu-coder-core@0.32.1
 - pkg:cargo/aptu-coder-core@0.32.2
+- pkg:cargo/aptu-coder-core@0.32.3
+- pkg:cargo/aptu-coder-core@0.32.4
 - pkg:cargo/aptu-coder-core@0.7.0
 - pkg:cargo/aptu-coder-core@0.8.0
 - pkg:cargo/aptu-coder-core@0.8.1
