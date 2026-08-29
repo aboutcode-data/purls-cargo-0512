@@ -1,1 +1,2 @@
 - pkg:cargo/bitcache-valkey@0.0.3
+- pkg:cargo/bitcache-valkey@0.0.4
