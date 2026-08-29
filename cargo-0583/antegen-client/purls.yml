@@ -18,3 +18,4 @@
 - pkg:cargo/antegen-client@6.0.3
 - pkg:cargo/antegen-client@6.1.0
 - pkg:cargo/antegen-client@6.1.1
+- pkg:cargo/antegen-client@6.3.0
