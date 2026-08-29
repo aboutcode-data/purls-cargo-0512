@@ -32,6 +32,7 @@
 - pkg:cargo/util-gpui-unofficial@1.16.3
 - pkg:cargo/util-gpui-unofficial@1.17.0-pre
 - pkg:cargo/util-gpui-unofficial@1.17.2
+- pkg:cargo/util-gpui-unofficial@1.18.0-pre
 - pkg:cargo/util-gpui-unofficial@1.2.3
 - pkg:cargo/util-gpui-unofficial@1.2.6
 - pkg:cargo/util-gpui-unofficial@1.2.7
