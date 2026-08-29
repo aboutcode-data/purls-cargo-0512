@@ -1,2 +1,3 @@
 - pkg:cargo/yodb-macros@0.0.0
 - pkg:cargo/yodb-macros@0.0.1
+- pkg:cargo/yodb-macros@0.0.2
