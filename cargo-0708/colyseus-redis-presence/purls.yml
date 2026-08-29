@@ -1,0 +1,2 @@
+- pkg:cargo/colyseus-redis-presence@0.2.0
+- pkg:cargo/colyseus-redis-presence@0.3.0
