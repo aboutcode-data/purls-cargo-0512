@@ -33,6 +33,7 @@
 - pkg:cargo/cozy@0.2.3
 - pkg:cargo/cozy@0.2.30
 - pkg:cargo/cozy@0.2.31
+- pkg:cargo/cozy@0.2.32
 - pkg:cargo/cozy@0.2.4
 - pkg:cargo/cozy@0.2.5
 - pkg:cargo/cozy@0.2.6
