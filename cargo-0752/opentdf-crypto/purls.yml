@@ -1,1 +1,2 @@
 - pkg:cargo/opentdf-crypto@0.14.2
+- pkg:cargo/opentdf-crypto@0.15.0
