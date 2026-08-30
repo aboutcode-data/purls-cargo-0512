@@ -1,2 +1,3 @@
 - pkg:cargo/excelreader@2.1.3
 - pkg:cargo/excelreader@2.2.0
+- pkg:cargo/excelreader@2.3.0
