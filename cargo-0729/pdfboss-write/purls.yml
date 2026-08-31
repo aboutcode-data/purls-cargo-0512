@@ -7,3 +7,4 @@
 - pkg:cargo/pdfboss-write@0.25.0
 - pkg:cargo/pdfboss-write@1.0.0
 - pkg:cargo/pdfboss-write@1.1.0
+- pkg:cargo/pdfboss-write@1.2.0
