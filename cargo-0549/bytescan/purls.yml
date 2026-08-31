@@ -1,3 +1,4 @@
 - pkg:cargo/bytescan@0.0.31
+- pkg:cargo/bytescan@0.0.32-canary.13e01cac8c
 - pkg:cargo/bytescan@0.0.32-canary.66f63578a1
 - pkg:cargo/bytescan@0.0.32-canary.7a5f209b6f
