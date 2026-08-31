@@ -1,2 +1,3 @@
 - pkg:cargo/onvif-device-rs@0.2.1
 - pkg:cargo/onvif-device-rs@0.2.2
+- pkg:cargo/onvif-device-rs@0.3.0
