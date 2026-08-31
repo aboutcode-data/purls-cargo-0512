@@ -1,1 +1,2 @@
 - pkg:cargo/cdk-nostr@0.18.0-rc.1
+- pkg:cargo/cdk-nostr@0.18.0-rc.2

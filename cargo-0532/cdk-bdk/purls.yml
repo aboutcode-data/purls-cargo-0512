@@ -15,3 +15,4 @@
 - pkg:cargo/cdk-bdk@0.17.6
 - pkg:cargo/cdk-bdk@0.18.0-rc.0
 - pkg:cargo/cdk-bdk@0.18.0-rc.1
+- pkg:cargo/cdk-bdk@0.18.0-rc.2
