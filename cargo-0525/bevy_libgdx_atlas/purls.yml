@@ -7,3 +7,4 @@
 - pkg:cargo/bevy_libgdx_atlas@0.5.0
 - pkg:cargo/bevy_libgdx_atlas@0.6.0
 - pkg:cargo/bevy_libgdx_atlas@0.7.0
+- pkg:cargo/bevy_libgdx_atlas@0.8.0
