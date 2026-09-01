@@ -1,3 +1,4 @@
 - pkg:cargo/apollo_proc_macros_lib@0.19.0-rc.0
 - pkg:cargo/apollo_proc_macros_lib@0.19.0-rc.1
 - pkg:cargo/apollo_proc_macros_lib@0.19.0-rc.2
+- pkg:cargo/apollo_proc_macros_lib@0.20.0-rc.0
