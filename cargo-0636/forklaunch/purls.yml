@@ -31,6 +31,7 @@
 - pkg:cargo/forklaunch@0.6.9
 - pkg:cargo/forklaunch@1.0.0
 - pkg:cargo/forklaunch@1.1.0
+- pkg:cargo/forklaunch@1.10.0
 - pkg:cargo/forklaunch@1.2.0
 - pkg:cargo/forklaunch@1.2.1
 - pkg:cargo/forklaunch@1.2.2
@@ -57,3 +58,4 @@
 - pkg:cargo/forklaunch@1.7.0
 - pkg:cargo/forklaunch@1.7.1
 - pkg:cargo/forklaunch@1.8.0
+- pkg:cargo/forklaunch@1.9.0
