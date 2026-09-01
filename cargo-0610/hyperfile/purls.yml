@@ -16,5 +16,6 @@
 - pkg:cargo/hyperfile@0.6.12
 - pkg:cargo/hyperfile@0.6.13
 - pkg:cargo/hyperfile@0.6.15
+- pkg:cargo/hyperfile@0.6.16
 - pkg:cargo/hyperfile@0.6.8
 - pkg:cargo/hyperfile@0.6.9
