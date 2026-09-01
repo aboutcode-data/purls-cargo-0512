@@ -74,6 +74,7 @@
 - pkg:cargo/fff-search@0.10.6-nightly.f4def12
 - pkg:cargo/fff-search@0.10.7-nightly.c6013ba
 - pkg:cargo/fff-search@0.10.7-nightly.c9d1302
+- pkg:cargo/fff-search@0.10.7-nightly.d84c0a1
 - pkg:cargo/fff-search@0.10.7-nightly.f3647b7
 - pkg:cargo/fff-search@0.2.4
 - pkg:cargo/fff-search@0.2.5-dev.dc8228e
