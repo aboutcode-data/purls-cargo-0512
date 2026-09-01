@@ -1,3 +1,6 @@
 - pkg:cargo/rmut-egui@2.1.0
 - pkg:cargo/rmut-egui@2.2.0
 - pkg:cargo/rmut-egui@2.2.1
+- pkg:cargo/rmut-egui@2.3.0
+- pkg:cargo/rmut-egui@2.4.0
+- pkg:cargo/rmut-egui@2.5.0
