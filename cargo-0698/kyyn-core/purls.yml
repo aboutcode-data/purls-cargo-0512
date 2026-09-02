@@ -13,6 +13,7 @@
 - pkg:cargo/kyyn-core@0.1.22
 - pkg:cargo/kyyn-core@0.1.23
 - pkg:cargo/kyyn-core@1.0.0-rc.1
+- pkg:cargo/kyyn-core@1.0.0-rc.10
 - pkg:cargo/kyyn-core@1.0.0-rc.2
 - pkg:cargo/kyyn-core@1.0.0-rc.3
 - pkg:cargo/kyyn-core@1.0.0-rc.4
