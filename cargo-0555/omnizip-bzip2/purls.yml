@@ -166,6 +166,7 @@
 - pkg:cargo/omnizip-bzip2@0.21.43
 - pkg:cargo/omnizip-bzip2@0.21.44
 - pkg:cargo/omnizip-bzip2@0.21.45
+- pkg:cargo/omnizip-bzip2@0.21.46
 - pkg:cargo/omnizip-bzip2@0.21.5
 - pkg:cargo/omnizip-bzip2@0.21.6
 - pkg:cargo/omnizip-bzip2@0.21.7
