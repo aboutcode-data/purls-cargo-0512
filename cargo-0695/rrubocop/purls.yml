@@ -4,3 +4,4 @@
 - pkg:cargo/rrubocop@0.7.3
 - pkg:cargo/rrubocop@0.7.4
 - pkg:cargo/rrubocop@0.7.5
+- pkg:cargo/rrubocop@0.7.7
