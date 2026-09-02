@@ -1,3 +1,4 @@
 - pkg:cargo/nautilus-interactive-brokers@0.0.0
 - pkg:cargo/nautilus-interactive-brokers@0.61.0
 - pkg:cargo/nautilus-interactive-brokers@0.62.0
+- pkg:cargo/nautilus-interactive-brokers@0.63.0
