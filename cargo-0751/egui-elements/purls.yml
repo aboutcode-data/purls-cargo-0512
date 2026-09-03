@@ -5,3 +5,5 @@
 - pkg:cargo/egui-elements@1.0.40
 - pkg:cargo/egui-elements@1.0.41
 - pkg:cargo/egui-elements@1.0.50
+- pkg:cargo/egui-elements@1.0.60
+- pkg:cargo/egui-elements@1.0.70
