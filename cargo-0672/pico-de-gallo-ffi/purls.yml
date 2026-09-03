@@ -7,3 +7,4 @@
 - pkg:cargo/pico-de-gallo-ffi@0.6.0
 - pkg:cargo/pico-de-gallo-ffi@0.7.0
 - pkg:cargo/pico-de-gallo-ffi@0.7.1
+- pkg:cargo/pico-de-gallo-ffi@0.8.0
