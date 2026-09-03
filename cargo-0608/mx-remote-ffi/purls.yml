@@ -1,3 +1,5 @@
 - pkg:cargo/mx-remote-ffi@1.0.0
 - pkg:cargo/mx-remote-ffi@2.0.0
 - pkg:cargo/mx-remote-ffi@3.0.0
+- pkg:cargo/mx-remote-ffi@4.0.0
+- pkg:cargo/mx-remote-ffi@4.0.1
