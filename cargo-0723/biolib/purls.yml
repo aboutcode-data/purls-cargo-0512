@@ -130,5 +130,9 @@
 - pkg:cargo/biolib@1.4.395
 - pkg:cargo/biolib@1.4.398
 - pkg:cargo/biolib@1.4.401
+- pkg:cargo/biolib@1.4.429
+- pkg:cargo/biolib@1.4.430
+- pkg:cargo/biolib@1.4.451
+- pkg:cargo/biolib@1.4.457
 - pkg:cargo/biolib@1.4.7
 - pkg:cargo/biolib@1.4.8
