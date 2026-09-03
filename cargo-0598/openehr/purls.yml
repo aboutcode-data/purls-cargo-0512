@@ -11,3 +11,4 @@
 - pkg:cargo/openehr@0.7.3
 - pkg:cargo/openehr@0.7.4
 - pkg:cargo/openehr@0.8.0
+- pkg:cargo/openehr@0.9.0
