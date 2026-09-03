@@ -2,6 +2,7 @@
 - pkg:cargo/context69-sdk@0.10.0
 - pkg:cargo/context69-sdk@0.11.0
 - pkg:cargo/context69-sdk@0.11.1
+- pkg:cargo/context69-sdk@0.13.2
 - pkg:cargo/context69-sdk@0.2.0
 - pkg:cargo/context69-sdk@0.3.0
 - pkg:cargo/context69-sdk@0.4.0
