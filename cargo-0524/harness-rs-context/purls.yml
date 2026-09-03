@@ -56,6 +56,7 @@
 - pkg:cargo/harness-rs-context@0.0.6
 - pkg:cargo/harness-rs-context@0.0.60
 - pkg:cargo/harness-rs-context@0.0.61
+- pkg:cargo/harness-rs-context@0.0.62
 - pkg:cargo/harness-rs-context@0.0.7
 - pkg:cargo/harness-rs-context@0.0.8
 - pkg:cargo/harness-rs-context@0.0.9
