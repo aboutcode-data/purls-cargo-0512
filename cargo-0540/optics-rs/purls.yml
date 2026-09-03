@@ -50,6 +50,7 @@
 - pkg:cargo/optics-rs@0.26.2
 - pkg:cargo/optics-rs@0.27.0
 - pkg:cargo/optics-rs@0.28.0
+- pkg:cargo/optics-rs@0.28.1
 - pkg:cargo/optics-rs@0.8.0
 - pkg:cargo/optics-rs@0.8.1
 - pkg:cargo/optics-rs@0.8.2
