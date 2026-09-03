@@ -43,3 +43,4 @@
 - pkg:cargo/pinger@2.1.1
 - pkg:cargo/pinger@2.1.2
 - pkg:cargo/pinger@2.1.4
+- pkg:cargo/pinger@2.2.0
