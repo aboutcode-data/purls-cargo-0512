@@ -24,6 +24,8 @@
 - pkg:cargo/harn-test-runner@0.10.123
 - pkg:cargo/harn-test-runner@0.10.124
 - pkg:cargo/harn-test-runner@0.10.125
+- pkg:cargo/harn-test-runner@0.10.126
+- pkg:cargo/harn-test-runner@0.10.127
 - pkg:cargo/harn-test-runner@0.10.67
 - pkg:cargo/harn-test-runner@0.10.68
 - pkg:cargo/harn-test-runner@0.10.69
