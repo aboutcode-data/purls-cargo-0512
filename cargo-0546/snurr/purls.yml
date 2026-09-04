@@ -6,6 +6,8 @@
 - pkg:cargo/snurr@0.11.0
 - pkg:cargo/snurr@0.12.0
 - pkg:cargo/snurr@0.13.0
+- pkg:cargo/snurr@0.14.0
+- pkg:cargo/snurr@0.15.0
 - pkg:cargo/snurr@0.3.4
 - pkg:cargo/snurr@0.3.5
 - pkg:cargo/snurr@0.4.0
