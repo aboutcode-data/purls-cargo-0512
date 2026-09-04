@@ -46,3 +46,6 @@
 - pkg:cargo/aargvark_proc_macros@3.5.6
 - pkg:cargo/aargvark_proc_macros@3.8.0
 - pkg:cargo/aargvark_proc_macros@3.8.1
+- pkg:cargo/aargvark_proc_macros@3.8.2
+- pkg:cargo/aargvark_proc_macros@3.8.3
+- pkg:cargo/aargvark_proc_macros@3.8.4
