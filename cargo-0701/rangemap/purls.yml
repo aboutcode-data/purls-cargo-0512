@@ -27,3 +27,4 @@
 - pkg:cargo/rangemap@1.6.0
 - pkg:cargo/rangemap@1.7.0
 - pkg:cargo/rangemap@1.7.1
+- pkg:cargo/rangemap@1.8.0
