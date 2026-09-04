@@ -11,3 +11,4 @@
 - pkg:cargo/turbovec@0.8.0
 - pkg:cargo/turbovec@0.8.1
 - pkg:cargo/turbovec@0.9.0
+- pkg:cargo/turbovec@1.0.0
