@@ -7,3 +7,4 @@
 - pkg:cargo/tss-esapi-sys@0.6.0
 - pkg:cargo/tss-esapi-sys@0.6.0-alpha.1
 - pkg:cargo/tss-esapi-sys@0.6.0-alpha.2
+- pkg:cargo/tss-esapi-sys@0.7.0-alpha.1
