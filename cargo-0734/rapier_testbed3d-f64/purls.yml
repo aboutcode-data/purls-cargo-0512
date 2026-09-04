@@ -11,3 +11,9 @@
 - pkg:cargo/rapier_testbed3d-f64@0.32.0
 - pkg:cargo/rapier_testbed3d-f64@0.33.0
 - pkg:cargo/rapier_testbed3d-f64@0.34.0
+- pkg:cargo/rapier_testbed3d-f64@0.35.0
+- pkg:cargo/rapier_testbed3d-f64@0.35.0-beta.0
+- pkg:cargo/rapier_testbed3d-f64@0.35.0-glamx0.2
+- pkg:cargo/rapier_testbed3d-f64@0.35.1
+- pkg:cargo/rapier_testbed3d-f64@0.35.2
+- pkg:cargo/rapier_testbed3d-f64@0.35.3

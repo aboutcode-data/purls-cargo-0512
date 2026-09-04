@@ -49,6 +49,12 @@
 - pkg:cargo/rapier2d@0.33.0
 - pkg:cargo/rapier2d@0.33.0-alpha
 - pkg:cargo/rapier2d@0.34.0
+- pkg:cargo/rapier2d@0.35.0
+- pkg:cargo/rapier2d@0.35.0-beta.0
+- pkg:cargo/rapier2d@0.35.0-glamx0.2
+- pkg:cargo/rapier2d@0.35.1
+- pkg:cargo/rapier2d@0.35.2
+- pkg:cargo/rapier2d@0.35.3
 - pkg:cargo/rapier2d@0.4.0
 - pkg:cargo/rapier2d@0.4.1
 - pkg:cargo/rapier2d@0.4.2
