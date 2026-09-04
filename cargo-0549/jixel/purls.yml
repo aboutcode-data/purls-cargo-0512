@@ -13,7 +13,11 @@
 - pkg:cargo/jixel@0.2.16
 - pkg:cargo/jixel@0.2.17
 - pkg:cargo/jixel@0.2.18
+- pkg:cargo/jixel@0.2.19
 - pkg:cargo/jixel@0.2.2
+- pkg:cargo/jixel@0.2.20
+- pkg:cargo/jixel@0.2.21
+- pkg:cargo/jixel@0.2.22
 - pkg:cargo/jixel@0.2.3
 - pkg:cargo/jixel@0.2.4
 - pkg:cargo/jixel@0.2.5
