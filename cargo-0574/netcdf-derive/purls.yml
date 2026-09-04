@@ -1,1 +1,2 @@
 - pkg:cargo/netcdf-derive@0.1.0
+- pkg:cargo/netcdf-derive@0.1.1
