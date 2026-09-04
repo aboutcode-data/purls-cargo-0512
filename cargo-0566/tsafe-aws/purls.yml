@@ -1,1 +1,4 @@
 - pkg:cargo/tsafe-aws@1.0.3
+- pkg:cargo/tsafe-aws@1.1.0
+- pkg:cargo/tsafe-aws@1.2.0
+- pkg:cargo/tsafe-aws@1.2.1
