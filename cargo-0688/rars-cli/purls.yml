@@ -11,3 +11,16 @@
 - pkg:cargo/rars-cli@0.4.5
 - pkg:cargo/rars-cli@0.4.6
 - pkg:cargo/rars-cli@0.4.7
+- pkg:cargo/rars-cli@0.4.8
+- pkg:cargo/rars-cli@0.4.9
+- pkg:cargo/rars-cli@0.5.0
+- pkg:cargo/rars-cli@0.5.1
+- pkg:cargo/rars-cli@0.5.2
+- pkg:cargo/rars-cli@0.6.0
+- pkg:cargo/rars-cli@0.7.3
+- pkg:cargo/rars-cli@0.7.4
+- pkg:cargo/rars-cli@0.8.0
+- pkg:cargo/rars-cli@0.9.0
+- pkg:cargo/rars-cli@0.9.1
+- pkg:cargo/rars-cli@0.9.2
+- pkg:cargo/rars-cli@0.9.3
