@@ -6,3 +6,5 @@
 - pkg:cargo/rts-alloc@2.0.0
 - pkg:cargo/rts-alloc@3.0.0
 - pkg:cargo/rts-alloc@4.0.0
+- pkg:cargo/rts-alloc@5.0.0
+- pkg:cargo/rts-alloc@5.1.0
