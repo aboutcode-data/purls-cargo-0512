@@ -7,3 +7,4 @@
 - pkg:cargo/enum_traits_macros@1.2.0
 - pkg:cargo/enum_traits_macros@1.2.1
 - pkg:cargo/enum_traits_macros@2.0.0
+- pkg:cargo/enum_traits_macros@4.0.0
