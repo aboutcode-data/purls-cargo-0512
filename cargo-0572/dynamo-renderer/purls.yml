@@ -19,3 +19,8 @@
 - pkg:cargo/dynamo-renderer@4.0.1
 - pkg:cargo/dynamo-renderer@4.1.0
 - pkg:cargo/dynamo-renderer@5.0.0
+- pkg:cargo/dynamo-renderer@5.0.1
+- pkg:cargo/dynamo-renderer@5.0.2
+- pkg:cargo/dynamo-renderer@5.1.0
+- pkg:cargo/dynamo-renderer@5.1.1
+- pkg:cargo/dynamo-renderer@5.1.2
