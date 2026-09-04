@@ -6,8 +6,16 @@
 - pkg:cargo/tpm2-crypto@0.11.1
 - pkg:cargo/tpm2-crypto@0.11.2
 - pkg:cargo/tpm2-crypto@0.11.3
+- pkg:cargo/tpm2-crypto@0.11.4
+- pkg:cargo/tpm2-crypto@0.12.0
+- pkg:cargo/tpm2-crypto@0.12.1
 - pkg:cargo/tpm2-crypto@0.2.0
 - pkg:cargo/tpm2-crypto@0.2.1
+- pkg:cargo/tpm2-crypto@0.20.0
+- pkg:cargo/tpm2-crypto@0.20.1
+- pkg:cargo/tpm2-crypto@0.20.2
+- pkg:cargo/tpm2-crypto@0.20.3
+- pkg:cargo/tpm2-crypto@0.20.4
 - pkg:cargo/tpm2-crypto@0.3.0
 - pkg:cargo/tpm2-crypto@0.3.1
 - pkg:cargo/tpm2-crypto@0.3.2
@@ -37,3 +45,9 @@
 - pkg:cargo/tpm2-crypto@0.8.2
 - pkg:cargo/tpm2-crypto@0.9.0
 - pkg:cargo/tpm2-crypto@0.9.1
+- pkg:cargo/tpm2-crypto@1.0.0
+- pkg:cargo/tpm2-crypto@1.0.1
+- pkg:cargo/tpm2-crypto@1.0.2
+- pkg:cargo/tpm2-crypto@1.1.0
+- pkg:cargo/tpm2-crypto@1.1.1
+- pkg:cargo/tpm2-crypto@1.2.0
