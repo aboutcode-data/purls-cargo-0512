@@ -16,3 +16,4 @@
 - pkg:cargo/rtf-parser@0.4.0
 - pkg:cargo/rtf-parser@0.4.1
 - pkg:cargo/rtf-parser@0.4.2
+- pkg:cargo/rtf-parser@0.4.3
