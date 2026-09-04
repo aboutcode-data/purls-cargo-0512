@@ -19,3 +19,6 @@
 - pkg:cargo/rasusa@3.0.0
 - pkg:cargo/rasusa@4.0.0
 - pkg:cargo/rasusa@4.1.0
+- pkg:cargo/rasusa@5.0.0
+- pkg:cargo/rasusa@5.0.1
+- pkg:cargo/rasusa@5.1.0
