@@ -15,3 +15,4 @@
 - pkg:cargo/snap@1.0.5
 - pkg:cargo/snap@1.1.0
 - pkg:cargo/snap@1.1.1
+- pkg:cargo/snap@1.1.2

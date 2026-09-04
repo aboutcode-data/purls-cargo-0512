@@ -3,3 +3,6 @@
 - pkg:cargo/snap-dataplane@0.3.0
 - pkg:cargo/snap-dataplane@0.4.0
 - pkg:cargo/snap-dataplane@0.5.2
+- pkg:cargo/snap-dataplane@0.6.0
+- pkg:cargo/snap-dataplane@0.6.1
+- pkg:cargo/snap-dataplane@0.7.0
