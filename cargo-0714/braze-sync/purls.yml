@@ -15,8 +15,12 @@
 - pkg:cargo/braze-sync@0.16.4
 - pkg:cargo/braze-sync@0.16.5
 - pkg:cargo/braze-sync@0.17.0
+- pkg:cargo/braze-sync@0.17.1
+- pkg:cargo/braze-sync@0.18.0
+- pkg:cargo/braze-sync@0.19.0
 - pkg:cargo/braze-sync@0.2.0
 - pkg:cargo/braze-sync@0.2.1
+- pkg:cargo/braze-sync@0.20.0
 - pkg:cargo/braze-sync@0.3.0
 - pkg:cargo/braze-sync@0.5.0
 - pkg:cargo/braze-sync@0.6.0
