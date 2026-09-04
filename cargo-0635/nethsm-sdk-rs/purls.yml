@@ -12,3 +12,5 @@
 - pkg:cargo/nethsm-sdk-rs@3.0.0-rc.3
 - pkg:cargo/nethsm-sdk-rs@3.0.0-rc.4
 - pkg:cargo/nethsm-sdk-rs@3.0.0-rc.5
+- pkg:cargo/nethsm-sdk-rs@4.0.0
+- pkg:cargo/nethsm-sdk-rs@4.0.0-rc.1
