@@ -90,6 +90,16 @@
 - pkg:cargo/wasm-encoder@0.248.0
 - pkg:cargo/wasm-encoder@0.249.0
 - pkg:cargo/wasm-encoder@0.25.0
+- pkg:cargo/wasm-encoder@0.250.0
+- pkg:cargo/wasm-encoder@0.251.0
+- pkg:cargo/wasm-encoder@0.252.0
+- pkg:cargo/wasm-encoder@0.253.0
+- pkg:cargo/wasm-encoder@0.254.0
+- pkg:cargo/wasm-encoder@0.255.0
+- pkg:cargo/wasm-encoder@0.256.0
+- pkg:cargo/wasm-encoder@0.257.0
+- pkg:cargo/wasm-encoder@0.257.1
+- pkg:cargo/wasm-encoder@0.258.0
 - pkg:cargo/wasm-encoder@0.26.0
 - pkg:cargo/wasm-encoder@0.27.0
 - pkg:cargo/wasm-encoder@0.28.0
