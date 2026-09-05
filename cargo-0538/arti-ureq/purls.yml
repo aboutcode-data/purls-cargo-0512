@@ -12,3 +12,6 @@
 - pkg:cargo/arti-ureq@0.41.0
 - pkg:cargo/arti-ureq@0.42.0
 - pkg:cargo/arti-ureq@0.43.0
+- pkg:cargo/arti-ureq@0.44.0
+- pkg:cargo/arti-ureq@0.45.0
+- pkg:cargo/arti-ureq@0.46.0
