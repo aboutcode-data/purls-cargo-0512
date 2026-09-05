@@ -15,3 +15,5 @@
 - pkg:cargo/aranya-util@4.1.1
 - pkg:cargo/aranya-util@5.0.0
 - pkg:cargo/aranya-util@6.0.0
+- pkg:cargo/aranya-util@7.0.0
+- pkg:cargo/aranya-util@7.0.1
