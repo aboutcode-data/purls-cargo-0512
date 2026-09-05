@@ -10,4 +10,5 @@
 - pkg:cargo/rstml@0.11.2
 - pkg:cargo/rstml@0.12.0
 - pkg:cargo/rstml@0.12.1
+- pkg:cargo/rstml@0.13.0
 - pkg:cargo/rstml@0.9.0
