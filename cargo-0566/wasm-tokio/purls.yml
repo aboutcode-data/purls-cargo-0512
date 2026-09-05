@@ -33,3 +33,4 @@
 - pkg:cargo/wasm-tokio@0.5.8
 - pkg:cargo/wasm-tokio@0.5.9
 - pkg:cargo/wasm-tokio@0.6.0
+- pkg:cargo/wasm-tokio@0.6.1
