@@ -1,1 +1,11 @@
 - pkg:cargo/sqlparser-dsql@0.61.0
+- pkg:cargo/sqlparser-dsql@0.62.0
+- pkg:cargo/sqlparser-dsql@0.62.1
+- pkg:cargo/sqlparser-dsql@0.62.2
+- pkg:cargo/sqlparser-dsql@0.62.3
+- pkg:cargo/sqlparser-dsql@0.62.4
+- pkg:cargo/sqlparser-dsql@0.62.5
+- pkg:cargo/sqlparser-dsql@0.62.6
+- pkg:cargo/sqlparser-dsql@0.62.7
+- pkg:cargo/sqlparser-dsql@0.62.8
+- pkg:cargo/sqlparser-dsql@0.62.9
