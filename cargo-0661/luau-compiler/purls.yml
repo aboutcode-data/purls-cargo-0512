@@ -1,1 +1,3 @@
 - pkg:cargo/luau-compiler@0.0.0
+- pkg:cargo/luau-compiler@0.732.0
+- pkg:cargo/luau-compiler@0.733.0
