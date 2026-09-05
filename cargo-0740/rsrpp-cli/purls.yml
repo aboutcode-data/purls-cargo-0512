@@ -20,3 +20,4 @@
 - pkg:cargo/rsrpp-cli@1.0.7
 - pkg:cargo/rsrpp-cli@1.0.8
 - pkg:cargo/rsrpp-cli@1.0.9
+- pkg:cargo/rsrpp-cli@2.0.0
