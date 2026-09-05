@@ -61,3 +61,4 @@
 - pkg:cargo/wasmtime-internal-explorer@47.0.4
 - pkg:cargo/wasmtime-internal-explorer@48.0.0
 - pkg:cargo/wasmtime-internal-explorer@48.0.1
+- pkg:cargo/wasmtime-internal-explorer@49.0.0-rc.1
