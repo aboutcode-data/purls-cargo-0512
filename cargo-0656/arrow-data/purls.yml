@@ -59,4 +59,8 @@
 - pkg:cargo/arrow-data@58.1.0
 - pkg:cargo/arrow-data@58.2.0
 - pkg:cargo/arrow-data@58.3.0
+- pkg:cargo/arrow-data@58.4.0
 - pkg:cargo/arrow-data@59.0.0
+- pkg:cargo/arrow-data@59.1.0
+- pkg:cargo/arrow-data@59.2.0
+- pkg:cargo/arrow-data@59.3.0
