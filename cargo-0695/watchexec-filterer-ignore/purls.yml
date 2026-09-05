@@ -11,3 +11,6 @@
 - pkg:cargo/watchexec-filterer-ignore@5.0.0
 - pkg:cargo/watchexec-filterer-ignore@6.0.0
 - pkg:cargo/watchexec-filterer-ignore@7.0.0
+- pkg:cargo/watchexec-filterer-ignore@7.0.1
+- pkg:cargo/watchexec-filterer-ignore@7.0.2
+- pkg:cargo/watchexec-filterer-ignore@7.0.3
