@@ -303,6 +303,7 @@
 - pkg:cargo/rbatis@4.0.8
 - pkg:cargo/rbatis@4.0.9
 - pkg:cargo/rbatis@4.1.0
+- pkg:cargo/rbatis@4.10.0
 - pkg:cargo/rbatis@4.2.0
 - pkg:cargo/rbatis@4.2.1
 - pkg:cargo/rbatis@4.2.2
@@ -426,3 +427,4 @@
 - pkg:cargo/rbatis@4.9.4
 - pkg:cargo/rbatis@4.9.5
 - pkg:cargo/rbatis@4.9.6
+- pkg:cargo/rbatis@4.9.7
