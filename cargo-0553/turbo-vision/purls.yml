@@ -29,3 +29,7 @@
 - pkg:cargo/turbo-vision@2.2.1
 - pkg:cargo/turbo-vision@2.3.0
 - pkg:cargo/turbo-vision@2.3.1
+- pkg:cargo/turbo-vision@2.4.0
+- pkg:cargo/turbo-vision@2.4.1
+- pkg:cargo/turbo-vision@2.4.2
+- pkg:cargo/turbo-vision@3.0.0
