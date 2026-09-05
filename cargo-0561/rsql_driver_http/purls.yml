@@ -7,3 +7,4 @@
 - pkg:cargo/rsql_driver_http@0.19.2
 - pkg:cargo/rsql_driver_http@0.19.3
 - pkg:cargo/rsql_driver_http@0.19.4
+- pkg:cargo/rsql_driver_http@0.20.0
