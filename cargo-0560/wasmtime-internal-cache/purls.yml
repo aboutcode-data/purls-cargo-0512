@@ -61,3 +61,4 @@
 - pkg:cargo/wasmtime-internal-cache@47.0.4
 - pkg:cargo/wasmtime-internal-cache@48.0.0
 - pkg:cargo/wasmtime-internal-cache@48.0.1
+- pkg:cargo/wasmtime-internal-cache@49.0.0-rc.1
