@@ -2,3 +2,4 @@
 - pkg:cargo/waytrogen@0.6.10
 - pkg:cargo/waytrogen@0.6.11
 - pkg:cargo/waytrogen@0.6.12
+- pkg:cargo/waytrogen@1.0.1
