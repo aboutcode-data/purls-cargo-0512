@@ -10,6 +10,7 @@
 - pkg:cargo/otel-bootstrap@2.14.0
 - pkg:cargo/otel-bootstrap@2.14.1
 - pkg:cargo/otel-bootstrap@2.15.0
+- pkg:cargo/otel-bootstrap@2.16.0
 - pkg:cargo/otel-bootstrap@2.2.0
 - pkg:cargo/otel-bootstrap@2.3.0
 - pkg:cargo/otel-bootstrap@2.4.0
