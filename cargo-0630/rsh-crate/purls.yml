@@ -1,0 +1,4 @@
+- pkg:cargo/rsh-crate@0.2.2
+- pkg:cargo/rsh-crate@0.3.0
+- pkg:cargo/rsh-crate@0.3.1
+- pkg:cargo/rsh-crate@0.3.2
