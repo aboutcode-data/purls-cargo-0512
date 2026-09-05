@@ -32,6 +32,7 @@
 - pkg:cargo/wasm-bindgen-shared@0.2.125
 - pkg:cargo/wasm-bindgen-shared@0.2.126
 - pkg:cargo/wasm-bindgen-shared@0.2.127
+- pkg:cargo/wasm-bindgen-shared@0.2.128
 - pkg:cargo/wasm-bindgen-shared@0.2.13
 - pkg:cargo/wasm-bindgen-shared@0.2.14
 - pkg:cargo/wasm-bindgen-shared@0.2.15
