@@ -1,0 +1,4 @@
+- pkg:cargo/rstix@0.0.0-reserved
+- pkg:cargo/rstix@0.19.0
+- pkg:cargo/rstix@0.20.0
+- pkg:cargo/rstix@0.21.0
