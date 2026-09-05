@@ -67,3 +67,5 @@
 - pkg:cargo/rs_poker@4.0.0-alpha.1
 - pkg:cargo/rs_poker@4.0.0-alpha.2
 - pkg:cargo/rs_poker@4.1.0
+- pkg:cargo/rs_poker@5.0.0
+- pkg:cargo/rs_poker@5.1.0
