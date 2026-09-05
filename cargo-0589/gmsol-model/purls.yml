@@ -1,3 +1,5 @@
+- pkg:cargo/gmsol-model@0.10.0
+- pkg:cargo/gmsol-model@0.10.0-beta.2
 - pkg:cargo/gmsol-model@0.4.0-alpha.0
 - pkg:cargo/gmsol-model@0.4.1-alpha.2
 - pkg:cargo/gmsol-model@0.4.1-alpha.3
