@@ -3,3 +3,7 @@
 - pkg:cargo/rs-autofixture@0.3.0
 - pkg:cargo/rs-autofixture@0.3.2
 - pkg:cargo/rs-autofixture@0.3.3
+- pkg:cargo/rs-autofixture@0.4.0
+- pkg:cargo/rs-autofixture@0.5.0
+- pkg:cargo/rs-autofixture@0.5.2
+- pkg:cargo/rs-autofixture@0.6.0
