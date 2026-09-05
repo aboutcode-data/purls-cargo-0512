@@ -68,3 +68,4 @@
 - pkg:cargo/ntex-service@5.0.0-beta.3
 - pkg:cargo/ntex-service@5.0.0-beta.4
 - pkg:cargo/ntex-service@5.0.0-beta.5
+- pkg:cargo/ntex-service@5.0.0-beta.6
