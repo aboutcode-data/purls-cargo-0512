@@ -495,3 +495,4 @@
 - pkg:cargo/wmill@1.800.1
 - pkg:cargo/wmill@1.801.0
 - pkg:cargo/wmill@1.803.0
+- pkg:cargo/wmill@1.804.0

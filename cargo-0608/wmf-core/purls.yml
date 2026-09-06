@@ -1,3 +1,4 @@
 - pkg:cargo/wmf-core@0.0.29
 - pkg:cargo/wmf-core@0.1.0
 - pkg:cargo/wmf-core@0.1.1
+- pkg:cargo/wmf-core@0.1.2
