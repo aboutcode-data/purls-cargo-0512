@@ -53,6 +53,7 @@
 - pkg:cargo/snora-widgets@0.42.0
 - pkg:cargo/snora-widgets@0.43.0
 - pkg:cargo/snora-widgets@0.44.0
+- pkg:cargo/snora-widgets@0.45.0
 - pkg:cargo/snora-widgets@0.6.0
 - pkg:cargo/snora-widgets@0.7.0
 - pkg:cargo/snora-widgets@0.8.0
