@@ -71,3 +71,4 @@
 - pkg:cargo/rto-serve@5.5.0
 - pkg:cargo/rto-serve@5.6.0
 - pkg:cargo/rto-serve@5.7.0
+- pkg:cargo/rto-serve@5.8.0
