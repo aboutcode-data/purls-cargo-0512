@@ -289,6 +289,8 @@
 - pkg:cargo/pmat@3.34.0
 - pkg:cargo/pmat@3.36.0
 - pkg:cargo/pmat@3.37.0
+- pkg:cargo/pmat@3.38.0
+- pkg:cargo/pmat@3.39.0
 - pkg:cargo/pmat@3.4.0
 - pkg:cargo/pmat@3.5.1
 - pkg:cargo/pmat@3.6.0
