@@ -56,3 +56,4 @@
 - pkg:cargo/watchexec-cli@2.6.1
 - pkg:cargo/watchexec-cli@2.7.0
 - pkg:cargo/watchexec-cli@2.7.1
+- pkg:cargo/watchexec-cli@2.7.2
