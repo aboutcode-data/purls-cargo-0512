@@ -21,3 +21,4 @@
 - pkg:cargo/lux-lsp@0.43.2
 - pkg:cargo/lux-lsp@0.43.3
 - pkg:cargo/lux-lsp@0.43.4
+- pkg:cargo/lux-lsp@0.43.5
