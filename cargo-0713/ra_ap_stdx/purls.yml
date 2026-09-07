@@ -252,6 +252,7 @@
 - pkg:cargo/ra_ap_stdx@0.0.349
 - pkg:cargo/ra_ap_stdx@0.0.35
 - pkg:cargo/ra_ap_stdx@0.0.350
+- pkg:cargo/ra_ap_stdx@0.0.351
 - pkg:cargo/ra_ap_stdx@0.0.36
 - pkg:cargo/ra_ap_stdx@0.0.37
 - pkg:cargo/ra_ap_stdx@0.0.38
