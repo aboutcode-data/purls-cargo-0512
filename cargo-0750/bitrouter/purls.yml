@@ -75,6 +75,8 @@
 - pkg:cargo/bitrouter@1.0.0-alpha.25
 - pkg:cargo/bitrouter@1.0.0-alpha.26
 - pkg:cargo/bitrouter@1.0.0-alpha.27
+- pkg:cargo/bitrouter@1.0.0-alpha.28
+- pkg:cargo/bitrouter@1.0.0-alpha.29
 - pkg:cargo/bitrouter@1.0.0-alpha.3
 - pkg:cargo/bitrouter@1.0.0-alpha.4
 - pkg:cargo/bitrouter@1.0.0-alpha.5
