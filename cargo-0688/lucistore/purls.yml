@@ -8,3 +8,6 @@
 - pkg:cargo/lucistore@3.0.6
 - pkg:cargo/lucistore@3.0.7
 - pkg:cargo/lucistore@3.0.8
+- pkg:cargo/lucistore@4.0.0
+- pkg:cargo/lucistore@4.0.1
+- pkg:cargo/lucistore@4.0.2

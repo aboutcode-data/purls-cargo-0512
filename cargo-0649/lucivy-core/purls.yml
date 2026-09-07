@@ -10,3 +10,6 @@
 - pkg:cargo/lucivy-core@3.0.6
 - pkg:cargo/lucivy-core@3.0.7
 - pkg:cargo/lucivy-core@3.0.8
+- pkg:cargo/lucivy-core@4.0.0
+- pkg:cargo/lucivy-core@4.0.1
+- pkg:cargo/lucivy-core@4.0.2
