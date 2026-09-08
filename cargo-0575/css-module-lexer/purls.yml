@@ -23,3 +23,4 @@
 - pkg:cargo/css-module-lexer@0.102.0-rc.0
 - pkg:cargo/css-module-lexer@0.102.1
 - pkg:cargo/css-module-lexer@0.102.2
+- pkg:cargo/css-module-lexer@0.102.3
