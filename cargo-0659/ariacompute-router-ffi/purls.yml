@@ -11,3 +11,6 @@
 - pkg:cargo/ariacompute-router-ffi@1.0.0-rc2
 - pkg:cargo/ariacompute-router-ffi@1.0.0-rc3
 - pkg:cargo/ariacompute-router-ffi@1.0.0-rc4
+- pkg:cargo/ariacompute-router-ffi@1.0.0-rc5
+- pkg:cargo/ariacompute-router-ffi@1.0.0-rc6
+- pkg:cargo/ariacompute-router-ffi@1.0.0-rc7
