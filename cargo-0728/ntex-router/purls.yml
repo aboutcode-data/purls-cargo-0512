@@ -17,3 +17,4 @@
 - pkg:cargo/ntex-router@0.5.2
 - pkg:cargo/ntex-router@0.5.3
 - pkg:cargo/ntex-router@1.0.0
+- pkg:cargo/ntex-router@1.1.0
