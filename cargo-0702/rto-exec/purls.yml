@@ -55,3 +55,4 @@
 - pkg:cargo/rto-exec@5.7.0
 - pkg:cargo/rto-exec@5.8.0
 - pkg:cargo/rto-exec@5.8.1
+- pkg:cargo/rto-exec@5.9.0
