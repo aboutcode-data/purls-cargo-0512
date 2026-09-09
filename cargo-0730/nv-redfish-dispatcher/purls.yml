@@ -5,3 +5,4 @@
 - pkg:cargo/nv-redfish-dispatcher@0.14.2
 - pkg:cargo/nv-redfish-dispatcher@0.15.0
 - pkg:cargo/nv-redfish-dispatcher@0.15.1
+- pkg:cargo/nv-redfish-dispatcher@0.16.0
