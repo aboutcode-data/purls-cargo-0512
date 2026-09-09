@@ -48,3 +48,4 @@
 - pkg:cargo/yamlpath@1.30.0
 - pkg:cargo/yamlpath@1.30.0-rc1
 - pkg:cargo/yamlpath@1.30.0-rc2
+- pkg:cargo/yamlpath@1.30.1
