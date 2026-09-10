@@ -34,3 +34,5 @@
 - pkg:cargo/neo3@2.2.0
 - pkg:cargo/neo3@3.0.0
 - pkg:cargo/neo3@3.1.0
+- pkg:cargo/neo3@3.3.0
+- pkg:cargo/neo3@3.3.1
