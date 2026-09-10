@@ -39,6 +39,9 @@
 - pkg:cargo/snomed-owl@0.41.0
 - pkg:cargo/snomed-owl@0.42.0
 - pkg:cargo/snomed-owl@0.43.0
+- pkg:cargo/snomed-owl@0.44.0
+- pkg:cargo/snomed-owl@0.45.0
+- pkg:cargo/snomed-owl@0.46.0
 - pkg:cargo/snomed-owl@0.5.0
 - pkg:cargo/snomed-owl@0.6.0
 - pkg:cargo/snomed-owl@0.7.0
