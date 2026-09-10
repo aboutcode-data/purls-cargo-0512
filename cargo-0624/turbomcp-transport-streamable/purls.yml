@@ -22,3 +22,4 @@
 - pkg:cargo/turbomcp-transport-streamable@3.1.4
 - pkg:cargo/turbomcp-transport-streamable@3.1.5
 - pkg:cargo/turbomcp-transport-streamable@3.2.0
+- pkg:cargo/turbomcp-transport-streamable@3.3.0
