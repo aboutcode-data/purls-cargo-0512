@@ -2,6 +2,9 @@
 - pkg:cargo/mtui@0.10.1
 - pkg:cargo/mtui@0.11.0
 - pkg:cargo/mtui@0.12.0
+- pkg:cargo/mtui@0.13.0
+- pkg:cargo/mtui@0.13.1
+- pkg:cargo/mtui@0.13.2
 - pkg:cargo/mtui@0.4.0
 - pkg:cargo/mtui@0.5.0
 - pkg:cargo/mtui@0.6.0
