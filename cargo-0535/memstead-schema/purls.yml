@@ -12,6 +12,7 @@
 - pkg:cargo/memstead-schema@0.18.1
 - pkg:cargo/memstead-schema@0.19.0
 - pkg:cargo/memstead-schema@0.2.0
+- pkg:cargo/memstead-schema@0.20.0
 - pkg:cargo/memstead-schema@0.3.0
 - pkg:cargo/memstead-schema@0.6.0
 - pkg:cargo/memstead-schema@0.7.0
