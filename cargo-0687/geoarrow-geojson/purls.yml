@@ -6,3 +6,4 @@
 - pkg:cargo/geoarrow-geojson@0.6.2
 - pkg:cargo/geoarrow-geojson@0.7.0
 - pkg:cargo/geoarrow-geojson@0.8.0
+- pkg:cargo/geoarrow-geojson@0.9.0
