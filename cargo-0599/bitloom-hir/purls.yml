@@ -1,1 +1,2 @@
 - pkg:cargo/bitloom-hir@0.1.2
+- pkg:cargo/bitloom-hir@1.0.0
