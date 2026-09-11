@@ -17,6 +17,7 @@
 - pkg:cargo/neptune-cash@0.15.0
 - pkg:cargo/neptune-cash@0.15.1
 - pkg:cargo/neptune-cash@0.16.0
+- pkg:cargo/neptune-cash@0.17.0
 - pkg:cargo/neptune-cash@0.2.0
 - pkg:cargo/neptune-cash@0.2.1
 - pkg:cargo/neptune-cash@0.2.2
