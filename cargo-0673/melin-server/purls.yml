@@ -4,3 +4,4 @@
 - pkg:cargo/melin-server@0.12.0
 - pkg:cargo/melin-server@0.13.0
 - pkg:cargo/melin-server@0.14.0
+- pkg:cargo/melin-server@0.15.0
