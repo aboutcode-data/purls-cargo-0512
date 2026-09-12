@@ -43,3 +43,4 @@
 - pkg:cargo/geiserx_ts_netmon@0.55.0
 - pkg:cargo/geiserx_ts_netmon@0.55.1
 - pkg:cargo/geiserx_ts_netmon@0.55.2
+- pkg:cargo/geiserx_ts_netmon@0.56.0
