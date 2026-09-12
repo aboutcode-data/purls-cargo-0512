@@ -2,3 +2,4 @@
 - pkg:cargo/breaker@0.2.0
 - pkg:cargo/breaker@0.3.0
 - pkg:cargo/breaker@1.0.0
+- pkg:cargo/breaker@2.0.0
