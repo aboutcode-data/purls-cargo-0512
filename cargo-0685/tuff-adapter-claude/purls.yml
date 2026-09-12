@@ -8,3 +8,4 @@
 - pkg:cargo/tuff-adapter-claude@0.6.0
 - pkg:cargo/tuff-adapter-claude@0.7.0
 - pkg:cargo/tuff-adapter-claude@0.8.0
+- pkg:cargo/tuff-adapter-claude@0.9.0
