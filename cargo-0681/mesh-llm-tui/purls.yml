@@ -1,3 +1,4 @@
 - pkg:cargo/mesh-llm-tui@0.74.0
 - pkg:cargo/mesh-llm-tui@0.75.0
 - pkg:cargo/mesh-llm-tui@0.76.0
+- pkg:cargo/mesh-llm-tui@0.76.1

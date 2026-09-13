@@ -1,1 +1,2 @@
 - pkg:cargo/mesh-llm-log-store@0.76.0
+- pkg:cargo/mesh-llm-log-store@0.76.1
