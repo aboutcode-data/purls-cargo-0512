@@ -1,0 +1,7 @@
+- pkg:cargo/wasm-smtp-test@0.15.2
+- pkg:cargo/wasm-smtp-test@0.16.0
+- pkg:cargo/wasm-smtp-test@0.16.1
+- pkg:cargo/wasm-smtp-test@0.17.0
+- pkg:cargo/wasm-smtp-test@0.17.1
+- pkg:cargo/wasm-smtp-test@0.17.2
+- pkg:cargo/wasm-smtp-test@0.18.0
