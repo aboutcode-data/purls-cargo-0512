@@ -6,3 +6,7 @@
 - pkg:cargo/oxifft@0.2.0
 - pkg:cargo/oxifft@0.3.0
 - pkg:cargo/oxifft@0.3.1
+- pkg:cargo/oxifft@0.3.2
+- pkg:cargo/oxifft@0.4.0
+- pkg:cargo/oxifft@0.4.1
+- pkg:cargo/oxifft@0.4.2
