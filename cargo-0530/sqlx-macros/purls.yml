@@ -50,4 +50,5 @@
 - pkg:cargo/sqlx-macros@0.8.4
 - pkg:cargo/sqlx-macros@0.8.5
 - pkg:cargo/sqlx-macros@0.8.6
+- pkg:cargo/sqlx-macros@0.9.0
 - pkg:cargo/sqlx-macros@0.9.0-alpha.1

@@ -1,0 +1,2 @@
+- pkg:cargo/sqlx-pg-copy-helper@0.1.0
+- pkg:cargo/sqlx-pg-copy-helper@0.1.1
