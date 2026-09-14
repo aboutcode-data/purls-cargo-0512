@@ -2,3 +2,5 @@
 - pkg:cargo/oxvg_ast@0.0.2
 - pkg:cargo/oxvg_ast@0.0.3
 - pkg:cargo/oxvg_ast@0.0.5
+- pkg:cargo/oxvg_ast@0.0.6
+- pkg:cargo/oxvg_ast@0.0.7
