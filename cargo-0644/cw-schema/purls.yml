@@ -8,3 +8,8 @@
 - pkg:cargo/cw-schema@3.0.5
 - pkg:cargo/cw-schema@3.0.5-rc.0
 - pkg:cargo/cw-schema@3.0.6
+- pkg:cargo/cw-schema@3.0.7
+- pkg:cargo/cw-schema@3.0.8
+- pkg:cargo/cw-schema@3.0.9
+- pkg:cargo/cw-schema@3.1.0-rc.0
+- pkg:cargo/cw-schema@3.1.0-rc.1
