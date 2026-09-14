@@ -1,0 +1,10 @@
+- pkg:cargo/sql-dialect-fmt-lint@1.15.0
+- pkg:cargo/sql-dialect-fmt-lint@1.17.1
+- pkg:cargo/sql-dialect-fmt-lint@1.17.2
+- pkg:cargo/sql-dialect-fmt-lint@1.18.0
+- pkg:cargo/sql-dialect-fmt-lint@1.19.0
+- pkg:cargo/sql-dialect-fmt-lint@1.20.1
+- pkg:cargo/sql-dialect-fmt-lint@1.21.0
+- pkg:cargo/sql-dialect-fmt-lint@1.22.0
+- pkg:cargo/sql-dialect-fmt-lint@1.22.1
+- pkg:cargo/sql-dialect-fmt-lint@1.22.2

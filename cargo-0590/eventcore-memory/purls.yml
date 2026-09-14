@@ -22,3 +22,4 @@
 - pkg:cargo/eventcore-memory@1.1.1
 - pkg:cargo/eventcore-memory@2.0.0
 - pkg:cargo/eventcore-memory@2.0.1
+- pkg:cargo/eventcore-memory@2.1.0
