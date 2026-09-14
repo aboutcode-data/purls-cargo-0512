@@ -11,6 +11,9 @@
 - pkg:cargo/issuectl@0.17.1
 - pkg:cargo/issuectl@0.18.0
 - pkg:cargo/issuectl@0.18.1
+- pkg:cargo/issuectl@0.18.2
+- pkg:cargo/issuectl@0.18.3
+- pkg:cargo/issuectl@0.18.4
 - pkg:cargo/issuectl@0.2.0
 - pkg:cargo/issuectl@0.6.0
 - pkg:cargo/issuectl@0.6.1
