@@ -10,3 +10,4 @@
 - pkg:cargo/bevy_spawnable@0.5.1
 - pkg:cargo/bevy_spawnable@0.6.0
 - pkg:cargo/bevy_spawnable@0.6.0-rc.2
+- pkg:cargo/bevy_spawnable@0.7.0
