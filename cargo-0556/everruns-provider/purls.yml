@@ -18,3 +18,4 @@
 - pkg:cargo/everruns-provider@0.20.1
 - pkg:cargo/everruns-provider@0.21.0
 - pkg:cargo/everruns-provider@0.22.0
+- pkg:cargo/everruns-provider@0.23.0
