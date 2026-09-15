@@ -56,3 +56,4 @@
 - pkg:cargo/brokk-mj-voice-worker@2.7.0
 - pkg:cargo/brokk-mj-voice-worker@2.7.1
 - pkg:cargo/brokk-mj-voice-worker@2.7.2
+- pkg:cargo/brokk-mj-voice-worker@2.8.0
