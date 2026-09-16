@@ -20,3 +20,4 @@
 - pkg:cargo/csaf-core@1.4.9
 - pkg:cargo/csaf-core@1.5.20
 - pkg:cargo/csaf-core@1.5.21
+- pkg:cargo/csaf-core@1.5.22
