@@ -12,3 +12,5 @@
 - pkg:cargo/iroh-topic-tracker@0.1.7
 - pkg:cargo/iroh-topic-tracker@0.1.8
 - pkg:cargo/iroh-topic-tracker@0.1.9
+- pkg:cargo/iroh-topic-tracker@0.2.0
+- pkg:cargo/iroh-topic-tracker@0.2.0-rc.0
