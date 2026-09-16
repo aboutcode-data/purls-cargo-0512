@@ -46,6 +46,16 @@
 - pkg:cargo/aws-sdk-ssmcontacts@0.9.0
 - pkg:cargo/aws-sdk-ssmcontacts@1.1.0
 - pkg:cargo/aws-sdk-ssmcontacts@1.10.0
+- pkg:cargo/aws-sdk-ssmcontacts@1.100.0
+- pkg:cargo/aws-sdk-ssmcontacts@1.101.0
+- pkg:cargo/aws-sdk-ssmcontacts@1.102.0
+- pkg:cargo/aws-sdk-ssmcontacts@1.103.0
+- pkg:cargo/aws-sdk-ssmcontacts@1.104.0
+- pkg:cargo/aws-sdk-ssmcontacts@1.105.0
+- pkg:cargo/aws-sdk-ssmcontacts@1.106.0
+- pkg:cargo/aws-sdk-ssmcontacts@1.107.0
+- pkg:cargo/aws-sdk-ssmcontacts@1.108.0
+- pkg:cargo/aws-sdk-ssmcontacts@1.109.0
 - pkg:cargo/aws-sdk-ssmcontacts@1.11.0
 - pkg:cargo/aws-sdk-ssmcontacts@1.12.0
 - pkg:cargo/aws-sdk-ssmcontacts@1.13.0
@@ -142,3 +152,5 @@
 - pkg:cargo/aws-sdk-ssmcontacts@1.95.0
 - pkg:cargo/aws-sdk-ssmcontacts@1.96.0
 - pkg:cargo/aws-sdk-ssmcontacts@1.97.0
+- pkg:cargo/aws-sdk-ssmcontacts@1.98.0
+- pkg:cargo/aws-sdk-ssmcontacts@1.99.0

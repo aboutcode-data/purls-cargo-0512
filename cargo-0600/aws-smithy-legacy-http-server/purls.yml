@@ -3,3 +3,7 @@
 - pkg:cargo/aws-smithy-legacy-http-server@0.65.12
 - pkg:cargo/aws-smithy-legacy-http-server@0.65.13
 - pkg:cargo/aws-smithy-legacy-http-server@0.65.14
+- pkg:cargo/aws-smithy-legacy-http-server@0.65.15
+- pkg:cargo/aws-smithy-legacy-http-server@0.65.16
+- pkg:cargo/aws-smithy-legacy-http-server@0.66.0
+- pkg:cargo/aws-smithy-legacy-http-server@0.66.1
