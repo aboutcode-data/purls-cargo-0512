@@ -125,6 +125,7 @@
 - pkg:cargo/rs-plugin-common-interfaces@0.4.2
 - pkg:cargo/rs-plugin-common-interfaces@0.40.0
 - pkg:cargo/rs-plugin-common-interfaces@0.40.1
+- pkg:cargo/rs-plugin-common-interfaces@0.41.0
 - pkg:cargo/rs-plugin-common-interfaces@0.5.0
 - pkg:cargo/rs-plugin-common-interfaces@0.6.0
 - pkg:cargo/rs-plugin-common-interfaces@0.6.1
