@@ -60,4 +60,11 @@
 - pkg:cargo/iroh@0.98.0
 - pkg:cargo/iroh@0.98.1
 - pkg:cargo/iroh@0.98.2
+- pkg:cargo/iroh@1.0.0
 - pkg:cargo/iroh@1.0.0-rc.0
+- pkg:cargo/iroh@1.0.0-rc.1
+- pkg:cargo/iroh@1.0.1
+- pkg:cargo/iroh@1.0.2
+- pkg:cargo/iroh@1.0.3
+- pkg:cargo/iroh@1.1.0
+- pkg:cargo/iroh@1.2.0
