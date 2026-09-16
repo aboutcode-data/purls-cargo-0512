@@ -8,3 +8,4 @@
 - pkg:cargo/everruns-host@0.20.5
 - pkg:cargo/everruns-host@0.20.6
 - pkg:cargo/everruns-host@0.21.0
+- pkg:cargo/everruns-host@0.22.0
