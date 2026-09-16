@@ -1,1 +1,4 @@
 - pkg:cargo/iris-cssom@0.1.1
+- pkg:cargo/iris-cssom@1.1.2
+- pkg:cargo/iris-cssom@1.1.4
+- pkg:cargo/iris-cssom@1.1.5
