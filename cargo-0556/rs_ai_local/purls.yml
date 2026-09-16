@@ -11,6 +11,7 @@
 - pkg:cargo/rs_ai_local@0.2.21
 - pkg:cargo/rs_ai_local@0.2.31
 - pkg:cargo/rs_ai_local@0.2.35
+- pkg:cargo/rs_ai_local@0.2.36
 - pkg:cargo/rs_ai_local@0.2.4
 - pkg:cargo/rs_ai_local@0.2.5
 - pkg:cargo/rs_ai_local@0.2.6
