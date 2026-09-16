@@ -58,3 +58,4 @@
 - pkg:cargo/arrow-row@59.1.0
 - pkg:cargo/arrow-row@59.2.0
 - pkg:cargo/arrow-row@59.3.0
+- pkg:cargo/arrow-row@60.0.0
