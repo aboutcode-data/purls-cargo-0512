@@ -26,3 +26,6 @@
 - pkg:cargo/purrdf-core@0.9.0
 - pkg:cargo/purrdf-core@1.0.0
 - pkg:cargo/purrdf-core@1.1.0
+- pkg:cargo/purrdf-core@2.0.0
+- pkg:cargo/purrdf-core@2.0.1
+- pkg:cargo/purrdf-core@2.0.2

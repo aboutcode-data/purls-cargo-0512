@@ -26,3 +26,6 @@
 - pkg:cargo/purrdf-events@0.9.0
 - pkg:cargo/purrdf-events@1.0.0
 - pkg:cargo/purrdf-events@1.1.0
+- pkg:cargo/purrdf-events@2.0.0
+- pkg:cargo/purrdf-events@2.0.1
+- pkg:cargo/purrdf-events@2.0.2
