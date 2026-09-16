@@ -2,6 +2,10 @@
 - pkg:cargo/ariacompute-agent@0.12.0
 - pkg:cargo/ariacompute-agent@0.13.0
 - pkg:cargo/ariacompute-agent@0.13.1
+- pkg:cargo/ariacompute-agent@0.14.0
+- pkg:cargo/ariacompute-agent@0.15.0
+- pkg:cargo/ariacompute-agent@0.16.0
+- pkg:cargo/ariacompute-agent@0.16.1
 - pkg:cargo/ariacompute-agent@0.2.0
 - pkg:cargo/ariacompute-agent@0.3.0
 - pkg:cargo/ariacompute-agent@0.4.0
