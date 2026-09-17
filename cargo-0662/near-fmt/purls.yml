@@ -66,3 +66,4 @@
 - pkg:cargo/near-fmt@0.37.2
 - pkg:cargo/near-fmt@0.37.3
 - pkg:cargo/near-fmt@0.37.4
+- pkg:cargo/near-fmt@0.38.0-rc.1
