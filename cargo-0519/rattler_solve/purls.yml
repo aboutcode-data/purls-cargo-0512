@@ -146,3 +146,4 @@
 - pkg:cargo/rattler_solve@9.0.5
 - pkg:cargo/rattler_solve@9.0.6
 - pkg:cargo/rattler_solve@9.0.7
+- pkg:cargo/rattler_solve@9.0.8

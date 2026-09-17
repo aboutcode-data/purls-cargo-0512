@@ -115,6 +115,7 @@
 - pkg:cargo/rattler_networking@0.30.6
 - pkg:cargo/rattler_networking@0.30.7
 - pkg:cargo/rattler_networking@0.30.8
+- pkg:cargo/rattler_networking@0.30.9
 - pkg:cargo/rattler_networking@0.4.0
 - pkg:cargo/rattler_networking@0.5.0
 - pkg:cargo/rattler_networking@0.6.0
