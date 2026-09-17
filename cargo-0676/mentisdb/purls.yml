@@ -5,6 +5,7 @@
 - pkg:cargo/mentisdb@0.10.5
 - pkg:cargo/mentisdb@0.10.6
 - pkg:cargo/mentisdb@0.10.7
+- pkg:cargo/mentisdb@0.10.8
 - pkg:cargo/mentisdb@0.3.0
 - pkg:cargo/mentisdb@0.4.0
 - pkg:cargo/mentisdb@0.4.1
