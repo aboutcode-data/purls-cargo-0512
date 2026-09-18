@@ -1,2 +1,3 @@
 - pkg:cargo/google-protobuf@0.35.2-test-internal-do-not-use
 - pkg:cargo/google-protobuf@0.36.1-release
+- pkg:cargo/google-protobuf@0.36.2-release
