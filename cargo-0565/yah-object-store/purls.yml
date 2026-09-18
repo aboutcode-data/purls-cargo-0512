@@ -10,3 +10,4 @@
 - pkg:cargo/yah-object-store@0.8.34
 - pkg:cargo/yah-object-store@0.8.36
 - pkg:cargo/yah-object-store@0.8.37
+- pkg:cargo/yah-object-store@0.8.40
