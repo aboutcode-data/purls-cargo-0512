@@ -34,3 +34,4 @@
 - pkg:cargo/rspack_plugin_rsc@0.102.3
 - pkg:cargo/rspack_plugin_rsc@0.102.4
 - pkg:cargo/rspack_plugin_rsc@0.102.5
+- pkg:cargo/rspack_plugin_rsc@0.102.6

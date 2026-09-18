@@ -32,3 +32,4 @@
 - pkg:cargo/rspack_parallel@0.102.3
 - pkg:cargo/rspack_parallel@0.102.4
 - pkg:cargo/rspack_parallel@0.102.5
+- pkg:cargo/rspack_parallel@0.102.6
