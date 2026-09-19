@@ -97,6 +97,8 @@
 - pkg:cargo/cyt-indexer@2.15.0
 - pkg:cargo/cyt-indexer@2.15.1
 - pkg:cargo/cyt-indexer@2.15.2
+- pkg:cargo/cyt-indexer@2.15.3
+- pkg:cargo/cyt-indexer@2.15.4
 - pkg:cargo/cyt-indexer@2.2.0
 - pkg:cargo/cyt-indexer@2.3.0
 - pkg:cargo/cyt-indexer@2.3.1
