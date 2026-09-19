@@ -30,3 +30,4 @@
 - pkg:cargo/dynamo-llm@1.4.0
 - pkg:cargo/dynamo-llm@1.4.1
 - pkg:cargo/dynamo-llm@1.4.2
+- pkg:cargo/dynamo-llm@1.5.0
