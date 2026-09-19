@@ -2,3 +2,4 @@
 - pkg:cargo/rshooks-testenv@0.1.1
 - pkg:cargo/rshooks-testenv@0.2.0
 - pkg:cargo/rshooks-testenv@0.2.1
+- pkg:cargo/rshooks-testenv@0.2.2
