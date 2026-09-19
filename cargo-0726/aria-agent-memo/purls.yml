@@ -10,6 +10,7 @@
 - pkg:cargo/aria-agent-memo@0.17.0
 - pkg:cargo/aria-agent-memo@0.17.1
 - pkg:cargo/aria-agent-memo@0.18.0
+- pkg:cargo/aria-agent-memo@0.19.0
 - pkg:cargo/aria-agent-memo@0.2.0
 - pkg:cargo/aria-agent-memo@0.3.0
 - pkg:cargo/aria-agent-memo@0.4.0
@@ -19,3 +20,4 @@
 - pkg:cargo/aria-agent-memo@0.8.0
 - pkg:cargo/aria-agent-memo@0.8.1
 - pkg:cargo/aria-agent-memo@0.9.0
+- pkg:cargo/aria-agent-memo@1.0.0
