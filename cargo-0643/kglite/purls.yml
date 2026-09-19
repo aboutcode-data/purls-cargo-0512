@@ -110,7 +110,12 @@
 - pkg:cargo/kglite@0.16.9
 - pkg:cargo/kglite@0.17.0
 - pkg:cargo/kglite@0.17.1
+- pkg:cargo/kglite@0.17.10
 - pkg:cargo/kglite@0.17.2
 - pkg:cargo/kglite@0.17.3
 - pkg:cargo/kglite@0.17.4
 - pkg:cargo/kglite@0.17.5
+- pkg:cargo/kglite@0.17.6
+- pkg:cargo/kglite@0.17.7
+- pkg:cargo/kglite@0.17.8
+- pkg:cargo/kglite@0.17.9
