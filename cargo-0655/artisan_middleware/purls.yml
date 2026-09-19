@@ -54,3 +54,4 @@
 - pkg:cargo/artisan_middleware@5.8.0
 - pkg:cargo/artisan_middleware@6.0.0
 - pkg:cargo/artisan_middleware@6.0.1
+- pkg:cargo/artisan_middleware@7.0.0
