@@ -13,3 +13,4 @@
 - pkg:cargo/memcordon@0.5.3-rc.4
 - pkg:cargo/memcordon@0.5.4-rc.1
 - pkg:cargo/memcordon@0.5.5-rc.1
+- pkg:cargo/memcordon@0.5.6-rc.28
