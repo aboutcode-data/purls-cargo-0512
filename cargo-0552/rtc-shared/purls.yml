@@ -17,6 +17,7 @@
 - pkg:cargo/rtc-shared@0.20.3
 - pkg:cargo/rtc-shared@0.20.4
 - pkg:cargo/rtc-shared@0.20.5
+- pkg:cargo/rtc-shared@0.21.0
 - pkg:cargo/rtc-shared@0.21.0-alpha.1
 - pkg:cargo/rtc-shared@0.21.0-alpha.2
 - pkg:cargo/rtc-shared@0.21.0-beta.1
