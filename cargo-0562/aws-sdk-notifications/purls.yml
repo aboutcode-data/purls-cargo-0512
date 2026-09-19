@@ -59,6 +59,8 @@
 - pkg:cargo/aws-sdk-notifications@1.61.0
 - pkg:cargo/aws-sdk-notifications@1.62.0
 - pkg:cargo/aws-sdk-notifications@1.63.0
+- pkg:cargo/aws-sdk-notifications@1.64.0
+- pkg:cargo/aws-sdk-notifications@1.65.0
 - pkg:cargo/aws-sdk-notifications@1.7.0
 - pkg:cargo/aws-sdk-notifications@1.8.0
 - pkg:cargo/aws-sdk-notifications@1.9.0
