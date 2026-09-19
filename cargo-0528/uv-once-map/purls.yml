@@ -79,4 +79,6 @@
 - pkg:cargo/uv-once-map@0.0.80
 - pkg:cargo/uv-once-map@0.0.81
 - pkg:cargo/uv-once-map@0.0.82
+- pkg:cargo/uv-once-map@0.0.83
+- pkg:cargo/uv-once-map@0.0.84
 - pkg:cargo/uv-once-map@0.0.9
