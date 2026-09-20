@@ -10,3 +10,4 @@
 - pkg:cargo/tsafe-attest@3.3.0
 - pkg:cargo/tsafe-attest@4.0.0
 - pkg:cargo/tsafe-attest@4.1.0
+- pkg:cargo/tsafe-attest@4.2.0
