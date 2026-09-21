@@ -80,5 +80,6 @@
 - pkg:cargo/binance-sdk@7.0.0
 - pkg:cargo/binance-sdk@70.0.0
 - pkg:cargo/binance-sdk@70.1.0
+- pkg:cargo/binance-sdk@70.1.1
 - pkg:cargo/binance-sdk@8.0.0
 - pkg:cargo/binance-sdk@9.0.0
