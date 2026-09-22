@@ -13,6 +13,7 @@
 - pkg:cargo/artifact-keeper-client@1.1.4
 - pkg:cargo/artifact-keeper-client@1.1.6
 - pkg:cargo/artifact-keeper-client@1.1.9-rc.1
+- pkg:cargo/artifact-keeper-client@1.10.0
 - pkg:cargo/artifact-keeper-client@1.2.1
 - pkg:cargo/artifact-keeper-client@1.2.2
 - pkg:cargo/artifact-keeper-client@1.2.4
