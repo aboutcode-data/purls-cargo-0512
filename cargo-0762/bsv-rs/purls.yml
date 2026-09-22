@@ -17,6 +17,7 @@
 - pkg:cargo/bsv-rs@0.3.22
 - pkg:cargo/bsv-rs@0.3.23
 - pkg:cargo/bsv-rs@0.3.24
+- pkg:cargo/bsv-rs@0.3.25
 - pkg:cargo/bsv-rs@0.3.3
 - pkg:cargo/bsv-rs@0.3.4
 - pkg:cargo/bsv-rs@0.3.5
