@@ -162,6 +162,7 @@
 - pkg:cargo/wasmtime-cli-flags@48.0.0
 - pkg:cargo/wasmtime-cli-flags@48.0.1
 - pkg:cargo/wasmtime-cli-flags@48.0.2
+- pkg:cargo/wasmtime-cli-flags@49.0.0
 - pkg:cargo/wasmtime-cli-flags@49.0.0-rc.1
 - pkg:cargo/wasmtime-cli-flags@5.0.0
 - pkg:cargo/wasmtime-cli-flags@5.0.1
