@@ -286,6 +286,8 @@
 - pkg:cargo/trustfall-rustdoc-adapter@56.2.3
 - pkg:cargo/trustfall-rustdoc-adapter@56.2.4
 - pkg:cargo/trustfall-rustdoc-adapter@56.2.5
+- pkg:cargo/trustfall-rustdoc-adapter@56.2.6
+- pkg:cargo/trustfall-rustdoc-adapter@56.3.0
 - pkg:cargo/trustfall-rustdoc-adapter@57.0.0
 - pkg:cargo/trustfall-rustdoc-adapter@57.0.1
 - pkg:cargo/trustfall-rustdoc-adapter@57.0.2
@@ -293,3 +295,10 @@
 - pkg:cargo/trustfall-rustdoc-adapter@57.0.4
 - pkg:cargo/trustfall-rustdoc-adapter@57.0.5
 - pkg:cargo/trustfall-rustdoc-adapter@57.0.6
+- pkg:cargo/trustfall-rustdoc-adapter@57.0.7
+- pkg:cargo/trustfall-rustdoc-adapter@57.1.0
+- pkg:cargo/trustfall-rustdoc-adapter@57.1.1
+- pkg:cargo/trustfall-rustdoc-adapter@60.0.0
+- pkg:cargo/trustfall-rustdoc-adapter@60.0.1
+- pkg:cargo/trustfall-rustdoc-adapter@61.0.0
+- pkg:cargo/trustfall-rustdoc-adapter@61.0.1
