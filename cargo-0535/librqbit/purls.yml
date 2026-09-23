@@ -23,3 +23,6 @@
 - pkg:cargo/librqbit@8.0.0
 - pkg:cargo/librqbit@8.1.0
 - pkg:cargo/librqbit@8.1.1
+- pkg:cargo/librqbit@9.0.0
+- pkg:cargo/librqbit@9.0.0-rc.0
+- pkg:cargo/librqbit@9.0.1
