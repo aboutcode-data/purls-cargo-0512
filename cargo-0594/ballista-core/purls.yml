@@ -17,3 +17,6 @@
 - pkg:cargo/ballista-core@50.0.0
 - pkg:cargo/ballista-core@51.0.0
 - pkg:cargo/ballista-core@52.0.0
+- pkg:cargo/ballista-core@53.0.0
+- pkg:cargo/ballista-core@54.0.0
+- pkg:cargo/ballista-core@54.1.0

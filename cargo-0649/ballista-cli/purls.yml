@@ -10,3 +10,6 @@
 - pkg:cargo/ballista-cli@50.0.0
 - pkg:cargo/ballista-cli@51.0.0
 - pkg:cargo/ballista-cli@52.0.0
+- pkg:cargo/ballista-cli@53.0.0
+- pkg:cargo/ballista-cli@54.0.0
+- pkg:cargo/ballista-cli@54.1.0
