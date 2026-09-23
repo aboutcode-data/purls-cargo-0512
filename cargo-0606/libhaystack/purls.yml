@@ -30,3 +30,6 @@
 - pkg:cargo/libhaystack@3.1.4
 - pkg:cargo/libhaystack@3.1.5
 - pkg:cargo/libhaystack@3.1.6
+- pkg:cargo/libhaystack@3.2.0
+- pkg:cargo/libhaystack@3.2.2
+- pkg:cargo/libhaystack@4.0.0
