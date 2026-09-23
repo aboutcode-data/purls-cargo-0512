@@ -1,3 +1,6 @@
 - pkg:cargo/mdxport@0.2.10
 - pkg:cargo/mdxport@0.2.11
 - pkg:cargo/mdxport@0.2.7
+- pkg:cargo/mdxport@0.3.0
+- pkg:cargo/mdxport@0.3.1
+- pkg:cargo/mdxport@0.3.2
