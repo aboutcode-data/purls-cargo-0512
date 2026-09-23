@@ -92,3 +92,12 @@
 - pkg:cargo/lindera-cc-cedict@3.0.5
 - pkg:cargo/lindera-cc-cedict@3.0.6
 - pkg:cargo/lindera-cc-cedict@3.0.7
+- pkg:cargo/lindera-cc-cedict@4.0.0
+- pkg:cargo/lindera-cc-cedict@4.0.1
+- pkg:cargo/lindera-cc-cedict@5.0.0
+- pkg:cargo/lindera-cc-cedict@5.0.1
+- pkg:cargo/lindera-cc-cedict@5.0.2
+- pkg:cargo/lindera-cc-cedict@5.1.0
+- pkg:cargo/lindera-cc-cedict@5.2.0
+- pkg:cargo/lindera-cc-cedict@5.3.0
+- pkg:cargo/lindera-cc-cedict@6.0.0
