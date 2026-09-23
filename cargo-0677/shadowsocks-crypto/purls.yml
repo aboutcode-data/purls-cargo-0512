@@ -30,3 +30,4 @@
 - pkg:cargo/shadowsocks-crypto@0.6.2
 - pkg:cargo/shadowsocks-crypto@0.6.3
 - pkg:cargo/shadowsocks-crypto@0.7.0
+- pkg:cargo/shadowsocks-crypto@0.8.0
