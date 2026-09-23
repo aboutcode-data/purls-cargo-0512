@@ -47,3 +47,4 @@
 - pkg:cargo/dora-arrow-convert@1.0.0-rc.2
 - pkg:cargo/dora-arrow-convert@1.0.0-rc.4
 - pkg:cargo/dora-arrow-convert@1.0.0-rc.5
+- pkg:cargo/dora-arrow-convert@1.0.1
