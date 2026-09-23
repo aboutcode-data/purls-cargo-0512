@@ -95,6 +95,7 @@
 - pkg:cargo/libp2p@0.54.1
 - pkg:cargo/libp2p@0.55.0
 - pkg:cargo/libp2p@0.56.0
+- pkg:cargo/libp2p@0.57.0
 - pkg:cargo/libp2p@0.6.0
 - pkg:cargo/libp2p@0.7.0
 - pkg:cargo/libp2p@0.8.0
