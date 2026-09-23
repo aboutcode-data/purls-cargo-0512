@@ -31,3 +31,6 @@
 - pkg:cargo/s2protocol@3.5.1
 - pkg:cargo/s2protocol@3.5.2
 - pkg:cargo/s2protocol@3.5.3
+- pkg:cargo/s2protocol@3.5.4
+- pkg:cargo/s2protocol@3.5.5
+- pkg:cargo/s2protocol@3.5.6
