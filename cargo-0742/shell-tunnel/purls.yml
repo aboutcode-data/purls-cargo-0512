@@ -16,6 +16,11 @@
 - pkg:cargo/shell-tunnel@0.20.0
 - pkg:cargo/shell-tunnel@0.21.0
 - pkg:cargo/shell-tunnel@0.21.1
+- pkg:cargo/shell-tunnel@0.21.2
+- pkg:cargo/shell-tunnel@0.22.0
+- pkg:cargo/shell-tunnel@0.23.0
+- pkg:cargo/shell-tunnel@0.24.0
+- pkg:cargo/shell-tunnel@0.25.0
 - pkg:cargo/shell-tunnel@0.3.0
 - pkg:cargo/shell-tunnel@0.3.1
 - pkg:cargo/shell-tunnel@0.4.0
