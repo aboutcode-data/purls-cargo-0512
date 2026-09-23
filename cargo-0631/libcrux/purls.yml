@@ -11,3 +11,5 @@
 - pkg:cargo/libcrux@0.0.4
 - pkg:cargo/libcrux@0.0.4-rc.1
 - pkg:cargo/libcrux@0.0.4-rc.2
+- pkg:cargo/libcrux@0.0.5
+- pkg:cargo/libcrux@0.0.5-pre.1
