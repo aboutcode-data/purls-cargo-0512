@@ -1,4 +1,9 @@
 - pkg:cargo/linguist@0.1.1
+- pkg:cargo/linguist@0.1.10
+- pkg:cargo/linguist@0.1.11
+- pkg:cargo/linguist@0.1.14
+- pkg:cargo/linguist@0.1.15
+- pkg:cargo/linguist@0.1.16
 - pkg:cargo/linguist@0.1.2
 - pkg:cargo/linguist@0.1.3
 - pkg:cargo/linguist@0.1.4
