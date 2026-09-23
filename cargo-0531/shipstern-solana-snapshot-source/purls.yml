@@ -1,0 +1,4 @@
+- pkg:cargo/shipstern-solana-snapshot-source@0.10.0
+- pkg:cargo/shipstern-solana-snapshot-source@0.11.0
+- pkg:cargo/shipstern-solana-snapshot-source@0.8.0
+- pkg:cargo/shipstern-solana-snapshot-source@0.9.0
