@@ -1,0 +1,4 @@
+- pkg:cargo/qhull_rayon@0.1.0
+- pkg:cargo/qhull_rayon@0.2.0
+- pkg:cargo/qhull_rayon@0.2.1
+- pkg:cargo/qhull_rayon@0.2.2
