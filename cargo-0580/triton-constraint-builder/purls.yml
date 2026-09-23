@@ -12,3 +12,8 @@
 - pkg:cargo/triton-constraint-builder@1.0.0
 - pkg:cargo/triton-constraint-builder@2.0.0
 - pkg:cargo/triton-constraint-builder@3.0.0
+- pkg:cargo/triton-constraint-builder@4.0.0
+- pkg:cargo/triton-constraint-builder@5.0.0
+- pkg:cargo/triton-constraint-builder@6.0.0
+- pkg:cargo/triton-constraint-builder@7.0.0
+- pkg:cargo/triton-constraint-builder@8.0.0
