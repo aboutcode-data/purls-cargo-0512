@@ -16,3 +16,6 @@
 - pkg:cargo/oidn@2.2.4
 - pkg:cargo/oidn@2.3.2
 - pkg:cargo/oidn@2.3.3
+- pkg:cargo/oidn@2.4.1
+- pkg:cargo/oidn@2.5.0
+- pkg:cargo/oidn@2.5.1
