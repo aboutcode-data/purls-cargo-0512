@@ -8,3 +8,5 @@
 - pkg:cargo/lisudoku-solver@0.1.21
 - pkg:cargo/lisudoku-solver@0.1.22
 - pkg:cargo/lisudoku-solver@0.1.28
+- pkg:cargo/lisudoku-solver@0.1.31
+- pkg:cargo/lisudoku-solver@0.1.32

@@ -14,3 +14,15 @@
 - pkg:cargo/lib_ts_chainalign@2.0.5
 - pkg:cargo/lib_ts_chainalign@2.1.0
 - pkg:cargo/lib_ts_chainalign@2.1.1
+- pkg:cargo/lib_ts_chainalign@2.1.2
+- pkg:cargo/lib_ts_chainalign@3.0.0
+- pkg:cargo/lib_ts_chainalign@4.0.0
+- pkg:cargo/lib_ts_chainalign@4.0.1
+- pkg:cargo/lib_ts_chainalign@4.1.0
+- pkg:cargo/lib_ts_chainalign@5.0.0
+- pkg:cargo/lib_ts_chainalign@5.0.1
+- pkg:cargo/lib_ts_chainalign@6.0.0
+- pkg:cargo/lib_ts_chainalign@6.0.1
+- pkg:cargo/lib_ts_chainalign@7.0.0
+- pkg:cargo/lib_ts_chainalign@7.0.1
+- pkg:cargo/lib_ts_chainalign@7.0.2
