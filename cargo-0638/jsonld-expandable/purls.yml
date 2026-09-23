@@ -1,1 +1,2 @@
 - pkg:cargo/jsonld-expandable@0.22.0
+- pkg:cargo/jsonld-expandable@0.22.1
