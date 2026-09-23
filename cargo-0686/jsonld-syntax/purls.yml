@@ -1,1 +1,2 @@
 - pkg:cargo/jsonld-syntax@0.22.0
+- pkg:cargo/jsonld-syntax@0.22.1
