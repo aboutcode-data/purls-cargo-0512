@@ -33,3 +33,7 @@
 - pkg:cargo/tree-sitter-elm@5.7.0
 - pkg:cargo/tree-sitter-elm@5.8.0
 - pkg:cargo/tree-sitter-elm@5.9.0
+- pkg:cargo/tree-sitter-elm@5.9.1
+- pkg:cargo/tree-sitter-elm@5.9.2
+- pkg:cargo/tree-sitter-elm@5.9.3
+- pkg:cargo/tree-sitter-elm@5.9.4
