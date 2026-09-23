@@ -1,2 +1,3 @@
 - pkg:cargo/waterui-mcp-protocol@0.1.0
 - pkg:cargo/waterui-mcp-protocol@0.5.0
+- pkg:cargo/waterui-mcp-protocol@0.5.1
