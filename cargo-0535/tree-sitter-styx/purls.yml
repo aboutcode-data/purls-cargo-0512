@@ -5,3 +5,10 @@
 - pkg:cargo/tree-sitter-styx@3.0.0
 - pkg:cargo/tree-sitter-styx@3.0.1
 - pkg:cargo/tree-sitter-styx@3.0.2
+- pkg:cargo/tree-sitter-styx@4.0.0
+- pkg:cargo/tree-sitter-styx@5.0.0-rc.0
+- pkg:cargo/tree-sitter-styx@5.0.0-rc.1
+- pkg:cargo/tree-sitter-styx@5.0.0-rc.2
+- pkg:cargo/tree-sitter-styx@5.0.0-rc.3
+- pkg:cargo/tree-sitter-styx@5.0.0-rc.4
+- pkg:cargo/tree-sitter-styx@5.0.0-rc.5
