@@ -19,4 +19,14 @@
 - pkg:cargo/trillium-server-common@0.6.0-rc.1
 - pkg:cargo/trillium-server-common@0.7.0
 - pkg:cargo/trillium-server-common@0.7.1
+- pkg:cargo/trillium-server-common@0.7.10
+- pkg:cargo/trillium-server-common@0.7.11
+- pkg:cargo/trillium-server-common@0.7.12
 - pkg:cargo/trillium-server-common@0.7.2
+- pkg:cargo/trillium-server-common@0.7.3
+- pkg:cargo/trillium-server-common@0.7.4
+- pkg:cargo/trillium-server-common@0.7.5
+- pkg:cargo/trillium-server-common@0.7.6
+- pkg:cargo/trillium-server-common@0.7.7
+- pkg:cargo/trillium-server-common@0.7.8
+- pkg:cargo/trillium-server-common@0.7.9
