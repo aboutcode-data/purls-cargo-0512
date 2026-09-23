@@ -35,6 +35,7 @@
 - pkg:cargo/rspack_plugin_case_sensitive@0.102.4
 - pkg:cargo/rspack_plugin_case_sensitive@0.102.5
 - pkg:cargo/rspack_plugin_case_sensitive@0.102.6
+- pkg:cargo/rspack_plugin_case_sensitive@0.102.7
 - pkg:cargo/rspack_plugin_case_sensitive@0.7.0
 - pkg:cargo/rspack_plugin_case_sensitive@0.7.1
 - pkg:cargo/rspack_plugin_case_sensitive@0.7.10
