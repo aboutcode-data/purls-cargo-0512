@@ -18,6 +18,7 @@
 - pkg:cargo/turnout@0.19.0
 - pkg:cargo/turnout@0.2.0
 - pkg:cargo/turnout@0.2.2
+- pkg:cargo/turnout@0.20.0
 - pkg:cargo/turnout@0.3.0
 - pkg:cargo/turnout@0.4.0
 - pkg:cargo/turnout@0.4.1
