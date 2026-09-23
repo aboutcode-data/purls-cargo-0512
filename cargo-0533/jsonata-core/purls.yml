@@ -12,3 +12,5 @@
 - pkg:cargo/jsonata-core@2.2.5
 - pkg:cargo/jsonata-core@2.2.6
 - pkg:cargo/jsonata-core@2.2.7
+- pkg:cargo/jsonata-core@2.2.8
+- pkg:cargo/jsonata-core@2.2.9
