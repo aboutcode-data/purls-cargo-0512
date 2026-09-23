@@ -17,6 +17,8 @@
 - pkg:cargo/libvpx-native-sys@5.0.11
 - pkg:cargo/libvpx-native-sys@5.0.12
 - pkg:cargo/libvpx-native-sys@5.0.13
+- pkg:cargo/libvpx-native-sys@5.0.16
+- pkg:cargo/libvpx-native-sys@5.0.17
 - pkg:cargo/libvpx-native-sys@5.0.2
 - pkg:cargo/libvpx-native-sys@5.0.3
 - pkg:cargo/libvpx-native-sys@5.0.4
