@@ -8,3 +8,5 @@
 - pkg:cargo/tftio-kb@3.1.0
 - pkg:cargo/tftio-kb@3.2.0
 - pkg:cargo/tftio-kb@4.0.0
+- pkg:cargo/tftio-kb@4.2.1
+- pkg:cargo/tftio-kb@5.0.0
