@@ -31,6 +31,10 @@
 - pkg:cargo/libduckdb-sys@1.10500.0
 - pkg:cargo/libduckdb-sys@1.10501.0
 - pkg:cargo/libduckdb-sys@1.10502.0
+- pkg:cargo/libduckdb-sys@1.10503.0
+- pkg:cargo/libduckdb-sys@1.10503.1
+- pkg:cargo/libduckdb-sys@1.10504.0
+- pkg:cargo/libduckdb-sys@1.10505.0
 - pkg:cargo/libduckdb-sys@1.2.0
 - pkg:cargo/libduckdb-sys@1.2.1
 - pkg:cargo/libduckdb-sys@1.2.2
@@ -42,3 +46,4 @@
 - pkg:cargo/libduckdb-sys@1.4.2
 - pkg:cargo/libduckdb-sys@1.4.3
 - pkg:cargo/libduckdb-sys@1.4.4
+- pkg:cargo/libduckdb-sys@1.4.5

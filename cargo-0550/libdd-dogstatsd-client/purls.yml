@@ -3,3 +3,6 @@
 - pkg:cargo/libdd-dogstatsd-client@1.0.2
 - pkg:cargo/libdd-dogstatsd-client@2.0.0
 - pkg:cargo/libdd-dogstatsd-client@3.0.0
+- pkg:cargo/libdd-dogstatsd-client@4.0.0
+- pkg:cargo/libdd-dogstatsd-client@5.0.0
+- pkg:cargo/libdd-dogstatsd-client@6.0.0
