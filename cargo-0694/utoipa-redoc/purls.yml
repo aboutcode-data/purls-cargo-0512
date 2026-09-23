@@ -9,3 +9,4 @@
 - pkg:cargo/utoipa-redoc@5.0.0
 - pkg:cargo/utoipa-redoc@5.0.1
 - pkg:cargo/utoipa-redoc@6.0.0
+- pkg:cargo/utoipa-redoc@7.0.0
