@@ -27,6 +27,10 @@
 - pkg:cargo/i-slint-backend-selector@1.15.1
 - pkg:cargo/i-slint-backend-selector@1.16.0
 - pkg:cargo/i-slint-backend-selector@1.16.1
+- pkg:cargo/i-slint-backend-selector@1.17.0
+- pkg:cargo/i-slint-backend-selector@1.17.1
+- pkg:cargo/i-slint-backend-selector@1.18.0
+- pkg:cargo/i-slint-backend-selector@1.18.1
 - pkg:cargo/i-slint-backend-selector@1.2.0
 - pkg:cargo/i-slint-backend-selector@1.2.1
 - pkg:cargo/i-slint-backend-selector@1.2.2
