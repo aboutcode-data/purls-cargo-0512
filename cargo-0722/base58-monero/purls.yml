@@ -8,3 +8,4 @@
 - pkg:cargo/base58-monero@1.0.0
 - pkg:cargo/base58-monero@1.1.0
 - pkg:cargo/base58-monero@2.0.0
+- pkg:cargo/base58-monero@2.1.0
