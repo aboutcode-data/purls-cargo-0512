@@ -13,6 +13,9 @@
 - pkg:cargo/tract-rs@0.21.13
 - pkg:cargo/tract-rs@0.21.14
 - pkg:cargo/tract-rs@0.21.15
+- pkg:cargo/tract-rs@0.21.16
+- pkg:cargo/tract-rs@0.21.17
+- pkg:cargo/tract-rs@0.21.18
 - pkg:cargo/tract-rs@0.21.2
 - pkg:cargo/tract-rs@0.21.3
 - pkg:cargo/tract-rs@0.21.4
@@ -23,5 +26,8 @@
 - pkg:cargo/tract-rs@0.21.9
 - pkg:cargo/tract-rs@0.22.0
 - pkg:cargo/tract-rs@0.22.1
+- pkg:cargo/tract-rs@0.22.2
+- pkg:cargo/tract-rs@0.22.3
+- pkg:cargo/tract-rs@0.22.4
 - pkg:cargo/tract-rs@0.23.0-dev.1
 - pkg:cargo/tract-rs@0.23.0-dev.2

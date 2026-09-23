@@ -69,3 +69,6 @@
 - pkg:cargo/tracexec@0.8.2
 - pkg:cargo/tracexec@0.9.0
 - pkg:cargo/tracexec@0.9.1
+- pkg:cargo/tracexec@1.0.0
+- pkg:cargo/tracexec@1.0.0-alpha.1
+- pkg:cargo/tracexec@1.0.0-rc.1
