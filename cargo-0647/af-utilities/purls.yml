@@ -8,6 +8,8 @@
 - pkg:cargo/af-utilities@0.13.0
 - pkg:cargo/af-utilities@0.14.0
 - pkg:cargo/af-utilities@0.15.0
+- pkg:cargo/af-utilities@0.15.1
+- pkg:cargo/af-utilities@0.16.0
 - pkg:cargo/af-utilities@0.6.0
 - pkg:cargo/af-utilities@0.6.1
 - pkg:cargo/af-utilities@0.7.0
