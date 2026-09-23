@@ -19,6 +19,7 @@
 - pkg:cargo/afterburn@5.0.0
 - pkg:cargo/afterburn@5.1.0
 - pkg:cargo/afterburn@5.10.0
+- pkg:cargo/afterburn@5.11.0
 - pkg:cargo/afterburn@5.2.0
 - pkg:cargo/afterburn@5.3.0
 - pkg:cargo/afterburn@5.4.0
