@@ -3,3 +3,16 @@
 - pkg:cargo/tree-sitter-al@2.5.0
 - pkg:cargo/tree-sitter-al@2.5.1
 - pkg:cargo/tree-sitter-al@2.5.2
+- pkg:cargo/tree-sitter-al@2.6.0
+- pkg:cargo/tree-sitter-al@3.0.0
+- pkg:cargo/tree-sitter-al@3.0.1
+- pkg:cargo/tree-sitter-al@3.2.0
+- pkg:cargo/tree-sitter-al@3.2.1
+- pkg:cargo/tree-sitter-al@3.3.0
+- pkg:cargo/tree-sitter-al@3.3.1
+- pkg:cargo/tree-sitter-al@4.0.0
+- pkg:cargo/tree-sitter-al@4.0.1
+- pkg:cargo/tree-sitter-al@4.1.0
+- pkg:cargo/tree-sitter-al@4.2.0
+- pkg:cargo/tree-sitter-al@4.3.0
+- pkg:cargo/tree-sitter-al@4.4.0
