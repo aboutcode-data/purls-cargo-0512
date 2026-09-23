@@ -6,3 +6,5 @@
 - pkg:cargo/lintspec-macros@0.2.3
 - pkg:cargo/lintspec-macros@0.2.4
 - pkg:cargo/lintspec-macros@0.3.0
+- pkg:cargo/lintspec-macros@0.4.0
+- pkg:cargo/lintspec-macros@0.5.0

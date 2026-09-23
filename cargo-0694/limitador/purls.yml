@@ -3,6 +3,9 @@
 - pkg:cargo/limitador@0.1.2
 - pkg:cargo/limitador@0.1.3
 - pkg:cargo/limitador@0.11.0
+- pkg:cargo/limitador@0.12.0
+- pkg:cargo/limitador@0.13.0-testing01
+- pkg:cargo/limitador@0.13.1-testing01
 - pkg:cargo/limitador@0.2.0
 - pkg:cargo/limitador@0.3.0
 - pkg:cargo/limitador@0.3.0-dev
