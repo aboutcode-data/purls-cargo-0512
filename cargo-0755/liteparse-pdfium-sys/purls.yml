@@ -1,0 +1,14 @@
+- pkg:cargo/liteparse-pdfium-sys@1.0.0
+- pkg:cargo/liteparse-pdfium-sys@1.1.0
+- pkg:cargo/liteparse-pdfium-sys@1.1.1
+- pkg:cargo/liteparse-pdfium-sys@1.1.2
+- pkg:cargo/liteparse-pdfium-sys@1.10.0
+- pkg:cargo/liteparse-pdfium-sys@1.11.0
+- pkg:cargo/liteparse-pdfium-sys@1.2.0
+- pkg:cargo/liteparse-pdfium-sys@1.3.0
+- pkg:cargo/liteparse-pdfium-sys@1.4.0
+- pkg:cargo/liteparse-pdfium-sys@1.5.0
+- pkg:cargo/liteparse-pdfium-sys@1.6.0
+- pkg:cargo/liteparse-pdfium-sys@1.7.0
+- pkg:cargo/liteparse-pdfium-sys@1.8.0
+- pkg:cargo/liteparse-pdfium-sys@1.9.0
