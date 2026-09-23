@@ -17,3 +17,5 @@
 - pkg:cargo/light-concurrent-merkle-tree@4.0.0
 - pkg:cargo/light-concurrent-merkle-tree@4.0.1
 - pkg:cargo/light-concurrent-merkle-tree@5.0.0
+- pkg:cargo/light-concurrent-merkle-tree@6.0.0
+- pkg:cargo/light-concurrent-merkle-tree@7.0.0
