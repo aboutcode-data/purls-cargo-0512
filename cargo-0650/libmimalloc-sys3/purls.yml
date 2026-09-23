@@ -1,0 +1,4 @@
+- pkg:cargo/libmimalloc-sys3@0.1.50
+- pkg:cargo/libmimalloc-sys3@0.1.51
+- pkg:cargo/libmimalloc-sys3@0.1.52
+- pkg:cargo/libmimalloc-sys3@0.1.53
