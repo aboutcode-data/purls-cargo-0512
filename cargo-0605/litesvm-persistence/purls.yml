@@ -1,1 +1,8 @@
 - pkg:cargo/litesvm-persistence@0.12.0
+- pkg:cargo/litesvm-persistence@0.13.0
+- pkg:cargo/litesvm-persistence@0.13.1
+- pkg:cargo/litesvm-persistence@0.14.0
+- pkg:cargo/litesvm-persistence@0.15.0
+- pkg:cargo/litesvm-persistence@0.15.1
+- pkg:cargo/litesvm-persistence@0.15.2
+- pkg:cargo/litesvm-persistence@0.16.0

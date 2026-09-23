@@ -2,3 +2,4 @@
 - pkg:cargo/liteguard@0.3.20260315
 - pkg:cargo/liteguard@0.4.20260317
 - pkg:cargo/liteguard@0.6.20260405
+- pkg:cargo/liteguard@0.7.20260603
