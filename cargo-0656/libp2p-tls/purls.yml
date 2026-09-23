@@ -10,3 +10,4 @@
 - pkg:cargo/libp2p-tls@0.6.0
 - pkg:cargo/libp2p-tls@0.6.1
 - pkg:cargo/libp2p-tls@0.6.2
+- pkg:cargo/libp2p-tls@0.7.0
