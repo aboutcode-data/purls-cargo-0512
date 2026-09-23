@@ -3,3 +3,9 @@
 - pkg:cargo/smooai-logger@4.1.4
 - pkg:cargo/smooai-logger@4.1.8
 - pkg:cargo/smooai-logger@4.1.9
+- pkg:cargo/smooai-logger@4.2.0
+- pkg:cargo/smooai-logger@4.3.0
+- pkg:cargo/smooai-logger@4.4.0
+- pkg:cargo/smooai-logger@4.5.0
+- pkg:cargo/smooai-logger@4.5.3
+- pkg:cargo/smooai-logger@4.5.4
