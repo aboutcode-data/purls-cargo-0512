@@ -31,3 +31,9 @@
 - pkg:cargo/shopify-client@1.2.0
 - pkg:cargo/shopify-client@1.2.1
 - pkg:cargo/shopify-client@1.3.0
+- pkg:cargo/shopify-client@1.4.0
+- pkg:cargo/shopify-client@1.5.0
+- pkg:cargo/shopify-client@1.5.1
+- pkg:cargo/shopify-client@1.5.2
+- pkg:cargo/shopify-client@1.5.3
+- pkg:cargo/shopify-client@1.5.4
