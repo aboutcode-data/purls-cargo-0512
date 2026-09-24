@@ -19,3 +19,4 @@
 - pkg:cargo/shadertoy-native@2.4.3
 - pkg:cargo/shadertoy-native@2.4.5
 - pkg:cargo/shadertoy-native@2.5.0
+- pkg:cargo/shadertoy-native@2.5.1
