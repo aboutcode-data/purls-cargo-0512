@@ -44,3 +44,4 @@
 - pkg:cargo/everruns-integrations-browserless@0.18.8
 - pkg:cargo/everruns-integrations-browserless@0.28.0
 - pkg:cargo/everruns-integrations-browserless@0.29.0
+- pkg:cargo/everruns-integrations-browserless@0.30.0
