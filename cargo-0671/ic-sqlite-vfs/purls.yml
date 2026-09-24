@@ -2,3 +2,7 @@
 - pkg:cargo/ic-sqlite-vfs@0.1.1
 - pkg:cargo/ic-sqlite-vfs@0.2.0
 - pkg:cargo/ic-sqlite-vfs@0.2.1
+- pkg:cargo/ic-sqlite-vfs@0.2.2
+- pkg:cargo/ic-sqlite-vfs@1.0.0
+- pkg:cargo/ic-sqlite-vfs@1.0.1
+- pkg:cargo/ic-sqlite-vfs@2.0.0
