@@ -33,6 +33,7 @@
 - pkg:cargo/kubie@0.26.0
 - pkg:cargo/kubie@0.26.1
 - pkg:cargo/kubie@0.27.0
+- pkg:cargo/kubie@0.28.0
 - pkg:cargo/kubie@0.7.3
 - pkg:cargo/kubie@0.8.0
 - pkg:cargo/kubie@0.8.1
