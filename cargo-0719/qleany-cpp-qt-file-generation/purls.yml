@@ -1,4 +1,5 @@
 - pkg:cargo/qleany-cpp-qt-file-generation@1.10.0
+- pkg:cargo/qleany-cpp-qt-file-generation@1.11.0
 - pkg:cargo/qleany-cpp-qt-file-generation@1.6.1
 - pkg:cargo/qleany-cpp-qt-file-generation@1.7.1
 - pkg:cargo/qleany-cpp-qt-file-generation@1.7.2

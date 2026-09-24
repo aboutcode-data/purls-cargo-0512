@@ -1,2 +1,4 @@
+- pkg:cargo/qlexpress-derive@0.1.0
 - pkg:cargo/qlexpress-derive@0.1.0-alpha.1
 - pkg:cargo/qlexpress-derive@0.1.0-alpha.2
+- pkg:cargo/qlexpress-derive@0.1.0-beta.0

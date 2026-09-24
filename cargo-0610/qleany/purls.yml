@@ -1,4 +1,5 @@
 - pkg:cargo/qleany@1.10.0
+- pkg:cargo/qleany@1.11.0
 - pkg:cargo/qleany@1.6.1
 - pkg:cargo/qleany@1.7.1
 - pkg:cargo/qleany@1.7.2
