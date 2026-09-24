@@ -7,6 +7,7 @@
 - pkg:cargo/oxdock-embed@0.15.0-alpha
 - pkg:cargo/oxdock-embed@0.16.0-alpha
 - pkg:cargo/oxdock-embed@0.17.0-alpha
+- pkg:cargo/oxdock-embed@0.18.0-alpha
 - pkg:cargo/oxdock-embed@0.4.0-alpha
 - pkg:cargo/oxdock-embed@0.5.0-alpha
 - pkg:cargo/oxdock-embed@0.6.0-alpha
