@@ -33,6 +33,8 @@
 - pkg:cargo/tuicore@0.40.5
 - pkg:cargo/tuicore@0.40.6
 - pkg:cargo/tuicore@0.40.7
+- pkg:cargo/tuicore@0.40.8
+- pkg:cargo/tuicore@0.40.9
 - pkg:cargo/tuicore@0.5.0
 - pkg:cargo/tuicore@0.6.0
 - pkg:cargo/tuicore@0.7.0
