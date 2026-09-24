@@ -4,3 +4,4 @@
 - pkg:cargo/mecab-furigana-rs@0.3.0
 - pkg:cargo/mecab-furigana-rs@0.4.0
 - pkg:cargo/mecab-furigana-rs@1.0.0
+- pkg:cargo/mecab-furigana-rs@1.1.0
