@@ -6,3 +6,5 @@
 - pkg:cargo/mlar@2.0.0-alpha
 - pkg:cargo/mlar@2.0.0-beta
 - pkg:cargo/mlar@2.0.0-rc
+- pkg:cargo/mlar@2.1.0
+- pkg:cargo/mlar@2.1.0-rc
