@@ -117,3 +117,4 @@
 - pkg:cargo/voxelize@0.8.98
 - pkg:cargo/voxelize@0.8.99
 - pkg:cargo/voxelize@1.0.0
+- pkg:cargo/voxelize@3.0.0
