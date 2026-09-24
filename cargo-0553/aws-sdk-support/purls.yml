@@ -47,7 +47,22 @@
 - pkg:cargo/aws-sdk-support@0.9.0
 - pkg:cargo/aws-sdk-support@1.1.0
 - pkg:cargo/aws-sdk-support@1.10.0
+- pkg:cargo/aws-sdk-support@1.100.0
+- pkg:cargo/aws-sdk-support@1.101.0
+- pkg:cargo/aws-sdk-support@1.102.0
+- pkg:cargo/aws-sdk-support@1.103.0
+- pkg:cargo/aws-sdk-support@1.104.0
+- pkg:cargo/aws-sdk-support@1.105.0
+- pkg:cargo/aws-sdk-support@1.106.0
+- pkg:cargo/aws-sdk-support@1.107.0
+- pkg:cargo/aws-sdk-support@1.108.0
+- pkg:cargo/aws-sdk-support@1.109.0
 - pkg:cargo/aws-sdk-support@1.11.0
+- pkg:cargo/aws-sdk-support@1.110.0
+- pkg:cargo/aws-sdk-support@1.111.0
+- pkg:cargo/aws-sdk-support@1.112.0
+- pkg:cargo/aws-sdk-support@1.113.0
+- pkg:cargo/aws-sdk-support@1.114.0
 - pkg:cargo/aws-sdk-support@1.12.0
 - pkg:cargo/aws-sdk-support@1.13.0
 - pkg:cargo/aws-sdk-support@1.14.0
@@ -144,3 +159,4 @@
 - pkg:cargo/aws-sdk-support@1.96.0
 - pkg:cargo/aws-sdk-support@1.97.0
 - pkg:cargo/aws-sdk-support@1.98.0
+- pkg:cargo/aws-sdk-support@1.99.0

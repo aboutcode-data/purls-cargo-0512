@@ -36,6 +36,7 @@
 - pkg:cargo/aws-sdk-securitylake@1.113.0
 - pkg:cargo/aws-sdk-securitylake@1.114.0
 - pkg:cargo/aws-sdk-securitylake@1.115.0
+- pkg:cargo/aws-sdk-securitylake@1.116.0
 - pkg:cargo/aws-sdk-securitylake@1.12.0
 - pkg:cargo/aws-sdk-securitylake@1.13.0
 - pkg:cargo/aws-sdk-securitylake@1.13.1
