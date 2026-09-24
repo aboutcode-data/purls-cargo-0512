@@ -5,3 +5,4 @@
 - pkg:cargo/midenc-frontend-wasm-metadata@0.14.0
 - pkg:cargo/midenc-frontend-wasm-metadata@0.14.0-rc.1
 - pkg:cargo/midenc-frontend-wasm-metadata@0.15.0-rc.1
+- pkg:cargo/midenc-frontend-wasm-metadata@0.15.0-rc.2
