@@ -1,1 +1,2 @@
 - pkg:cargo/rattler_sigstore@0.0.0
+- pkg:cargo/rattler_sigstore@0.1.0

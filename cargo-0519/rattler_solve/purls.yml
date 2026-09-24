@@ -82,6 +82,7 @@
 - pkg:cargo/rattler_solve@1.4.4
 - pkg:cargo/rattler_solve@1.4.5
 - pkg:cargo/rattler_solve@1.4.6
+- pkg:cargo/rattler_solve@10.0.0
 - pkg:cargo/rattler_solve@2.0.0
 - pkg:cargo/rattler_solve@2.1.0
 - pkg:cargo/rattler_solve@2.1.1
