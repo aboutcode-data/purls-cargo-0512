@@ -1,4 +1,5 @@
 - pkg:cargo/j-agent@0.1.0
+- pkg:cargo/j-agent@12.10.100
 - pkg:cargo/j-agent@12.10.55
 - pkg:cargo/j-agent@12.10.56
 - pkg:cargo/j-agent@12.10.57
@@ -13,3 +14,14 @@
 - pkg:cargo/j-agent@12.10.66
 - pkg:cargo/j-agent@12.10.67
 - pkg:cargo/j-agent@12.10.68
+- pkg:cargo/j-agent@12.10.69
+- pkg:cargo/j-agent@12.10.71
+- pkg:cargo/j-agent@12.10.72
+- pkg:cargo/j-agent@12.10.77
+- pkg:cargo/j-agent@12.10.78
+- pkg:cargo/j-agent@12.10.80
+- pkg:cargo/j-agent@12.10.81
+- pkg:cargo/j-agent@12.10.90
+- pkg:cargo/j-agent@12.10.91
+- pkg:cargo/j-agent@12.10.98
+- pkg:cargo/j-agent@12.10.99
