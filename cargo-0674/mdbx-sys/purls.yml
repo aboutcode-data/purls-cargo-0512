@@ -34,3 +34,4 @@
 - pkg:cargo/mdbx-sys@13.6.0
 - pkg:cargo/mdbx-sys@13.8.0
 - pkg:cargo/mdbx-sys@13.9.0
+- pkg:cargo/mdbx-sys@14.4.0
