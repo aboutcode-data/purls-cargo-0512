@@ -18,5 +18,8 @@
 - pkg:cargo/icann-rdap-client@0.0.27
 - pkg:cargo/icann-rdap-client@0.0.28
 - pkg:cargo/icann-rdap-client@0.0.29
+- pkg:cargo/icann-rdap-client@0.0.30
+- pkg:cargo/icann-rdap-client@0.0.31
 - pkg:cargo/icann-rdap-client@0.0.8
 - pkg:cargo/icann-rdap-client@0.0.9
+- pkg:cargo/icann-rdap-client@1.0.0
