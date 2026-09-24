@@ -32,6 +32,7 @@
 - pkg:cargo/gen-bsky@0.1.35
 - pkg:cargo/gen-bsky@0.1.36
 - pkg:cargo/gen-bsky@0.1.37
+- pkg:cargo/gen-bsky@0.1.38
 - pkg:cargo/gen-bsky@0.1.4
 - pkg:cargo/gen-bsky@0.1.5
 - pkg:cargo/gen-bsky@0.1.6
