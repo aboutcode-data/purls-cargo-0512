@@ -24,3 +24,4 @@
 - pkg:cargo/icao-wgs84@1.0.0
 - pkg:cargo/icao-wgs84@1.0.1
 - pkg:cargo/icao-wgs84@1.0.2
+- pkg:cargo/icao-wgs84@2.0.0
