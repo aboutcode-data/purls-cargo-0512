@@ -45,6 +45,7 @@
 - pkg:cargo/everruns-integrations-github@0.18.8
 - pkg:cargo/everruns-integrations-github@0.28.0
 - pkg:cargo/everruns-integrations-github@0.29.0
+- pkg:cargo/everruns-integrations-github@0.30.0
 - pkg:cargo/everruns-integrations-github@0.8.34
 - pkg:cargo/everruns-integrations-github@0.8.35
 - pkg:cargo/everruns-integrations-github@0.8.36

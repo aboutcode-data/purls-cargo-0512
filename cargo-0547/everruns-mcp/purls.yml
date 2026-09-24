@@ -47,6 +47,7 @@
 - pkg:cargo/everruns-mcp@0.19.9
 - pkg:cargo/everruns-mcp@0.28.0
 - pkg:cargo/everruns-mcp@0.29.0
+- pkg:cargo/everruns-mcp@0.30.0
 - pkg:cargo/everruns-mcp@0.8.37
 - pkg:cargo/everruns-mcp@0.8.38
 - pkg:cargo/everruns-mcp@0.9.0
