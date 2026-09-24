@@ -5,3 +5,5 @@
 - pkg:cargo/nntp-proxy@0.2.3
 - pkg:cargo/nntp-proxy@0.3.0
 - pkg:cargo/nntp-proxy@0.4.0
+- pkg:cargo/nntp-proxy@0.5.0
+- pkg:cargo/nntp-proxy@0.5.1

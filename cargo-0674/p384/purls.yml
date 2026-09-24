@@ -9,6 +9,7 @@
 - pkg:cargo/p384@0.12.0-pre.1
 - pkg:cargo/p384@0.13.0
 - pkg:cargo/p384@0.13.1
+- pkg:cargo/p384@0.14.0
 - pkg:cargo/p384@0.14.0-pre.1
 - pkg:cargo/p384@0.14.0-pre.10
 - pkg:cargo/p384@0.14.0-pre.11
@@ -22,6 +23,12 @@
 - pkg:cargo/p384@0.14.0-pre.9
 - pkg:cargo/p384@0.14.0-rc.0
 - pkg:cargo/p384@0.14.0-rc.1
+- pkg:cargo/p384@0.14.0-rc.10
+- pkg:cargo/p384@0.14.0-rc.11
+- pkg:cargo/p384@0.14.0-rc.12
+- pkg:cargo/p384@0.14.0-rc.13
+- pkg:cargo/p384@0.14.0-rc.14
+- pkg:cargo/p384@0.14.0-rc.15
 - pkg:cargo/p384@0.14.0-rc.2
 - pkg:cargo/p384@0.14.0-rc.3
 - pkg:cargo/p384@0.14.0-rc.4
