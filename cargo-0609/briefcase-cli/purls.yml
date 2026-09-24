@@ -14,3 +14,4 @@
 - pkg:cargo/briefcase-cli@1.1.0
 - pkg:cargo/briefcase-cli@1.1.1
 - pkg:cargo/briefcase-cli@1.1.2
+- pkg:cargo/briefcase-cli@2.0.0
