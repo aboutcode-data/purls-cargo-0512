@@ -9,3 +9,4 @@
 - pkg:cargo/visa-sys@0.1.7
 - pkg:cargo/visa-sys@0.1.8
 - pkg:cargo/visa-sys@0.1.9
+- pkg:cargo/visa-sys@0.2.0
