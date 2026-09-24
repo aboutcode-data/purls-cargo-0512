@@ -13,3 +13,5 @@
 - pkg:cargo/eolib@2.1.0
 - pkg:cargo/eolib@2.1.1
 - pkg:cargo/eolib@3.0.0
+- pkg:cargo/eolib@3.1.0
+- pkg:cargo/eolib@3.2.0
