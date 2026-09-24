@@ -1,3 +1,6 @@
 - pkg:cargo/vortx-shaders@0.0.0
 - pkg:cargo/vortx-shaders@0.1.0
 - pkg:cargo/vortx-shaders@0.1.1
+- pkg:cargo/vortx-shaders@0.2.0
+- pkg:cargo/vortx-shaders@0.3.0
+- pkg:cargo/vortx-shaders@0.4.0
