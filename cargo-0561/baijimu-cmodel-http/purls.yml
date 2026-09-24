@@ -32,3 +32,4 @@
 - pkg:cargo/baijimu-cmodel-http@5.8.0
 - pkg:cargo/baijimu-cmodel-http@6.0.0
 - pkg:cargo/baijimu-cmodel-http@7.0.0
+- pkg:cargo/baijimu-cmodel-http@8.0.0
