@@ -7,3 +7,4 @@
 - pkg:cargo/mx-remote-ffi@5.0.0
 - pkg:cargo/mx-remote-ffi@5.0.1
 - pkg:cargo/mx-remote-ffi@5.1.0
+- pkg:cargo/mx-remote-ffi@5.2.0
