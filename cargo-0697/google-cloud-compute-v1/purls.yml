@@ -13,3 +13,4 @@
 - pkg:cargo/google-cloud-compute-v1@3.3.0
 - pkg:cargo/google-cloud-compute-v1@3.4.0
 - pkg:cargo/google-cloud-compute-v1@3.5.0
+- pkg:cargo/google-cloud-compute-v1@3.6.0
