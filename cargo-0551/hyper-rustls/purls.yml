@@ -31,6 +31,7 @@
 - pkg:cargo/hyper-rustls@0.26.0
 - pkg:cargo/hyper-rustls@0.27.0
 - pkg:cargo/hyper-rustls@0.27.1
+- pkg:cargo/hyper-rustls@0.27.10
 - pkg:cargo/hyper-rustls@0.27.2
 - pkg:cargo/hyper-rustls@0.27.3
 - pkg:cargo/hyper-rustls@0.27.4
