@@ -29,3 +29,4 @@
 - pkg:cargo/taudit-core@2.0.0
 - pkg:cargo/taudit-core@3.0.0
 - pkg:cargo/taudit-core@3.0.1
+- pkg:cargo/taudit-core@3.1.0
