@@ -11,3 +11,4 @@
 - pkg:cargo/rmqttd@0.21.0
 - pkg:cargo/rmqttd@0.22.0
 - pkg:cargo/rmqttd@0.23.1
+- pkg:cargo/rmqttd@0.24.0
