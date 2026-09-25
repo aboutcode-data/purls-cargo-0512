@@ -1,1 +1,2 @@
 - pkg:cargo/blitz-host-protocol@0.1.0
+- pkg:cargo/blitz-host-protocol@0.1.3
