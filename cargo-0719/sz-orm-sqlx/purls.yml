@@ -18,3 +18,4 @@
 - pkg:cargo/sz-orm-sqlx@7.3.0
 - pkg:cargo/sz-orm-sqlx@7.6.0
 - pkg:cargo/sz-orm-sqlx@7.7.0
+- pkg:cargo/sz-orm-sqlx@8.8.0

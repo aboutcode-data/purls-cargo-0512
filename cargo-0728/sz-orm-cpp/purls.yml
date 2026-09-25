@@ -4,3 +4,4 @@
 - pkg:cargo/sz-orm-cpp@7.3.0
 - pkg:cargo/sz-orm-cpp@7.6.0
 - pkg:cargo/sz-orm-cpp@7.7.0
+- pkg:cargo/sz-orm-cpp@8.8.0

@@ -11,3 +11,4 @@
 - pkg:cargo/sz-orm-actix@7.3.0
 - pkg:cargo/sz-orm-actix@7.6.0
 - pkg:cargo/sz-orm-actix@7.7.0
+- pkg:cargo/sz-orm-actix@8.8.0

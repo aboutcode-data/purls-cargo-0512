@@ -15,3 +15,4 @@
 - pkg:cargo/sz-orm-vector@7.3.0
 - pkg:cargo/sz-orm-vector@7.6.0
 - pkg:cargo/sz-orm-vector@7.7.0
+- pkg:cargo/sz-orm-vector@8.8.0
