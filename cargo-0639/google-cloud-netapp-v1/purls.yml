@@ -27,3 +27,4 @@
 - pkg:cargo/google-cloud-netapp-v1@2.3.0
 - pkg:cargo/google-cloud-netapp-v1@2.4.0
 - pkg:cargo/google-cloud-netapp-v1@2.5.0
+- pkg:cargo/google-cloud-netapp-v1@2.6.0
