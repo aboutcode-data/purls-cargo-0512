@@ -92,6 +92,7 @@
 - pkg:cargo/fff-grep@0.10.7-nightly.e8d80e4
 - pkg:cargo/fff-grep@0.10.7-nightly.f3647b7
 - pkg:cargo/fff-grep@0.11.0
+- pkg:cargo/fff-grep@0.11.1-nightly.708d57b
 - pkg:cargo/fff-grep@0.11.1-nightly.95fd777
 - pkg:cargo/fff-grep@0.11.1-nightly.e3f694a
 - pkg:cargo/fff-grep@0.2.1
