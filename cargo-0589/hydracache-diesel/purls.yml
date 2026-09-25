@@ -41,3 +41,5 @@
 - pkg:cargo/hydracache-diesel@0.68.0
 - pkg:cargo/hydracache-diesel@0.69.0
 - pkg:cargo/hydracache-diesel@0.70.0
+- pkg:cargo/hydracache-diesel@0.71.0
+- pkg:cargo/hydracache-diesel@0.72.0
