@@ -21,3 +21,4 @@
 - pkg:cargo/jsonschema-value@0.55.1
 - pkg:cargo/jsonschema-value@0.56.0
 - pkg:cargo/jsonschema-value@0.57.0
+- pkg:cargo/jsonschema-value@0.58.0
