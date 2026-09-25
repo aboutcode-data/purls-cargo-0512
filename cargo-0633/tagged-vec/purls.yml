@@ -16,3 +16,4 @@
 - pkg:cargo/tagged-vec@0.4.6
 - pkg:cargo/tagged-vec@1.0.0
 - pkg:cargo/tagged-vec@1.0.1
+- pkg:cargo/tagged-vec@1.1.0
