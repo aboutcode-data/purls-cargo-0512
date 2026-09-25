@@ -3,6 +3,9 @@
 - pkg:cargo/katwalk@0.0.11
 - pkg:cargo/katwalk@0.0.12
 - pkg:cargo/katwalk@0.0.13
+- pkg:cargo/katwalk@0.0.14
+- pkg:cargo/katwalk@0.0.15
+- pkg:cargo/katwalk@0.0.16
 - pkg:cargo/katwalk@0.0.2
 - pkg:cargo/katwalk@0.0.3
 - pkg:cargo/katwalk@0.0.4
@@ -11,3 +14,6 @@
 - pkg:cargo/katwalk@0.0.7
 - pkg:cargo/katwalk@0.0.8
 - pkg:cargo/katwalk@0.0.9
+- pkg:cargo/katwalk@0.1.0
+- pkg:cargo/katwalk@0.1.1
+- pkg:cargo/katwalk@0.1.2
