@@ -1,0 +1,6 @@
+- pkg:cargo/sz-orm-parallel@4.9.0
+- pkg:cargo/sz-orm-parallel@5.1.0
+- pkg:cargo/sz-orm-parallel@6.0.0
+- pkg:cargo/sz-orm-parallel@7.3.0
+- pkg:cargo/sz-orm-parallel@7.6.0
+- pkg:cargo/sz-orm-parallel@7.7.0

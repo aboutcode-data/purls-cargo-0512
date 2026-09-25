@@ -6,3 +6,15 @@
 - pkg:cargo/sz-orm-queue@1.5.0
 - pkg:cargo/sz-orm-queue@2.0.0
 - pkg:cargo/sz-orm-queue@2.1.0
+- pkg:cargo/sz-orm-queue@2.3.0
+- pkg:cargo/sz-orm-queue@3.5.0
+- pkg:cargo/sz-orm-queue@4.7.0
+- pkg:cargo/sz-orm-queue@4.9.0
+- pkg:cargo/sz-orm-queue@5.0.0
+- pkg:cargo/sz-orm-queue@5.1.0
+- pkg:cargo/sz-orm-queue@6.0.0
+- pkg:cargo/sz-orm-queue@6.2.0
+- pkg:cargo/sz-orm-queue@7.3.0
+- pkg:cargo/sz-orm-queue@7.6.0
+- pkg:cargo/sz-orm-queue@7.7.0
+- pkg:cargo/sz-orm-queue@8.7.0

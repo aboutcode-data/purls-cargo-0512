@@ -5,3 +5,13 @@
 - pkg:cargo/sz-orm-swagger@1.5.0
 - pkg:cargo/sz-orm-swagger@2.0.0
 - pkg:cargo/sz-orm-swagger@2.1.0
+- pkg:cargo/sz-orm-swagger@2.3.0
+- pkg:cargo/sz-orm-swagger@3.5.0
+- pkg:cargo/sz-orm-swagger@4.7.0
+- pkg:cargo/sz-orm-swagger@4.9.0
+- pkg:cargo/sz-orm-swagger@5.1.0
+- pkg:cargo/sz-orm-swagger@6.0.0
+- pkg:cargo/sz-orm-swagger@6.2.0
+- pkg:cargo/sz-orm-swagger@7.3.0
+- pkg:cargo/sz-orm-swagger@7.6.0
+- pkg:cargo/sz-orm-swagger@7.7.0

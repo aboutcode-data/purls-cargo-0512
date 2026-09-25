@@ -3,3 +3,11 @@
 - pkg:cargo/sz-orm-actix@1.5.0
 - pkg:cargo/sz-orm-actix@2.0.0
 - pkg:cargo/sz-orm-actix@2.1.0
+- pkg:cargo/sz-orm-actix@2.3.0
+- pkg:cargo/sz-orm-actix@3.5.0
+- pkg:cargo/sz-orm-actix@4.9.0
+- pkg:cargo/sz-orm-actix@5.1.0
+- pkg:cargo/sz-orm-actix@6.0.0
+- pkg:cargo/sz-orm-actix@7.3.0
+- pkg:cargo/sz-orm-actix@7.6.0
+- pkg:cargo/sz-orm-actix@7.7.0
