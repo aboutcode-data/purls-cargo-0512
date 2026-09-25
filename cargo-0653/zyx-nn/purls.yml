@@ -5,3 +5,4 @@
 - pkg:cargo/zyx-nn@0.15.5
 - pkg:cargo/zyx-nn@0.15.6
 - pkg:cargo/zyx-nn@0.16.0
+- pkg:cargo/zyx-nn@0.17.0
