@@ -1,0 +1,4 @@
+- pkg:cargo/tauri-plugin-vnidrop-fs@0.1.0
+- pkg:cargo/tauri-plugin-vnidrop-fs@1.0.0-rc
+- pkg:cargo/tauri-plugin-vnidrop-fs@1.0.0-rc.1
+- pkg:cargo/tauri-plugin-vnidrop-fs@1.0.0-rc.2
