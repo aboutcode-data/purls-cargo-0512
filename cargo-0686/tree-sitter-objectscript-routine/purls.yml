@@ -36,6 +36,7 @@
 - pkg:cargo/tree-sitter-objectscript-routine@1.9.2
 - pkg:cargo/tree-sitter-objectscript-routine@1.9.20
 - pkg:cargo/tree-sitter-objectscript-routine@1.9.21
+- pkg:cargo/tree-sitter-objectscript-routine@1.9.22
 - pkg:cargo/tree-sitter-objectscript-routine@1.9.3
 - pkg:cargo/tree-sitter-objectscript-routine@1.9.4
 - pkg:cargo/tree-sitter-objectscript-routine@1.9.5
