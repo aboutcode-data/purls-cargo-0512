@@ -2,6 +2,7 @@
 - pkg:cargo/volga-oauth-core@0.10.1
 - pkg:cargo/volga-oauth-core@0.11.0
 - pkg:cargo/volga-oauth-core@0.11.1
+- pkg:cargo/volga-oauth-core@0.11.2
 - pkg:cargo/volga-oauth-core@0.9.10
 - pkg:cargo/volga-oauth-core@0.9.11
 - pkg:cargo/volga-oauth-core@0.9.5

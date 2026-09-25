@@ -2,6 +2,7 @@
 - pkg:cargo/volga-dev-cert@0.10.1
 - pkg:cargo/volga-dev-cert@0.11.0
 - pkg:cargo/volga-dev-cert@0.11.1
+- pkg:cargo/volga-dev-cert@0.11.2
 - pkg:cargo/volga-dev-cert@0.6.6
 - pkg:cargo/volga-dev-cert@0.6.7
 - pkg:cargo/volga-dev-cert@0.7.0
