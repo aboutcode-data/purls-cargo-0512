@@ -9,6 +9,12 @@
 - pkg:cargo/tauri-plugin-blec@0.11.2
 - pkg:cargo/tauri-plugin-blec@0.11.3
 - pkg:cargo/tauri-plugin-blec@0.11.4
+- pkg:cargo/tauri-plugin-blec@0.12.0
+- pkg:cargo/tauri-plugin-blec@0.13.0
+- pkg:cargo/tauri-plugin-blec@0.14.0
+- pkg:cargo/tauri-plugin-blec@0.14.1
+- pkg:cargo/tauri-plugin-blec@0.16.0
+- pkg:cargo/tauri-plugin-blec@0.17.0
 - pkg:cargo/tauri-plugin-blec@0.2.0
 - pkg:cargo/tauri-plugin-blec@0.3.0
 - pkg:cargo/tauri-plugin-blec@0.3.1
