@@ -1,5 +1,6 @@
 - pkg:cargo/icd11@0.1.0
 - pkg:cargo/icd11@0.1.105
+- pkg:cargo/icd11@0.1.114
 - pkg:cargo/icd11@0.1.16
 - pkg:cargo/icd11@0.1.19
 - pkg:cargo/icd11@0.1.22
