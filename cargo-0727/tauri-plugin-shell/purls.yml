@@ -33,3 +33,6 @@
 - pkg:cargo/tauri-plugin-shell@2.3.3
 - pkg:cargo/tauri-plugin-shell@2.3.4
 - pkg:cargo/tauri-plugin-shell@2.3.5
+- pkg:cargo/tauri-plugin-shell@2.3.6
+- pkg:cargo/tauri-plugin-shell@3.0.0-alpha.0
+- pkg:cargo/tauri-plugin-shell@3.0.0-alpha.1
