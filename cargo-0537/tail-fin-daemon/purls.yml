@@ -10,3 +10,4 @@
 - pkg:cargo/tail-fin-daemon@0.7.5
 - pkg:cargo/tail-fin-daemon@0.7.7
 - pkg:cargo/tail-fin-daemon@0.7.8
+- pkg:cargo/tail-fin-daemon@0.8.0
