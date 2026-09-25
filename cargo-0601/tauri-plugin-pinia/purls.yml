@@ -63,3 +63,7 @@
 - pkg:cargo/tauri-plugin-pinia@4.1.0
 - pkg:cargo/tauri-plugin-pinia@4.1.1
 - pkg:cargo/tauri-plugin-pinia@4.2.0
+- pkg:cargo/tauri-plugin-pinia@4.2.1
+- pkg:cargo/tauri-plugin-pinia@5.0.0
+- pkg:cargo/tauri-plugin-pinia@5.0.1
+- pkg:cargo/tauri-plugin-pinia@5.0.2
