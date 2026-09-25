@@ -1,4 +1,6 @@
 - pkg:cargo/tari_ootle_template_metadata@0.1.0
+- pkg:cargo/tari_ootle_template_metadata@0.11.0
+- pkg:cargo/tari_ootle_template_metadata@0.12.0
 - pkg:cargo/tari_ootle_template_metadata@0.2.0
 - pkg:cargo/tari_ootle_template_metadata@0.3.0
 - pkg:cargo/tari_ootle_template_metadata@0.3.1
@@ -8,3 +10,6 @@
 - pkg:cargo/tari_ootle_template_metadata@0.5.1
 - pkg:cargo/tari_ootle_template_metadata@0.5.2
 - pkg:cargo/tari_ootle_template_metadata@0.6.0
+- pkg:cargo/tari_ootle_template_metadata@0.7.0
+- pkg:cargo/tari_ootle_template_metadata@0.8.0
+- pkg:cargo/tari_ootle_template_metadata@0.9.0
