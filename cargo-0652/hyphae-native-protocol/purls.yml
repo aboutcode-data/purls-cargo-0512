@@ -3,3 +3,5 @@
 - pkg:cargo/hyphae-native-protocol@1.2.2
 - pkg:cargo/hyphae-native-protocol@2.0.1
 - pkg:cargo/hyphae-native-protocol@2.2.0
+- pkg:cargo/hyphae-native-protocol@3.0.0
+- pkg:cargo/hyphae-native-protocol@4.0.0

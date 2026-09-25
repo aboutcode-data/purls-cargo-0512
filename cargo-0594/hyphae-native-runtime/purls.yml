@@ -3,3 +3,5 @@
 - pkg:cargo/hyphae-native-runtime@1.2.2
 - pkg:cargo/hyphae-native-runtime@2.0.1
 - pkg:cargo/hyphae-native-runtime@2.2.0
+- pkg:cargo/hyphae-native-runtime@3.0.0
+- pkg:cargo/hyphae-native-runtime@4.0.0

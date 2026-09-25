@@ -6,3 +6,5 @@
 - pkg:cargo/hyphae-engine@1.2.2
 - pkg:cargo/hyphae-engine@2.0.1
 - pkg:cargo/hyphae-engine@2.2.0
+- pkg:cargo/hyphae-engine@3.0.0
+- pkg:cargo/hyphae-engine@4.0.0

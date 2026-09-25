@@ -5,3 +5,5 @@
 - pkg:cargo/hyphae-cli@1.2.2
 - pkg:cargo/hyphae-cli@2.0.1
 - pkg:cargo/hyphae-cli@2.2.0
+- pkg:cargo/hyphae-cli@3.0.0
+- pkg:cargo/hyphae-cli@4.0.0
