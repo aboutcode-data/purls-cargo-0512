@@ -17,3 +17,4 @@
 - pkg:cargo/rapier_testbed3d-f64@0.35.1
 - pkg:cargo/rapier_testbed3d-f64@0.35.2
 - pkg:cargo/rapier_testbed3d-f64@0.35.3
+- pkg:cargo/rapier_testbed3d-f64@0.36.0
