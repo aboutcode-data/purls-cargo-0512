@@ -23,6 +23,7 @@
 - pkg:cargo/af-notify-api@0.17.2
 - pkg:cargo/af-notify-api@0.17.3
 - pkg:cargo/af-notify-api@0.18.0
+- pkg:cargo/af-notify-api@0.18.1
 - pkg:cargo/af-notify-api@0.5.0
 - pkg:cargo/af-notify-api@0.6.0
 - pkg:cargo/af-notify-api@0.7.0
