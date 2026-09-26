@@ -149,6 +149,7 @@
 - pkg:cargo/kanade-client@0.45.18
 - pkg:cargo/kanade-client@0.45.19
 - pkg:cargo/kanade-client@0.45.2
+- pkg:cargo/kanade-client@0.45.20
 - pkg:cargo/kanade-client@0.45.3
 - pkg:cargo/kanade-client@0.45.4
 - pkg:cargo/kanade-client@0.45.5
