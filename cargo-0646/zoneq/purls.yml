@@ -9,3 +9,5 @@
 - pkg:cargo/zoneq@0.2.30%2B345c43f
 - pkg:cargo/zoneq@0.2.31%2B8b03121
 - pkg:cargo/zoneq@0.2.34%2B1bf3d11
+- pkg:cargo/zoneq@0.2.36%2Bbfa5624
+- pkg:cargo/zoneq@0.2.40%2B4d2957e
