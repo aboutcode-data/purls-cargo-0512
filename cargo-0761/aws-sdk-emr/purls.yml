@@ -76,6 +76,7 @@
 - pkg:cargo/aws-sdk-emr@1.123.0
 - pkg:cargo/aws-sdk-emr@1.124.0
 - pkg:cargo/aws-sdk-emr@1.125.0
+- pkg:cargo/aws-sdk-emr@1.126.0
 - pkg:cargo/aws-sdk-emr@1.13.0
 - pkg:cargo/aws-sdk-emr@1.14.0
 - pkg:cargo/aws-sdk-emr@1.15.0

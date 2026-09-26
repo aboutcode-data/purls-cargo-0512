@@ -2,6 +2,7 @@
 - pkg:cargo/aws-sdk-lambdamicrovms@1.1.0
 - pkg:cargo/aws-sdk-lambdamicrovms@1.10.0
 - pkg:cargo/aws-sdk-lambdamicrovms@1.11.0
+- pkg:cargo/aws-sdk-lambdamicrovms@1.12.0
 - pkg:cargo/aws-sdk-lambdamicrovms@1.2.0
 - pkg:cargo/aws-sdk-lambdamicrovms@1.3.0
 - pkg:cargo/aws-sdk-lambdamicrovms@1.4.0

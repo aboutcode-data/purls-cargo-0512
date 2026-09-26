@@ -45,6 +45,7 @@
 - pkg:cargo/aws-sdk-connectcampaigns@1.113.0
 - pkg:cargo/aws-sdk-connectcampaigns@1.114.0
 - pkg:cargo/aws-sdk-connectcampaigns@1.115.0
+- pkg:cargo/aws-sdk-connectcampaigns@1.116.0
 - pkg:cargo/aws-sdk-connectcampaigns@1.12.0
 - pkg:cargo/aws-sdk-connectcampaigns@1.13.0
 - pkg:cargo/aws-sdk-connectcampaigns@1.14.0
