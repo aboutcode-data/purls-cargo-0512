@@ -23,3 +23,4 @@
 - pkg:cargo/mdka-python@2.7.0
 - pkg:cargo/mdka-python@2.8.0
 - pkg:cargo/mdka-python@2.9.0
+- pkg:cargo/mdka-python@3.0.0
