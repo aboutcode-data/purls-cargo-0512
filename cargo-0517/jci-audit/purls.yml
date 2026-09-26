@@ -16,7 +16,9 @@
 - pkg:cargo/jci-audit@0.1.16
 - pkg:cargo/jci-audit@0.1.17
 - pkg:cargo/jci-audit@0.1.18
+- pkg:cargo/jci-audit@0.1.19
 - pkg:cargo/jci-audit@0.1.2
+- pkg:cargo/jci-audit@0.1.20
 - pkg:cargo/jci-audit@0.1.3
 - pkg:cargo/jci-audit@0.1.4
 - pkg:cargo/jci-audit@0.1.5
