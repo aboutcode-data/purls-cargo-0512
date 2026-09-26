@@ -21,3 +21,4 @@
 - pkg:cargo/lindera-jieba@5.3.0
 - pkg:cargo/lindera-jieba@6.0.0
 - pkg:cargo/lindera-jieba@6.1.0
+- pkg:cargo/lindera-jieba@6.2.0
