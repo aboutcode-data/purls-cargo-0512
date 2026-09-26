@@ -100,3 +100,4 @@
 - pkg:cargo/aws-sdk-controlcatalog@1.96.0
 - pkg:cargo/aws-sdk-controlcatalog@1.97.0
 - pkg:cargo/aws-sdk-controlcatalog@1.98.0
+- pkg:cargo/aws-sdk-controlcatalog@1.99.0
