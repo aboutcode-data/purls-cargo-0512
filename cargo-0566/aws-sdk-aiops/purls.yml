@@ -35,6 +35,7 @@
 - pkg:cargo/aws-sdk-aiops@1.4.0
 - pkg:cargo/aws-sdk-aiops@1.40.0
 - pkg:cargo/aws-sdk-aiops@1.41.0
+- pkg:cargo/aws-sdk-aiops@1.42.0
 - pkg:cargo/aws-sdk-aiops@1.5.0
 - pkg:cargo/aws-sdk-aiops@1.6.0
 - pkg:cargo/aws-sdk-aiops@1.7.0
