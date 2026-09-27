@@ -13,3 +13,4 @@
 - pkg:cargo/sz-rust-observability@0.7.0
 - pkg:cargo/sz-rust-observability@1.1.0
 - pkg:cargo/sz-rust-observability@1.2.0
+- pkg:cargo/sz-rust-observability@1.4.0

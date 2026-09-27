@@ -16,3 +16,4 @@
 - pkg:cargo/sz-orm-swagger@7.6.0
 - pkg:cargo/sz-orm-swagger@7.7.0
 - pkg:cargo/sz-orm-swagger@8.8.0
+- pkg:cargo/sz-orm-swagger@9.0.0
