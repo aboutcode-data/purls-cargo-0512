@@ -8,6 +8,7 @@
 - pkg:cargo/smooai-smooth-operator-temporal@1.13.4
 - pkg:cargo/smooai-smooth-operator-temporal@1.13.5
 - pkg:cargo/smooai-smooth-operator-temporal@1.13.6
+- pkg:cargo/smooai-smooth-operator-temporal@1.14.0
 - pkg:cargo/smooai-smooth-operator-temporal@1.8.11
 - pkg:cargo/smooai-smooth-operator-temporal@1.8.12
 - pkg:cargo/smooai-smooth-operator-temporal@1.9.0
