@@ -4,6 +4,7 @@
 - pkg:cargo/volga-oauth-client@0.11.1
 - pkg:cargo/volga-oauth-client@0.11.2
 - pkg:cargo/volga-oauth-client@0.12.0
+- pkg:cargo/volga-oauth-client@0.13.0
 - pkg:cargo/volga-oauth-client@0.9.10
 - pkg:cargo/volga-oauth-client@0.9.11
 - pkg:cargo/volga-oauth-client@0.9.5
