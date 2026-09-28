@@ -1,3 +1,4 @@
+- pkg:cargo/fframes-media@1.0.0
 - pkg:cargo/fframes-media@1.0.0-beta.7.rc-20
 - pkg:cargo/fframes-media@1.0.0-beta.7.rc-21
 - pkg:cargo/fframes-media@1.0.0-beta.7.rc-22
@@ -12,3 +13,10 @@
 - pkg:cargo/fframes-media@1.0.0-beta.7.rc-31
 - pkg:cargo/fframes-media@1.0.0-beta.7.rc-39
 - pkg:cargo/fframes-media@1.0.0-beta.7.rc-40
+- pkg:cargo/fframes-media@1.0.0-beta.7.rc-41
+- pkg:cargo/fframes-media@1.0.0-beta.7.rc-42
+- pkg:cargo/fframes-media@1.0.0-beta.7.rc-43
+- pkg:cargo/fframes-media@1.0.0-beta.7.rc-44
+- pkg:cargo/fframes-media@1.0.0-beta.7.rc-45
+- pkg:cargo/fframes-media@1.0.0-beta.7.rc-46
+- pkg:cargo/fframes-media@1.0.0-beta.7.rc-47
