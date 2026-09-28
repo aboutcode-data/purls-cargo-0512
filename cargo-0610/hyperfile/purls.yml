@@ -23,3 +23,4 @@
 - pkg:cargo/hyperfile@0.7.1
 - pkg:cargo/hyperfile@0.7.2
 - pkg:cargo/hyperfile@0.7.3
+- pkg:cargo/hyperfile@0.8.0
