@@ -32,6 +32,7 @@
 - pkg:cargo/smix-adb@1.0.9
 - pkg:cargo/smix-adb@10.0.0
 - pkg:cargo/smix-adb@10.1.0
+- pkg:cargo/smix-adb@11.0.0
 - pkg:cargo/smix-adb@2.0.0
 - pkg:cargo/smix-adb@2.1.0
 - pkg:cargo/smix-adb@2.2.0
