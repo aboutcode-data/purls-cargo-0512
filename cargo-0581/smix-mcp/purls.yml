@@ -32,6 +32,7 @@
 - pkg:cargo/smix-mcp@1.0.9
 - pkg:cargo/smix-mcp@10.0.0
 - pkg:cargo/smix-mcp@10.1.0
+- pkg:cargo/smix-mcp@11.0.0
 - pkg:cargo/smix-mcp@2.0.0
 - pkg:cargo/smix-mcp@2.1.0
 - pkg:cargo/smix-mcp@2.2.0

@@ -32,6 +32,7 @@
 - pkg:cargo/smix-selector@1.0.9
 - pkg:cargo/smix-selector@10.0.0
 - pkg:cargo/smix-selector@10.1.0
+- pkg:cargo/smix-selector@11.0.0
 - pkg:cargo/smix-selector@2.0.0
 - pkg:cargo/smix-selector@2.1.0
 - pkg:cargo/smix-selector@2.2.0
