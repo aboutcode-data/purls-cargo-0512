@@ -1,6 +1,7 @@
 - pkg:cargo/doltlite@0.50.10
 - pkg:cargo/doltlite@0.50.11
 - pkg:cargo/doltlite@0.50.12
+- pkg:cargo/doltlite@0.50.13
 - pkg:cargo/doltlite@0.50.2
 - pkg:cargo/doltlite@0.50.3
 - pkg:cargo/doltlite@0.50.4
