@@ -1,1 +1,2 @@
 - pkg:cargo/trillium-client-retry@0.0.1
+- pkg:cargo/trillium-client-retry@0.1.0
