@@ -1,4 +1,5 @@
 - pkg:cargo/goose-agent@0.1.0-alpha.10
+- pkg:cargo/goose-agent@0.1.0-alpha.11
 - pkg:cargo/goose-agent@0.1.0-alpha.6
 - pkg:cargo/goose-agent@0.1.0-alpha.7
 - pkg:cargo/goose-agent@0.1.0-alpha.8
