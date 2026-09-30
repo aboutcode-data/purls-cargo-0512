@@ -42,3 +42,4 @@
 - pkg:cargo/minotari_node_wallet_client@6.0.0
 - pkg:cargo/minotari_node_wallet_client@6.0.1-pre.0
 - pkg:cargo/minotari_node_wallet_client@6.0.1-pre.1
+- pkg:cargo/minotari_node_wallet_client@6.0.1-pre.2
