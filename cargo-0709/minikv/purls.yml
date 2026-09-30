@@ -2,3 +2,4 @@
 - pkg:cargo/minikv@1.0.0
 - pkg:cargo/minikv@1.0.1
 - pkg:cargo/minikv@2.0.0
+- pkg:cargo/minikv@2.0.1
