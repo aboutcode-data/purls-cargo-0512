@@ -20,6 +20,7 @@
 - pkg:cargo/mhome-core-api@1.14.0
 - pkg:cargo/mhome-core-api@1.15.0
 - pkg:cargo/mhome-core-api@1.15.1
+- pkg:cargo/mhome-core-api@1.15.10
 - pkg:cargo/mhome-core-api@1.15.2
 - pkg:cargo/mhome-core-api@1.15.3
 - pkg:cargo/mhome-core-api@1.15.4
