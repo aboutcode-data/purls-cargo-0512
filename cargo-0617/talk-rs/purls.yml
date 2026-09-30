@@ -1,2 +1,5 @@
 - pkg:cargo/talk-rs@0.7.0
 - pkg:cargo/talk-rs@0.7.1
+- pkg:cargo/talk-rs@0.8.0
+- pkg:cargo/talk-rs@0.8.1
+- pkg:cargo/talk-rs@0.9.0
