@@ -184,7 +184,11 @@
 - pkg:cargo/docling-cli@1.75.2
 - pkg:cargo/docling-cli@1.76.0
 - pkg:cargo/docling-cli@1.77.0
+- pkg:cargo/docling-cli@1.78.0
+- pkg:cargo/docling-cli@1.79.0
+- pkg:cargo/docling-cli@1.79.1
 - pkg:cargo/docling-cli@1.8.0
+- pkg:cargo/docling-cli@1.80.0
 - pkg:cargo/docling-cli@1.9.0
 - pkg:cargo/docling-cli@1.9.1
 - pkg:cargo/docling-cli@1.9.2
