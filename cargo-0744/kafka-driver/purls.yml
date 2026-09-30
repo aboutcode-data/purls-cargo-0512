@@ -4,3 +4,4 @@
 - pkg:cargo/kafka-driver@0.1.0-rc.4
 - pkg:cargo/kafka-driver@0.1.0-rc.5
 - pkg:cargo/kafka-driver@0.1.0-rc.6
+- pkg:cargo/kafka-driver@0.1.0-rc.7
