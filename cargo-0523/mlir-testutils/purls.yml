@@ -1,1 +1,2 @@
 - pkg:cargo/mlir-testutils@0.1.0
+- pkg:cargo/mlir-testutils@0.3.0
