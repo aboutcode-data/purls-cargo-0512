@@ -13,3 +13,4 @@
 - pkg:cargo/kunobi-daemon@0.6.2
 - pkg:cargo/kunobi-daemon@0.6.3
 - pkg:cargo/kunobi-daemon@0.7.0
+- pkg:cargo/kunobi-daemon@0.8.0
