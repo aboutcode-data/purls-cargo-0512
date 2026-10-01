@@ -109,6 +109,7 @@
 - pkg:cargo/aws-sdk-cloudwatchlogs@1.152.0
 - pkg:cargo/aws-sdk-cloudwatchlogs@1.153.0
 - pkg:cargo/aws-sdk-cloudwatchlogs@1.154.0
+- pkg:cargo/aws-sdk-cloudwatchlogs@1.155.0
 - pkg:cargo/aws-sdk-cloudwatchlogs@1.16.0
 - pkg:cargo/aws-sdk-cloudwatchlogs@1.17.0
 - pkg:cargo/aws-sdk-cloudwatchlogs@1.18.0
