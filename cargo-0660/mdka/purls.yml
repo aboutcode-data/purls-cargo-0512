@@ -97,3 +97,6 @@
 - pkg:cargo/mdka@2.8.0
 - pkg:cargo/mdka@2.9.0
 - pkg:cargo/mdka@3.0.0
+- pkg:cargo/mdka@3.1.0
+- pkg:cargo/mdka@3.1.1
+- pkg:cargo/mdka@3.2.0
