@@ -1,3 +1,4 @@
 - pkg:cargo/rasypt-lite-derive@1.0.4
 - pkg:cargo/rasypt-lite-derive@1.1.0
 - pkg:cargo/rasypt-lite-derive@1.1.1
+- pkg:cargo/rasypt-lite-derive@1.2.0
