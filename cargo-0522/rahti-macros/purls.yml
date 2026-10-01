@@ -32,6 +32,9 @@
 - pkg:cargo/rahti-macros@0.0.38
 - pkg:cargo/rahti-macros@0.0.39
 - pkg:cargo/rahti-macros@0.0.4
+- pkg:cargo/rahti-macros@0.0.40
+- pkg:cargo/rahti-macros@0.0.41
+- pkg:cargo/rahti-macros@0.0.42
 - pkg:cargo/rahti-macros@0.0.5
 - pkg:cargo/rahti-macros@0.0.6
 - pkg:cargo/rahti-macros@0.0.7
