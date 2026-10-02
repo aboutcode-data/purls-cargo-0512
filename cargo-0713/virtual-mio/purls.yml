@@ -33,3 +33,6 @@
 - pkg:cargo/virtual-mio@0.704.0
 - pkg:cargo/virtual-mio@0.704.1
 - pkg:cargo/virtual-mio@0.704.2
+- pkg:cargo/virtual-mio@0.705.0
+- pkg:cargo/virtual-mio@0.705.0-rc.1
+- pkg:cargo/virtual-mio@0.705.0-rc.2
