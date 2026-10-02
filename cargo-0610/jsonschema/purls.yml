@@ -124,6 +124,7 @@
 - pkg:cargo/jsonschema@0.58.2
 - pkg:cargo/jsonschema@0.58.3
 - pkg:cargo/jsonschema@0.58.4
+- pkg:cargo/jsonschema@0.58.5
 - pkg:cargo/jsonschema@0.6.0
 - pkg:cargo/jsonschema@0.6.1
 - pkg:cargo/jsonschema@0.7.0
