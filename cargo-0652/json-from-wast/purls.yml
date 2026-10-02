@@ -22,10 +22,13 @@
 - pkg:cargo/json-from-wast@0.252.0
 - pkg:cargo/json-from-wast@0.253.0
 - pkg:cargo/json-from-wast@0.254.0
+- pkg:cargo/json-from-wast@0.254.2
 - pkg:cargo/json-from-wast@0.255.0
 - pkg:cargo/json-from-wast@0.256.0
 - pkg:cargo/json-from-wast@0.257.0
 - pkg:cargo/json-from-wast@0.257.1
 - pkg:cargo/json-from-wast@0.258.0
+- pkg:cargo/json-from-wast@0.258.3
 - pkg:cargo/json-from-wast@0.259.0
 - pkg:cargo/json-from-wast@0.260.0
+- pkg:cargo/json-from-wast@0.261.0
