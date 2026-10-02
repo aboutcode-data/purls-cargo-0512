@@ -61,3 +61,4 @@
 - pkg:cargo/trustee-core@0.8.1
 - pkg:cargo/trustee-core@0.8.2
 - pkg:cargo/trustee-core@0.8.3
+- pkg:cargo/trustee-core@0.8.4
