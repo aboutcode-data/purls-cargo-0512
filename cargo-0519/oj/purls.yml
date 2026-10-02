@@ -65,6 +65,8 @@
 - pkg:cargo/oj@0.2.12
 - pkg:cargo/oj@0.2.13
 - pkg:cargo/oj@0.2.14
+- pkg:cargo/oj@0.2.15
+- pkg:cargo/oj@0.2.16
 - pkg:cargo/oj@0.2.2
 - pkg:cargo/oj@0.2.3
 - pkg:cargo/oj@0.2.4
