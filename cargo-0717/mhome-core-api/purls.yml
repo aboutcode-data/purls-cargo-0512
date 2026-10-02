@@ -29,6 +29,8 @@
 - pkg:cargo/mhome-core-api@1.15.6
 - pkg:cargo/mhome-core-api@1.15.7
 - pkg:cargo/mhome-core-api@1.15.8
+- pkg:cargo/mhome-core-api@1.16.0
+- pkg:cargo/mhome-core-api@1.17.0
 - pkg:cargo/mhome-core-api@1.2.0
 - pkg:cargo/mhome-core-api@1.2.1
 - pkg:cargo/mhome-core-api@1.2.2
