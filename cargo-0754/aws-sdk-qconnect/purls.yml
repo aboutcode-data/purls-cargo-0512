@@ -34,6 +34,7 @@
 - pkg:cargo/aws-sdk-qconnect@1.128.0
 - pkg:cargo/aws-sdk-qconnect@1.129.0
 - pkg:cargo/aws-sdk-qconnect@1.13.0
+- pkg:cargo/aws-sdk-qconnect@1.130.0
 - pkg:cargo/aws-sdk-qconnect@1.14.0
 - pkg:cargo/aws-sdk-qconnect@1.15.0
 - pkg:cargo/aws-sdk-qconnect@1.16.0
