@@ -2,3 +2,4 @@
 - pkg:cargo/basecamp-sdk@0.19.0
 - pkg:cargo/basecamp-sdk@0.20.0
 - pkg:cargo/basecamp-sdk@0.21.0
+- pkg:cargo/basecamp-sdk@0.22.0
