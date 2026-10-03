@@ -1,2 +1,4 @@
 - pkg:cargo/mdv-minus@5.7.2
 - pkg:cargo/mdv-minus@5.7.3
+- pkg:cargo/mdv-minus@6.0.0
+- pkg:cargo/mdv-minus@6.0.1
