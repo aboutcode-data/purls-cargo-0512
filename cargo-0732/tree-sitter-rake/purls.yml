@@ -1,3 +1,4 @@
 - pkg:cargo/tree-sitter-rake@0.4.0-beta
 - pkg:cargo/tree-sitter-rake@0.5.0-beta
 - pkg:cargo/tree-sitter-rake@0.5.0-beta.1
+- pkg:cargo/tree-sitter-rake@0.6.0-beta
