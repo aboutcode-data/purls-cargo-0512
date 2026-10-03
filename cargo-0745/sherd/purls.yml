@@ -2,3 +2,4 @@
 - pkg:cargo/sherd@0.5.0-rc.1
 - pkg:cargo/sherd@0.5.1
 - pkg:cargo/sherd@0.5.2
+- pkg:cargo/sherd@0.5.3
