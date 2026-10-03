@@ -182,3 +182,5 @@
 - pkg:cargo/docling-rag@1.9.2
 - pkg:cargo/docling-rag@1.9.3
 - pkg:cargo/docling-rag@1.90.0
+- pkg:cargo/docling-rag@1.90.1
+- pkg:cargo/docling-rag@1.90.2
