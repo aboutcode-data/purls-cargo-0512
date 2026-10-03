@@ -29,6 +29,7 @@
 - pkg:cargo/trustee-api@0.19.1
 - pkg:cargo/trustee-api@0.19.11
 - pkg:cargo/trustee-api@0.19.12
+- pkg:cargo/trustee-api@0.19.13
 - pkg:cargo/trustee-api@0.19.2
 - pkg:cargo/trustee-api@0.19.3
 - pkg:cargo/trustee-api@0.19.4
