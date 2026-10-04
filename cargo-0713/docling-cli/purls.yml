@@ -206,3 +206,14 @@
 - pkg:cargo/docling-cli@1.90.1
 - pkg:cargo/docling-cli@1.90.2
 - pkg:cargo/docling-cli@1.91.0
+- pkg:cargo/docling-cli@1.91.1
+- pkg:cargo/docling-cli@1.91.2
+- pkg:cargo/docling-cli@1.91.3
+- pkg:cargo/docling-cli@1.92.0
+- pkg:cargo/docling-cli@1.92.1
+- pkg:cargo/docling-cli@1.93.0
+- pkg:cargo/docling-cli@1.93.1
+- pkg:cargo/docling-cli@1.93.2
+- pkg:cargo/docling-cli@1.93.3
+- pkg:cargo/docling-cli@1.93.4
+- pkg:cargo/docling-cli@1.93.5
