@@ -205,3 +205,4 @@
 - pkg:cargo/docling-cli@1.90.0
 - pkg:cargo/docling-cli@1.90.1
 - pkg:cargo/docling-cli@1.90.2
+- pkg:cargo/docling-cli@1.91.0
