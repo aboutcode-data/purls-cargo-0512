@@ -6,3 +6,4 @@
 - pkg:cargo/jsonld-cli@0.23.3
 - pkg:cargo/jsonld-cli@0.23.4
 - pkg:cargo/jsonld-cli@0.23.5
+- pkg:cargo/jsonld-cli@0.23.6
