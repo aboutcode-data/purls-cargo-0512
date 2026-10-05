@@ -5,3 +5,4 @@
 - pkg:cargo/kaspa-wrpc-client@0.0.4
 - pkg:cargo/kaspa-wrpc-client@0.13.4
 - pkg:cargo/kaspa-wrpc-client@0.15.0
+- pkg:cargo/kaspa-wrpc-client@2.1.0
