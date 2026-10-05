@@ -21,6 +21,7 @@
 - pkg:cargo/docxide-pdf@0.18.0
 - pkg:cargo/docxide-pdf@0.18.1
 - pkg:cargo/docxide-pdf@0.18.2
+- pkg:cargo/docxide-pdf@0.18.3
 - pkg:cargo/docxide-pdf@0.6.0
 - pkg:cargo/docxide-pdf@0.7.0
 - pkg:cargo/docxide-pdf@0.7.1
