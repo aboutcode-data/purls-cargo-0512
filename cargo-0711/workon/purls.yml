@@ -26,6 +26,7 @@
 - pkg:cargo/workon@0.24.1
 - pkg:cargo/workon@0.24.2
 - pkg:cargo/workon@0.24.3
+- pkg:cargo/workon@0.24.4
 - pkg:cargo/workon@0.5.1
 - pkg:cargo/workon@0.6.0
 - pkg:cargo/workon@0.7.0
