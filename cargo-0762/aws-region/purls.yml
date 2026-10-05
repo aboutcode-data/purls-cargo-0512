@@ -20,3 +20,4 @@
 - pkg:cargo/aws-region@0.27.0
 - pkg:cargo/aws-region@0.28.0
 - pkg:cargo/aws-region@0.28.1
+- pkg:cargo/aws-region@0.29.0
