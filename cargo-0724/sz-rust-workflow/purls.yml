@@ -1,3 +1,4 @@
 - pkg:cargo/sz-rust-workflow@1.2.0
 - pkg:cargo/sz-rust-workflow@1.4.0
 - pkg:cargo/sz-rust-workflow@1.6.0
+- pkg:cargo/sz-rust-workflow@1.7.0
