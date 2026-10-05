@@ -18,3 +18,5 @@
 - pkg:cargo/vortix@0.5.0
 - pkg:cargo/vortix@0.5.1
 - pkg:cargo/vortix@0.5.2
+- pkg:cargo/vortix@0.5.3
+- pkg:cargo/vortix@0.5.4
