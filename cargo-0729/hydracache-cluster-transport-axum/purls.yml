@@ -52,3 +52,4 @@
 - pkg:cargo/hydracache-cluster-transport-axum@0.70.0
 - pkg:cargo/hydracache-cluster-transport-axum@0.71.0
 - pkg:cargo/hydracache-cluster-transport-axum@0.72.0
+- pkg:cargo/hydracache-cluster-transport-axum@0.73.0
