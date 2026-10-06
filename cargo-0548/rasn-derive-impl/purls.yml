@@ -35,3 +35,4 @@
 - pkg:cargo/rasn-derive-impl@0.28.7
 - pkg:cargo/rasn-derive-impl@0.28.8
 - pkg:cargo/rasn-derive-impl@0.28.9
+- pkg:cargo/rasn-derive-impl@0.29.0
