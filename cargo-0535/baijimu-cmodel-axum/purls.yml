@@ -11,6 +11,7 @@
 - pkg:cargo/baijimu-cmodel-axum@1.4.0
 - pkg:cargo/baijimu-cmodel-axum@1.5.0
 - pkg:cargo/baijimu-cmodel-axum@1.6.0
+- pkg:cargo/baijimu-cmodel-axum@10.0.0
 - pkg:cargo/baijimu-cmodel-axum@2.0.0
 - pkg:cargo/baijimu-cmodel-axum@2.1.0
 - pkg:cargo/baijimu-cmodel-axum@2.1.1
