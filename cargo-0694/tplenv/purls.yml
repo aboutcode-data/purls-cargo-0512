@@ -1,3 +1,4 @@
+- pkg:cargo/tplenv@0.11.0
 - pkg:cargo/tplenv@0.3.0
 - pkg:cargo/tplenv@0.4.0
 - pkg:cargo/tplenv@0.5.0
