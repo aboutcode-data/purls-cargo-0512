@@ -1,6 +1,7 @@
 - pkg:cargo/mdwire-core@0.1.10
 - pkg:cargo/mdwire-core@0.1.11
 - pkg:cargo/mdwire-core@0.1.12
+- pkg:cargo/mdwire-core@0.1.13
 - pkg:cargo/mdwire-core@0.1.3
 - pkg:cargo/mdwire-core@0.1.4
 - pkg:cargo/mdwire-core@0.1.5
