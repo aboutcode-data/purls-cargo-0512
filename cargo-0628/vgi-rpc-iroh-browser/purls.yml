@@ -14,3 +14,4 @@
 - pkg:cargo/vgi-rpc-iroh-browser@0.28.1
 - pkg:cargo/vgi-rpc-iroh-browser@0.28.2
 - pkg:cargo/vgi-rpc-iroh-browser@0.29.0
+- pkg:cargo/vgi-rpc-iroh-browser@0.30.0
