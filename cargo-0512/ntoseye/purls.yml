@@ -49,6 +49,7 @@
 - pkg:cargo/ntoseye@0.44.0
 - pkg:cargo/ntoseye@0.45.0
 - pkg:cargo/ntoseye@0.46.0
+- pkg:cargo/ntoseye@0.47.0
 - pkg:cargo/ntoseye@0.5.0
 - pkg:cargo/ntoseye@0.6.0
 - pkg:cargo/ntoseye@0.6.1
