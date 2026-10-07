@@ -1,2 +1,4 @@
+- pkg:cargo/bagger@0.1.0-beta.10
+- pkg:cargo/bagger@0.1.0-beta.11
 - pkg:cargo/bagger@0.1.0-beta.8
 - pkg:cargo/bagger@0.1.0-beta.9
