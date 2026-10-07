@@ -12,6 +12,7 @@
 - pkg:cargo/lingxia-terminal@0.19.1
 - pkg:cargo/lingxia-terminal@0.20.0
 - pkg:cargo/lingxia-terminal@0.20.1
+- pkg:cargo/lingxia-terminal@0.21.0
 - pkg:cargo/lingxia-terminal@0.6.3
 - pkg:cargo/lingxia-terminal@0.6.4
 - pkg:cargo/lingxia-terminal@0.6.5
