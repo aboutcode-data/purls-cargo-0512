@@ -22,3 +22,6 @@
 - pkg:cargo/linkrpc@0.3.0-next.20260926.6
 - pkg:cargo/linkrpc@0.3.0-next.20260926.7
 - pkg:cargo/linkrpc@0.3.0-next.20260927.1
+- pkg:cargo/linkrpc@0.3.0-next.20261006.1
+- pkg:cargo/linkrpc@0.3.0-next.20261006.2
+- pkg:cargo/linkrpc@0.3.0-next.20261006.3
