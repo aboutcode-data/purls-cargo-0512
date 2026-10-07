@@ -1,5 +1,6 @@
 - pkg:cargo/zincio-http@0.0.0%2Bplaceholder
 - pkg:cargo/zincio-http@0.4.10
+- pkg:cargo/zincio-http@0.4.11
 - pkg:cargo/zincio-http@0.4.2
 - pkg:cargo/zincio-http@0.4.3
 - pkg:cargo/zincio-http@0.4.4
