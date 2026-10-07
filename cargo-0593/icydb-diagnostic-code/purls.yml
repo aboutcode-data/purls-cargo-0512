@@ -410,6 +410,7 @@
 - pkg:cargo/icydb-diagnostic-code@0.261.9
 - pkg:cargo/icydb-diagnostic-code@0.262.2
 - pkg:cargo/icydb-diagnostic-code@0.264.1
+- pkg:cargo/icydb-diagnostic-code@0.264.10
 - pkg:cargo/icydb-diagnostic-code@0.264.2
 - pkg:cargo/icydb-diagnostic-code@0.264.3
 - pkg:cargo/icydb-diagnostic-code@0.264.4
@@ -418,3 +419,5 @@
 - pkg:cargo/icydb-diagnostic-code@0.264.7
 - pkg:cargo/icydb-diagnostic-code@0.264.8
 - pkg:cargo/icydb-diagnostic-code@0.264.9
+- pkg:cargo/icydb-diagnostic-code@0.265.1
+- pkg:cargo/icydb-diagnostic-code@0.266.0
