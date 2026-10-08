@@ -20,3 +20,4 @@
 - pkg:cargo/sz-orm-queue@8.7.0
 - pkg:cargo/sz-orm-queue@8.8.0
 - pkg:cargo/sz-orm-queue@9.0.0
+- pkg:cargo/sz-orm-queue@9.4.0
