@@ -20,6 +20,9 @@
 - pkg:cargo/taskcluster@109.0.0
 - pkg:cargo/taskcluster@110.0.0
 - pkg:cargo/taskcluster@110.1.0
+- pkg:cargo/taskcluster@111.0.0
+- pkg:cargo/taskcluster@112.0.0
+- pkg:cargo/taskcluster@113.0.0
 - pkg:cargo/taskcluster@40.0.3
 - pkg:cargo/taskcluster@41.0.0
 - pkg:cargo/taskcluster@41.0.1
