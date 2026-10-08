@@ -23,8 +23,11 @@
 - pkg:cargo/pallet-xcm-benchmarks@25.0.0
 - pkg:cargo/pallet-xcm-benchmarks@26.0.0
 - pkg:cargo/pallet-xcm-benchmarks@27.0.0
+- pkg:cargo/pallet-xcm-benchmarks@28.0.0
+- pkg:cargo/pallet-xcm-benchmarks@29.0.0
 - pkg:cargo/pallet-xcm-benchmarks@3.0.0
 - pkg:cargo/pallet-xcm-benchmarks@3.0.0-dev.1
+- pkg:cargo/pallet-xcm-benchmarks@30.0.0
 - pkg:cargo/pallet-xcm-benchmarks@4.0.0
 - pkg:cargo/pallet-xcm-benchmarks@4.0.1
 - pkg:cargo/pallet-xcm-benchmarks@5.0.0

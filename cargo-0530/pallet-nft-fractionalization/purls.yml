@@ -25,6 +25,10 @@
 - pkg:cargo/pallet-nft-fractionalization@29.0.0
 - pkg:cargo/pallet-nft-fractionalization@30.0.0
 - pkg:cargo/pallet-nft-fractionalization@31.0.0
+- pkg:cargo/pallet-nft-fractionalization@32.0.0
+- pkg:cargo/pallet-nft-fractionalization@33.0.0
+- pkg:cargo/pallet-nft-fractionalization@34.0.0
+- pkg:cargo/pallet-nft-fractionalization@35.0.0
 - pkg:cargo/pallet-nft-fractionalization@4.0.0
 - pkg:cargo/pallet-nft-fractionalization@5.0.0
 - pkg:cargo/pallet-nft-fractionalization@6.0.0
