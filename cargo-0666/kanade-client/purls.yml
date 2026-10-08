@@ -187,3 +187,6 @@
 - pkg:cargo/kanade-client@0.63.2
 - pkg:cargo/kanade-client@0.63.3
 - pkg:cargo/kanade-client@0.63.4
+- pkg:cargo/kanade-client@0.64.0
+- pkg:cargo/kanade-client@0.64.1
+- pkg:cargo/kanade-client@0.64.2

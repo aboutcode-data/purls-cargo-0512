@@ -246,6 +246,9 @@
 - pkg:cargo/kanade@0.63.2
 - pkg:cargo/kanade@0.63.3
 - pkg:cargo/kanade@0.63.4
+- pkg:cargo/kanade@0.64.0
+- pkg:cargo/kanade@0.64.1
+- pkg:cargo/kanade@0.64.2
 - pkg:cargo/kanade@0.7.0
 - pkg:cargo/kanade@0.7.1
 - pkg:cargo/kanade@0.8.0
