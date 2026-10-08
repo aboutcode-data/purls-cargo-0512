@@ -220,3 +220,10 @@
 - pkg:cargo/docling-rag@1.99.1
 - pkg:cargo/docling-rag@1.99.2
 - pkg:cargo/docling-rag@2.0.0
+- pkg:cargo/docling-rag@2.1.0
+- pkg:cargo/docling-rag@2.2.0
+- pkg:cargo/docling-rag@2.2.1
+- pkg:cargo/docling-rag@2.2.2
+- pkg:cargo/docling-rag@2.2.3
+- pkg:cargo/docling-rag@2.2.4
+- pkg:cargo/docling-rag@2.3.0
