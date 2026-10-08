@@ -1,2 +1,3 @@
 - pkg:cargo/arun-envdoctor@0.1.2
 - pkg:cargo/arun-envdoctor@0.1.3
+- pkg:cargo/arun-envdoctor@1.0.0
