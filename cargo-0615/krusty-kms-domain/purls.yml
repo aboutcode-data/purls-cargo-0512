@@ -2,6 +2,7 @@
 - pkg:cargo/krusty-kms-domain@0.11.0
 - pkg:cargo/krusty-kms-domain@0.12.0
 - pkg:cargo/krusty-kms-domain@0.12.1
+- pkg:cargo/krusty-kms-domain@0.13.0
 - pkg:cargo/krusty-kms-domain@0.4.2
 - pkg:cargo/krusty-kms-domain@0.4.3
 - pkg:cargo/krusty-kms-domain@0.4.4
