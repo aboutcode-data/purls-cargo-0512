@@ -44,7 +44,10 @@
 - pkg:cargo/pallet-asset-tx-payment@45.0.0
 - pkg:cargo/pallet-asset-tx-payment@46.0.0
 - pkg:cargo/pallet-asset-tx-payment@47.0.0
+- pkg:cargo/pallet-asset-tx-payment@48.0.0
+- pkg:cargo/pallet-asset-tx-payment@49.0.0
 - pkg:cargo/pallet-asset-tx-payment@5.0.0
+- pkg:cargo/pallet-asset-tx-payment@50.0.0
 - pkg:cargo/pallet-asset-tx-payment@6.0.0
 - pkg:cargo/pallet-asset-tx-payment@7.0.0
 - pkg:cargo/pallet-asset-tx-payment@8.0.0
