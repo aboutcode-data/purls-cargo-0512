@@ -86,11 +86,17 @@
 - pkg:cargo/parquet_derive@58.1.0
 - pkg:cargo/parquet_derive@58.2.0
 - pkg:cargo/parquet_derive@58.3.0
+- pkg:cargo/parquet_derive@58.4.0
+- pkg:cargo/parquet_derive@59.0.0
+- pkg:cargo/parquet_derive@59.1.0
+- pkg:cargo/parquet_derive@59.2.0
+- pkg:cargo/parquet_derive@59.3.0
 - pkg:cargo/parquet_derive@6.1.0
 - pkg:cargo/parquet_derive@6.2.0
 - pkg:cargo/parquet_derive@6.3.0
 - pkg:cargo/parquet_derive@6.4.0
 - pkg:cargo/parquet_derive@6.5.0
+- pkg:cargo/parquet_derive@60.0.0
 - pkg:cargo/parquet_derive@7.0.0
 - pkg:cargo/parquet_derive@8.0.0
 - pkg:cargo/parquet_derive@9.0.2

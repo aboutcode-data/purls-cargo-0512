@@ -7,3 +7,9 @@
 - pkg:cargo/parquet-variant-json@58.1.0
 - pkg:cargo/parquet-variant-json@58.2.0
 - pkg:cargo/parquet-variant-json@58.3.0
+- pkg:cargo/parquet-variant-json@58.4.0
+- pkg:cargo/parquet-variant-json@59.0.0
+- pkg:cargo/parquet-variant-json@59.1.0
+- pkg:cargo/parquet-variant-json@59.2.0
+- pkg:cargo/parquet-variant-json@59.3.0
+- pkg:cargo/parquet-variant-json@60.0.0

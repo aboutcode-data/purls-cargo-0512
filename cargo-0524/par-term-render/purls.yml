@@ -1,5 +1,11 @@
 - pkg:cargo/par-term-render@0.1.0
 - pkg:cargo/par-term-render@0.1.1
+- pkg:cargo/par-term-render@0.10.0
+- pkg:cargo/par-term-render@0.10.1
+- pkg:cargo/par-term-render@0.11.0
+- pkg:cargo/par-term-render@0.11.1
+- pkg:cargo/par-term-render@0.11.2
+- pkg:cargo/par-term-render@0.11.3
 - pkg:cargo/par-term-render@0.2.0
 - pkg:cargo/par-term-render@0.3.0
 - pkg:cargo/par-term-render@0.4.0
@@ -14,3 +20,10 @@
 - pkg:cargo/par-term-render@0.6.6
 - pkg:cargo/par-term-render@0.6.7
 - pkg:cargo/par-term-render@0.7.1
+- pkg:cargo/par-term-render@0.7.2
+- pkg:cargo/par-term-render@0.7.3
+- pkg:cargo/par-term-render@0.7.4
+- pkg:cargo/par-term-render@0.7.5
+- pkg:cargo/par-term-render@0.7.6
+- pkg:cargo/par-term-render@0.9.0
+- pkg:cargo/par-term-render@0.9.1
