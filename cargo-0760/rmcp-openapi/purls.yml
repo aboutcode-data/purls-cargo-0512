@@ -84,6 +84,7 @@
 - pkg:cargo/rmcp-openapi@0.31.4
 - pkg:cargo/rmcp-openapi@0.31.5
 - pkg:cargo/rmcp-openapi@0.31.6
+- pkg:cargo/rmcp-openapi@0.32.0
 - pkg:cargo/rmcp-openapi@0.5.1
 - pkg:cargo/rmcp-openapi@0.6.0
 - pkg:cargo/rmcp-openapi@0.6.1
