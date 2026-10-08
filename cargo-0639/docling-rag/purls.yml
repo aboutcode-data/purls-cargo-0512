@@ -55,6 +55,8 @@
 - pkg:cargo/docling-rag@1.103.0
 - pkg:cargo/docling-rag@1.104.0
 - pkg:cargo/docling-rag@1.104.1
+- pkg:cargo/docling-rag@1.104.2
+- pkg:cargo/docling-rag@1.104.3
 - pkg:cargo/docling-rag@1.11.0
 - pkg:cargo/docling-rag@1.11.1
 - pkg:cargo/docling-rag@1.11.2
@@ -217,3 +219,4 @@
 - pkg:cargo/docling-rag@1.99.0
 - pkg:cargo/docling-rag@1.99.1
 - pkg:cargo/docling-rag@1.99.2
+- pkg:cargo/docling-rag@2.0.0
