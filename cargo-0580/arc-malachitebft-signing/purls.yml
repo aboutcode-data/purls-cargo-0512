@@ -1,1 +1,2 @@
 - pkg:cargo/arc-malachitebft-signing@0.7.0-pre
+- pkg:cargo/arc-malachitebft-signing@0.8.1

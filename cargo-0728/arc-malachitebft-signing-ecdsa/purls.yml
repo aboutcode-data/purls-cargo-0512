@@ -1,1 +1,2 @@
 - pkg:cargo/arc-malachitebft-signing-ecdsa@0.7.0-pre
+- pkg:cargo/arc-malachitebft-signing-ecdsa@0.8.1
