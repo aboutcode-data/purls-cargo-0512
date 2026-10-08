@@ -20,3 +20,8 @@
 - pkg:cargo/ariacompute-agent@0.8.1
 - pkg:cargo/ariacompute-agent@0.9.0
 - pkg:cargo/ariacompute-agent@1.0.0
+- pkg:cargo/ariacompute-agent@1.1.1
+- pkg:cargo/ariacompute-agent@1.2.0
+- pkg:cargo/ariacompute-agent@1.3.0
+- pkg:cargo/ariacompute-agent@1.4.0
+- pkg:cargo/ariacompute-agent@1.4.1
