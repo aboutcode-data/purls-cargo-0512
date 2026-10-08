@@ -31,3 +31,5 @@
 - pkg:cargo/path-absolutize@3.0.9
 - pkg:cargo/path-absolutize@3.1.0
 - pkg:cargo/path-absolutize@3.1.1
+- pkg:cargo/path-absolutize@4.0.0
+- pkg:cargo/path-absolutize@4.0.1
