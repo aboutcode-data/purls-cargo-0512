@@ -57,6 +57,9 @@
 - pkg:cargo/pallet-timestamp@44.0.0
 - pkg:cargo/pallet-timestamp@45.0.0
 - pkg:cargo/pallet-timestamp@46.0.0
+- pkg:cargo/pallet-timestamp@47.0.0
+- pkg:cargo/pallet-timestamp@48.0.0
+- pkg:cargo/pallet-timestamp@49.0.0
 - pkg:cargo/pallet-timestamp@5.0.0
 - pkg:cargo/pallet-timestamp@6.0.0
 - pkg:cargo/pallet-timestamp@7.0.0
