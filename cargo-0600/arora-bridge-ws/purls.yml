@@ -4,3 +4,9 @@
 - pkg:cargo/arora-bridge-ws@3.1.0
 - pkg:cargo/arora-bridge-ws@3.1.1
 - pkg:cargo/arora-bridge-ws@4.0.0
+- pkg:cargo/arora-bridge-ws@5.0.0
+- pkg:cargo/arora-bridge-ws@6.0.0
+- pkg:cargo/arora-bridge-ws@7.0.0
+- pkg:cargo/arora-bridge-ws@7.1.0
+- pkg:cargo/arora-bridge-ws@7.2.0
+- pkg:cargo/arora-bridge-ws@7.2.1

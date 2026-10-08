@@ -12,3 +12,6 @@
 - pkg:cargo/arora-behavior@8.1.0
 - pkg:cargo/arora-behavior@8.3.0
 - pkg:cargo/arora-behavior@8.4.0
+- pkg:cargo/arora-behavior@8.5.0
+- pkg:cargo/arora-behavior@9.0.0
+- pkg:cargo/arora-behavior@9.1.0
