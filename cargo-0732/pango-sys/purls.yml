@@ -31,6 +31,7 @@
 - pkg:cargo/pango-sys@0.22.0-alpha.1
 - pkg:cargo/pango-sys@0.22.0-alpha.2
 - pkg:cargo/pango-sys@0.22.0-alpha.3
+- pkg:cargo/pango-sys@0.22.9
 - pkg:cargo/pango-sys@0.3.0
 - pkg:cargo/pango-sys@0.3.1
 - pkg:cargo/pango-sys@0.3.2
