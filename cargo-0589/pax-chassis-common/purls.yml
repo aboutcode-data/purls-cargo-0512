@@ -72,4 +72,5 @@
 - pkg:cargo/pax-chassis-common@0.38.1
 - pkg:cargo/pax-chassis-common@0.38.2
 - pkg:cargo/pax-chassis-common@0.38.3
+- pkg:cargo/pax-chassis-common@0.39.0
 - pkg:cargo/pax-chassis-common@0.8.0
