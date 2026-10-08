@@ -15,3 +15,5 @@
 - pkg:cargo/tablero@0.4.4
 - pkg:cargo/tablero@0.4.5
 - pkg:cargo/tablero@0.4.6
+- pkg:cargo/tablero@0.4.7
+- pkg:cargo/tablero@0.5.0
