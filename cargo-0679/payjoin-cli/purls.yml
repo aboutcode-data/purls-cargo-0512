@@ -9,3 +9,7 @@
 - pkg:cargo/payjoin-cli@0.0.9-alpha
 - pkg:cargo/payjoin-cli@0.1.0
 - pkg:cargo/payjoin-cli@0.2.0
+- pkg:cargo/payjoin-cli@1.0.0
+- pkg:cargo/payjoin-cli@1.0.0-rc.0
+- pkg:cargo/payjoin-cli@1.0.0-rc.1
+- pkg:cargo/payjoin-cli@1.0.0-rc.2
