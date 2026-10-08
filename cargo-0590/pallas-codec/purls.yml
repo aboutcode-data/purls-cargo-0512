@@ -56,6 +56,7 @@
 - pkg:cargo/pallas-codec@0.34.0
 - pkg:cargo/pallas-codec@0.35.0
 - pkg:cargo/pallas-codec@0.35.1
+- pkg:cargo/pallas-codec@0.36.0
 - pkg:cargo/pallas-codec@0.7.0
 - pkg:cargo/pallas-codec@0.7.0-alpha.0
 - pkg:cargo/pallas-codec@0.7.0-alpha.1
@@ -75,3 +76,8 @@
 - pkg:cargo/pallas-codec@1.0.0-alpha.4
 - pkg:cargo/pallas-codec@1.0.0-alpha.5
 - pkg:cargo/pallas-codec@1.0.0-alpha.6
+- pkg:cargo/pallas-codec@1.1.0
+- pkg:cargo/pallas-codec@1.1.1
+- pkg:cargo/pallas-codec@1.2.0
+- pkg:cargo/pallas-codec@1.3.0
+- pkg:cargo/pallas-codec@1.4.0

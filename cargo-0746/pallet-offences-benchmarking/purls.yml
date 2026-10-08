@@ -56,7 +56,10 @@
 - pkg:cargo/pallet-offences-benchmarking@45.0.0
 - pkg:cargo/pallet-offences-benchmarking@46.0.0
 - pkg:cargo/pallet-offences-benchmarking@47.0.0
+- pkg:cargo/pallet-offences-benchmarking@48.0.0
+- pkg:cargo/pallet-offences-benchmarking@49.0.0
 - pkg:cargo/pallet-offences-benchmarking@5.0.0
+- pkg:cargo/pallet-offences-benchmarking@50.0.0
 - pkg:cargo/pallet-offences-benchmarking@6.0.0
 - pkg:cargo/pallet-offences-benchmarking@7.0.0
 - pkg:cargo/pallet-offences-benchmarking@8.0.0

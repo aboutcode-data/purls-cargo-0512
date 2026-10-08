@@ -57,7 +57,10 @@
 - pkg:cargo/pallet-sudo@45.0.0
 - pkg:cargo/pallet-sudo@46.0.0
 - pkg:cargo/pallet-sudo@47.0.0
+- pkg:cargo/pallet-sudo@48.0.0
+- pkg:cargo/pallet-sudo@49.0.0
 - pkg:cargo/pallet-sudo@5.0.0
+- pkg:cargo/pallet-sudo@50.0.0
 - pkg:cargo/pallet-sudo@6.0.0
 - pkg:cargo/pallet-sudo@7.0.0
 - pkg:cargo/pallet-sudo@8.0.0
