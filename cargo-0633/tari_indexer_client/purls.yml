@@ -31,3 +31,6 @@
 - pkg:cargo/tari_indexer_client@0.40.0
 - pkg:cargo/tari_indexer_client@0.41.0
 - pkg:cargo/tari_indexer_client@0.42.0
+- pkg:cargo/tari_indexer_client@0.43.0
+- pkg:cargo/tari_indexer_client@0.44.0
+- pkg:cargo/tari_indexer_client@0.45.0
