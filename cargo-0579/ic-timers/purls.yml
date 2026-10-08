@@ -25,6 +25,13 @@
 - pkg:cargo/ic-timers@0.14.0
 - pkg:cargo/ic-timers@0.14.1
 - pkg:cargo/ic-timers@0.14.10
+- pkg:cargo/ic-timers@0.14.11
+- pkg:cargo/ic-timers@0.14.12
+- pkg:cargo/ic-timers@0.14.13
+- pkg:cargo/ic-timers@0.14.14
+- pkg:cargo/ic-timers@0.14.15
+- pkg:cargo/ic-timers@0.14.16
+- pkg:cargo/ic-timers@0.14.17
 - pkg:cargo/ic-timers@0.14.2
 - pkg:cargo/ic-timers@0.14.3
 - pkg:cargo/ic-timers@0.14.4
