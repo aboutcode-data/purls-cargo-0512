@@ -189,6 +189,7 @@
 - pkg:cargo/workmux@0.1.27
 - pkg:cargo/workmux@0.1.270
 - pkg:cargo/workmux@0.1.271
+- pkg:cargo/workmux@0.1.272
 - pkg:cargo/workmux@0.1.28
 - pkg:cargo/workmux@0.1.29
 - pkg:cargo/workmux@0.1.3
