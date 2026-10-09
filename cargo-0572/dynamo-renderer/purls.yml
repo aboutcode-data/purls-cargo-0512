@@ -39,3 +39,4 @@
 - pkg:cargo/dynamo-renderer@7.1.0
 - pkg:cargo/dynamo-renderer@7.1.1
 - pkg:cargo/dynamo-renderer@8.0.0
+- pkg:cargo/dynamo-renderer@8.0.1
