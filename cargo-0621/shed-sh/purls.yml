@@ -26,3 +26,4 @@
 - pkg:cargo/shed-sh@0.45.1
 - pkg:cargo/shed-sh@0.46.0
 - pkg:cargo/shed-sh@0.46.1
+- pkg:cargo/shed-sh@0.46.2
