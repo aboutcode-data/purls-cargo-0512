@@ -26,3 +26,4 @@
 - pkg:cargo/microsoft-webui-handler@0.0.7
 - pkg:cargo/microsoft-webui-handler@0.0.8
 - pkg:cargo/microsoft-webui-handler@0.0.9
+- pkg:cargo/microsoft-webui-handler@3.0.0
