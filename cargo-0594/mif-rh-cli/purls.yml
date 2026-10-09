@@ -1,3 +1,4 @@
+- pkg:cargo/mif-rh-cli@0.10.0
 - pkg:cargo/mif-rh-cli@0.2.0
 - pkg:cargo/mif-rh-cli@0.3.0
 - pkg:cargo/mif-rh-cli@0.3.1
