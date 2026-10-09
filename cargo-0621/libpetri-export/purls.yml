@@ -14,6 +14,7 @@
 - pkg:cargo/libpetri-export@1.8.4
 - pkg:cargo/libpetri-export@10.0.0
 - pkg:cargo/libpetri-export@10.1.0
+- pkg:cargo/libpetri-export@11.0.0
 - pkg:cargo/libpetri-export@2.0.0
 - pkg:cargo/libpetri-export@2.1.0
 - pkg:cargo/libpetri-export@2.3.0
