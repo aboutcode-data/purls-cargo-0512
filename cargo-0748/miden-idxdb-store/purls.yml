@@ -48,3 +48,4 @@
 - pkg:cargo/miden-idxdb-store@0.17.0-rc.4
 - pkg:cargo/miden-idxdb-store@0.17.0-rc.5
 - pkg:cargo/miden-idxdb-store@0.17.1
+- pkg:cargo/miden-idxdb-store@0.17.2
