@@ -227,3 +227,7 @@
 - pkg:cargo/docling-rag@2.2.3
 - pkg:cargo/docling-rag@2.2.4
 - pkg:cargo/docling-rag@2.3.0
+- pkg:cargo/docling-rag@2.4.0
+- pkg:cargo/docling-rag@2.5.0
+- pkg:cargo/docling-rag@2.5.1
+- pkg:cargo/docling-rag@2.6.0
