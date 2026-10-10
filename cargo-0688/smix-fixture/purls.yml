@@ -33,6 +33,7 @@
 - pkg:cargo/smix-fixture@12.1.0
 - pkg:cargo/smix-fixture@13.0.0
 - pkg:cargo/smix-fixture@13.1.0
+- pkg:cargo/smix-fixture@14.0.0
 - pkg:cargo/smix-fixture@2.0.0
 - pkg:cargo/smix-fixture@2.1.0
 - pkg:cargo/smix-fixture@2.2.0
