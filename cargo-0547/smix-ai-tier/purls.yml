@@ -3,6 +3,8 @@
 - pkg:cargo/smix-ai-tier@11.0.0
 - pkg:cargo/smix-ai-tier@12.0.0
 - pkg:cargo/smix-ai-tier@12.1.0
+- pkg:cargo/smix-ai-tier@13.0.0
+- pkg:cargo/smix-ai-tier@13.1.0
 - pkg:cargo/smix-ai-tier@2.0.0
 - pkg:cargo/smix-ai-tier@2.1.0
 - pkg:cargo/smix-ai-tier@2.2.0
