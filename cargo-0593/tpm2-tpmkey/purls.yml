@@ -57,3 +57,6 @@
 - pkg:cargo/tpm2-tpmkey@1.1.0
 - pkg:cargo/tpm2-tpmkey@1.1.1
 - pkg:cargo/tpm2-tpmkey@1.2.0
+- pkg:cargo/tpm2-tpmkey@1.2.1
+- pkg:cargo/tpm2-tpmkey@1.2.2
+- pkg:cargo/tpm2-tpmkey@1.2.3
