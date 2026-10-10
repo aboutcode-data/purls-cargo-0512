@@ -37,6 +37,7 @@
 - pkg:cargo/smix-selector-resolver@12.1.0
 - pkg:cargo/smix-selector-resolver@13.0.0
 - pkg:cargo/smix-selector-resolver@13.1.0
+- pkg:cargo/smix-selector-resolver@14.0.0
 - pkg:cargo/smix-selector-resolver@2.0.0
 - pkg:cargo/smix-selector-resolver@2.1.0
 - pkg:cargo/smix-selector-resolver@2.2.0

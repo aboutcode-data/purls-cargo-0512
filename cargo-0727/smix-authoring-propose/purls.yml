@@ -5,6 +5,7 @@
 - pkg:cargo/smix-authoring-propose@12.1.0
 - pkg:cargo/smix-authoring-propose@13.0.0
 - pkg:cargo/smix-authoring-propose@13.1.0
+- pkg:cargo/smix-authoring-propose@14.0.0
 - pkg:cargo/smix-authoring-propose@2.0.0
 - pkg:cargo/smix-authoring-propose@2.1.0
 - pkg:cargo/smix-authoring-propose@2.2.0

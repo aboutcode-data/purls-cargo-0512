@@ -37,6 +37,7 @@
 - pkg:cargo/smix-simctl@12.1.0
 - pkg:cargo/smix-simctl@13.0.0
 - pkg:cargo/smix-simctl@13.1.0
+- pkg:cargo/smix-simctl@14.0.0
 - pkg:cargo/smix-simctl@2.0.0
 - pkg:cargo/smix-simctl@2.1.0
 - pkg:cargo/smix-simctl@2.2.0
