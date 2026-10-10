@@ -1,3 +1,4 @@
 - pkg:cargo/backbeat_inspector@0.5.0-beta
 - pkg:cargo/backbeat_inspector@0.5.1
 - pkg:cargo/backbeat_inspector@1.0.0
+- pkg:cargo/backbeat_inspector@1.0.1
