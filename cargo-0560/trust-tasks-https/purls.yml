@@ -112,6 +112,7 @@
 - pkg:cargo/trust-tasks-https@0.27.6
 - pkg:cargo/trust-tasks-https@0.27.7
 - pkg:cargo/trust-tasks-https@0.27.8
+- pkg:cargo/trust-tasks-https@0.28.0
 - pkg:cargo/trust-tasks-https@0.3.0
 - pkg:cargo/trust-tasks-https@0.4.0
 - pkg:cargo/trust-tasks-https@0.5.0
