@@ -39,6 +39,7 @@
 - pkg:cargo/hjkl-picker@0.41.7
 - pkg:cargo/hjkl-picker@0.42.0
 - pkg:cargo/hjkl-picker@0.42.1
+- pkg:cargo/hjkl-picker@0.42.2
 - pkg:cargo/hjkl-picker@0.5.0
 - pkg:cargo/hjkl-picker@0.5.1
 - pkg:cargo/hjkl-picker@0.5.2
