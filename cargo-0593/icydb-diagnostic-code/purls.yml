@@ -427,3 +427,7 @@
 - pkg:cargo/icydb-diagnostic-code@0.267.3
 - pkg:cargo/icydb-diagnostic-code@0.267.4
 - pkg:cargo/icydb-diagnostic-code@0.268.0
+- pkg:cargo/icydb-diagnostic-code@0.269.0
+- pkg:cargo/icydb-diagnostic-code@0.269.1
+- pkg:cargo/icydb-diagnostic-code@0.270.0
+- pkg:cargo/icydb-diagnostic-code@0.270.1
