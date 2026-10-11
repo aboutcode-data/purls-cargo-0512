@@ -32,6 +32,7 @@
 - pkg:cargo/mlt-core@0.19.2
 - pkg:cargo/mlt-core@0.19.3
 - pkg:cargo/mlt-core@0.2.0
+- pkg:cargo/mlt-core@0.20.0
 - pkg:cargo/mlt-core@0.3.0
 - pkg:cargo/mlt-core@0.4.0
 - pkg:cargo/mlt-core@0.5.0
