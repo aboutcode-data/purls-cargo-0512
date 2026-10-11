@@ -280,9 +280,15 @@
 - pkg:cargo/ic-query@0.53.0
 - pkg:cargo/ic-query@0.54.0
 - pkg:cargo/ic-query@0.54.1
+- pkg:cargo/ic-query@0.54.10
 - pkg:cargo/ic-query@0.54.2
 - pkg:cargo/ic-query@0.54.3
 - pkg:cargo/ic-query@0.54.4
+- pkg:cargo/ic-query@0.54.5
+- pkg:cargo/ic-query@0.54.6
+- pkg:cargo/ic-query@0.54.7
+- pkg:cargo/ic-query@0.54.8
+- pkg:cargo/ic-query@0.54.9
 - pkg:cargo/ic-query@0.6.0
 - pkg:cargo/ic-query@0.6.1
 - pkg:cargo/ic-query@0.6.10
