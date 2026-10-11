@@ -54,3 +54,4 @@
 - pkg:cargo/zstd-safe@7.2.4
 - pkg:cargo/zstd-safe@7.3.0
 - pkg:cargo/zstd-safe@8.0.0
+- pkg:cargo/zstd-safe@8.1.0
