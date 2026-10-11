@@ -12,3 +12,4 @@
 - pkg:cargo/hyperspace-proto@3.1.5
 - pkg:cargo/hyperspace-proto@3.1.6
 - pkg:cargo/hyperspace-proto@3.1.7
+- pkg:cargo/hyperspace-proto@4.0.0
