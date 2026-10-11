@@ -20,6 +20,10 @@
 - pkg:cargo/liminal-server@0.2.3
 - pkg:cargo/liminal-server@0.2.4
 - pkg:cargo/liminal-server@0.2.5
+- pkg:cargo/liminal-server@0.20.0
+- pkg:cargo/liminal-server@0.20.1
+- pkg:cargo/liminal-server@0.20.2
+- pkg:cargo/liminal-server@0.20.3
 - pkg:cargo/liminal-server@0.3.0
 - pkg:cargo/liminal-server@0.3.1
 - pkg:cargo/liminal-server@0.3.2
