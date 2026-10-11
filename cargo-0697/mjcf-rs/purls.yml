@@ -7,3 +7,4 @@
 - pkg:cargo/mjcf-rs@0.35.2
 - pkg:cargo/mjcf-rs@0.35.3
 - pkg:cargo/mjcf-rs@0.36.0
+- pkg:cargo/mjcf-rs@0.36.1
