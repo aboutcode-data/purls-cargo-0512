@@ -6,6 +6,7 @@
 - pkg:cargo/nzb-nntp@0.2.22
 - pkg:cargo/nzb-nntp@0.2.23
 - pkg:cargo/nzb-nntp@0.2.24
+- pkg:cargo/nzb-nntp@0.2.26
 - pkg:cargo/nzb-nntp@0.2.3
 - pkg:cargo/nzb-nntp@0.2.4
 - pkg:cargo/nzb-nntp@0.2.6
