@@ -7,3 +7,4 @@
 - pkg:cargo/ntex-io-uring@0.7.8
 - pkg:cargo/ntex-io-uring@0.7.9
 - pkg:cargo/ntex-io-uring@0.8.7150
+- pkg:cargo/ntex-io-uring@1.0.0
