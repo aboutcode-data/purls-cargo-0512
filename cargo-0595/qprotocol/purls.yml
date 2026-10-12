@@ -1,3 +1,4 @@
 - pkg:cargo/qprotocol@0.5.1
 - pkg:cargo/qprotocol@0.6.0
 - pkg:cargo/qprotocol@0.6.1
+- pkg:cargo/qprotocol@0.7.0
