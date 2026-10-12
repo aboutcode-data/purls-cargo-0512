@@ -281,6 +281,11 @@
 - pkg:cargo/ic-query@0.54.0
 - pkg:cargo/ic-query@0.54.1
 - pkg:cargo/ic-query@0.54.10
+- pkg:cargo/ic-query@0.54.11
+- pkg:cargo/ic-query@0.54.12
+- pkg:cargo/ic-query@0.54.13
+- pkg:cargo/ic-query@0.54.14
+- pkg:cargo/ic-query@0.54.15
 - pkg:cargo/ic-query@0.54.2
 - pkg:cargo/ic-query@0.54.3
 - pkg:cargo/ic-query@0.54.4
