@@ -38,6 +38,8 @@
 - pkg:cargo/shopify-client@1.5.11
 - pkg:cargo/shopify-client@1.5.12
 - pkg:cargo/shopify-client@1.5.13
+- pkg:cargo/shopify-client@1.5.14
+- pkg:cargo/shopify-client@1.5.15
 - pkg:cargo/shopify-client@1.5.2
 - pkg:cargo/shopify-client@1.5.3
 - pkg:cargo/shopify-client@1.5.4
