@@ -69,6 +69,7 @@
 - pkg:cargo/tree-sitter-harn@0.10.161
 - pkg:cargo/tree-sitter-harn@0.10.162
 - pkg:cargo/tree-sitter-harn@0.10.163
+- pkg:cargo/tree-sitter-harn@0.10.165
 - pkg:cargo/tree-sitter-harn@0.10.17
 - pkg:cargo/tree-sitter-harn@0.10.18
 - pkg:cargo/tree-sitter-harn@0.10.19
