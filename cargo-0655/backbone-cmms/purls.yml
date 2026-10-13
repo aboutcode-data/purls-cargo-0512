@@ -1,3 +1,4 @@
+- pkg:cargo/backbone-cmms@0.10.0
 - pkg:cargo/backbone-cmms@0.7.22
 - pkg:cargo/backbone-cmms@0.7.23
 - pkg:cargo/backbone-cmms@0.7.24
@@ -5,3 +6,4 @@
 - pkg:cargo/backbone-cmms@0.8.1
 - pkg:cargo/backbone-cmms@0.8.2
 - pkg:cargo/backbone-cmms@0.8.3
+- pkg:cargo/backbone-cmms@0.9.0
