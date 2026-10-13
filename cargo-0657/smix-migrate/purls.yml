@@ -39,6 +39,7 @@
 - pkg:cargo/smix-migrate@14.1.1
 - pkg:cargo/smix-migrate@14.2.0
 - pkg:cargo/smix-migrate@15.0.0
+- pkg:cargo/smix-migrate@15.0.1
 - pkg:cargo/smix-migrate@2.0.0
 - pkg:cargo/smix-migrate@2.1.0
 - pkg:cargo/smix-migrate@2.2.0
