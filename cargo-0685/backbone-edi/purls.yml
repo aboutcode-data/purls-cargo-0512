@@ -1,4 +1,6 @@
 - pkg:cargo/backbone-edi@0.10.0
+- pkg:cargo/backbone-edi@0.11.0
+- pkg:cargo/backbone-edi@0.12.0
 - pkg:cargo/backbone-edi@0.7.21
 - pkg:cargo/backbone-edi@0.7.22
 - pkg:cargo/backbone-edi@0.8.0
