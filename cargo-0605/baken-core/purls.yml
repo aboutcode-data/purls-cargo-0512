@@ -21,3 +21,5 @@
 - pkg:cargo/baken-core@4.3.1
 - pkg:cargo/baken-core@4.4.0
 - pkg:cargo/baken-core@4.5.0
+- pkg:cargo/baken-core@4.6.0
+- pkg:cargo/baken-core@4.6.1
