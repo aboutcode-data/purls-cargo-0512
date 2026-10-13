@@ -15,3 +15,5 @@
 - pkg:cargo/backbone-bucket@0.4.9
 - pkg:cargo/backbone-bucket@0.5.0
 - pkg:cargo/backbone-bucket@0.6.0
+- pkg:cargo/backbone-bucket@0.7.0
+- pkg:cargo/backbone-bucket@0.8.0
