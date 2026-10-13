@@ -27,3 +27,4 @@
 - pkg:cargo/microsoft-webui-protocol@0.0.8
 - pkg:cargo/microsoft-webui-protocol@0.0.9
 - pkg:cargo/microsoft-webui-protocol@3.0.0
+- pkg:cargo/microsoft-webui-protocol@3.0.1
