@@ -12,3 +12,4 @@
 - pkg:cargo/backbone-observability@3.5.0
 - pkg:cargo/backbone-observability@3.6.0
 - pkg:cargo/backbone-observability@3.7.0
+- pkg:cargo/backbone-observability@3.7.1
