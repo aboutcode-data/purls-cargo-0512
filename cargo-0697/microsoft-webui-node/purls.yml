@@ -27,3 +27,4 @@
 - pkg:cargo/microsoft-webui-node@0.0.8
 - pkg:cargo/microsoft-webui-node@0.0.9
 - pkg:cargo/microsoft-webui-node@3.0.0
+- pkg:cargo/microsoft-webui-node@3.0.1
