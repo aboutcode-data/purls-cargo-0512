@@ -1,2 +1,3 @@
 - pkg:cargo/barcode-pao-wasm@0.0.1
 - pkg:cargo/barcode-pao-wasm@1.2.0
+- pkg:cargo/barcode-pao-wasm@1.2.1
