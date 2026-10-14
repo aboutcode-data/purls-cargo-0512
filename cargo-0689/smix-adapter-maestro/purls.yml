@@ -45,6 +45,7 @@
 - pkg:cargo/smix-adapter-maestro@15.0.1
 - pkg:cargo/smix-adapter-maestro@15.1.0
 - pkg:cargo/smix-adapter-maestro@16.0.0
+- pkg:cargo/smix-adapter-maestro@16.1.0
 - pkg:cargo/smix-adapter-maestro@2.0.0
 - pkg:cargo/smix-adapter-maestro@2.1.0
 - pkg:cargo/smix-adapter-maestro@2.2.0
