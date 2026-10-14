@@ -44,6 +44,7 @@
 - pkg:cargo/shep-client@0.12.4
 - pkg:cargo/shep-client@0.12.5
 - pkg:cargo/shep-client@0.13.0
+- pkg:cargo/shep-client@0.14.0
 - pkg:cargo/shep-client@0.2.0
 - pkg:cargo/shep-client@0.2.2
 - pkg:cargo/shep-client@0.2.3
