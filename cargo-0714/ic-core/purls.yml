@@ -27,3 +27,4 @@
 - pkg:cargo/ic-core@0.2.7
 - pkg:cargo/ic-core@0.2.8
 - pkg:cargo/ic-core@0.2.9
+- pkg:cargo/ic-core@0.3.0
