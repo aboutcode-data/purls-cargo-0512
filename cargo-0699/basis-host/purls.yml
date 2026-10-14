@@ -11,3 +11,4 @@
 - pkg:cargo/basis-host@0.16.1
 - pkg:cargo/basis-host@0.16.2
 - pkg:cargo/basis-host@0.17.0
+- pkg:cargo/basis-host@0.18.0
