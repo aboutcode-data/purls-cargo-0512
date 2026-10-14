@@ -16,6 +16,8 @@
 - pkg:cargo/lific@2.0.0
 - pkg:cargo/lific@2.1.0
 - pkg:cargo/lific@2.10.0
+- pkg:cargo/lific@2.11.0
+- pkg:cargo/lific@2.11.1
 - pkg:cargo/lific@2.2.0
 - pkg:cargo/lific@2.2.1
 - pkg:cargo/lific@2.3.0
