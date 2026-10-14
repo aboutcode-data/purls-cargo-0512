@@ -19,3 +19,4 @@
 - pkg:cargo/miden-benchmark@0.17.3
 - pkg:cargo/miden-benchmark@0.17.4
 - pkg:cargo/miden-benchmark@0.17.5
+- pkg:cargo/miden-benchmark@0.17.6
