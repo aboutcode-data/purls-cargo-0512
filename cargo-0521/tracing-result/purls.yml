@@ -2,3 +2,4 @@
 - pkg:cargo/tracing-result@0.0.1
 - pkg:cargo/tracing-result@0.0.2
 - pkg:cargo/tracing-result@0.0.3
+- pkg:cargo/tracing-result@0.1.0
