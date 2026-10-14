@@ -253,11 +253,15 @@
 - pkg:cargo/docling-cli@2.17.0
 - pkg:cargo/docling-cli@2.18.0
 - pkg:cargo/docling-cli@2.18.1
+- pkg:cargo/docling-cli@2.19.0
 - pkg:cargo/docling-cli@2.2.0
 - pkg:cargo/docling-cli@2.2.1
 - pkg:cargo/docling-cli@2.2.2
 - pkg:cargo/docling-cli@2.2.3
 - pkg:cargo/docling-cli@2.2.4
+- pkg:cargo/docling-cli@2.20.0
+- pkg:cargo/docling-cli@2.21.0
+- pkg:cargo/docling-cli@2.22.0
 - pkg:cargo/docling-cli@2.3.0
 - pkg:cargo/docling-cli@2.4.0
 - pkg:cargo/docling-cli@2.5.0
