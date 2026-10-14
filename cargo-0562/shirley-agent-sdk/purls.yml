@@ -1,3 +1,4 @@
 - pkg:cargo/shirley-agent-sdk@0.0.1
 - pkg:cargo/shirley-agent-sdk@0.0.1-alpha
+- pkg:cargo/shirley-agent-sdk@0.0.2
 - pkg:cargo/shirley-agent-sdk@0.0.2-alpha
