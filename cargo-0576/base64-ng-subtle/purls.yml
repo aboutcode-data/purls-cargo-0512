@@ -16,3 +16,4 @@
 - pkg:cargo/base64-ng-subtle@2.0.1
 - pkg:cargo/base64-ng-subtle@2.0.2
 - pkg:cargo/base64-ng-subtle@2.0.3
+- pkg:cargo/base64-ng-subtle@2.1.0
