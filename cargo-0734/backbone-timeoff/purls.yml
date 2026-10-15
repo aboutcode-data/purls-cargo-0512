@@ -1,4 +1,5 @@
 - pkg:cargo/backbone-timeoff@0.10.0
+- pkg:cargo/backbone-timeoff@0.11.0
 - pkg:cargo/backbone-timeoff@0.4.33
 - pkg:cargo/backbone-timeoff@0.4.34
 - pkg:cargo/backbone-timeoff@0.4.35

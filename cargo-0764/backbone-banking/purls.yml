@@ -1,5 +1,6 @@
 - pkg:cargo/backbone-banking@0.10.0
 - pkg:cargo/backbone-banking@0.11.0
+- pkg:cargo/backbone-banking@0.12.0
 - pkg:cargo/backbone-banking@0.6.23
 - pkg:cargo/backbone-banking@0.7.0
 - pkg:cargo/backbone-banking@0.7.1
