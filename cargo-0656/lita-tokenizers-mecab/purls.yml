@@ -1,1 +1,2 @@
 - pkg:cargo/lita-tokenizers-mecab@0.1.0
+- pkg:cargo/lita-tokenizers-mecab@0.1.1
