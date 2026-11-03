@@ -7,3 +7,6 @@
 - pkg:cargo/dpp-tool@0.5.1
 - pkg:cargo/dpp-tool@0.5.2
 - pkg:cargo/dpp-tool@0.5.3
+- pkg:cargo/dpp-tool@0.5.4
+- pkg:cargo/dpp-tool@0.6.0
+- pkg:cargo/dpp-tool@0.6.1
