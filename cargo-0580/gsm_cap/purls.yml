@@ -1,3 +1,6 @@
 - pkg:cargo/gsm_cap@1.0.0
 - pkg:cargo/gsm_cap@1.1.0
 - pkg:cargo/gsm_cap@1.2.0
+- pkg:cargo/gsm_cap@2.0.0
+- pkg:cargo/gsm_cap@3.0.0
+- pkg:cargo/gsm_cap@4.0.0

@@ -1,2 +1,5 @@
 - pkg:cargo/gsm_map@1.0.0
 - pkg:cargo/gsm_map@1.1.0
+- pkg:cargo/gsm_map@2.0.0
+- pkg:cargo/gsm_map@3.0.0
+- pkg:cargo/gsm_map@4.0.0
