@@ -12,3 +12,4 @@
 - pkg:cargo/timelib@0.3.6
 - pkg:cargo/timelib@0.3.7
 - pkg:cargo/timelib@0.3.8
+- pkg:cargo/timelib@0.3.9
