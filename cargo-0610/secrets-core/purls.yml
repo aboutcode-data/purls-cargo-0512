@@ -1,1 +1,6 @@
 - pkg:cargo/secrets-core@0.1.0
+- pkg:cargo/secrets-core@0.1.1
+- pkg:cargo/secrets-core@1.0.0
+- pkg:cargo/secrets-core@1.1.0
+- pkg:cargo/secrets-core@1.2.0
+- pkg:cargo/secrets-core@1.3.0

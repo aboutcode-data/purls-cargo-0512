@@ -53,3 +53,11 @@
 - pkg:cargo/secret-vault@1.8.0
 - pkg:cargo/secret-vault@1.9.0
 - pkg:cargo/secret-vault@2.0.0
+- pkg:cargo/secret-vault@2.1.0
+- pkg:cargo/secret-vault@2.2.0
+- pkg:cargo/secret-vault@2.2.1
+- pkg:cargo/secret-vault@3.0.0
+- pkg:cargo/secret-vault@3.0.1
+- pkg:cargo/secret-vault@3.0.2
+- pkg:cargo/secret-vault@3.1.0
+- pkg:cargo/secret-vault@3.2.0
