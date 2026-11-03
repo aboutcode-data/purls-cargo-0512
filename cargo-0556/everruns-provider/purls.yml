@@ -24,3 +24,11 @@
 - pkg:cargo/everruns-provider@0.28.0
 - pkg:cargo/everruns-provider@0.29.0
 - pkg:cargo/everruns-provider@0.30.0
+- pkg:cargo/everruns-provider@0.31.0
+- pkg:cargo/everruns-provider@0.32.0
+- pkg:cargo/everruns-provider@0.33.0
+- pkg:cargo/everruns-provider@0.34.1
+- pkg:cargo/everruns-provider@0.34.2
+- pkg:cargo/everruns-provider@0.35.0
+- pkg:cargo/everruns-provider@0.36.0
+- pkg:cargo/everruns-provider@0.37.0
