@@ -45,7 +45,15 @@
 - pkg:cargo/asciidoc-parser@0.29.10
 - pkg:cargo/asciidoc-parser@0.29.11
 - pkg:cargo/asciidoc-parser@0.29.12
+- pkg:cargo/asciidoc-parser@0.29.13
+- pkg:cargo/asciidoc-parser@0.29.14
+- pkg:cargo/asciidoc-parser@0.29.15
+- pkg:cargo/asciidoc-parser@0.29.16
+- pkg:cargo/asciidoc-parser@0.29.17
+- pkg:cargo/asciidoc-parser@0.29.18
+- pkg:cargo/asciidoc-parser@0.29.19
 - pkg:cargo/asciidoc-parser@0.29.2
+- pkg:cargo/asciidoc-parser@0.29.20
 - pkg:cargo/asciidoc-parser@0.29.3
 - pkg:cargo/asciidoc-parser@0.29.4
 - pkg:cargo/asciidoc-parser@0.29.5
@@ -55,6 +63,10 @@
 - pkg:cargo/asciidoc-parser@0.29.9
 - pkg:cargo/asciidoc-parser@0.3.0
 - pkg:cargo/asciidoc-parser@0.3.1
+- pkg:cargo/asciidoc-parser@0.30.0
+- pkg:cargo/asciidoc-parser@0.31.0
+- pkg:cargo/asciidoc-parser@0.31.1
+- pkg:cargo/asciidoc-parser@0.31.2
 - pkg:cargo/asciidoc-parser@0.4.0
 - pkg:cargo/asciidoc-parser@0.5.0
 - pkg:cargo/asciidoc-parser@0.6.0
