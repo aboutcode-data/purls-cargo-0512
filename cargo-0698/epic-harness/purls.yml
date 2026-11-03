@@ -44,4 +44,11 @@
 - pkg:cargo/epic-harness@0.7.0
 - pkg:cargo/epic-harness@0.8.0
 - pkg:cargo/epic-harness@0.8.1
+- pkg:cargo/epic-harness@0.8.10
+- pkg:cargo/epic-harness@0.8.12
 - pkg:cargo/epic-harness@0.8.2
+- pkg:cargo/epic-harness@0.8.5
+- pkg:cargo/epic-harness@0.8.6
+- pkg:cargo/epic-harness@0.8.7
+- pkg:cargo/epic-harness@0.8.8
+- pkg:cargo/epic-harness@0.8.9
