@@ -20,7 +20,16 @@
 - pkg:cargo/sensor-core@1.12.24
 - pkg:cargo/sensor-core@1.12.25
 - pkg:cargo/sensor-core@1.12.26
+- pkg:cargo/sensor-core@1.12.27
+- pkg:cargo/sensor-core@1.12.28
+- pkg:cargo/sensor-core@1.12.29
 - pkg:cargo/sensor-core@1.12.3
+- pkg:cargo/sensor-core@1.12.30
+- pkg:cargo/sensor-core@1.12.32
+- pkg:cargo/sensor-core@1.12.33
+- pkg:cargo/sensor-core@1.12.34
+- pkg:cargo/sensor-core@1.12.35
+- pkg:cargo/sensor-core@1.12.36
 - pkg:cargo/sensor-core@1.12.4
 - pkg:cargo/sensor-core@1.12.5
 - pkg:cargo/sensor-core@1.12.6
