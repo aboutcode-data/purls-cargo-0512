@@ -7,6 +7,7 @@
 - pkg:cargo/i8051-debug-tui@0.22.0
 - pkg:cargo/i8051-debug-tui@0.23.0
 - pkg:cargo/i8051-debug-tui@0.24.0
+- pkg:cargo/i8051-debug-tui@0.25.0
 - pkg:cargo/i8051-debug-tui@0.6.0
 - pkg:cargo/i8051-debug-tui@0.7.0
 - pkg:cargo/i8051-debug-tui@0.8.0
