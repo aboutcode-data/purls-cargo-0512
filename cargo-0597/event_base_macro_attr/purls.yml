@@ -4,3 +4,5 @@
 - pkg:cargo/event_base_macro_attr@0.3.0
 - pkg:cargo/event_base_macro_attr@0.3.1
 - pkg:cargo/event_base_macro_attr@0.3.2
+- pkg:cargo/event_base_macro_attr@0.3.3
+- pkg:cargo/event_base_macro_attr@0.3.4

@@ -138,3 +138,13 @@
 - pkg:cargo/event-store-adapter-rs@3.0.0
 - pkg:cargo/event-store-adapter-rs@3.0.1
 - pkg:cargo/event-store-adapter-rs@3.0.2
+- pkg:cargo/event-store-adapter-rs@3.0.3
+- pkg:cargo/event-store-adapter-rs@3.0.4
+- pkg:cargo/event-store-adapter-rs@3.0.5
+- pkg:cargo/event-store-adapter-rs@3.0.6
+- pkg:cargo/event-store-adapter-rs@5.0.0
+- pkg:cargo/event-store-adapter-rs@5.0.1
+- pkg:cargo/event-store-adapter-rs@5.0.2
+- pkg:cargo/event-store-adapter-rs@5.1.0
+- pkg:cargo/event-store-adapter-rs@5.1.1
+- pkg:cargo/event-store-adapter-rs@5.2.0
