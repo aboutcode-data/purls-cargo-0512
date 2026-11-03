@@ -1,4 +1,8 @@
 - pkg:cargo/kunobi-daemon@0.1.0
+- pkg:cargo/kunobi-daemon@0.10.0
+- pkg:cargo/kunobi-daemon@0.10.1
+- pkg:cargo/kunobi-daemon@0.10.2
+- pkg:cargo/kunobi-daemon@0.10.3
 - pkg:cargo/kunobi-daemon@0.2.0
 - pkg:cargo/kunobi-daemon@0.2.1
 - pkg:cargo/kunobi-daemon@0.3.0
