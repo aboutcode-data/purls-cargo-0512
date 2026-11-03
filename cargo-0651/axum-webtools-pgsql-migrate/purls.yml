@@ -30,3 +30,4 @@
 - pkg:cargo/axum-webtools-pgsql-migrate@0.1.60
 - pkg:cargo/axum-webtools-pgsql-migrate@0.1.61
 - pkg:cargo/axum-webtools-pgsql-migrate@0.1.62
+- pkg:cargo/axum-webtools-pgsql-migrate@0.1.63
