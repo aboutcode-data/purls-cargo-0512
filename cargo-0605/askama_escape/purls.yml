@@ -13,5 +13,6 @@
 - pkg:cargo/askama_escape@0.15.5
 - pkg:cargo/askama_escape@0.15.6
 - pkg:cargo/askama_escape@0.16.0
+- pkg:cargo/askama_escape@0.16.1
 - pkg:cargo/askama_escape@0.2.0
 - pkg:cargo/askama_escape@0.3.0
