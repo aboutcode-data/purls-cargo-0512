@@ -15,3 +15,7 @@
 - pkg:cargo/questdb-rs@5.1.0
 - pkg:cargo/questdb-rs@6.0.0
 - pkg:cargo/questdb-rs@6.1.0
+- pkg:cargo/questdb-rs@7.0.0
+- pkg:cargo/questdb-rs@7.1.0
+- pkg:cargo/questdb-rs@7.2.0
+- pkg:cargo/questdb-rs@7.2.1
