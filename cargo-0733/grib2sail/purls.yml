@@ -21,3 +21,4 @@
 - pkg:cargo/grib2sail@0.6.2-beta.1
 - pkg:cargo/grib2sail@0.7.0
 - pkg:cargo/grib2sail@0.7.1
+- pkg:cargo/grib2sail@0.7.2
