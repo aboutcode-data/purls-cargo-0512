@@ -117,3 +117,4 @@
 - pkg:cargo/ckb-network@1.2.1
 - pkg:cargo/ckb-network@1.2.2
 - pkg:cargo/ckb-network@1.2.3
+- pkg:cargo/ckb-network@1.2.4
