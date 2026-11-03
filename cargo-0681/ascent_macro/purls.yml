@@ -14,3 +14,4 @@
 - pkg:cargo/ascent_macro@0.7.0
 - pkg:cargo/ascent_macro@0.7.0-alpha
 - pkg:cargo/ascent_macro@0.8.0
+- pkg:cargo/ascent_macro@0.8.1
