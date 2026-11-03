@@ -31,3 +31,4 @@
 - pkg:cargo/livekit-protocol@0.7.9
 - pkg:cargo/livekit-protocol@0.8.0
 - pkg:cargo/livekit-protocol@0.8.1
+- pkg:cargo/livekit-protocol@0.8.2
