@@ -1,3 +1,6 @@
 - pkg:cargo/quotachecker-tui@0.2.0
 - pkg:cargo/quotachecker-tui@0.2.1
 - pkg:cargo/quotachecker-tui@0.3.0
+- pkg:cargo/quotachecker-tui@0.5.1
+- pkg:cargo/quotachecker-tui@0.5.2
+- pkg:cargo/quotachecker-tui@0.5.3
