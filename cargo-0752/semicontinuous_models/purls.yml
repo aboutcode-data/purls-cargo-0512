@@ -1,3 +1,6 @@
 - pkg:cargo/semicontinuous_models@0.1.0
 - pkg:cargo/semicontinuous_models@0.1.1
 - pkg:cargo/semicontinuous_models@0.2.0
+- pkg:cargo/semicontinuous_models@0.3.0
+- pkg:cargo/semicontinuous_models@0.3.2
+- pkg:cargo/semicontinuous_models@0.4.0
