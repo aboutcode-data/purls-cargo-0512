@@ -1,5 +1,6 @@
 - pkg:cargo/ling-gpu@2030.0.0
 - pkg:cargo/ling-gpu@2030.0.1
+- pkg:cargo/ling-gpu@2030.0.10
 - pkg:cargo/ling-gpu@2030.0.2
 - pkg:cargo/ling-gpu@2030.0.3
 - pkg:cargo/ling-gpu@2030.0.4
