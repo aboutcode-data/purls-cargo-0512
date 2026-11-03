@@ -1,0 +1,5 @@
+- pkg:cargo/dpcs-cli@0.10.0
+- pkg:cargo/dpcs-cli@0.11.0
+- pkg:cargo/dpcs-cli@0.12.0
+- pkg:cargo/dpcs-cli@0.13.0
+- pkg:cargo/dpcs-cli@0.13.1
