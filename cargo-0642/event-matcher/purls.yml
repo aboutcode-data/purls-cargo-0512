@@ -2,3 +2,4 @@
 - pkg:cargo/event-matcher@0.6.0
 - pkg:cargo/event-matcher@0.6.1
 - pkg:cargo/event-matcher@0.7.0
+- pkg:cargo/event-matcher@0.8.1
