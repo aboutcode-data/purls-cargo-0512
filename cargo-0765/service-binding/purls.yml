@@ -9,3 +9,4 @@
 - pkg:cargo/service-binding@2.0.0
 - pkg:cargo/service-binding@2.1.0
 - pkg:cargo/service-binding@3.0.0
+- pkg:cargo/service-binding@3.0.1
