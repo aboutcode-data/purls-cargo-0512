@@ -6,3 +6,6 @@
 - pkg:cargo/serde-eure@0.1.7
 - pkg:cargo/serde-eure@0.1.8
 - pkg:cargo/serde-eure@0.1.9
+- pkg:cargo/serde-eure@0.2.0
+- pkg:cargo/serde-eure@0.3.0
+- pkg:cargo/serde-eure@0.3.2

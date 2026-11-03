@@ -19,3 +19,4 @@
 - pkg:cargo/serde-tagged-intermediate@1.6.0
 - pkg:cargo/serde-tagged-intermediate@1.6.1
 - pkg:cargo/serde-tagged-intermediate@1.6.2
+- pkg:cargo/serde-tagged-intermediate@1.6.3
