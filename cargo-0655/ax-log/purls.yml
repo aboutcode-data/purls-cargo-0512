@@ -11,6 +11,9 @@
 - pkg:cargo/ax-log@0.5.18
 - pkg:cargo/ax-log@0.5.19
 - pkg:cargo/ax-log@0.5.2
+- pkg:cargo/ax-log@0.5.20
 - pkg:cargo/ax-log@0.5.3
 - pkg:cargo/ax-log@0.5.6
 - pkg:cargo/ax-log@0.5.9
+- pkg:cargo/ax-log@0.6.0
+- pkg:cargo/ax-log@0.6.1
