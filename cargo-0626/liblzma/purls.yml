@@ -22,3 +22,4 @@
 - pkg:cargo/liblzma@0.4.6
 - pkg:cargo/liblzma@0.4.7
 - pkg:cargo/liblzma@0.4.8
+- pkg:cargo/liblzma@0.4.9
