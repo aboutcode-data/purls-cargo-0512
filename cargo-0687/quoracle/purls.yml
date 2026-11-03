@@ -1,1 +1,4 @@
 - pkg:cargo/quoracle@1.4.0
+- pkg:cargo/quoracle@2.0.0
+- pkg:cargo/quoracle@2.1.0
+- pkg:cargo/quoracle@2.1.1
