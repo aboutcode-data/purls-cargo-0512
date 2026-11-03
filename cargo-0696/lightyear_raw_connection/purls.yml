@@ -9,3 +9,4 @@
 - pkg:cargo/lightyear_raw_connection@0.29.0
 - pkg:cargo/lightyear_raw_connection@0.30.0
 - pkg:cargo/lightyear_raw_connection@0.30.1
+- pkg:cargo/lightyear_raw_connection@0.31.0
