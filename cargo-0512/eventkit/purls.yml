@@ -9,3 +9,6 @@
 - pkg:cargo/eventkit@0.3.6
 - pkg:cargo/eventkit@0.3.7
 - pkg:cargo/eventkit@0.3.8
+- pkg:cargo/eventkit@0.4.0
+- pkg:cargo/eventkit@0.4.1
+- pkg:cargo/eventkit@0.4.2
