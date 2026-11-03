@@ -1,0 +1,5 @@
+- pkg:cargo/graphql-rpcgen@0.10.0
+- pkg:cargo/graphql-rpcgen@0.10.1
+- pkg:cargo/graphql-rpcgen@0.10.2
+- pkg:cargo/graphql-rpcgen@0.7.0
+- pkg:cargo/graphql-rpcgen@0.9.0
