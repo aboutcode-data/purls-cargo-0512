@@ -12,6 +12,9 @@
 - pkg:cargo/libtracer@0.18.1
 - pkg:cargo/libtracer@0.19.0
 - pkg:cargo/libtracer@0.19.1
+- pkg:cargo/libtracer@0.20.0
+- pkg:cargo/libtracer@0.21.0
+- pkg:cargo/libtracer@0.22.0
 - pkg:cargo/libtracer@0.3.0
 - pkg:cargo/libtracer@0.4.0
 - pkg:cargo/libtracer@0.5.0
