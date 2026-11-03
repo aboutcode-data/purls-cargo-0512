@@ -1,5 +1,8 @@
 - pkg:cargo/ghpending@0.1.0
 - pkg:cargo/ghpending@0.1.1
+- pkg:cargo/ghpending@0.10.0
+- pkg:cargo/ghpending@0.11.0
+- pkg:cargo/ghpending@0.11.1
 - pkg:cargo/ghpending@0.2.0
 - pkg:cargo/ghpending@0.2.1
 - pkg:cargo/ghpending@0.2.2
@@ -11,3 +14,10 @@
 - pkg:cargo/ghpending@0.4.0
 - pkg:cargo/ghpending@0.4.1
 - pkg:cargo/ghpending@0.4.2
+- pkg:cargo/ghpending@0.5.0
+- pkg:cargo/ghpending@0.5.1
+- pkg:cargo/ghpending@0.5.2
+- pkg:cargo/ghpending@0.6.0
+- pkg:cargo/ghpending@0.7.0
+- pkg:cargo/ghpending@0.8.0
+- pkg:cargo/ghpending@0.9.0
