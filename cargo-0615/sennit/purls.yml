@@ -3,7 +3,10 @@
 - pkg:cargo/sennit@0.11.0
 - pkg:cargo/sennit@0.11.1
 - pkg:cargo/sennit@0.18.1
+- pkg:cargo/sennit@0.19.0
 - pkg:cargo/sennit@0.2.0
+- pkg:cargo/sennit@0.20.0
+- pkg:cargo/sennit@0.21.0
 - pkg:cargo/sennit@0.3.0
 - pkg:cargo/sennit@0.3.1
 - pkg:cargo/sennit@0.3.2
