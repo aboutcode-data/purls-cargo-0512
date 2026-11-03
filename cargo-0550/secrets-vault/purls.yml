@@ -6,3 +6,6 @@
 - pkg:cargo/secrets-vault@2.4.0
 - pkg:cargo/secrets-vault@2.4.1
 - pkg:cargo/secrets-vault@2.5.0
+- pkg:cargo/secrets-vault@2.6.0
+- pkg:cargo/secrets-vault@2.7.0
+- pkg:cargo/secrets-vault@2.8.0
