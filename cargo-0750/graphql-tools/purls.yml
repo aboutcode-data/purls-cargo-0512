@@ -31,6 +31,14 @@
 - pkg:cargo/graphql-tools@0.4.2
 - pkg:cargo/graphql-tools@0.5.0
 - pkg:cargo/graphql-tools@0.5.1
+- pkg:cargo/graphql-tools@0.5.10
+- pkg:cargo/graphql-tools@0.5.11
+- pkg:cargo/graphql-tools@0.5.12
 - pkg:cargo/graphql-tools@0.5.2
 - pkg:cargo/graphql-tools@0.5.3
 - pkg:cargo/graphql-tools@0.5.4
+- pkg:cargo/graphql-tools@0.5.5
+- pkg:cargo/graphql-tools@0.5.6
+- pkg:cargo/graphql-tools@0.5.7
+- pkg:cargo/graphql-tools@0.5.8
+- pkg:cargo/graphql-tools@0.5.9
