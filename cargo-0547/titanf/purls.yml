@@ -22,3 +22,5 @@
 - pkg:cargo/titanf@2.5.1
 - pkg:cargo/titanf@2.5.2
 - pkg:cargo/titanf@2.5.3
+- pkg:cargo/titanf@3.0.0
+- pkg:cargo/titanf@3.0.1
