@@ -4,3 +4,4 @@
 - pkg:cargo/asic-rs-macros@0.8.3
 - pkg:cargo/asic-rs-macros@0.8.5
 - pkg:cargo/asic-rs-macros@0.8.6
+- pkg:cargo/asic-rs-macros@0.8.7
