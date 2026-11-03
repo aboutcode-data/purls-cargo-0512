@@ -3,5 +3,6 @@
 - pkg:cargo/ling-wasm@2030.0.12
 - pkg:cargo/ling-wasm@2030.0.13
 - pkg:cargo/ling-wasm@2030.0.15
+- pkg:cargo/ling-wasm@2030.0.16
 - pkg:cargo/ling-wasm@2030.0.8
 - pkg:cargo/ling-wasm@2030.0.9
