@@ -8,3 +8,4 @@
 - pkg:cargo/gherkin_sync@1.6.0
 - pkg:cargo/gherkin_sync@1.6.1
 - pkg:cargo/gherkin_sync@1.6.2
+- pkg:cargo/gherkin_sync@1.6.5
