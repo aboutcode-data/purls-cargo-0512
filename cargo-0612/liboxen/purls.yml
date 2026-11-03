@@ -189,6 +189,10 @@
 - pkg:cargo/liboxen@0.61.1
 - pkg:cargo/liboxen@0.62.0
 - pkg:cargo/liboxen@0.63.0
+- pkg:cargo/liboxen@0.64.0
+- pkg:cargo/liboxen@0.65.0
+- pkg:cargo/liboxen@0.65.1
+- pkg:cargo/liboxen@0.65.2
 - pkg:cargo/liboxen@0.7.0
 - pkg:cargo/liboxen@0.7.1
 - pkg:cargo/liboxen@0.7.10
