@@ -5,6 +5,7 @@
 - pkg:cargo/axhvc@0.4.10
 - pkg:cargo/axhvc@0.4.11
 - pkg:cargo/axhvc@0.4.12
+- pkg:cargo/axhvc@0.4.13
 - pkg:cargo/axhvc@0.4.2
 - pkg:cargo/axhvc@0.4.4
 - pkg:cargo/axhvc@0.4.5
@@ -12,3 +13,5 @@
 - pkg:cargo/axhvc@0.4.7
 - pkg:cargo/axhvc@0.4.8
 - pkg:cargo/axhvc@0.4.9
+- pkg:cargo/axhvc@0.5.0
+- pkg:cargo/axhvc@0.5.1
