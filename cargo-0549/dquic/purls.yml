@@ -10,3 +10,5 @@
 - pkg:cargo/dquic@0.7.1
 - pkg:cargo/dquic@0.7.1-beta.1
 - pkg:cargo/dquic@0.7.2
+- pkg:cargo/dquic@0.8.0
+- pkg:cargo/dquic@0.8.1
