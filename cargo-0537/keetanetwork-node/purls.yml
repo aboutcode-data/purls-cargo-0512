@@ -1,1 +1,3 @@
 - pkg:cargo/keetanetwork-node@0.1.0
+- pkg:cargo/keetanetwork-node@0.2.0
+- pkg:cargo/keetanetwork-node@0.2.1
