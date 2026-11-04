@@ -30,7 +30,13 @@
 - pkg:cargo/personal-teams-assistant@0.10.35
 - pkg:cargo/personal-teams-assistant@0.10.36
 - pkg:cargo/personal-teams-assistant@0.10.37
+- pkg:cargo/personal-teams-assistant@0.10.38
+- pkg:cargo/personal-teams-assistant@0.10.39
 - pkg:cargo/personal-teams-assistant@0.10.4
+- pkg:cargo/personal-teams-assistant@0.10.40
+- pkg:cargo/personal-teams-assistant@0.10.41
+- pkg:cargo/personal-teams-assistant@0.10.42
+- pkg:cargo/personal-teams-assistant@0.10.43
 - pkg:cargo/personal-teams-assistant@0.10.5
 - pkg:cargo/personal-teams-assistant@0.10.6
 - pkg:cargo/personal-teams-assistant@0.10.7
