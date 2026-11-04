@@ -27,6 +27,16 @@
 - pkg:cargo/tuicore@0.39.0
 - pkg:cargo/tuicore@0.40.0
 - pkg:cargo/tuicore@0.40.1
+- pkg:cargo/tuicore@0.40.10
+- pkg:cargo/tuicore@0.40.11
+- pkg:cargo/tuicore@0.40.12
+- pkg:cargo/tuicore@0.40.13
+- pkg:cargo/tuicore@0.40.14
+- pkg:cargo/tuicore@0.40.15
+- pkg:cargo/tuicore@0.40.16
+- pkg:cargo/tuicore@0.40.17
+- pkg:cargo/tuicore@0.40.18
+- pkg:cargo/tuicore@0.40.19
 - pkg:cargo/tuicore@0.40.2
 - pkg:cargo/tuicore@0.40.3
 - pkg:cargo/tuicore@0.40.4
