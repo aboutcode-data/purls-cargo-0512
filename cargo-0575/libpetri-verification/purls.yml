@@ -15,6 +15,7 @@
 - pkg:cargo/libpetri-verification@10.0.0
 - pkg:cargo/libpetri-verification@10.1.0
 - pkg:cargo/libpetri-verification@11.0.0
+- pkg:cargo/libpetri-verification@11.0.1
 - pkg:cargo/libpetri-verification@2.0.0
 - pkg:cargo/libpetri-verification@2.1.0
 - pkg:cargo/libpetri-verification@2.3.0
