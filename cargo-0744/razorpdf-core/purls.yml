@@ -5,3 +5,4 @@
 - pkg:cargo/razorpdf-core@0.1.5
 - pkg:cargo/razorpdf-core@0.1.6
 - pkg:cargo/razorpdf-core@0.3.0
+- pkg:cargo/razorpdf-core@0.3.1
