@@ -1,1 +1,6 @@
 - pkg:cargo/tuff-adapter-opencode@0.11.0
+- pkg:cargo/tuff-adapter-opencode@0.12.0
+- pkg:cargo/tuff-adapter-opencode@0.13.0
+- pkg:cargo/tuff-adapter-opencode@0.14.0
+- pkg:cargo/tuff-adapter-opencode@0.15.0
+- pkg:cargo/tuff-adapter-opencode@0.16.0
