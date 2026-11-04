@@ -4,3 +4,5 @@
 - pkg:cargo/dependency-check-updates@0.1.13
 - pkg:cargo/dependency-check-updates@0.1.14
 - pkg:cargo/dependency-check-updates@0.1.15
+- pkg:cargo/dependency-check-updates@0.2.0
+- pkg:cargo/dependency-check-updates@0.3.0
