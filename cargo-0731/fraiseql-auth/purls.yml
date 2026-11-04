@@ -17,6 +17,12 @@
 - pkg:cargo/fraiseql-auth@2.13.1
 - pkg:cargo/fraiseql-auth@2.14.0
 - pkg:cargo/fraiseql-auth@2.14.1
+- pkg:cargo/fraiseql-auth@2.15.0
+- pkg:cargo/fraiseql-auth@2.16.0
+- pkg:cargo/fraiseql-auth@2.17.0
+- pkg:cargo/fraiseql-auth@2.17.1
+- pkg:cargo/fraiseql-auth@2.18.0
+- pkg:cargo/fraiseql-auth@2.19.0
 - pkg:cargo/fraiseql-auth@2.2.0
 - pkg:cargo/fraiseql-auth@2.2.1
 - pkg:cargo/fraiseql-auth@2.3.0
