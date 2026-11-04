@@ -1,6 +1,13 @@
+- pkg:cargo/destructive_command_guard@0.13.0
+- pkg:cargo/destructive_command_guard@0.14.4
+- pkg:cargo/destructive_command_guard@0.15.3
+- pkg:cargo/destructive_command_guard@0.16.0
 - pkg:cargo/destructive_command_guard@0.4.1
 - pkg:cargo/destructive_command_guard@0.4.2
 - pkg:cargo/destructive_command_guard@0.4.3
 - pkg:cargo/destructive_command_guard@0.4.5
 - pkg:cargo/destructive_command_guard@0.5.4
 - pkg:cargo/destructive_command_guard@0.5.6
+- pkg:cargo/destructive_command_guard@0.6.7
+- pkg:cargo/destructive_command_guard@0.6.9
+- pkg:cargo/destructive_command_guard@0.7.8
