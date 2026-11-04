@@ -1,1 +1,4 @@
 - pkg:cargo/deepin-translation-utils@0.6.1
+- pkg:cargo/deepin-translation-utils@0.7.0
+- pkg:cargo/deepin-translation-utils@0.8.0
+- pkg:cargo/deepin-translation-utils@0.9.0
