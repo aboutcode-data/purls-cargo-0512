@@ -5,3 +5,5 @@
 - pkg:cargo/devo@1.0.3
 - pkg:cargo/devo@1.0.4
 - pkg:cargo/devo@1.0.5
+- pkg:cargo/devo@1.0.7
+- pkg:cargo/devo@2.0.0
