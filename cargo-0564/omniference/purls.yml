@@ -12,3 +12,6 @@
 - pkg:cargo/omniference@0.2.1
 - pkg:cargo/omniference@0.3.0
 - pkg:cargo/omniference@0.3.2
+- pkg:cargo/omniference@0.3.4
+- pkg:cargo/omniference@0.4.0
+- pkg:cargo/omniference@0.4.1
