@@ -1,3 +1,4 @@
 - pkg:cargo/brokk-tree-sitter-c-sharp@0.23.5
 - pkg:cargo/brokk-tree-sitter-c-sharp@0.23.6
 - pkg:cargo/brokk-tree-sitter-c-sharp@0.23.7
+- pkg:cargo/brokk-tree-sitter-c-sharp@0.23.8

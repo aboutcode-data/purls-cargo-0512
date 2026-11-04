@@ -42,6 +42,8 @@
 - pkg:cargo/brokk-anvil@0.28.2
 - pkg:cargo/brokk-anvil@0.28.3
 - pkg:cargo/brokk-anvil@0.28.4
+- pkg:cargo/brokk-anvil@0.28.5
+- pkg:cargo/brokk-anvil@0.28.6
 - pkg:cargo/brokk-anvil@0.5.1
 - pkg:cargo/brokk-anvil@0.6.0
 - pkg:cargo/brokk-anvil@0.7.0
