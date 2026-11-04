@@ -1,5 +1,6 @@
 - pkg:cargo/detour@0.1.0
 - pkg:cargo/detour@0.1.1
+- pkg:cargo/detour@0.10.0
 - pkg:cargo/detour@0.2.0
 - pkg:cargo/detour@0.3.0
 - pkg:cargo/detour@0.4.0
@@ -10,3 +11,4 @@
 - pkg:cargo/detour@0.7.1
 - pkg:cargo/detour@0.8.0
 - pkg:cargo/detour@0.8.1
+- pkg:cargo/detour@0.9.0
