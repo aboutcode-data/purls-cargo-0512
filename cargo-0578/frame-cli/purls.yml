@@ -3,3 +3,4 @@
 - pkg:cargo/frame-cli@0.3.0
 - pkg:cargo/frame-cli@0.4.0
 - pkg:cargo/frame-cli@0.4.2
+- pkg:cargo/frame-cli@0.5.0
