@@ -39,4 +39,6 @@
 - pkg:cargo/quarb-kuzu@0.45.0
 - pkg:cargo/quarb-kuzu@0.46.0
 - pkg:cargo/quarb-kuzu@0.47.0
+- pkg:cargo/quarb-kuzu@0.48.0
+- pkg:cargo/quarb-kuzu@0.49.0
 - pkg:cargo/quarb-kuzu@0.9.0
