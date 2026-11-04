@@ -2,6 +2,9 @@
 - pkg:cargo/deltoid-derive@0.11.0
 - pkg:cargo/deltoid-derive@0.11.1
 - pkg:cargo/deltoid-derive@0.12.0
+- pkg:cargo/deltoid-derive@0.13.2
+- pkg:cargo/deltoid-derive@0.13.3
+- pkg:cargo/deltoid-derive@0.13.4
 - pkg:cargo/deltoid-derive@0.2.1
 - pkg:cargo/deltoid-derive@0.2.2
 - pkg:cargo/deltoid-derive@0.2.3
