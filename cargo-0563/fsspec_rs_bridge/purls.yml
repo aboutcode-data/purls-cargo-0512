@@ -1,0 +1,4 @@
+- pkg:cargo/fsspec_rs_bridge@0.1.2
+- pkg:cargo/fsspec_rs_bridge@0.1.3
+- pkg:cargo/fsspec_rs_bridge@0.1.4
+- pkg:cargo/fsspec_rs_bridge@0.1.5
