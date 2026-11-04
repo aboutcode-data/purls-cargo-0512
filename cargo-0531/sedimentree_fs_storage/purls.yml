@@ -5,6 +5,7 @@
 - pkg:cargo/sedimentree_fs_storage@0.12.2
 - pkg:cargo/sedimentree_fs_storage@0.13.0
 - pkg:cargo/sedimentree_fs_storage@0.14.0
+- pkg:cargo/sedimentree_fs_storage@0.15.0
 - pkg:cargo/sedimentree_fs_storage@0.3.0
 - pkg:cargo/sedimentree_fs_storage@0.4.0
 - pkg:cargo/sedimentree_fs_storage@0.4.1
