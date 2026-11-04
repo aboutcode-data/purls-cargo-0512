@@ -65,7 +65,17 @@
 - pkg:cargo/deno_lockfile@0.50.0
 - pkg:cargo/deno_lockfile@0.51.0
 - pkg:cargo/deno_lockfile@0.52.0
+- pkg:cargo/deno_lockfile@0.53.0
+- pkg:cargo/deno_lockfile@0.54.0
+- pkg:cargo/deno_lockfile@0.55.0
+- pkg:cargo/deno_lockfile@0.56.0
+- pkg:cargo/deno_lockfile@0.57.0
+- pkg:cargo/deno_lockfile@0.58.0
+- pkg:cargo/deno_lockfile@0.59.0
 - pkg:cargo/deno_lockfile@0.6.0
+- pkg:cargo/deno_lockfile@0.60.0
+- pkg:cargo/deno_lockfile@0.61.0
+- pkg:cargo/deno_lockfile@0.62.0
 - pkg:cargo/deno_lockfile@0.7.0
 - pkg:cargo/deno_lockfile@0.8.0
 - pkg:cargo/deno_lockfile@0.9.0
