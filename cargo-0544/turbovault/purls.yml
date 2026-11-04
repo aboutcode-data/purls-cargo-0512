@@ -26,3 +26,8 @@
 - pkg:cargo/turbovault@1.6.0
 - pkg:cargo/turbovault@2.0.0
 - pkg:cargo/turbovault@2.1.0
+- pkg:cargo/turbovault@2.2.0
+- pkg:cargo/turbovault@3.0.0
+- pkg:cargo/turbovault@3.2.0
+- pkg:cargo/turbovault@4.0.0
+- pkg:cargo/turbovault@4.0.1

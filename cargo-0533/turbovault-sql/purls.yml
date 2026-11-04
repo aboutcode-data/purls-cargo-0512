@@ -4,3 +4,8 @@
 - pkg:cargo/turbovault-sql@1.6.0
 - pkg:cargo/turbovault-sql@2.0.0
 - pkg:cargo/turbovault-sql@2.1.0
+- pkg:cargo/turbovault-sql@2.2.0
+- pkg:cargo/turbovault-sql@3.0.0
+- pkg:cargo/turbovault-sql@3.2.0
+- pkg:cargo/turbovault-sql@4.0.0
+- pkg:cargo/turbovault-sql@4.0.1
