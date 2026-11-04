@@ -6,3 +6,5 @@
 - pkg:cargo/keccak-asm@0.1.5
 - pkg:cargo/keccak-asm@0.1.6
 - pkg:cargo/keccak-asm@0.1.7
+- pkg:cargo/keccak-asm@0.1.8
+- pkg:cargo/keccak-asm@0.1.9
