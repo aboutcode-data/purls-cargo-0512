@@ -27,3 +27,8 @@
 - pkg:cargo/turbovault-parser@1.6.0
 - pkg:cargo/turbovault-parser@2.0.0
 - pkg:cargo/turbovault-parser@2.1.0
+- pkg:cargo/turbovault-parser@2.2.0
+- pkg:cargo/turbovault-parser@3.0.0
+- pkg:cargo/turbovault-parser@3.2.0
+- pkg:cargo/turbovault-parser@4.0.0
+- pkg:cargo/turbovault-parser@4.0.1
