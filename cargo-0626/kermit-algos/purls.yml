@@ -2,6 +2,7 @@
 - pkg:cargo/kermit-algos@0.0.1-dev
 - pkg:cargo/kermit-algos@0.0.10
 - pkg:cargo/kermit-algos@0.0.11
+- pkg:cargo/kermit-algos@0.0.12
 - pkg:cargo/kermit-algos@0.0.2
 - pkg:cargo/kermit-algos@0.0.3
 - pkg:cargo/kermit-algos@0.0.3-dev
