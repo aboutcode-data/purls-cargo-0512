@@ -3,3 +3,12 @@
 - pkg:cargo/keri-sdk@0.1.7
 - pkg:cargo/keri-sdk@0.1.8
 - pkg:cargo/keri-sdk@0.1.9
+- pkg:cargo/keri-sdk@0.18.0
+- pkg:cargo/keri-sdk@0.19.0-rc.11
+- pkg:cargo/keri-sdk@0.19.0-rc.3
+- pkg:cargo/keri-sdk@0.19.0-rc.4
+- pkg:cargo/keri-sdk@0.19.0-rc.5
+- pkg:cargo/keri-sdk@0.19.0-rc.6
+- pkg:cargo/keri-sdk@0.19.0-rc.7
+- pkg:cargo/keri-sdk@0.19.0-rc.8
+- pkg:cargo/keri-sdk@0.19.0-rc.9
