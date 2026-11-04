@@ -57,6 +57,7 @@
 - pkg:cargo/frame-system-benchmarking@48.0.0
 - pkg:cargo/frame-system-benchmarking@49.0.0
 - pkg:cargo/frame-system-benchmarking@5.0.0
+- pkg:cargo/frame-system-benchmarking@50.0.0
 - pkg:cargo/frame-system-benchmarking@6.0.0
 - pkg:cargo/frame-system-benchmarking@7.0.0
 - pkg:cargo/frame-system-benchmarking@8.0.0
