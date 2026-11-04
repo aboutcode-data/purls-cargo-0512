@@ -1,3 +1,11 @@
+- pkg:cargo/deps-bundler@0.10.0
+- pkg:cargo/deps-bundler@0.10.1
+- pkg:cargo/deps-bundler@0.11.0
+- pkg:cargo/deps-bundler@0.11.1
+- pkg:cargo/deps-bundler@0.12.0
+- pkg:cargo/deps-bundler@0.12.1
+- pkg:cargo/deps-bundler@0.13.0
+- pkg:cargo/deps-bundler@0.14.0
 - pkg:cargo/deps-bundler@0.6.0
 - pkg:cargo/deps-bundler@0.6.1
 - pkg:cargo/deps-bundler@0.7.0
@@ -7,3 +15,12 @@
 - pkg:cargo/deps-bundler@0.9.1
 - pkg:cargo/deps-bundler@0.9.2
 - pkg:cargo/deps-bundler@0.9.3
+- pkg:cargo/deps-bundler@0.9.4
+- pkg:cargo/deps-bundler@0.9.5
+- pkg:cargo/deps-bundler@1.0.0
+- pkg:cargo/deps-bundler@1.0.1
+- pkg:cargo/deps-bundler@1.1.0
+- pkg:cargo/deps-bundler@1.2.0
+- pkg:cargo/deps-bundler@2.0.0
+- pkg:cargo/deps-bundler@3.0.0
+- pkg:cargo/deps-bundler@4.0.0

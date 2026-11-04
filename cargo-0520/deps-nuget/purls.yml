@@ -1,0 +1,15 @@
+- pkg:cargo/deps-nuget@0.10.0
+- pkg:cargo/deps-nuget@0.10.1
+- pkg:cargo/deps-nuget@0.11.0
+- pkg:cargo/deps-nuget@0.11.1
+- pkg:cargo/deps-nuget@0.12.0
+- pkg:cargo/deps-nuget@0.12.1
+- pkg:cargo/deps-nuget@0.13.0
+- pkg:cargo/deps-nuget@0.14.0
+- pkg:cargo/deps-nuget@1.0.0
+- pkg:cargo/deps-nuget@1.0.1
+- pkg:cargo/deps-nuget@1.1.0
+- pkg:cargo/deps-nuget@1.2.0
+- pkg:cargo/deps-nuget@2.0.0
+- pkg:cargo/deps-nuget@3.0.0
+- pkg:cargo/deps-nuget@4.0.0
