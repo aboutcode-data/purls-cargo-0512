@@ -3,7 +3,17 @@
 - pkg:cargo/deno_canvas@0.110.0
 - pkg:cargo/deno_canvas@0.111.0
 - pkg:cargo/deno_canvas@0.112.0
+- pkg:cargo/deno_canvas@0.113.0
+- pkg:cargo/deno_canvas@0.114.0
+- pkg:cargo/deno_canvas@0.115.0
+- pkg:cargo/deno_canvas@0.116.0
+- pkg:cargo/deno_canvas@0.117.0
+- pkg:cargo/deno_canvas@0.118.0
+- pkg:cargo/deno_canvas@0.119.0
 - pkg:cargo/deno_canvas@0.12.0
+- pkg:cargo/deno_canvas@0.120.0
+- pkg:cargo/deno_canvas@0.121.0
+- pkg:cargo/deno_canvas@0.122.0
 - pkg:cargo/deno_canvas@0.13.0
 - pkg:cargo/deno_canvas@0.14.0
 - pkg:cargo/deno_canvas@0.15.0
