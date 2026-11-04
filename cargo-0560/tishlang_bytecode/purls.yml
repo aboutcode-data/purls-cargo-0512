@@ -82,3 +82,4 @@
 - pkg:cargo/tishlang_bytecode@4.2.3
 - pkg:cargo/tishlang_bytecode@4.2.4
 - pkg:cargo/tishlang_bytecode@4.2.5
+- pkg:cargo/tishlang_bytecode@4.2.7
