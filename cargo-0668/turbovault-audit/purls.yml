@@ -10,3 +10,8 @@
 - pkg:cargo/turbovault-audit@1.6.0
 - pkg:cargo/turbovault-audit@2.0.0
 - pkg:cargo/turbovault-audit@2.1.0
+- pkg:cargo/turbovault-audit@2.2.0
+- pkg:cargo/turbovault-audit@3.0.0
+- pkg:cargo/turbovault-audit@3.2.0
+- pkg:cargo/turbovault-audit@4.0.0
+- pkg:cargo/turbovault-audit@4.0.1
