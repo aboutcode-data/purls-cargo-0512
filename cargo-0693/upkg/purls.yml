@@ -1,1 +1,4 @@
 - pkg:cargo/upkg@0.11.2
+- pkg:cargo/upkg@0.14.0
+- pkg:cargo/upkg@0.15.0
+- pkg:cargo/upkg@0.17.0
