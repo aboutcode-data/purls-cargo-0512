@@ -1,1 +1,2 @@
 - pkg:cargo/everymap-providers-osrm@0.3.0
+- pkg:cargo/everymap-providers-osrm@0.3.1
