@@ -39,3 +39,4 @@
 - pkg:cargo/jobber@1.1.7-alpha
 - pkg:cargo/jobber@1.1.8-alpha
 - pkg:cargo/jobber@1.1.9-alpha
+- pkg:cargo/jobber@1.2.0-alpha
