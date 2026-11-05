@@ -20,6 +20,7 @@
 - pkg:cargo/tickloop@0.2.37
 - pkg:cargo/tickloop@0.2.38
 - pkg:cargo/tickloop@0.2.39
+- pkg:cargo/tickloop@0.2.40
 - pkg:cargo/tickloop@0.2.5
 - pkg:cargo/tickloop@0.2.6
 - pkg:cargo/tickloop@0.2.7
