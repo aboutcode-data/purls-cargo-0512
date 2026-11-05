@@ -7,3 +7,4 @@
 - pkg:cargo/security-rust@2.1.1
 - pkg:cargo/security-rust@3.0.0
 - pkg:cargo/security-rust@4.0.0
+- pkg:cargo/security-rust@5.0.0
