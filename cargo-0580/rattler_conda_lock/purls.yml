@@ -8,3 +8,4 @@
 - pkg:cargo/rattler_conda_lock@0.1.6
 - pkg:cargo/rattler_conda_lock@0.1.7
 - pkg:cargo/rattler_conda_lock@0.1.8
+- pkg:cargo/rattler_conda_lock@0.1.9
