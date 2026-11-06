@@ -58,9 +58,17 @@
 - pkg:cargo/personal-teams-assistant@0.10.60
 - pkg:cargo/personal-teams-assistant@0.10.61
 - pkg:cargo/personal-teams-assistant@0.10.62
+- pkg:cargo/personal-teams-assistant@0.10.63
+- pkg:cargo/personal-teams-assistant@0.10.64
 - pkg:cargo/personal-teams-assistant@0.10.7
 - pkg:cargo/personal-teams-assistant@0.10.8
 - pkg:cargo/personal-teams-assistant@0.10.9
+- pkg:cargo/personal-teams-assistant@0.11.0
+- pkg:cargo/personal-teams-assistant@0.11.1
+- pkg:cargo/personal-teams-assistant@0.11.2
+- pkg:cargo/personal-teams-assistant@0.11.3
+- pkg:cargo/personal-teams-assistant@0.11.4
+- pkg:cargo/personal-teams-assistant@0.11.5
 - pkg:cargo/personal-teams-assistant@0.2.0
 - pkg:cargo/personal-teams-assistant@0.4.0
 - pkg:cargo/personal-teams-assistant@0.5.0
