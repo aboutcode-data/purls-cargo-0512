@@ -1,6 +1,7 @@
 - pkg:cargo/libobs-wrapper@0.1.0
 - pkg:cargo/libobs-wrapper@0.2.2
 - pkg:cargo/libobs-wrapper@10.0.0%2B32.1.0
+- pkg:cargo/libobs-wrapper@10.0.1%2B32.1.0
 - pkg:cargo/libobs-wrapper@2.0.3
 - pkg:cargo/libobs-wrapper@3.0.1
 - pkg:cargo/libobs-wrapper@3.0.2
