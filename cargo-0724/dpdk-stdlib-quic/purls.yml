@@ -1,1 +1,2 @@
 - pkg:cargo/dpdk-stdlib-quic@0.3.0
+- pkg:cargo/dpdk-stdlib-quic@0.3.1
