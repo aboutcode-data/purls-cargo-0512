@@ -24,3 +24,4 @@
 - pkg:cargo/viewset@0.6.5-a
 - pkg:cargo/viewset@0.6.6
 - pkg:cargo/viewset@0.7.0
+- pkg:cargo/viewset@0.7.1
