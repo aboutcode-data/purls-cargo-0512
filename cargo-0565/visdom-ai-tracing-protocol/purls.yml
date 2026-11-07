@@ -19,3 +19,4 @@
 - pkg:cargo/visdom-ai-tracing-protocol@0.29.0
 - pkg:cargo/visdom-ai-tracing-protocol@0.29.1
 - pkg:cargo/visdom-ai-tracing-protocol@0.29.2
+- pkg:cargo/visdom-ai-tracing-protocol@0.29.3
