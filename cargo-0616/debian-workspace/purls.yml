@@ -9,3 +9,4 @@
 - pkg:cargo/debian-workspace@0.187.0
 - pkg:cargo/debian-workspace@0.188.0
 - pkg:cargo/debian-workspace@0.189.0
+- pkg:cargo/debian-workspace@0.190.0
