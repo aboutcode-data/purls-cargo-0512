@@ -17,3 +17,4 @@
 - pkg:cargo/secret-service@5.0.0
 - pkg:cargo/secret-service@5.1.0
 - pkg:cargo/secret-service@5.2.0
+- pkg:cargo/secret-service@6.0.0-rc.1
