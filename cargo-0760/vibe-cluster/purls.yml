@@ -5,3 +5,5 @@
 - pkg:cargo/vibe-cluster@0.0.5
 - pkg:cargo/vibe-cluster@0.0.6
 - pkg:cargo/vibe-cluster@0.1.0
+- pkg:cargo/vibe-cluster@0.2.0
+- pkg:cargo/vibe-cluster@0.2.1
