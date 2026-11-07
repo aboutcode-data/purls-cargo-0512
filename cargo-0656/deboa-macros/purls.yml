@@ -17,6 +17,7 @@
 - pkg:cargo/deboa-macros@0.0.7
 - pkg:cargo/deboa-macros@0.0.8
 - pkg:cargo/deboa-macros@0.0.9
+- pkg:cargo/deboa-macros@0.1.0
 - pkg:cargo/deboa-macros@0.1.0-beta.1
 - pkg:cargo/deboa-macros@0.1.0-beta.10
 - pkg:cargo/deboa-macros@0.1.0-beta.11
