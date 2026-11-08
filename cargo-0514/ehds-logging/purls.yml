@@ -22,3 +22,5 @@
 - pkg:cargo/ehds-logging@0.3.2
 - pkg:cargo/ehds-logging@0.3.3
 - pkg:cargo/ehds-logging@0.4.0
+- pkg:cargo/ehds-logging@0.5.0
+- pkg:cargo/ehds-logging@0.5.1
