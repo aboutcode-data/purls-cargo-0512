@@ -7,5 +7,7 @@
 - pkg:cargo/ravenrs-app-sqlite@27.1.16
 - pkg:cargo/ravenrs-app-sqlite@27.1.17
 - pkg:cargo/ravenrs-app-sqlite@27.1.18
+- pkg:cargo/ravenrs-app-sqlite@27.1.19
+- pkg:cargo/ravenrs-app-sqlite@27.1.20
 - pkg:cargo/ravenrs-app-sqlite@27.1.8
 - pkg:cargo/ravenrs-app-sqlite@27.1.9
