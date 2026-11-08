@@ -51,6 +51,7 @@
 - pkg:cargo/quai@0.52.0
 - pkg:cargo/quai@0.53.0
 - pkg:cargo/quai@0.54.0
+- pkg:cargo/quai@0.55.0
 - pkg:cargo/quai@0.6.0
 - pkg:cargo/quai@0.7.0
 - pkg:cargo/quai@0.8.0
