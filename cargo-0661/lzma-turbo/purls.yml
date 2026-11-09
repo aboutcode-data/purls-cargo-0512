@@ -1,6 +1,7 @@
 - pkg:cargo/lzma-turbo@0.10.0
 - pkg:cargo/lzma-turbo@0.10.1
 - pkg:cargo/lzma-turbo@0.10.2
+- pkg:cargo/lzma-turbo@0.10.3
 - pkg:cargo/lzma-turbo@0.3.1
 - pkg:cargo/lzma-turbo@0.3.3
 - pkg:cargo/lzma-turbo@0.3.4
