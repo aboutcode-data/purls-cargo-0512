@@ -124,6 +124,7 @@
 - pkg:cargo/avltriee@0.77.0
 - pkg:cargo/avltriee@0.77.1
 - pkg:cargo/avltriee@0.77.2
+- pkg:cargo/avltriee@0.78.0
 - pkg:cargo/avltriee@0.8.0
 - pkg:cargo/avltriee@0.8.1
 - pkg:cargo/avltriee@0.9.0
