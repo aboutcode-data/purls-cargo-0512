@@ -27,6 +27,7 @@
 - pkg:cargo/greentic-extension-sdk-cli@1.2.22
 - pkg:cargo/greentic-extension-sdk-cli@1.2.23
 - pkg:cargo/greentic-extension-sdk-cli@1.2.25
+- pkg:cargo/greentic-extension-sdk-cli@1.2.26
 - pkg:cargo/greentic-extension-sdk-cli@1.2.3
 - pkg:cargo/greentic-extension-sdk-cli@1.2.3-research
 - pkg:cargo/greentic-extension-sdk-cli@1.2.4
