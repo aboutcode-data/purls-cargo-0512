@@ -31,6 +31,8 @@
 - pkg:cargo/grindr@0.31.1%2B26.21.0.190550
 - pkg:cargo/grindr@0.32.0%2B26.22.0.192710
 - pkg:cargo/grindr@0.32.1%2B26.22.0.192710
+- pkg:cargo/grindr@0.33.0%2B26.23.0.194910
+- pkg:cargo/grindr@0.34.0%2B26.24.0.195444
 - pkg:cargo/grindr@0.4.0%2B26.9.1.163471
 - pkg:cargo/grindr@0.5.0%2B26.10.0.166504
 - pkg:cargo/grindr@0.6.0%2B26.11.0.168192
