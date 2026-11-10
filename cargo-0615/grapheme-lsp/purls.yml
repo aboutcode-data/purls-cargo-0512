@@ -6,3 +6,4 @@
 - pkg:cargo/grapheme-lsp@0.7.0
 - pkg:cargo/grapheme-lsp@0.7.1
 - pkg:cargo/grapheme-lsp@0.7.2
+- pkg:cargo/grapheme-lsp@0.8.0
