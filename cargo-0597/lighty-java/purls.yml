@@ -1,6 +1,7 @@
 - pkg:cargo/lighty-java@0.6.2
 - pkg:cargo/lighty-java@0.8.2
 - pkg:cargo/lighty-java@0.8.6
+- pkg:cargo/lighty-java@26.11.0
 - pkg:cargo/lighty-java@26.5.1
 - pkg:cargo/lighty-java@26.5.10
 - pkg:cargo/lighty-java@26.5.11
