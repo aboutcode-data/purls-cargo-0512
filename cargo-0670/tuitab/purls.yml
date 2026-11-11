@@ -8,6 +8,7 @@
 - pkg:cargo/tuitab@0.10.3
 - pkg:cargo/tuitab@0.11.0
 - pkg:cargo/tuitab@0.11.1
+- pkg:cargo/tuitab@0.11.2
 - pkg:cargo/tuitab@0.12.0
 - pkg:cargo/tuitab@0.2.0
 - pkg:cargo/tuitab@0.3.0
