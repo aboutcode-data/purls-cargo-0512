@@ -2,6 +2,8 @@
 - pkg:cargo/liminal-cli@0.10.1
 - pkg:cargo/liminal-cli@0.10.2
 - pkg:cargo/liminal-cli@0.10.3
+- pkg:cargo/liminal-cli@0.10.4
+- pkg:cargo/liminal-cli@0.10.5
 - pkg:cargo/liminal-cli@0.2.0
 - pkg:cargo/liminal-cli@0.2.1
 - pkg:cargo/liminal-cli@0.3.0
