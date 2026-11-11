@@ -1,1 +1,2 @@
 - pkg:cargo/turbo-dom-v8@150.4.0
+- pkg:cargo/turbo-dom-v8@150.4.1
