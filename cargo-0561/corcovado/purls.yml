@@ -115,6 +115,8 @@
 - pkg:cargo/corcovado@0.5.25
 - pkg:cargo/corcovado@0.5.26
 - pkg:cargo/corcovado@0.5.27
+- pkg:cargo/corcovado@0.5.28
+- pkg:cargo/corcovado@0.5.29
 - pkg:cargo/corcovado@0.5.3
 - pkg:cargo/corcovado@0.5.4
 - pkg:cargo/corcovado@0.5.5
