@@ -15,3 +15,5 @@
 - pkg:cargo/airframe@0.4.1
 - pkg:cargo/airframe@0.4.2
 - pkg:cargo/airframe@0.4.3
+- pkg:cargo/airframe@0.4.4
+- pkg:cargo/airframe@0.4.5
