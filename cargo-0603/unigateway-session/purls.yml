@@ -6,3 +6,4 @@
 - pkg:cargo/unigateway-session@2.14.2
 - pkg:cargo/unigateway-session@2.15.0
 - pkg:cargo/unigateway-session@2.15.1
+- pkg:cargo/unigateway-session@2.16.0
