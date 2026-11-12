@@ -1,2 +1,5 @@
 - pkg:cargo/config-boot@1.0.0
 - pkg:cargo/config-boot@1.0.1
+- pkg:cargo/config-boot@2.0.0
+- pkg:cargo/config-boot@2.0.1
+- pkg:cargo/config-boot@2.0.2
