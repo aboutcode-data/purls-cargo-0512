@@ -11,6 +11,13 @@
 - pkg:cargo/yellowstone-block-machine@0.1.0-rc7
 - pkg:cargo/yellowstone-block-machine@0.1.0-rc8
 - pkg:cargo/yellowstone-block-machine@0.1.0-rc9
+- pkg:cargo/yellowstone-block-machine@0.10.0
+- pkg:cargo/yellowstone-block-machine@0.10.1
+- pkg:cargo/yellowstone-block-machine@0.10.2
+- pkg:cargo/yellowstone-block-machine@0.11.0
+- pkg:cargo/yellowstone-block-machine@0.11.0-rc1
+- pkg:cargo/yellowstone-block-machine@0.11.0-rc2
+- pkg:cargo/yellowstone-block-machine@0.12.0
 - pkg:cargo/yellowstone-block-machine@0.2.0
 - pkg:cargo/yellowstone-block-machine@0.3.0
 - pkg:cargo/yellowstone-block-machine@0.4.0
