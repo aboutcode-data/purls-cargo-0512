@@ -48,3 +48,4 @@
 - pkg:cargo/axiam-sdk@1.2.2
 - pkg:cargo/axiam-sdk@1.2.5
 - pkg:cargo/axiam-sdk@1.3.0
+- pkg:cargo/axiam-sdk@1.3.1
