@@ -1,0 +1,5 @@
+- pkg:cargo/wgpu_prism@6.0.0
+- pkg:cargo/wgpu_prism@6.0.1
+- pkg:cargo/wgpu_prism@7.0.0
+- pkg:cargo/wgpu_prism@8.0.0
+- pkg:cargo/wgpu_prism@8.0.1
