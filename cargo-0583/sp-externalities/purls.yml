@@ -28,6 +28,8 @@
 - pkg:cargo/sp-externalities@0.30.0
 - pkg:cargo/sp-externalities@0.31.0
 - pkg:cargo/sp-externalities@0.32.0
+- pkg:cargo/sp-externalities@0.33.0
+- pkg:cargo/sp-externalities@0.34.0
 - pkg:cargo/sp-externalities@0.8.0
 - pkg:cargo/sp-externalities@0.8.0-alpha.2
 - pkg:cargo/sp-externalities@0.8.0-alpha.3
