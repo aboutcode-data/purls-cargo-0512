@@ -35,3 +35,13 @@
 - pkg:cargo/ll-sparql-parser@2.1.1
 - pkg:cargo/ll-sparql-parser@3.0.0
 - pkg:cargo/ll-sparql-parser@3.0.1
+- pkg:cargo/ll-sparql-parser@3.1.0
+- pkg:cargo/ll-sparql-parser@3.2.0
+- pkg:cargo/ll-sparql-parser@3.2.1
+- pkg:cargo/ll-sparql-parser@3.3.0
+- pkg:cargo/ll-sparql-parser@3.3.1
+- pkg:cargo/ll-sparql-parser@3.4.0
+- pkg:cargo/ll-sparql-parser@3.5.0
+- pkg:cargo/ll-sparql-parser@3.5.1
+- pkg:cargo/ll-sparql-parser@3.6.0
+- pkg:cargo/ll-sparql-parser@3.7.0
