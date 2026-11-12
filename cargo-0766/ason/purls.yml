@@ -23,3 +23,5 @@
 - pkg:cargo/ason@3.2.1
 - pkg:cargo/ason@3.4.0
 - pkg:cargo/ason@3.5.0
+- pkg:cargo/ason@3.6.0
+- pkg:cargo/ason@3.6.1
