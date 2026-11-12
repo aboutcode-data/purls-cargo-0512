@@ -76,3 +76,7 @@
 - pkg:cargo/spitfire-gui@0.36.7
 - pkg:cargo/spitfire-gui@0.36.8
 - pkg:cargo/spitfire-gui@0.36.9
+- pkg:cargo/spitfire-gui@0.37.0
+- pkg:cargo/spitfire-gui@0.37.1
+- pkg:cargo/spitfire-gui@0.38.0
+- pkg:cargo/spitfire-gui@0.38.1
