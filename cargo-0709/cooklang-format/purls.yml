@@ -1,2 +1,10 @@
 - pkg:cargo/cooklang-format@0.34.0
 - pkg:cargo/cooklang-format@0.35.0
+- pkg:cargo/cooklang-format@0.36.0
+- pkg:cargo/cooklang-format@0.37.0
+- pkg:cargo/cooklang-format@0.38.0
+- pkg:cargo/cooklang-format@0.38.1
+- pkg:cargo/cooklang-format@0.39.0
+- pkg:cargo/cooklang-format@0.40.0
+- pkg:cargo/cooklang-format@0.41.0
+- pkg:cargo/cooklang-format@0.41.1
