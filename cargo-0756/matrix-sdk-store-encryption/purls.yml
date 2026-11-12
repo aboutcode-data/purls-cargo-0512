@@ -8,6 +8,9 @@
 - pkg:cargo/matrix-sdk-store-encryption@0.16.0
 - pkg:cargo/matrix-sdk-store-encryption@0.16.1
 - pkg:cargo/matrix-sdk-store-encryption@0.17.0
+- pkg:cargo/matrix-sdk-store-encryption@0.18.0
+- pkg:cargo/matrix-sdk-store-encryption@0.19.0
+- pkg:cargo/matrix-sdk-store-encryption@0.19.1
 - pkg:cargo/matrix-sdk-store-encryption@0.2.0
 - pkg:cargo/matrix-sdk-store-encryption@0.7.0
 - pkg:cargo/matrix-sdk-store-encryption@0.8.0
