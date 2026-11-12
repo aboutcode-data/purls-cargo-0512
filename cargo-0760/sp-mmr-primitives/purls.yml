@@ -40,6 +40,8 @@
 - pkg:cargo/sp-mmr-primitives@40.0.0
 - pkg:cargo/sp-mmr-primitives@41.0.0
 - pkg:cargo/sp-mmr-primitives@42.0.0
+- pkg:cargo/sp-mmr-primitives@43.0.0
+- pkg:cargo/sp-mmr-primitives@44.0.0
 - pkg:cargo/sp-mmr-primitives@5.0.0
 - pkg:cargo/sp-mmr-primitives@6.0.0
 - pkg:cargo/sp-mmr-primitives@7.0.0
