@@ -61,3 +61,5 @@
 - pkg:cargo/spider-cloud-cli@0.1.84
 - pkg:cargo/spider-cloud-cli@0.1.85
 - pkg:cargo/spider-cloud-cli@0.1.87
+- pkg:cargo/spider-cloud-cli@0.1.90
+- pkg:cargo/spider-cloud-cli@0.1.91

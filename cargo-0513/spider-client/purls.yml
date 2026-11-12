@@ -76,3 +76,6 @@
 - pkg:cargo/spider-client@0.1.85
 - pkg:cargo/spider-client@0.1.87
 - pkg:cargo/spider-client@0.1.9
+- pkg:cargo/spider-client@0.1.90
+- pkg:cargo/spider-client@0.1.91
+- pkg:cargo/spider-client@0.1.92
