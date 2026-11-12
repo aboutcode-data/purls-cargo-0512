@@ -29,3 +29,8 @@
 - pkg:cargo/uni-crdt@3.2.0
 - pkg:cargo/uni-crdt@3.3.0
 - pkg:cargo/uni-crdt@3.4.0
+- pkg:cargo/uni-crdt@4.0.0
+- pkg:cargo/uni-crdt@4.1.0
+- pkg:cargo/uni-crdt@4.1.1
+- pkg:cargo/uni-crdt@5.0.0
+- pkg:cargo/uni-crdt@5.1.0

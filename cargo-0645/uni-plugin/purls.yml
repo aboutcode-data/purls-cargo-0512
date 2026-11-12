@@ -18,3 +18,8 @@
 - pkg:cargo/uni-plugin@3.2.0
 - pkg:cargo/uni-plugin@3.3.0
 - pkg:cargo/uni-plugin@3.4.0
+- pkg:cargo/uni-plugin@4.0.0
+- pkg:cargo/uni-plugin@4.1.0
+- pkg:cargo/uni-plugin@4.1.1
+- pkg:cargo/uni-plugin@5.0.0
+- pkg:cargo/uni-plugin@5.1.0
