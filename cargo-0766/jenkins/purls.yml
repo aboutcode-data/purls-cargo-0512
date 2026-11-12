@@ -14,7 +14,15 @@
 - pkg:cargo/jenkins@0.1.22
 - pkg:cargo/jenkins@0.1.24
 - pkg:cargo/jenkins@0.1.25
+- pkg:cargo/jenkins@0.1.27
+- pkg:cargo/jenkins@0.1.28
+- pkg:cargo/jenkins@0.1.29
 - pkg:cargo/jenkins@0.1.3
+- pkg:cargo/jenkins@0.1.30
+- pkg:cargo/jenkins@0.1.31
+- pkg:cargo/jenkins@0.1.32
+- pkg:cargo/jenkins@0.1.33
+- pkg:cargo/jenkins@0.1.34
 - pkg:cargo/jenkins@0.1.4
 - pkg:cargo/jenkins@0.1.5
 - pkg:cargo/jenkins@0.1.6
