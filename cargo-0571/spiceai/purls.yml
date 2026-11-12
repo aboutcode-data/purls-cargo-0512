@@ -1,3 +1,5 @@
 - pkg:cargo/spiceai@1.0.3
 - pkg:cargo/spiceai@2.0.0
 - pkg:cargo/spiceai@3.0.0
+- pkg:cargo/spiceai@4.0.0
+- pkg:cargo/spiceai@5.0.0
