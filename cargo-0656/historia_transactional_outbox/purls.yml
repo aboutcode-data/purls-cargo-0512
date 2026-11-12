@@ -1,0 +1,3 @@
+- pkg:cargo/historia_transactional_outbox@0.1.0
+- pkg:cargo/historia_transactional_outbox@0.1.1
+- pkg:cargo/historia_transactional_outbox@0.2.0
