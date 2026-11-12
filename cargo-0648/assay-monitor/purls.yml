@@ -98,6 +98,7 @@
 - pkg:cargo/assay-monitor@6.22.3
 - pkg:cargo/assay-monitor@6.23.0
 - pkg:cargo/assay-monitor@6.24.0
+- pkg:cargo/assay-monitor@6.25.0
 - pkg:cargo/assay-monitor@6.3.0
 - pkg:cargo/assay-monitor@6.3.1
 - pkg:cargo/assay-monitor@6.4.0
