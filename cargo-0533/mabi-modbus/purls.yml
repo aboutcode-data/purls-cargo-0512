@@ -22,3 +22,4 @@
 - pkg:cargo/mabi-modbus@1.6.2
 - pkg:cargo/mabi-modbus@1.6.3
 - pkg:cargo/mabi-modbus@1.7.0
+- pkg:cargo/mabi-modbus@1.7.1
