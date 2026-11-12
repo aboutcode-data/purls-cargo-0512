@@ -5,3 +5,4 @@
 - pkg:cargo/convex-core@0.10.32
 - pkg:cargo/convex-core@0.11.0
 - pkg:cargo/convex-core@0.11.1
+- pkg:cargo/convex-core@0.14.0
