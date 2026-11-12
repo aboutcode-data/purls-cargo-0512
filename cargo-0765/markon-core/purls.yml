@@ -1,2 +1,13 @@
 - pkg:cargo/markon-core@0.11.4
+- pkg:cargo/markon-core@0.13.10
+- pkg:cargo/markon-core@0.15.13
+- pkg:cargo/markon-core@0.15.14
+- pkg:cargo/markon-core@0.15.15
+- pkg:cargo/markon-core@0.15.23
+- pkg:cargo/markon-core@0.15.25
+- pkg:cargo/markon-core@0.15.26
+- pkg:cargo/markon-core@0.15.27
+- pkg:cargo/markon-core@0.15.28
+- pkg:cargo/markon-core@0.15.29
+- pkg:cargo/markon-core@0.15.31
 - pkg:cargo/markon-core@0.9.1

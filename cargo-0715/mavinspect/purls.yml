@@ -33,3 +33,4 @@
 - pkg:cargo/mavinspect@0.6.4
 - pkg:cargo/mavinspect@0.6.5
 - pkg:cargo/mavinspect@0.6.6
+- pkg:cargo/mavinspect@0.7.0-rc.1
