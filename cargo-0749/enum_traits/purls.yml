@@ -4,3 +4,5 @@
 - pkg:cargo/enum_traits@0.2.0
 - pkg:cargo/enum_traits@0.3.0
 - pkg:cargo/enum_traits@4.0.0
+- pkg:cargo/enum_traits@6.0.0
+- pkg:cargo/enum_traits@6.1.0
