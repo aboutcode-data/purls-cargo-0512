@@ -1,1 +1,2 @@
 - pkg:cargo/jlf-tui@0.4.0-dev
+- pkg:cargo/jlf-tui@1.0.0
