@@ -7,3 +7,5 @@
 - pkg:cargo/unicode_names2_generator@2.0.0
 - pkg:cargo/unicode_names2_generator@3.0.0
 - pkg:cargo/unicode_names2_generator@3.1.0
+- pkg:cargo/unicode_names2_generator@3.1.1
+- pkg:cargo/unicode_names2_generator@4.0.0
