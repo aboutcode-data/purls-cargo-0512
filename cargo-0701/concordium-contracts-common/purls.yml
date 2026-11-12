@@ -5,6 +5,7 @@
 - pkg:cargo/concordium-contracts-common@0.4.0
 - pkg:cargo/concordium-contracts-common@1.0.0
 - pkg:cargo/concordium-contracts-common@1.0.1
+- pkg:cargo/concordium-contracts-common@10.0.0
 - pkg:cargo/concordium-contracts-common@2.0.0
 - pkg:cargo/concordium-contracts-common@3.0.0
 - pkg:cargo/concordium-contracts-common@3.1.0
