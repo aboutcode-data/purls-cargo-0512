@@ -1,0 +1,4 @@
+- pkg:cargo/magma-gpu@0.1.76-alpha.0
+- pkg:cargo/magma-gpu@0.1.80
+- pkg:cargo/magma-gpu@0.1.80-alpha.0
+- pkg:cargo/magma-gpu@0.1.85
