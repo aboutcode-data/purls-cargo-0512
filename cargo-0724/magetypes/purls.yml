@@ -31,7 +31,17 @@
 - pkg:cargo/magetypes@0.9.21
 - pkg:cargo/magetypes@0.9.22
 - pkg:cargo/magetypes@0.9.23
+- pkg:cargo/magetypes@0.9.24
+- pkg:cargo/magetypes@0.9.25
+- pkg:cargo/magetypes@0.9.26
+- pkg:cargo/magetypes@0.9.27
+- pkg:cargo/magetypes@0.9.28
+- pkg:cargo/magetypes@0.9.29
 - pkg:cargo/magetypes@0.9.3
+- pkg:cargo/magetypes@0.9.30
+- pkg:cargo/magetypes@0.9.31
+- pkg:cargo/magetypes@0.9.31-beta.1
+- pkg:cargo/magetypes@0.9.31-beta.2
 - pkg:cargo/magetypes@0.9.4
 - pkg:cargo/magetypes@0.9.5
 - pkg:cargo/magetypes@0.9.6
