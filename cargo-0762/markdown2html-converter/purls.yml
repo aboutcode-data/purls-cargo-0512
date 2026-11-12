@@ -25,3 +25,5 @@
 - pkg:cargo/markdown2html-converter@1.1.7
 - pkg:cargo/markdown2html-converter@1.1.8
 - pkg:cargo/markdown2html-converter@1.1.9
+- pkg:cargo/markdown2html-converter@2.1.0
+- pkg:cargo/markdown2html-converter@2.1.1
