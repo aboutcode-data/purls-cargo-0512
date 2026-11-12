@@ -50,4 +50,6 @@
 - pkg:cargo/quarb-neptune@0.56.0
 - pkg:cargo/quarb-neptune@0.57.0
 - pkg:cargo/quarb-neptune@0.58.0
+- pkg:cargo/quarb-neptune@0.59.0
+- pkg:cargo/quarb-neptune@0.60.0
 - pkg:cargo/quarb-neptune@0.9.0
