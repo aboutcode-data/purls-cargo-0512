@@ -5,3 +5,7 @@
 - pkg:cargo/spiffe-rustls-tokio@0.1.4
 - pkg:cargo/spiffe-rustls-tokio@0.2.0
 - pkg:cargo/spiffe-rustls-tokio@0.3.0
+- pkg:cargo/spiffe-rustls-tokio@0.4.0
+- pkg:cargo/spiffe-rustls-tokio@0.5.0
+- pkg:cargo/spiffe-rustls-tokio@0.6.0
+- pkg:cargo/spiffe-rustls-tokio@0.7.0

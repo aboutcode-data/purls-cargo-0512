@@ -3,3 +3,4 @@
 - pkg:cargo/spi-flash@0.2.1
 - pkg:cargo/spi-flash@0.2.2
 - pkg:cargo/spi-flash@0.3.0
+- pkg:cargo/spi-flash@0.4.0
