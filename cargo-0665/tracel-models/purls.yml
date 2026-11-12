@@ -1,2 +1,4 @@
 - pkg:cargo/tracel-models@0.11.0
 - pkg:cargo/tracel-models@0.12.0
+- pkg:cargo/tracel-models@0.12.1
+- pkg:cargo/tracel-models@0.12.2
