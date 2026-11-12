@@ -1,4 +1,9 @@
+- pkg:cargo/codewhale-command-contract@0.10.0
+- pkg:cargo/codewhale-command-contract@0.10.1
+- pkg:cargo/codewhale-command-contract@0.10.2
 - pkg:cargo/codewhale-command-contract@0.9.10
 - pkg:cargo/codewhale-command-contract@0.9.11
+- pkg:cargo/codewhale-command-contract@0.9.12
+- pkg:cargo/codewhale-command-contract@0.9.13
 - pkg:cargo/codewhale-command-contract@0.9.8
 - pkg:cargo/codewhale-command-contract@0.9.9
