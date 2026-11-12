@@ -7,3 +7,5 @@
 - pkg:cargo/tree-sitter-hek@0.6.1
 - pkg:cargo/tree-sitter-hek@0.6.2
 - pkg:cargo/tree-sitter-hek@0.6.3
+- pkg:cargo/tree-sitter-hek@0.6.4
+- pkg:cargo/tree-sitter-hek@0.7.0
