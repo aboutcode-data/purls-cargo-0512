@@ -3,6 +3,10 @@
 - pkg:cargo/sscli@0.1.12
 - pkg:cargo/sscli@0.1.13
 - pkg:cargo/sscli@0.1.14
+- pkg:cargo/sscli@0.1.15
+- pkg:cargo/sscli@0.1.16
+- pkg:cargo/sscli@0.1.17
+- pkg:cargo/sscli@0.1.18
 - pkg:cargo/sscli@0.1.2
 - pkg:cargo/sscli@0.1.4
 - pkg:cargo/sscli@0.1.5
