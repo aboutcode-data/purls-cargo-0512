@@ -1,3 +1,4 @@
 - pkg:cargo/spectralint@0.1.0
 - pkg:cargo/spectralint@0.3.0
 - pkg:cargo/spectralint@0.5.0
+- pkg:cargo/spectralint@0.7.2
