@@ -72,7 +72,14 @@
 - pkg:cargo/concord@2.5.13
 - pkg:cargo/concord@2.5.14
 - pkg:cargo/concord@2.5.15
+- pkg:cargo/concord@2.5.16
+- pkg:cargo/concord@2.5.17
+- pkg:cargo/concord@2.5.18
+- pkg:cargo/concord@2.5.19
 - pkg:cargo/concord@2.5.2
+- pkg:cargo/concord@2.5.20
+- pkg:cargo/concord@2.5.21
+- pkg:cargo/concord@2.5.22
 - pkg:cargo/concord@2.5.3
 - pkg:cargo/concord@2.5.4
 - pkg:cargo/concord@2.5.5
@@ -80,3 +87,9 @@
 - pkg:cargo/concord@2.5.7
 - pkg:cargo/concord@2.5.8
 - pkg:cargo/concord@2.5.9
+- pkg:cargo/concord@2.6.0
+- pkg:cargo/concord@2.6.1
+- pkg:cargo/concord@2.6.2
+- pkg:cargo/concord@2.6.3
+- pkg:cargo/concord@2.6.4
+- pkg:cargo/concord@2.7.0
