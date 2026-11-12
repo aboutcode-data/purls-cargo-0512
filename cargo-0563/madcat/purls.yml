@@ -1,1 +1,3 @@
-- pkg:cargo/madcat@0.0.1
+- pkg:cargo/madcat@0.1.0
+- pkg:cargo/madcat@3.0.0
+- pkg:cargo/madcat@5.2.2
