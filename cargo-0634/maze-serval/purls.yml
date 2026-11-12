@@ -28,6 +28,7 @@
 - pkg:cargo/maze-serval@0.5.2
 - pkg:cargo/maze-serval@0.5.3
 - pkg:cargo/maze-serval@0.6.0
+- pkg:cargo/maze-serval@0.6.10
 - pkg:cargo/maze-serval@0.6.2
 - pkg:cargo/maze-serval@0.6.3
 - pkg:cargo/maze-serval@0.6.4
@@ -35,3 +36,7 @@
 - pkg:cargo/maze-serval@0.6.7
 - pkg:cargo/maze-serval@0.6.8
 - pkg:cargo/maze-serval@0.6.9
+- pkg:cargo/maze-serval@0.7.0
+- pkg:cargo/maze-serval@0.7.1
+- pkg:cargo/maze-serval@0.7.2
+- pkg:cargo/maze-serval@0.8.2
