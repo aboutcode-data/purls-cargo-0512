@@ -24,3 +24,6 @@
 - pkg:cargo/himalaya@1.0.0-beta.3
 - pkg:cargo/himalaya@1.1.0
 - pkg:cargo/himalaya@1.2.0
+- pkg:cargo/himalaya@2.0.0
+- pkg:cargo/himalaya@2.1.0
+- pkg:cargo/himalaya@2.2.1
