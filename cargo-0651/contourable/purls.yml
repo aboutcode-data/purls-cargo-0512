@@ -13,3 +13,6 @@
 - pkg:cargo/contourable@0.6.0
 - pkg:cargo/contourable@0.7.0
 - pkg:cargo/contourable@0.8.0
+- pkg:cargo/contourable@1.0.0
+- pkg:cargo/contourable@2.0.0
+- pkg:cargo/contourable@2.0.1
