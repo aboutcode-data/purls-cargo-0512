@@ -1,0 +1,7 @@
+- pkg:cargo/mailrs-smtp-client@1.0.0
+- pkg:cargo/mailrs-smtp-client@1.0.1
+- pkg:cargo/mailrs-smtp-client@1.0.2
+- pkg:cargo/mailrs-smtp-client@1.0.3
+- pkg:cargo/mailrs-smtp-client@1.1.0
+- pkg:cargo/mailrs-smtp-client@2.0.1
+- pkg:cargo/mailrs-smtp-client@3.0.0
