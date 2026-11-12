@@ -22,3 +22,4 @@
 - pkg:cargo/lingxia-windows-build@0.27.0
 - pkg:cargo/lingxia-windows-build@0.28.0
 - pkg:cargo/lingxia-windows-build@0.29.0
+- pkg:cargo/lingxia-windows-build@0.30.0
