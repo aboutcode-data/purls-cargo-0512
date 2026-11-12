@@ -1,3 +1,4 @@
 - pkg:cargo/sdkt-audit-example-rule@2.0.0
 - pkg:cargo/sdkt-audit-example-rule@2.4.0
 - pkg:cargo/sdkt-audit-example-rule@2.5.0
+- pkg:cargo/sdkt-audit-example-rule@2.7.0
