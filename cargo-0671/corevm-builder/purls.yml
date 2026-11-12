@@ -1,2 +1,3 @@
 - pkg:cargo/corevm-builder@0.1.26
 - pkg:cargo/corevm-builder@0.1.28
+- pkg:cargo/corevm-builder@0.1.29
