@@ -8,3 +8,4 @@
 - pkg:cargo/compress-lib@0.8.0
 - pkg:cargo/compress-lib@0.9.0
 - pkg:cargo/compress-lib@1.0.0
+- pkg:cargo/compress-lib@1.1.0
