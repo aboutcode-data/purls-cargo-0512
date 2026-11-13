@@ -1,5 +1,6 @@
 - pkg:cargo/send_it_vm@0.1.0
 - pkg:cargo/send_it_vm@0.10.0
+- pkg:cargo/send_it_vm@0.11.0
 - pkg:cargo/send_it_vm@0.2.0
 - pkg:cargo/send_it_vm@0.3.0
 - pkg:cargo/send_it_vm@0.3.1
