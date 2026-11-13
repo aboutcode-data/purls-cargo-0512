@@ -3,3 +3,5 @@
 - pkg:cargo/greengate-runtime@3.1.0
 - pkg:cargo/greengate-runtime@3.2.0
 - pkg:cargo/greengate-runtime@4.0.0
+- pkg:cargo/greengate-runtime@4.1.0
+- pkg:cargo/greengate-runtime@4.2.0
