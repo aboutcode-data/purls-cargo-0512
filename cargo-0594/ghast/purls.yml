@@ -8,3 +8,4 @@
 - pkg:cargo/ghast@0.2.3
 - pkg:cargo/ghast@0.3.0
 - pkg:cargo/ghast@0.4.0
+- pkg:cargo/ghast@0.4.1
