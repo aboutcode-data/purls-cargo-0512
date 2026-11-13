@@ -178,6 +178,7 @@
 - pkg:cargo/trust-tasks-didcomm-v1@0.37.7
 - pkg:cargo/trust-tasks-didcomm-v1@0.37.8
 - pkg:cargo/trust-tasks-didcomm-v1@0.37.9
+- pkg:cargo/trust-tasks-didcomm-v1@0.38.0
 - pkg:cargo/trust-tasks-didcomm-v1@0.4.0
 - pkg:cargo/trust-tasks-didcomm-v1@0.5.0
 - pkg:cargo/trust-tasks-didcomm-v1@0.6.0
