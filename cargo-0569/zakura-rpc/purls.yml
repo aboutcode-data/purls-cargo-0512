@@ -15,6 +15,7 @@
 - pkg:cargo/zakura-rpc@15.0.0
 - pkg:cargo/zakura-rpc@16.0.0
 - pkg:cargo/zakura-rpc@17.0.0
+- pkg:cargo/zakura-rpc@18.0.0
 - pkg:cargo/zakura-rpc@2.0.0
 - pkg:cargo/zakura-rpc@3.0.0
 - pkg:cargo/zakura-rpc@3.0.0-rc0
