@@ -1,4 +1,5 @@
 - pkg:cargo/spl-asdlc@1.10.0
+- pkg:cargo/spl-asdlc@1.11.0
 - pkg:cargo/spl-asdlc@1.3.2
 - pkg:cargo/spl-asdlc@1.4.1
 - pkg:cargo/spl-asdlc@1.4.2
