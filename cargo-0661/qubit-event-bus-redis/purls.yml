@@ -1,0 +1,2 @@
+- pkg:cargo/qubit-event-bus-redis@0.7.1
+- pkg:cargo/qubit-event-bus-redis@0.7.2

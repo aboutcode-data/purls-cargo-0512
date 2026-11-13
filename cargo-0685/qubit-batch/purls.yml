@@ -4,6 +4,7 @@
 - pkg:cargo/qubit-batch@0.14.1
 - pkg:cargo/qubit-batch@0.14.3
 - pkg:cargo/qubit-batch@0.14.4
+- pkg:cargo/qubit-batch@0.14.5
 - pkg:cargo/qubit-batch@0.3.1
 - pkg:cargo/qubit-batch@0.4.0
 - pkg:cargo/qubit-batch@0.4.1
