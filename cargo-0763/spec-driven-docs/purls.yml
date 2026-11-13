@@ -19,6 +19,9 @@
 - pkg:cargo/spec-driven-docs@0.15.0
 - pkg:cargo/spec-driven-docs@0.15.1
 - pkg:cargo/spec-driven-docs@0.15.2
+- pkg:cargo/spec-driven-docs@0.16.0
+- pkg:cargo/spec-driven-docs@0.16.1
+- pkg:cargo/spec-driven-docs@0.17.0
 - pkg:cargo/spec-driven-docs@0.2.0
 - pkg:cargo/spec-driven-docs@0.3.0
 - pkg:cargo/spec-driven-docs@0.3.1
