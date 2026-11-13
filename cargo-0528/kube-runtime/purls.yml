@@ -87,3 +87,4 @@
 - pkg:cargo/kube-runtime@4.0.0
 - pkg:cargo/kube-runtime@4.2.0
 - pkg:cargo/kube-runtime@5.0.0
+- pkg:cargo/kube-runtime@5.1.0
