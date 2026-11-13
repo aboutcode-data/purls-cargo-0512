@@ -23,6 +23,9 @@
 - pkg:cargo/dpc-tau-client@0.31.0
 - pkg:cargo/dpc-tau-client@0.32.0
 - pkg:cargo/dpc-tau-client@0.35.0
+- pkg:cargo/dpc-tau-client@0.36.0
+- pkg:cargo/dpc-tau-client@0.37.0
+- pkg:cargo/dpc-tau-client@0.38.0
 - pkg:cargo/dpc-tau-client@0.4.0
 - pkg:cargo/dpc-tau-client@0.5.0
 - pkg:cargo/dpc-tau-client@0.6.0
