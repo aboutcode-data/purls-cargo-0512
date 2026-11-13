@@ -8,6 +8,8 @@
 - pkg:cargo/universal-weave@0.11.1
 - pkg:cargo/universal-weave@0.12.0
 - pkg:cargo/universal-weave@0.12.1
+- pkg:cargo/universal-weave@0.12.2
+- pkg:cargo/universal-weave@0.13.0
 - pkg:cargo/universal-weave@0.2.0
 - pkg:cargo/universal-weave@0.3.0
 - pkg:cargo/universal-weave@0.4.0
