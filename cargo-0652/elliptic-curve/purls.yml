@@ -91,6 +91,8 @@
 - pkg:cargo/elliptic-curve@0.14.0-rc.8
 - pkg:cargo/elliptic-curve@0.14.0-rc.9
 - pkg:cargo/elliptic-curve@0.14.1
+- pkg:cargo/elliptic-curve@0.14.2
+- pkg:cargo/elliptic-curve@0.14.3
 - pkg:cargo/elliptic-curve@0.2.0
 - pkg:cargo/elliptic-curve@0.3.0
 - pkg:cargo/elliptic-curve@0.4.0
