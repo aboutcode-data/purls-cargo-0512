@@ -1,1 +1,3 @@
 - pkg:cargo/gliclass-rs@0.9.0
+- pkg:cargo/gliclass-rs@0.9.1
+- pkg:cargo/gliclass-rs@1.0.0
