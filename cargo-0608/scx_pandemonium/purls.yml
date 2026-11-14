@@ -1,2 +1,5 @@
+- pkg:cargo/scx_pandemonium@5.14.1
+- pkg:cargo/scx_pandemonium@5.18.1
+- pkg:cargo/scx_pandemonium@5.23.1
 - pkg:cargo/scx_pandemonium@5.4.13
 - pkg:cargo/scx_pandemonium@5.9.1

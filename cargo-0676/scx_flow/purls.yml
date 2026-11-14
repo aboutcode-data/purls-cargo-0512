@@ -1,1 +1,4 @@
 - pkg:cargo/scx_flow@2.2.5
+- pkg:cargo/scx_flow@3.1.1
+- pkg:cargo/scx_flow@3.1.2
+- pkg:cargo/scx_flow@4.8.15
