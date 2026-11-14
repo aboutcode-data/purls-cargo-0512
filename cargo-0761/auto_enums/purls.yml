@@ -48,6 +48,7 @@
 - pkg:cargo/auto_enums@0.7.9
 - pkg:cargo/auto_enums@0.8.0
 - pkg:cargo/auto_enums@0.8.1
+- pkg:cargo/auto_enums@0.8.10
 - pkg:cargo/auto_enums@0.8.2
 - pkg:cargo/auto_enums@0.8.3
 - pkg:cargo/auto_enums@0.8.4
@@ -55,3 +56,4 @@
 - pkg:cargo/auto_enums@0.8.6
 - pkg:cargo/auto_enums@0.8.7
 - pkg:cargo/auto_enums@0.8.8
+- pkg:cargo/auto_enums@0.8.9
