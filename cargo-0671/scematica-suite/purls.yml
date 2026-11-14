@@ -1,2 +1,8 @@
 - pkg:cargo/scematica-suite@1.11.0
 - pkg:cargo/scematica-suite@1.11.1
+- pkg:cargo/scematica-suite@1.11.2
+- pkg:cargo/scematica-suite@1.12.0
+- pkg:cargo/scematica-suite@1.15.0
+- pkg:cargo/scematica-suite@1.25.0
+- pkg:cargo/scematica-suite@1.26.0
+- pkg:cargo/scematica-suite@1.28.0
