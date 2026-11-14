@@ -6,3 +6,5 @@
 - pkg:cargo/nami-derive@0.2.4
 - pkg:cargo/nami-derive@0.3.0
 - pkg:cargo/nami-derive@0.3.1
+- pkg:cargo/nami-derive@0.4.0
+- pkg:cargo/nami-derive@0.5.0
