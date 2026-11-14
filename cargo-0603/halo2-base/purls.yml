@@ -4,3 +4,4 @@
 - pkg:cargo/halo2-base@0.5.1
 - pkg:cargo/halo2-base@0.5.4
 - pkg:cargo/halo2-base@0.5.5
+- pkg:cargo/halo2-base@0.5.6
