@@ -57,6 +57,10 @@
 - pkg:cargo/sc-client-api@44.0.0
 - pkg:cargo/sc-client-api@45.0.0
 - pkg:cargo/sc-client-api@46.0.0
+- pkg:cargo/sc-client-api@47.0.0
+- pkg:cargo/sc-client-api@47.0.1
+- pkg:cargo/sc-client-api@48.0.0
+- pkg:cargo/sc-client-api@49.0.0
 - pkg:cargo/sc-client-api@5.0.0
 - pkg:cargo/sc-client-api@6.0.0
 - pkg:cargo/sc-client-api@7.0.0
