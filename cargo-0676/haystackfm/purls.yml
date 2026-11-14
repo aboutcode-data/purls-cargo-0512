@@ -2,3 +2,5 @@
 - pkg:cargo/haystackfm@0.2.0
 - pkg:cargo/haystackfm@0.3.0
 - pkg:cargo/haystackfm@0.4.0
+- pkg:cargo/haystackfm@0.6.8
+- pkg:cargo/haystackfm@0.7.0

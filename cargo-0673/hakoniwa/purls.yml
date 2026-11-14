@@ -36,3 +36,5 @@
 - pkg:cargo/hakoniwa@1.7.0
 - pkg:cargo/hakoniwa@1.7.1
 - pkg:cargo/hakoniwa@1.7.2
+- pkg:cargo/hakoniwa@1.8.0
+- pkg:cargo/hakoniwa@1.8.1
