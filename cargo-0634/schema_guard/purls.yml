@@ -1,3 +1,9 @@
 - pkg:cargo/schema_guard@1.6.1
 - pkg:cargo/schema_guard@1.6.2
 - pkg:cargo/schema_guard@1.9.1
+- pkg:cargo/schema_guard@2.0.1
+- pkg:cargo/schema_guard@2.1.0
+- pkg:cargo/schema_guard@2.2.0
+- pkg:cargo/schema_guard@2.3.0
+- pkg:cargo/schema_guard@2.3.1
+- pkg:cargo/schema_guard@2.3.2
