@@ -56,3 +56,8 @@
 - pkg:cargo/kiddo@6.0.0-alpha.2
 - pkg:cargo/kiddo@6.0.0-alpha.3
 - pkg:cargo/kiddo@6.0.0-alpha.4
+- pkg:cargo/kiddo@6.0.1
+- pkg:cargo/kiddo@6.0.2
+- pkg:cargo/kiddo@6.1.0
+- pkg:cargo/kiddo@6.2.0
+- pkg:cargo/kiddo@6.3.0
