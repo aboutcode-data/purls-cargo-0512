@@ -3,6 +3,7 @@
 - pkg:cargo/puroro-codegen@0.12.0
 - pkg:cargo/puroro-codegen@0.13.0
 - pkg:cargo/puroro-codegen@0.14.0
+- pkg:cargo/puroro-codegen@0.14.2
 - pkg:cargo/puroro-codegen@0.7.0
 - pkg:cargo/puroro-codegen@0.8.0
 - pkg:cargo/puroro-codegen@0.9.0
