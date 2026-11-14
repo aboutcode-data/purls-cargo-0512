@@ -49,3 +49,4 @@
 - pkg:cargo/holochain_scaffolding_cli@0.603.0
 - pkg:cargo/holochain_scaffolding_cli@0.700.0
 - pkg:cargo/holochain_scaffolding_cli@0.700.0-rc.0
+- pkg:cargo/holochain_scaffolding_cli@0.700.1
