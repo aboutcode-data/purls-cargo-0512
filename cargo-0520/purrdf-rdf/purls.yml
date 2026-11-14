@@ -28,3 +28,8 @@
 - pkg:cargo/purrdf-rdf@2.0.0
 - pkg:cargo/purrdf-rdf@2.0.1
 - pkg:cargo/purrdf-rdf@2.0.2
+- pkg:cargo/purrdf-rdf@3.0.0
+- pkg:cargo/purrdf-rdf@3.0.1
+- pkg:cargo/purrdf-rdf@4.0.0
+- pkg:cargo/purrdf-rdf@4.0.1
+- pkg:cargo/purrdf-rdf@4.0.2
