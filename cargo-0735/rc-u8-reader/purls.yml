@@ -9,6 +9,7 @@
 - pkg:cargo/rc-u8-reader@2.0.14
 - pkg:cargo/rc-u8-reader@2.0.15
 - pkg:cargo/rc-u8-reader@2.0.16
+- pkg:cargo/rc-u8-reader@2.0.17
 - pkg:cargo/rc-u8-reader@2.0.2
 - pkg:cargo/rc-u8-reader@2.0.3
 - pkg:cargo/rc-u8-reader@2.0.4
