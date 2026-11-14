@@ -18,3 +18,5 @@
 - pkg:cargo/scandir@2.9.7
 - pkg:cargo/scandir@2.9.8
 - pkg:cargo/scandir@2.9.9
+- pkg:cargo/scandir@3.0.0
+- pkg:cargo/scandir@3.1.0
