@@ -1,9 +1,14 @@
 - pkg:cargo/holger-rust-znippy-repository@0.4.0
 - pkg:cargo/holger-rust-znippy-repository@0.5.0
 - pkg:cargo/holger-rust-znippy-repository@0.5.1
+- pkg:cargo/holger-rust-znippy-repository@0.6.10
 - pkg:cargo/holger-rust-znippy-repository@0.6.3
 - pkg:cargo/holger-rust-znippy-repository@0.6.4
 - pkg:cargo/holger-rust-znippy-repository@0.6.5
 - pkg:cargo/holger-rust-znippy-repository@0.6.6
 - pkg:cargo/holger-rust-znippy-repository@0.6.7
 - pkg:cargo/holger-rust-znippy-repository@0.6.9
+- pkg:cargo/holger-rust-znippy-repository@2.0.0
+- pkg:cargo/holger-rust-znippy-repository@3.0.0
+- pkg:cargo/holger-rust-znippy-repository@3.1.1
+- pkg:cargo/holger-rust-znippy-repository@3.3.2
