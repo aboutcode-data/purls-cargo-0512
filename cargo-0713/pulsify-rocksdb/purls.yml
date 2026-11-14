@@ -1,0 +1,4 @@
+- pkg:cargo/pulsify-rocksdb@11.0.0
+- pkg:cargo/pulsify-rocksdb@11.0.1
+- pkg:cargo/pulsify-rocksdb@12.0.0
+- pkg:cargo/pulsify-rocksdb@12.1.0
