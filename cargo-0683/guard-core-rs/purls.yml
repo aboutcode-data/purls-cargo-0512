@@ -1,1 +1,9 @@
 - pkg:cargo/guard-core-rs@0.0.1
+- pkg:cargo/guard-core-rs@4.0.4
+- pkg:cargo/guard-core-rs@4.1.0
+- pkg:cargo/guard-core-rs@4.2.0
+- pkg:cargo/guard-core-rs@4.3.0
+- pkg:cargo/guard-core-rs@4.3.1
+- pkg:cargo/guard-core-rs@4.3.2
+- pkg:cargo/guard-core-rs@4.3.3
+- pkg:cargo/guard-core-rs@4.4.0
