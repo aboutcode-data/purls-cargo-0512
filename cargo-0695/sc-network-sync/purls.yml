@@ -56,3 +56,7 @@
 - pkg:cargo/sc-network-sync@0.55.1
 - pkg:cargo/sc-network-sync@0.56.0
 - pkg:cargo/sc-network-sync@0.56.1
+- pkg:cargo/sc-network-sync@0.57.0
+- pkg:cargo/sc-network-sync@0.58.0
+- pkg:cargo/sc-network-sync@0.59.0
+- pkg:cargo/sc-network-sync@0.60.0
