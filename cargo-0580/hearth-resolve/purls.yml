@@ -15,3 +15,5 @@
 - pkg:cargo/hearth-resolve@0.4.3
 - pkg:cargo/hearth-resolve@0.4.5
 - pkg:cargo/hearth-resolve@0.4.6
+- pkg:cargo/hearth-resolve@0.4.7
+- pkg:cargo/hearth-resolve@0.5.0
