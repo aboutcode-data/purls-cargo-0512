@@ -1,3 +1,7 @@
+- pkg:cargo/nagami@2026.10.0
+- pkg:cargo/nagami@2026.10.1
+- pkg:cargo/nagami@2026.10.2
+- pkg:cargo/nagami@2026.11.0
 - pkg:cargo/nagami@2026.4.61
 - pkg:cargo/nagami@2026.4.62
 - pkg:cargo/nagami@2026.5.29
@@ -13,3 +17,8 @@
 - pkg:cargo/nagami@2026.6.9
 - pkg:cargo/nagami@2026.7.1
 - pkg:cargo/nagami@2026.7.2
+- pkg:cargo/nagami@2026.9.0
+- pkg:cargo/nagami@2026.9.2
+- pkg:cargo/nagami@2026.9.3
+- pkg:cargo/nagami@2026.9.5
+- pkg:cargo/nagami@2026.9.6
