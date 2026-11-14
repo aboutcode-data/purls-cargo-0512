@@ -40,7 +40,12 @@
 - pkg:cargo/harper-brill@1.8.0
 - pkg:cargo/harper-brill@1.9.0
 - pkg:cargo/harper-brill@2.0.0
+- pkg:cargo/harper-brill@2.10.0
+- pkg:cargo/harper-brill@2.11.0
+- pkg:cargo/harper-brill@2.13.0
 - pkg:cargo/harper-brill@2.4.0
 - pkg:cargo/harper-brill@2.5.0
 - pkg:cargo/harper-brill@2.7.0
 - pkg:cargo/harper-brill@2.8.0
+- pkg:cargo/harper-brill@3.0.0
+- pkg:cargo/harper-brill@3.2.0
