@@ -1,1 +1,2 @@
 - pkg:cargo/dynlink-posix@0.1.0
+- pkg:cargo/dynlink-posix@1.0.0
