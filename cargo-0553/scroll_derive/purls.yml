@@ -10,6 +10,7 @@
 - pkg:cargo/scroll_derive@0.12.1
 - pkg:cargo/scroll_derive@0.13.0
 - pkg:cargo/scroll_derive@0.13.1
+- pkg:cargo/scroll_derive@0.13.2
 - pkg:cargo/scroll_derive@0.3.0
 - pkg:cargo/scroll_derive@0.4.0
 - pkg:cargo/scroll_derive@0.5.0
