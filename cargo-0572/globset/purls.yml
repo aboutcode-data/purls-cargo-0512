@@ -17,7 +17,10 @@
 - pkg:cargo/globset@0.4.16
 - pkg:cargo/globset@0.4.17
 - pkg:cargo/globset@0.4.18
+- pkg:cargo/globset@0.4.19
 - pkg:cargo/globset@0.4.2
+- pkg:cargo/globset@0.4.20
+- pkg:cargo/globset@0.4.21
 - pkg:cargo/globset@0.4.3
 - pkg:cargo/globset@0.4.4
 - pkg:cargo/globset@0.4.5
