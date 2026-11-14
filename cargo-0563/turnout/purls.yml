@@ -38,3 +38,4 @@
 - pkg:cargo/turnout@0.9.1
 - pkg:cargo/turnout@1.0.0
 - pkg:cargo/turnout@1.0.1
+- pkg:cargo/turnout@1.1.0
