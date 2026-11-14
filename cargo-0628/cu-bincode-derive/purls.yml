@@ -1,1 +1,4 @@
 - pkg:cargo/cu-bincode-derive@2.0.2
+- pkg:cargo/cu-bincode-derive@2.1.0
+- pkg:cargo/cu-bincode-derive@2.2.0
+- pkg:cargo/cu-bincode-derive@2.2.0-beta
