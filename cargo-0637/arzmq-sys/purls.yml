@@ -16,3 +16,4 @@
 - pkg:cargo/arzmq-sys@0.6.1
 - pkg:cargo/arzmq-sys@0.6.2
 - pkg:cargo/arzmq-sys@0.6.3
+- pkg:cargo/arzmq-sys@0.7.0
