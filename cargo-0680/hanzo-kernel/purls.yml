@@ -17,6 +17,8 @@
 - pkg:cargo/hanzo-kernel@0.2.4
 - pkg:cargo/hanzo-kernel@0.2.40
 - pkg:cargo/hanzo-kernel@0.2.41
+- pkg:cargo/hanzo-kernel@0.2.42
+- pkg:cargo/hanzo-kernel@0.2.43
 - pkg:cargo/hanzo-kernel@0.2.5
 - pkg:cargo/hanzo-kernel@0.2.6
 - pkg:cargo/hanzo-kernel@0.2.7
