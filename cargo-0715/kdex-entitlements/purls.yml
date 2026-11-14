@@ -8,3 +8,6 @@
 - pkg:cargo/kdex-entitlements@0.2.1
 - pkg:cargo/kdex-entitlements@0.3.0
 - pkg:cargo/kdex-entitlements@0.4.0
+- pkg:cargo/kdex-entitlements@0.5.0
+- pkg:cargo/kdex-entitlements@0.6.0
+- pkg:cargo/kdex-entitlements@0.7.0
