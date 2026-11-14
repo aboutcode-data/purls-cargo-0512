@@ -1,0 +1,13 @@
+- pkg:cargo/octet-attest-verify@1.1.0
+- pkg:cargo/octet-attest-verify@2.1.0
+- pkg:cargo/octet-attest-verify@2.1.1
+- pkg:cargo/octet-attest-verify@2.2.0
+- pkg:cargo/octet-attest-verify@2.2.1
+- pkg:cargo/octet-attest-verify@2.3.0
+- pkg:cargo/octet-attest-verify@2.3.1
+- pkg:cargo/octet-attest-verify@2.3.2
+- pkg:cargo/octet-attest-verify@2.3.3
+- pkg:cargo/octet-attest-verify@2.4.0
+- pkg:cargo/octet-attest-verify@2.4.1
+- pkg:cargo/octet-attest-verify@2.5.0
+- pkg:cargo/octet-attest-verify@2.6.0
