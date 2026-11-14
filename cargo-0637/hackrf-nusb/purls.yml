@@ -1,3 +1,5 @@
 - pkg:cargo/hackrf-nusb@0.1.0
 - pkg:cargo/hackrf-nusb@0.2.0
 - pkg:cargo/hackrf-nusb@0.3.0
+- pkg:cargo/hackrf-nusb@0.4.0
+- pkg:cargo/hackrf-nusb@0.4.1

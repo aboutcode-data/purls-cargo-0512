@@ -7,3 +7,5 @@
 - pkg:cargo/hamcrest2@0.2.5
 - pkg:cargo/hamcrest2@0.2.6
 - pkg:cargo/hamcrest2@0.3.0
+- pkg:cargo/hamcrest2@1.0.0
+- pkg:cargo/hamcrest2@1.0.1
