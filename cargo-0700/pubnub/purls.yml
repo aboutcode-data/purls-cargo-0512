@@ -7,3 +7,4 @@
 - pkg:cargo/pubnub@0.6.0
 - pkg:cargo/pubnub@0.7.0
 - pkg:cargo/pubnub@0.8.0
+- pkg:cargo/pubnub@0.9.0
