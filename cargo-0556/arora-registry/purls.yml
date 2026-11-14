@@ -3,3 +3,5 @@
 - pkg:cargo/arora-registry@0.1.2
 - pkg:cargo/arora-registry@1.0.0
 - pkg:cargo/arora-registry@2.0.0
+- pkg:cargo/arora-registry@2.1.0
+- pkg:cargo/arora-registry@2.1.1
