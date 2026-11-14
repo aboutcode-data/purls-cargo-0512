@@ -23,6 +23,7 @@
 - pkg:cargo/hexasphere@19.0.0
 - pkg:cargo/hexasphere@2.0.0
 - pkg:cargo/hexasphere@2.1.0
+- pkg:cargo/hexasphere@20.0.0
 - pkg:cargo/hexasphere@3.0.0
 - pkg:cargo/hexasphere@3.1.0
 - pkg:cargo/hexasphere@3.1.1
