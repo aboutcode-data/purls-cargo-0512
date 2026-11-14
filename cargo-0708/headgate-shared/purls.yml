@@ -1,2 +1,6 @@
+- pkg:cargo/headgate-shared@0.1.10
 - pkg:cargo/headgate-shared@0.1.5
 - pkg:cargo/headgate-shared@0.1.6
+- pkg:cargo/headgate-shared@0.1.7
+- pkg:cargo/headgate-shared@0.1.8
+- pkg:cargo/headgate-shared@0.1.9
