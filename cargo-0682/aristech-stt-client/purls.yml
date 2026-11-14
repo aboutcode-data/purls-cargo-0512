@@ -18,3 +18,5 @@
 - pkg:cargo/aristech-stt-client@3.3.0
 - pkg:cargo/aristech-stt-client@3.4.0
 - pkg:cargo/aristech-stt-client@3.5.0
+- pkg:cargo/aristech-stt-client@3.5.1
+- pkg:cargo/aristech-stt-client@3.6.0
