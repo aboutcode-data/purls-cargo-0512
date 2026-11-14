@@ -7,3 +7,5 @@
 - pkg:cargo/dynamic-dispatch@0.4.3
 - pkg:cargo/dynamic-dispatch@0.5.3
 - pkg:cargo/dynamic-dispatch@0.5.4
+- pkg:cargo/dynamic-dispatch@0.5.5
+- pkg:cargo/dynamic-dispatch@0.5.6
