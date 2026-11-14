@@ -17,3 +17,8 @@
 - pkg:cargo/hadris-io@2.1.0
 - pkg:cargo/hadris-io@2.2.0
 - pkg:cargo/hadris-io@2.3.0
+- pkg:cargo/hadris-io@2.4.0
+- pkg:cargo/hadris-io@2.5.0
+- pkg:cargo/hadris-io@3.0.0-rc.1
+- pkg:cargo/hadris-io@3.0.0-rc.2
+- pkg:cargo/hadris-io@3.0.0-rc.3

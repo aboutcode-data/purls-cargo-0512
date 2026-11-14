@@ -15,3 +15,7 @@
 - pkg:cargo/hadris-macros@2.1.0
 - pkg:cargo/hadris-macros@2.2.0
 - pkg:cargo/hadris-macros@2.3.0
+- pkg:cargo/hadris-macros@2.4.0
+- pkg:cargo/hadris-macros@2.5.0
+- pkg:cargo/hadris-macros@3.0.0-rc.1
+- pkg:cargo/hadris-macros@3.0.0-rc.2
