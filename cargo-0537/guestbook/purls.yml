@@ -4,6 +4,8 @@
 - pkg:cargo/guestbook@0.2.1
 - pkg:cargo/guestbook@0.2.10
 - pkg:cargo/guestbook@0.2.12
+- pkg:cargo/guestbook@0.2.13
+- pkg:cargo/guestbook@0.2.14
 - pkg:cargo/guestbook@0.2.2
 - pkg:cargo/guestbook@0.2.3
 - pkg:cargo/guestbook@0.2.4
@@ -12,3 +14,5 @@
 - pkg:cargo/guestbook@0.2.7
 - pkg:cargo/guestbook@0.2.8
 - pkg:cargo/guestbook@0.2.9
+- pkg:cargo/guestbook@0.3.1
+- pkg:cargo/guestbook@0.3.2
