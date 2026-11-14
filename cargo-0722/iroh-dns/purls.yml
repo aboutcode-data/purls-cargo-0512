@@ -7,3 +7,5 @@
 - pkg:cargo/iroh-dns@1.0.3
 - pkg:cargo/iroh-dns@1.1.0
 - pkg:cargo/iroh-dns@1.3.0
+- pkg:cargo/iroh-dns@1.4.0
+- pkg:cargo/iroh-dns@1.4.1
