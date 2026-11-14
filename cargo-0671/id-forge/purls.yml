@@ -3,3 +3,5 @@
 - pkg:cargo/id-forge@0.9.2
 - pkg:cargo/id-forge@0.9.3
 - pkg:cargo/id-forge@1.0.0
+- pkg:cargo/id-forge@1.1.0
+- pkg:cargo/id-forge@1.2.0
