@@ -20,6 +20,14 @@
 - pkg:cargo/ironclad-ai-agent@0.5.1
 - pkg:cargo/ironclad-ai-agent@0.5.2
 - pkg:cargo/ironclad-ai-agent@0.6.0
+- pkg:cargo/ironclad-ai-agent@0.6.12
+- pkg:cargo/ironclad-ai-agent@0.6.13
+- pkg:cargo/ironclad-ai-agent@0.6.14
+- pkg:cargo/ironclad-ai-agent@0.6.15
+- pkg:cargo/ironclad-ai-agent@0.6.16
+- pkg:cargo/ironclad-ai-agent@0.6.17
+- pkg:cargo/ironclad-ai-agent@0.6.18
+- pkg:cargo/ironclad-ai-agent@0.6.19
 - pkg:cargo/ironclad-ai-agent@0.6.7
 - pkg:cargo/ironclad-ai-agent@0.6.8
 - pkg:cargo/ironclad-ai-agent@0.6.9

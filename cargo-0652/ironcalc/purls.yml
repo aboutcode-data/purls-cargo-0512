@@ -13,3 +13,5 @@
 - pkg:cargo/ironcalc@0.8.1
 - pkg:cargo/ironcalc@0.8.2
 - pkg:cargo/ironcalc@0.8.3
+- pkg:cargo/ironcalc@0.9.0
+- pkg:cargo/ironcalc@0.9.1
