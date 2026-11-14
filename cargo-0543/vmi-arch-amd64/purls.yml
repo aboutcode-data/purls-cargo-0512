@@ -2,6 +2,10 @@
 - pkg:cargo/vmi-arch-amd64@0.0.1-rc.1
 - pkg:cargo/vmi-arch-amd64@0.1.0
 - pkg:cargo/vmi-arch-amd64@0.1.1
+- pkg:cargo/vmi-arch-amd64@0.10.0
+- pkg:cargo/vmi-arch-amd64@0.11.0
+- pkg:cargo/vmi-arch-amd64@0.12.0
+- pkg:cargo/vmi-arch-amd64@0.13.0
 - pkg:cargo/vmi-arch-amd64@0.2.0
 - pkg:cargo/vmi-arch-amd64@0.3.0
 - pkg:cargo/vmi-arch-amd64@0.4.0
@@ -9,3 +13,5 @@
 - pkg:cargo/vmi-arch-amd64@0.5.1
 - pkg:cargo/vmi-arch-amd64@0.6.0
 - pkg:cargo/vmi-arch-amd64@0.7.0
+- pkg:cargo/vmi-arch-amd64@0.8.0
+- pkg:cargo/vmi-arch-amd64@0.9.0
