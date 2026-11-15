@@ -34,3 +34,4 @@
 - pkg:cargo/uni-crdt@4.1.1
 - pkg:cargo/uni-crdt@5.0.0
 - pkg:cargo/uni-crdt@5.1.0
+- pkg:cargo/uni-crdt@5.2.0
