@@ -11,6 +11,7 @@
 - pkg:cargo/windjammer@0.28.0
 - pkg:cargo/windjammer@0.29.0
 - pkg:cargo/windjammer@0.30.0
+- pkg:cargo/windjammer@0.35.0
 - pkg:cargo/windjammer@0.35.1
 - pkg:cargo/windjammer@0.35.2
 - pkg:cargo/windjammer@0.36.0
@@ -36,3 +37,4 @@
 - pkg:cargo/windjammer@0.44.0
 - pkg:cargo/windjammer@0.45.0
 - pkg:cargo/windjammer@0.47.0
+- pkg:cargo/windjammer@0.48.0
