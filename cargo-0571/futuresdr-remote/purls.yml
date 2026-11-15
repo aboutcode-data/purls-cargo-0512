@@ -5,3 +5,8 @@
 - pkg:cargo/futuresdr-remote@0.0.6
 - pkg:cargo/futuresdr-remote@0.0.7
 - pkg:cargo/futuresdr-remote@0.0.8
+- pkg:cargo/futuresdr-remote@0.10.0
+- pkg:cargo/futuresdr-remote@0.6.0
+- pkg:cargo/futuresdr-remote@0.7.0
+- pkg:cargo/futuresdr-remote@0.8.0
+- pkg:cargo/futuresdr-remote@0.9.0
