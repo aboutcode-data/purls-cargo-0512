@@ -8,3 +8,4 @@
 - pkg:cargo/koi-runtime@0.7.0
 - pkg:cargo/koi-runtime@0.9.0
 - pkg:cargo/koi-runtime@1.0.0-rc.1
+- pkg:cargo/koi-runtime@1.0.0-rc.2
