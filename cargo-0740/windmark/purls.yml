@@ -20,6 +20,8 @@
 - pkg:cargo/windmark@0.1.7
 - pkg:cargo/windmark@0.1.8
 - pkg:cargo/windmark@0.1.9
+- pkg:cargo/windmark@0.10.0
+- pkg:cargo/windmark@0.10.1
 - pkg:cargo/windmark@0.2.0
 - pkg:cargo/windmark@0.2.1
 - pkg:cargo/windmark@0.2.2
@@ -45,3 +47,6 @@
 - pkg:cargo/windmark@0.5.0
 - pkg:cargo/windmark@0.6.0
 - pkg:cargo/windmark@0.6.1
+- pkg:cargo/windmark@0.7.0
+- pkg:cargo/windmark@0.8.0
+- pkg:cargo/windmark@0.9.0
