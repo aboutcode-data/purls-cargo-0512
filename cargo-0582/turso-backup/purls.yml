@@ -14,3 +14,4 @@
 - pkg:cargo/turso-backup@0.8.46
 - pkg:cargo/turso-backup@0.8.48
 - pkg:cargo/turso-backup@0.8.51
+- pkg:cargo/turso-backup@0.9.0
