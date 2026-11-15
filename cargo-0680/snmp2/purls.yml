@@ -24,3 +24,4 @@
 - pkg:cargo/snmp2@0.4.9
 - pkg:cargo/snmp2@0.5.0
 - pkg:cargo/snmp2@0.5.2
+- pkg:cargo/snmp2@0.5.3
