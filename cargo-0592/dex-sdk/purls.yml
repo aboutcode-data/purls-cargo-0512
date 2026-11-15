@@ -47,4 +47,10 @@
 - pkg:cargo/dex-sdk@1.35.0
 - pkg:cargo/dex-sdk@1.37.0
 - pkg:cargo/dex-sdk@1.38.0
+- pkg:cargo/dex-sdk@1.39.0
 - pkg:cargo/dex-sdk@1.4.0
+- pkg:cargo/dex-sdk@1.40.0
+- pkg:cargo/dex-sdk@1.43.0
+- pkg:cargo/dex-sdk@1.44.0
+- pkg:cargo/dex-sdk@1.45.0
+- pkg:cargo/dex-sdk@1.45.1
