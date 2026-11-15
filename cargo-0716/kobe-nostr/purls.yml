@@ -5,3 +5,10 @@
 - pkg:cargo/kobe-nostr@1.1.1
 - pkg:cargo/kobe-nostr@2.0.0
 - pkg:cargo/kobe-nostr@2.0.1
+- pkg:cargo/kobe-nostr@3.0.0
+- pkg:cargo/kobe-nostr@3.1.0
+- pkg:cargo/kobe-nostr@3.1.1
+- pkg:cargo/kobe-nostr@3.2.0
+- pkg:cargo/kobe-nostr@3.3.0
+- pkg:cargo/kobe-nostr@3.4.0
+- pkg:cargo/kobe-nostr@4.0.0
