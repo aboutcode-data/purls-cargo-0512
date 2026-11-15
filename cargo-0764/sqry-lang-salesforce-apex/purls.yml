@@ -62,6 +62,9 @@
 - pkg:cargo/sqry-lang-salesforce-apex@30.0.0
 - pkg:cargo/sqry-lang-salesforce-apex@30.0.1
 - pkg:cargo/sqry-lang-salesforce-apex@31.0.0
+- pkg:cargo/sqry-lang-salesforce-apex@32.0.1
+- pkg:cargo/sqry-lang-salesforce-apex@33.0.0
+- pkg:cargo/sqry-lang-salesforce-apex@33.0.1
 - pkg:cargo/sqry-lang-salesforce-apex@4.10.0
 - pkg:cargo/sqry-lang-salesforce-apex@4.10.1
 - pkg:cargo/sqry-lang-salesforce-apex@4.10.13

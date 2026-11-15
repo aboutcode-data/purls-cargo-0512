@@ -63,6 +63,9 @@
 - pkg:cargo/sqry-lang-csharp@30.0.0
 - pkg:cargo/sqry-lang-csharp@30.0.1
 - pkg:cargo/sqry-lang-csharp@31.0.0
+- pkg:cargo/sqry-lang-csharp@32.0.1
+- pkg:cargo/sqry-lang-csharp@33.0.0
+- pkg:cargo/sqry-lang-csharp@33.0.1
 - pkg:cargo/sqry-lang-csharp@4.10.0
 - pkg:cargo/sqry-lang-csharp@4.10.1
 - pkg:cargo/sqry-lang-csharp@4.10.13
