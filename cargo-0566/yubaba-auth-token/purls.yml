@@ -4,3 +4,4 @@
 - pkg:cargo/yubaba-auth-token@0.8.47
 - pkg:cargo/yubaba-auth-token@0.8.48
 - pkg:cargo/yubaba-auth-token@0.8.51
+- pkg:cargo/yubaba-auth-token@0.9.0
