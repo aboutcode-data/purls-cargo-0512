@@ -1,4 +1,6 @@
 - pkg:cargo/snarkos-node-network@4.10.0
+- pkg:cargo/snarkos-node-network@4.11.0
+- pkg:cargo/snarkos-node-network@4.12.0
 - pkg:cargo/snarkos-node-network@4.2.2
 - pkg:cargo/snarkos-node-network@4.4.0
 - pkg:cargo/snarkos-node-network@4.5.0
