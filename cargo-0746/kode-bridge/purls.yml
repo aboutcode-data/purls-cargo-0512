@@ -17,3 +17,6 @@
 - pkg:cargo/kode-bridge@0.3.5
 - pkg:cargo/kode-bridge@0.3.6
 - pkg:cargo/kode-bridge@0.4.0
+- pkg:cargo/kode-bridge@0.5.0
+- pkg:cargo/kode-bridge@0.5.1
+- pkg:cargo/kode-bridge@0.5.2
