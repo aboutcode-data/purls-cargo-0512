@@ -16,4 +16,5 @@
 - pkg:cargo/ismp-grandpa@2506.2.0
 - pkg:cargo/ismp-grandpa@2512.0.0
 - pkg:cargo/ismp-grandpa@2512.1.0
+- pkg:cargo/ismp-grandpa@2512.2.0
 - pkg:cargo/ismp-grandpa@2606.0.0
