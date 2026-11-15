@@ -6,3 +6,5 @@
 - pkg:cargo/git-facade@1.4.0
 - pkg:cargo/git-facade@1.4.1
 - pkg:cargo/git-facade@1.4.2
+- pkg:cargo/git-facade@1.4.3
+- pkg:cargo/git-facade@1.4.4
