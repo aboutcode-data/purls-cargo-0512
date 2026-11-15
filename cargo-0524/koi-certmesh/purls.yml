@@ -18,3 +18,4 @@
 - pkg:cargo/koi-certmesh@0.7.0
 - pkg:cargo/koi-certmesh@0.9.0
 - pkg:cargo/koi-certmesh@1.0.0-rc.1
+- pkg:cargo/koi-certmesh@1.0.0-rc.2
