@@ -30,6 +30,10 @@
 - pkg:cargo/gix-glob@0.26.0
 - pkg:cargo/gix-glob@0.26.1
 - pkg:cargo/gix-glob@0.27.0
+- pkg:cargo/gix-glob@0.27.1
+- pkg:cargo/gix-glob@0.28.0
+- pkg:cargo/gix-glob@0.29.0
+- pkg:cargo/gix-glob@0.29.1
 - pkg:cargo/gix-glob@0.5.3
 - pkg:cargo/gix-glob@0.5.4
 - pkg:cargo/gix-glob@0.5.5
