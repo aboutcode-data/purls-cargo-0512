@@ -38,6 +38,7 @@
 - pkg:cargo/autocxx-gen@0.29.0
 - pkg:cargo/autocxx-gen@0.29.1
 - pkg:cargo/autocxx-gen@0.30.0
+- pkg:cargo/autocxx-gen@0.31.0
 - pkg:cargo/autocxx-gen@0.5.1
 - pkg:cargo/autocxx-gen@0.5.2
 - pkg:cargo/autocxx-gen@0.5.3
