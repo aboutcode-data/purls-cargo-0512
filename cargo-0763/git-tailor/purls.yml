@@ -5,3 +5,5 @@
 - pkg:cargo/git-tailor@0.5.0
 - pkg:cargo/git-tailor@1.0.0
 - pkg:cargo/git-tailor@2.0.0
+- pkg:cargo/git-tailor@3.0.0
+- pkg:cargo/git-tailor@3.1.0
