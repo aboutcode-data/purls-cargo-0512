@@ -4,3 +4,10 @@
 - pkg:cargo/llmrace@0.4.1
 - pkg:cargo/llmrace@0.4.2
 - pkg:cargo/llmrace@0.5.0
+- pkg:cargo/llmrace@0.5.1
+- pkg:cargo/llmrace@0.6.0
+- pkg:cargo/llmrace@0.7.0
+- pkg:cargo/llmrace@0.8.0
+- pkg:cargo/llmrace@1.0.0
+- pkg:cargo/llmrace@1.1.0
+- pkg:cargo/llmrace@1.1.1
