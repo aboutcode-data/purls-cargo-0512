@@ -63,6 +63,9 @@
 - pkg:cargo/sqry-lang-html@30.0.0
 - pkg:cargo/sqry-lang-html@30.0.1
 - pkg:cargo/sqry-lang-html@31.0.0
+- pkg:cargo/sqry-lang-html@32.0.1
+- pkg:cargo/sqry-lang-html@33.0.0
+- pkg:cargo/sqry-lang-html@33.0.1
 - pkg:cargo/sqry-lang-html@4.10.0
 - pkg:cargo/sqry-lang-html@4.10.1
 - pkg:cargo/sqry-lang-html@4.10.13

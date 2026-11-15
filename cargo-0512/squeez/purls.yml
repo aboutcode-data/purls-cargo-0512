@@ -74,6 +74,15 @@
 - pkg:cargo/squeez@1.47.1
 - pkg:cargo/squeez@1.48.0
 - pkg:cargo/squeez@1.48.1
+- pkg:cargo/squeez@1.48.10
+- pkg:cargo/squeez@1.48.11
+- pkg:cargo/squeez@1.48.12
+- pkg:cargo/squeez@1.48.13
+- pkg:cargo/squeez@1.48.14
+- pkg:cargo/squeez@1.48.15
+- pkg:cargo/squeez@1.48.16
+- pkg:cargo/squeez@1.48.17
+- pkg:cargo/squeez@1.48.18
 - pkg:cargo/squeez@1.48.2
 - pkg:cargo/squeez@1.48.3
 - pkg:cargo/squeez@1.48.4
