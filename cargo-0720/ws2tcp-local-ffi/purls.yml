@@ -10,3 +10,8 @@
 - pkg:cargo/ws2tcp-local-ffi@0.2.0
 - pkg:cargo/ws2tcp-local-ffi@0.3.0
 - pkg:cargo/ws2tcp-local-ffi@0.3.1
+- pkg:cargo/ws2tcp-local-ffi@0.4.0
+- pkg:cargo/ws2tcp-local-ffi@0.4.1
+- pkg:cargo/ws2tcp-local-ffi@0.6.0
+- pkg:cargo/ws2tcp-local-ffi@0.7.0
+- pkg:cargo/ws2tcp-local-ffi@0.8.0
