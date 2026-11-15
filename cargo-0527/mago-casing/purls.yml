@@ -210,6 +210,8 @@
 - pkg:cargo/mago-casing@1.58.2
 - pkg:cargo/mago-casing@1.59.0
 - pkg:cargo/mago-casing@1.6.0
+- pkg:cargo/mago-casing@1.60.0
+- pkg:cargo/mago-casing@1.60.1
 - pkg:cargo/mago-casing@1.7.0
 - pkg:cargo/mago-casing@1.8.0
 - pkg:cargo/mago-casing@1.9.0
