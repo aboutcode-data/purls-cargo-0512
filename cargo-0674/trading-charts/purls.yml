@@ -16,3 +16,4 @@
 - pkg:cargo/trading-charts@0.1.8
 - pkg:cargo/trading-charts@0.1.9
 - pkg:cargo/trading-charts@0.2.0
+- pkg:cargo/trading-charts@1.0.0
