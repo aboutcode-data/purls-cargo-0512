@@ -30,3 +30,5 @@
 - pkg:cargo/trypema@2.1.0
 - pkg:cargo/trypema@2.2.0
 - pkg:cargo/trypema@2.2.1
+- pkg:cargo/trypema@2.3.0
+- pkg:cargo/trypema@3.0.0
