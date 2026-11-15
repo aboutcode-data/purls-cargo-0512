@@ -19,3 +19,4 @@
 - pkg:cargo/deps-swift@2.0.0
 - pkg:cargo/deps-swift@3.0.0
 - pkg:cargo/deps-swift@4.0.0
+- pkg:cargo/deps-swift@5.0.0
