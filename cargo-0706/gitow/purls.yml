@@ -1,1 +1,3 @@
 - pkg:cargo/gitow@1.0.0
+- pkg:cargo/gitow@2.0.0
+- pkg:cargo/gitow@3.0.0
