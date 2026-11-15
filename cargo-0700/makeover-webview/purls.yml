@@ -29,6 +29,9 @@
 - pkg:cargo/makeover-webview@0.123.0
 - pkg:cargo/makeover-webview@0.124.0
 - pkg:cargo/makeover-webview@0.125.0
+- pkg:cargo/makeover-webview@0.126.0
+- pkg:cargo/makeover-webview@0.127.0
+- pkg:cargo/makeover-webview@0.128.0
 - pkg:cargo/makeover-webview@0.13.0
 - pkg:cargo/makeover-webview@0.14.0
 - pkg:cargo/makeover-webview@0.15.0
