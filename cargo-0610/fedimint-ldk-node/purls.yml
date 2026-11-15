@@ -1,3 +1,4 @@
 - pkg:cargo/fedimint-ldk-node@0.1.0
 - pkg:cargo/fedimint-ldk-node@0.6.1
 - pkg:cargo/fedimint-ldk-node@0.7.0
+- pkg:cargo/fedimint-ldk-node@0.7.1
