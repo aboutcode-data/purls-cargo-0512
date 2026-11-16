@@ -70,3 +70,5 @@
 - pkg:cargo/csskit_arena@0.0.39-canary.d747ffa161
 - pkg:cargo/csskit_arena@0.0.39-canary.d7ad219641
 - pkg:cargo/csskit_arena@0.0.39-canary.fe38c3e805
+- pkg:cargo/csskit_arena@0.0.40-canary.09136b167a
+- pkg:cargo/csskit_arena@0.0.40-canary.8825eb78d8
