@@ -46,3 +46,4 @@
 - pkg:cargo/mago-twig-syntax@1.59.0
 - pkg:cargo/mago-twig-syntax@1.60.0
 - pkg:cargo/mago-twig-syntax@1.60.1
+- pkg:cargo/mago-twig-syntax@1.60.2
