@@ -82,3 +82,4 @@
 - pkg:cargo/hotspots-core@3.6.1
 - pkg:cargo/hotspots-core@3.6.2
 - pkg:cargo/hotspots-core@3.7.0
+- pkg:cargo/hotspots-core@3.8.0
