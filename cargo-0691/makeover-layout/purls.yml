@@ -75,6 +75,7 @@
 - pkg:cargo/makeover-layout@0.54.2
 - pkg:cargo/makeover-layout@0.55.0
 - pkg:cargo/makeover-layout@0.56.0
+- pkg:cargo/makeover-layout@0.57.0
 - pkg:cargo/makeover-layout@0.6.0
 - pkg:cargo/makeover-layout@0.6.1
 - pkg:cargo/makeover-layout@0.7.0
