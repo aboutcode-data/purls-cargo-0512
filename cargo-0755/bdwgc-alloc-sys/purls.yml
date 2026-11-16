@@ -1,3 +1,4 @@
 - pkg:cargo/bdwgc-alloc-sys@0.6.15
 - pkg:cargo/bdwgc-alloc-sys@0.6.15-beta
 - pkg:cargo/bdwgc-alloc-sys@0.6.16
+- pkg:cargo/bdwgc-alloc-sys@0.7.0
