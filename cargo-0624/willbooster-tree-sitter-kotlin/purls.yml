@@ -43,6 +43,7 @@
 - pkg:cargo/willbooster-tree-sitter-kotlin@2.0.0
 - pkg:cargo/willbooster-tree-sitter-kotlin@20.0.0
 - pkg:cargo/willbooster-tree-sitter-kotlin@21.0.0
+- pkg:cargo/willbooster-tree-sitter-kotlin@22.0.0
 - pkg:cargo/willbooster-tree-sitter-kotlin@3.0.0
 - pkg:cargo/willbooster-tree-sitter-kotlin@4.0.0
 - pkg:cargo/willbooster-tree-sitter-kotlin@4.0.1

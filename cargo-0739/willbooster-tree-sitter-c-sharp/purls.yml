@@ -57,6 +57,7 @@
 - pkg:cargo/willbooster-tree-sitter-c-sharp@2.0.2
 - pkg:cargo/willbooster-tree-sitter-c-sharp@20.0.0
 - pkg:cargo/willbooster-tree-sitter-c-sharp@21.0.0
+- pkg:cargo/willbooster-tree-sitter-c-sharp@22.0.0
 - pkg:cargo/willbooster-tree-sitter-c-sharp@3.0.0
 - pkg:cargo/willbooster-tree-sitter-c-sharp@3.0.1
 - pkg:cargo/willbooster-tree-sitter-c-sharp@3.0.2

@@ -11,6 +11,7 @@
 - pkg:cargo/willbooster-tree-sitter-php@1.2.2
 - pkg:cargo/willbooster-tree-sitter-php@1.2.3
 - pkg:cargo/willbooster-tree-sitter-php@10.0.0
+- pkg:cargo/willbooster-tree-sitter-php@11.0.0
 - pkg:cargo/willbooster-tree-sitter-php@2.0.0
 - pkg:cargo/willbooster-tree-sitter-php@2.0.1
 - pkg:cargo/willbooster-tree-sitter-php@2.0.2
