@@ -10,3 +10,4 @@
 - pkg:cargo/magma-provider-random@0.1.42
 - pkg:cargo/magma-provider-random@0.1.44
 - pkg:cargo/magma-provider-random@0.1.45
+- pkg:cargo/magma-provider-random@0.1.46
