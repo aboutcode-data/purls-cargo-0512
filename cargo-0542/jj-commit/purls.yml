@@ -7,3 +7,4 @@
 - pkg:cargo/jj-commit@0.45.1
 - pkg:cargo/jj-commit@0.45.2
 - pkg:cargo/jj-commit@0.46.0
+- pkg:cargo/jj-commit@0.47.0
