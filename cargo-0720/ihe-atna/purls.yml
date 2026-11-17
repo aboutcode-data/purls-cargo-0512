@@ -32,6 +32,8 @@
 - pkg:cargo/ihe-atna@0.2.9
 - pkg:cargo/ihe-atna@0.20.0
 - pkg:cargo/ihe-atna@0.21.0
+- pkg:cargo/ihe-atna@0.22.0
+- pkg:cargo/ihe-atna@0.23.0
 - pkg:cargo/ihe-atna@0.3.0
 - pkg:cargo/ihe-atna@0.3.1
 - pkg:cargo/ihe-atna@0.3.2
