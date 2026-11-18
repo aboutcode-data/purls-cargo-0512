@@ -5,6 +5,13 @@
 - pkg:cargo/rdocx@0.12.0
 - pkg:cargo/rdocx@0.13.1
 - pkg:cargo/rdocx@0.14.0
+- pkg:cargo/rdocx@0.15.0
+- pkg:cargo/rdocx@0.16.0
+- pkg:cargo/rdocx@0.16.1
+- pkg:cargo/rdocx@0.16.2
+- pkg:cargo/rdocx@0.16.3
+- pkg:cargo/rdocx@0.16.4
+- pkg:cargo/rdocx@0.17.0
 - pkg:cargo/rdocx@0.2.0
 - pkg:cargo/rdocx@0.3.0
 - pkg:cargo/rdocx@0.4.0
