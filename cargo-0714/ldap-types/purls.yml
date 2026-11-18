@@ -23,3 +23,7 @@
 - pkg:cargo/ldap-types@0.7.0
 - pkg:cargo/ldap-types@0.7.1
 - pkg:cargo/ldap-types@0.7.2
+- pkg:cargo/ldap-types@0.7.3
+- pkg:cargo/ldap-types@0.7.4
+- pkg:cargo/ldap-types@0.7.5
+- pkg:cargo/ldap-types@0.8.0
