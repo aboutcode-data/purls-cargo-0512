@@ -6,3 +6,4 @@
 - pkg:cargo/scion-http3@0.8.4
 - pkg:cargo/scion-http3@0.8.5
 - pkg:cargo/scion-http3@0.8.6
+- pkg:cargo/scion-http3@0.9.0
