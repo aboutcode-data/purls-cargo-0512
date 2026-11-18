@@ -30,3 +30,7 @@
 - pkg:cargo/oura@1.9.3
 - pkg:cargo/oura@2.0.0
 - pkg:cargo/oura@2.0.0-alpha.2
+- pkg:cargo/oura@2.1.0
+- pkg:cargo/oura@2.2.0
+- pkg:cargo/oura@2.2.1
+- pkg:cargo/oura@2.3.0
