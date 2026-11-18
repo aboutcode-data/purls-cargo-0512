@@ -16,3 +16,4 @@
 - pkg:cargo/hostaddr@1.0.0-rc.1
 - pkg:cargo/hostaddr@1.0.0-rc.2
 - pkg:cargo/hostaddr@1.0.0-rc.3
+- pkg:cargo/hostaddr@1.1.0
