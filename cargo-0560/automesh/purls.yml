@@ -39,3 +39,4 @@
 - pkg:cargo/automesh@0.4.8
 - pkg:cargo/automesh@0.4.9
 - pkg:cargo/automesh@0.5.0
+- pkg:cargo/automesh@0.5.1
