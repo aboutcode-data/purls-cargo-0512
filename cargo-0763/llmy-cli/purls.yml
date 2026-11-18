@@ -68,3 +68,4 @@
 - pkg:cargo/llmy-cli@1.5.4
 - pkg:cargo/llmy-cli@1.6.0
 - pkg:cargo/llmy-cli@1.6.1
+- pkg:cargo/llmy-cli@1.6.2
