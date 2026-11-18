@@ -7,3 +7,4 @@
 - pkg:cargo/llm-token-visualizer@0.6.0
 - pkg:cargo/llm-token-visualizer@0.6.1
 - pkg:cargo/llm-token-visualizer@0.7.0
+- pkg:cargo/llm-token-visualizer@0.7.1
