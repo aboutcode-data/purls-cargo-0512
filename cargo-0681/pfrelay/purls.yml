@@ -1,2 +1,6 @@
 - pkg:cargo/pfrelay@0.1.0
+- pkg:cargo/pfrelay@0.16.0
+- pkg:cargo/pfrelay@0.16.1
+- pkg:cargo/pfrelay@0.16.2
 - pkg:cargo/pfrelay@0.2.0
+- pkg:cargo/pfrelay@0.3.0
