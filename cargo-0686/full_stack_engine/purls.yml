@@ -19,6 +19,7 @@
 - pkg:cargo/full_stack_engine@12.2.0
 - pkg:cargo/full_stack_engine@13.0.0
 - pkg:cargo/full_stack_engine@14.0.0
+- pkg:cargo/full_stack_engine@14.1.0
 - pkg:cargo/full_stack_engine@2.0.0
 - pkg:cargo/full_stack_engine@2.1.0
 - pkg:cargo/full_stack_engine@2.1.1
