@@ -12,3 +12,5 @@
 - pkg:cargo/outbox-pattern-processor@0.3.4
 - pkg:cargo/outbox-pattern-processor@0.3.5
 - pkg:cargo/outbox-pattern-processor@0.3.6
+- pkg:cargo/outbox-pattern-processor@0.4.0
+- pkg:cargo/outbox-pattern-processor@0.4.1
