@@ -1,3 +1,7 @@
 - pkg:cargo/thermalcomfort@3.8.0
 - pkg:cargo/thermalcomfort@3.9.1
 - pkg:cargo/thermalcomfort@3.9.2
+- pkg:cargo/thermalcomfort@3.9.8
+- pkg:cargo/thermalcomfort@4.4.2
+- pkg:cargo/thermalcomfort@4.6.1
+- pkg:cargo/thermalcomfort@4.6.2
