@@ -1,1 +1,2 @@
 - pkg:cargo/cudarc-fathomdb@0.19.10
+- pkg:cargo/cudarc-fathomdb@0.20.0
