@@ -31,3 +31,4 @@
 - pkg:cargo/thoth-cli@0.1.84
 - pkg:cargo/thoth-cli@0.1.86
 - pkg:cargo/thoth-cli@0.1.87
+- pkg:cargo/thoth-cli@0.1.89
