@@ -130,3 +130,4 @@
 - pkg:cargo/i_overlay@9.0.0
 - pkg:cargo/i_overlay@9.0.1
 - pkg:cargo/i_overlay@9.1.0
+- pkg:cargo/i_overlay@9.2.0
