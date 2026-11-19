@@ -37,3 +37,4 @@
 - pkg:cargo/deps-pypi@3.0.0
 - pkg:cargo/deps-pypi@4.0.0
 - pkg:cargo/deps-pypi@5.0.0
+- pkg:cargo/deps-pypi@6.0.0

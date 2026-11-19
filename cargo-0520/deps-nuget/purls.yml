@@ -14,3 +14,4 @@
 - pkg:cargo/deps-nuget@3.0.0
 - pkg:cargo/deps-nuget@4.0.0
 - pkg:cargo/deps-nuget@5.0.0
+- pkg:cargo/deps-nuget@6.0.0
