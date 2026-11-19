@@ -1,3 +1,4 @@
 - pkg:cargo/omen-cli@4.29.0
 - pkg:cargo/omen-cli@4.30.0
 - pkg:cargo/omen-cli@5.0.0
+- pkg:cargo/omen-cli@5.1.0
