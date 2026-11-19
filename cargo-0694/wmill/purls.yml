@@ -578,3 +578,5 @@
 - pkg:cargo/wmill@1.873.1
 - pkg:cargo/wmill@1.874.0
 - pkg:cargo/wmill@1.875.0
+- pkg:cargo/wmill@1.876.0
+- pkg:cargo/wmill@1.876.1
