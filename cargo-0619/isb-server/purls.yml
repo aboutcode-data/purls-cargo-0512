@@ -52,3 +52,4 @@
 - pkg:cargo/isb-server@4.1.0
 - pkg:cargo/isb-server@4.1.1
 - pkg:cargo/isb-server@4.1.2
+- pkg:cargo/isb-server@4.2.0
