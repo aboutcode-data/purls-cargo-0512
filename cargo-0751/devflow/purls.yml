@@ -20,3 +20,4 @@
 - pkg:cargo/devflow@2.8.0
 - pkg:cargo/devflow@2.9.0
 - pkg:cargo/devflow@3.0.0
+- pkg:cargo/devflow@4.0.0-alpha.1
