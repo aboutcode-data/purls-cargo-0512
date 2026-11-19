@@ -48,3 +48,5 @@
 - pkg:cargo/dravr-tronc@6.6.0
 - pkg:cargo/dravr-tronc@6.7.0
 - pkg:cargo/dravr-tronc@6.8.0
+- pkg:cargo/dravr-tronc@6.9.0
+- pkg:cargo/dravr-tronc@7.0.0
