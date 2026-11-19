@@ -22,3 +22,5 @@
 - pkg:cargo/tree-sitter-al@5.0.0
 - pkg:cargo/tree-sitter-al@5.1.0
 - pkg:cargo/tree-sitter-al@5.2.0
+- pkg:cargo/tree-sitter-al@5.3.0
+- pkg:cargo/tree-sitter-al@5.4.0
