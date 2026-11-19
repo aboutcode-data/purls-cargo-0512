@@ -27,3 +27,4 @@
 - pkg:cargo/sniffnet@1.4.2
 - pkg:cargo/sniffnet@1.5.0
 - pkg:cargo/sniffnet@1.5.1
+- pkg:cargo/sniffnet@1.6.0
