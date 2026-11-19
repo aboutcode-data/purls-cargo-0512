@@ -13,6 +13,13 @@
 - pkg:cargo/trellis-models@0.100.0-rc.4
 - pkg:cargo/trellis-models@0.100.0-rc.41
 - pkg:cargo/trellis-models@0.100.0-rc.42
+- pkg:cargo/trellis-models@0.100.0-rc.43
+- pkg:cargo/trellis-models@0.100.0-rc.44
+- pkg:cargo/trellis-models@0.100.0-rc.45
+- pkg:cargo/trellis-models@0.100.0-rc.46
+- pkg:cargo/trellis-models@0.100.0-rc.47
+- pkg:cargo/trellis-models@0.100.0-rc.48
+- pkg:cargo/trellis-models@0.100.0-rc.49
 - pkg:cargo/trellis-models@0.100.0-rc.5
 - pkg:cargo/trellis-models@0.100.0-rc.6
 - pkg:cargo/trellis-models@0.100.0-rc.7
