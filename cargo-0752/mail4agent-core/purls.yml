@@ -29,6 +29,8 @@
 - pkg:cargo/mail4agent-core@0.4.31
 - pkg:cargo/mail4agent-core@0.4.33
 - pkg:cargo/mail4agent-core@0.4.34
+- pkg:cargo/mail4agent-core@0.4.35
+- pkg:cargo/mail4agent-core@0.4.36
 - pkg:cargo/mail4agent-core@0.4.4
 - pkg:cargo/mail4agent-core@0.4.5
 - pkg:cargo/mail4agent-core@0.4.6
