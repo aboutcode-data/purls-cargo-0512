@@ -58,3 +58,4 @@
 - pkg:cargo/makefile-lossless@0.4.6
 - pkg:cargo/makefile-lossless@0.4.7
 - pkg:cargo/makefile-lossless@0.4.8
+- pkg:cargo/makefile-lossless@0.4.9
