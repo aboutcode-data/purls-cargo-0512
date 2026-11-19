@@ -1,4 +1,8 @@
 - pkg:cargo/copilot-sdk@0.0.0
 - pkg:cargo/copilot-sdk@1.0.29-unstable.42910103371.g1fdf255
+- pkg:cargo/copilot-sdk@2.0.0
 - pkg:cargo/copilot-sdk@2.0.0-preview.0
 - pkg:cargo/copilot-sdk@2.0.0-preview.1
+- pkg:cargo/copilot-sdk@2.0.0-preview.2
+- pkg:cargo/copilot-sdk@2.0.1
+- pkg:cargo/copilot-sdk@2.0.1-preview.0
