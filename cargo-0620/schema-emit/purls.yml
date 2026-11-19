@@ -2,3 +2,5 @@
 - pkg:cargo/schema-emit@0.7.0
 - pkg:cargo/schema-emit@0.7.1
 - pkg:cargo/schema-emit@0.7.2
+- pkg:cargo/schema-emit@0.8.0
+- pkg:cargo/schema-emit@0.8.1
