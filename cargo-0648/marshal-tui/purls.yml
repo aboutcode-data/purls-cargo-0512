@@ -125,6 +125,9 @@
 - pkg:cargo/marshal-tui@0.6.0
 - pkg:cargo/marshal-tui@0.60.1
 - pkg:cargo/marshal-tui@0.60.2
+- pkg:cargo/marshal-tui@0.60.3
+- pkg:cargo/marshal-tui@0.60.4
+- pkg:cargo/marshal-tui@0.60.5
 - pkg:cargo/marshal-tui@0.7.0
 - pkg:cargo/marshal-tui@0.8.0
 - pkg:cargo/marshal-tui@0.8.1
