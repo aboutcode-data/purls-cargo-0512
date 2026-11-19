@@ -105,6 +105,7 @@
 - pkg:cargo/tree-sitter-harn@0.10.20
 - pkg:cargo/tree-sitter-harn@0.10.200
 - pkg:cargo/tree-sitter-harn@0.10.201
+- pkg:cargo/tree-sitter-harn@0.10.202
 - pkg:cargo/tree-sitter-harn@0.10.21
 - pkg:cargo/tree-sitter-harn@0.10.22
 - pkg:cargo/tree-sitter-harn@0.10.23
