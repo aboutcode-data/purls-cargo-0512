@@ -42,6 +42,7 @@
 - pkg:cargo/truffle-sidecar@0.7.26
 - pkg:cargo/truffle-sidecar@0.7.27
 - pkg:cargo/truffle-sidecar@0.7.28
+- pkg:cargo/truffle-sidecar@0.7.29
 - pkg:cargo/truffle-sidecar@0.7.3
 - pkg:cargo/truffle-sidecar@0.7.5
 - pkg:cargo/truffle-sidecar@0.7.6
