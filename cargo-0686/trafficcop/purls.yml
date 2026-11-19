@@ -11,3 +11,4 @@
 - pkg:cargo/trafficcop@1.4.8
 - pkg:cargo/trafficcop@1.4.9
 - pkg:cargo/trafficcop@1.5.0
+- pkg:cargo/trafficcop@2.0.0
