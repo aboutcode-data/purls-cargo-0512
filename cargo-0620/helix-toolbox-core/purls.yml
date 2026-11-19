@@ -70,6 +70,9 @@
 - pkg:cargo/helix-toolbox-core@1.26.2
 - pkg:cargo/helix-toolbox-core@1.26.3
 - pkg:cargo/helix-toolbox-core@1.26.4
+- pkg:cargo/helix-toolbox-core@1.26.5
+- pkg:cargo/helix-toolbox-core@1.26.6
+- pkg:cargo/helix-toolbox-core@1.26.7
 - pkg:cargo/helix-toolbox-core@1.7.0
 - pkg:cargo/helix-toolbox-core@1.7.1
 - pkg:cargo/helix-toolbox-core@1.7.2
