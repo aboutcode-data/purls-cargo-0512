@@ -6,6 +6,9 @@
 - pkg:cargo/azul-css@0.0.15
 - pkg:cargo/azul-css@0.0.16
 - pkg:cargo/azul-css@0.0.17
+- pkg:cargo/azul-css@0.0.18
+- pkg:cargo/azul-css@0.0.19
+- pkg:cargo/azul-css@0.0.20
 - pkg:cargo/azul-css@0.0.5
 - pkg:cargo/azul-css@0.0.6
 - pkg:cargo/azul-css@0.0.7
