@@ -11,3 +11,4 @@
 - pkg:cargo/sparsemap@5.8.3
 - pkg:cargo/sparsemap@5.8.4
 - pkg:cargo/sparsemap@5.8.5
+- pkg:cargo/sparsemap@5.9.0
