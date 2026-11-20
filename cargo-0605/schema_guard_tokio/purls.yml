@@ -19,3 +19,6 @@
 - pkg:cargo/schema_guard_tokio@2.2.0
 - pkg:cargo/schema_guard_tokio@2.3.0
 - pkg:cargo/schema_guard_tokio@2.3.1
+- pkg:cargo/schema_guard_tokio@2.4.0
+- pkg:cargo/schema_guard_tokio@2.4.1
+- pkg:cargo/schema_guard_tokio@2.4.2
