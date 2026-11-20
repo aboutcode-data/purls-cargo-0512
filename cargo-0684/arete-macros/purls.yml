@@ -83,6 +83,7 @@
 - pkg:cargo/arete-macros@0.55.2
 - pkg:cargo/arete-macros@0.56.0
 - pkg:cargo/arete-macros@0.57.0
+- pkg:cargo/arete-macros@0.58.0
 - pkg:cargo/arete-macros@0.6.0
 - pkg:cargo/arete-macros@0.7.0
 - pkg:cargo/arete-macros@0.7.1
