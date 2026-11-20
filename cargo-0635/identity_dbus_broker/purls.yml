@@ -5,3 +5,4 @@
 - pkg:cargo/identity_dbus_broker@0.1.4
 - pkg:cargo/identity_dbus_broker@0.2.0
 - pkg:cargo/identity_dbus_broker@0.2.1
+- pkg:cargo/identity_dbus_broker@0.2.2
