@@ -25,6 +25,8 @@
 - pkg:cargo/willbooster-tree-sitter-python@2.3.2
 - pkg:cargo/willbooster-tree-sitter-python@20.0.0
 - pkg:cargo/willbooster-tree-sitter-python@21.0.0
+- pkg:cargo/willbooster-tree-sitter-python@21.0.1
+- pkg:cargo/willbooster-tree-sitter-python@21.0.2
 - pkg:cargo/willbooster-tree-sitter-python@3.0.0
 - pkg:cargo/willbooster-tree-sitter-python@4.0.0
 - pkg:cargo/willbooster-tree-sitter-python@4.1.0

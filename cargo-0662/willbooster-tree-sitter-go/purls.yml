@@ -4,6 +4,8 @@
 - pkg:cargo/willbooster-tree-sitter-go@11.0.0
 - pkg:cargo/willbooster-tree-sitter-go@12.0.0
 - pkg:cargo/willbooster-tree-sitter-go@13.0.0
+- pkg:cargo/willbooster-tree-sitter-go@13.0.1
+- pkg:cargo/willbooster-tree-sitter-go@13.0.2
 - pkg:cargo/willbooster-tree-sitter-go@2.0.0
 - pkg:cargo/willbooster-tree-sitter-go@2.1.0
 - pkg:cargo/willbooster-tree-sitter-go@2.1.1

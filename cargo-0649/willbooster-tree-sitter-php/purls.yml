@@ -20,10 +20,14 @@
 - pkg:cargo/willbooster-tree-sitter-php@17.0.0
 - pkg:cargo/willbooster-tree-sitter-php@18.0.0
 - pkg:cargo/willbooster-tree-sitter-php@19.0.0
+- pkg:cargo/willbooster-tree-sitter-php@19.0.1
 - pkg:cargo/willbooster-tree-sitter-php@2.0.0
 - pkg:cargo/willbooster-tree-sitter-php@2.0.1
 - pkg:cargo/willbooster-tree-sitter-php@2.0.2
 - pkg:cargo/willbooster-tree-sitter-php@2.0.3
+- pkg:cargo/willbooster-tree-sitter-php@20.0.0
+- pkg:cargo/willbooster-tree-sitter-php@20.0.1
+- pkg:cargo/willbooster-tree-sitter-php@21.0.0
 - pkg:cargo/willbooster-tree-sitter-php@3.0.0
 - pkg:cargo/willbooster-tree-sitter-php@3.0.1
 - pkg:cargo/willbooster-tree-sitter-php@3.0.2
