@@ -21,6 +21,8 @@
 - pkg:cargo/trellis-models@0.100.0-rc.48
 - pkg:cargo/trellis-models@0.100.0-rc.49
 - pkg:cargo/trellis-models@0.100.0-rc.5
+- pkg:cargo/trellis-models@0.100.0-rc.50
+- pkg:cargo/trellis-models@0.100.0-rc.51
 - pkg:cargo/trellis-models@0.100.0-rc.6
 - pkg:cargo/trellis-models@0.100.0-rc.7
 - pkg:cargo/trellis-models@0.100.0-rc.8
