@@ -1,3 +1,4 @@
 - pkg:cargo/smbcloud-ascapi-msstore@0.3.0
 - pkg:cargo/smbcloud-ascapi-msstore@0.5.1
 - pkg:cargo/smbcloud-ascapi-msstore@0.6.0
+- pkg:cargo/smbcloud-ascapi-msstore@0.7.0
