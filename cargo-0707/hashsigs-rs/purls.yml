@@ -7,3 +7,4 @@
 - pkg:cargo/hashsigs-rs@0.2.1-rc6
 - pkg:cargo/hashsigs-rs@0.2.1-rc8
 - pkg:cargo/hashsigs-rs@0.2.1-rc9
+- pkg:cargo/hashsigs-rs@0.2.2-rc1
