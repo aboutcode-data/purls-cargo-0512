@@ -19,6 +19,7 @@
 - pkg:cargo/highs-sys@1.14.2
 - pkg:cargo/highs-sys@1.14.3
 - pkg:cargo/highs-sys@1.15.0
+- pkg:cargo/highs-sys@1.16.0
 - pkg:cargo/highs-sys@1.2.1
 - pkg:cargo/highs-sys@1.2.2
 - pkg:cargo/highs-sys@1.5.0
