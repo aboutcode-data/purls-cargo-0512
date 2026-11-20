@@ -29,3 +29,5 @@
 - pkg:cargo/spacetimedb-core@2.14.0
 - pkg:cargo/spacetimedb-core@2.14.1
 - pkg:cargo/spacetimedb-core@2.15.0
+- pkg:cargo/spacetimedb-core@2.16.0
+- pkg:cargo/spacetimedb-core@2.16.1
