@@ -3,3 +3,5 @@
 - pkg:cargo/trfrs@5.0.0
 - pkg:cargo/trfrs@5.0.1
 - pkg:cargo/trfrs@5.1.0
+- pkg:cargo/trfrs@5.2.0
+- pkg:cargo/trfrs@5.3.0
