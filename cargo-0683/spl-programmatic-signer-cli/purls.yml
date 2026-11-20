@@ -1,1 +1,2 @@
 - pkg:cargo/spl-programmatic-signer-cli@0.1.0
+- pkg:cargo/spl-programmatic-signer-cli@1.0.0
