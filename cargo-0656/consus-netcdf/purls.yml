@@ -2,3 +2,4 @@
 - pkg:cargo/consus-netcdf@0.2.0
 - pkg:cargo/consus-netcdf@0.3.0
 - pkg:cargo/consus-netcdf@0.4.0
+- pkg:cargo/consus-netcdf@0.5.0
