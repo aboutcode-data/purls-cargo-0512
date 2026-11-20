@@ -20,6 +20,9 @@
 - pkg:cargo/gitpane@0.18.0
 - pkg:cargo/gitpane@0.18.1
 - pkg:cargo/gitpane@0.18.10
+- pkg:cargo/gitpane@0.18.11
+- pkg:cargo/gitpane@0.18.12
+- pkg:cargo/gitpane@0.18.13
 - pkg:cargo/gitpane@0.18.2
 - pkg:cargo/gitpane@0.18.3
 - pkg:cargo/gitpane@0.18.4
@@ -28,6 +31,7 @@
 - pkg:cargo/gitpane@0.18.7
 - pkg:cargo/gitpane@0.18.8
 - pkg:cargo/gitpane@0.18.9
+- pkg:cargo/gitpane@0.19.0
 - pkg:cargo/gitpane@0.2.0
 - pkg:cargo/gitpane@0.3.0
 - pkg:cargo/gitpane@0.3.1
