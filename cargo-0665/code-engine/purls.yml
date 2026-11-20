@@ -13,3 +13,4 @@
 - pkg:cargo/code-engine@0.9.3
 - pkg:cargo/code-engine@0.9.4
 - pkg:cargo/code-engine@0.9.5
+- pkg:cargo/code-engine@2.0.0-rc.0
