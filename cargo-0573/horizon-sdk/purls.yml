@@ -23,6 +23,8 @@
 - pkg:cargo/horizon-sdk@25.1.0
 - pkg:cargo/horizon-sdk@25.1.1
 - pkg:cargo/horizon-sdk@26.0.0
+- pkg:cargo/horizon-sdk@26.1.0
+- pkg:cargo/horizon-sdk@26.1.1
 - pkg:cargo/horizon-sdk@6.10.0
 - pkg:cargo/horizon-sdk@6.7.0
 - pkg:cargo/horizon-sdk@6.7.2
