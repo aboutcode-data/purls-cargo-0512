@@ -22,6 +22,7 @@
 - pkg:cargo/iggy_binary_protocol@0.11.1-edge.7
 - pkg:cargo/iggy_binary_protocol@0.11.1-edge.8
 - pkg:cargo/iggy_binary_protocol@0.12.0
+- pkg:cargo/iggy_binary_protocol@0.12.1-edge.1
 - pkg:cargo/iggy_binary_protocol@0.7.0
 - pkg:cargo/iggy_binary_protocol@0.7.0-edge.1
 - pkg:cargo/iggy_binary_protocol@0.8.0

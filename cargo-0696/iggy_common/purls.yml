@@ -24,6 +24,7 @@
 - pkg:cargo/iggy_common@0.11.1-edge.8
 - pkg:cargo/iggy_common@0.11.1-edge.9
 - pkg:cargo/iggy_common@0.12.0
+- pkg:cargo/iggy_common@0.12.1-edge.1
 - pkg:cargo/iggy_common@0.7.0
 - pkg:cargo/iggy_common@0.7.0-edge.1
 - pkg:cargo/iggy_common@0.8.0
