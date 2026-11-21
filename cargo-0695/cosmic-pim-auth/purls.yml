@@ -12,3 +12,4 @@
 - pkg:cargo/cosmic-pim-auth@4.1.1
 - pkg:cargo/cosmic-pim-auth@4.1.2
 - pkg:cargo/cosmic-pim-auth@5.0.0
+- pkg:cargo/cosmic-pim-auth@6.0.0
