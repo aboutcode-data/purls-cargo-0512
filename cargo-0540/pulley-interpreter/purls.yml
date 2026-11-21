@@ -117,4 +117,5 @@
 - pkg:cargo/pulley-interpreter@50.0.1
 - pkg:cargo/pulley-interpreter@50.0.2
 - pkg:cargo/pulley-interpreter@50.0.3
+- pkg:cargo/pulley-interpreter@51.0.0
 - pkg:cargo/pulley-interpreter@51.0.0-rc.1
