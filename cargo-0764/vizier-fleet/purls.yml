@@ -1,5 +1,6 @@
 - pkg:cargo/vizier-fleet@0.15.0
 - pkg:cargo/vizier-fleet@0.15.0-rc.4
 - pkg:cargo/vizier-fleet@0.15.1
+- pkg:cargo/vizier-fleet@0.16.0
 - pkg:cargo/vizier-fleet@0.16.0-rc.1
 - pkg:cargo/vizier-fleet@0.16.0-rc.2
