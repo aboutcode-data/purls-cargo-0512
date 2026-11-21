@@ -16,6 +16,7 @@
 - pkg:cargo/rdf-reasoning@2.16.0
 - pkg:cargo/rdf-reasoning@2.16.1
 - pkg:cargo/rdf-reasoning@2.17.0
+- pkg:cargo/rdf-reasoning@2.17.1
 - pkg:cargo/rdf-reasoning@2.2.0
 - pkg:cargo/rdf-reasoning@2.2.1
 - pkg:cargo/rdf-reasoning@2.3.0
