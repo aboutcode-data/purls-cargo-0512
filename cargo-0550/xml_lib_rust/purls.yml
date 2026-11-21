@@ -1,1 +1,2 @@
 - pkg:cargo/xml_lib_rust@1.2.0
+- pkg:cargo/xml_lib_rust@1.2.2
