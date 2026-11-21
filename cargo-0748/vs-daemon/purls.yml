@@ -26,6 +26,9 @@
 - pkg:cargo/vs-daemon@0.2.0
 - pkg:cargo/vs-daemon@0.2.1
 - pkg:cargo/vs-daemon@0.2.10
+- pkg:cargo/vs-daemon@0.2.13
+- pkg:cargo/vs-daemon@0.2.14
+- pkg:cargo/vs-daemon@0.2.15
 - pkg:cargo/vs-daemon@0.2.2
 - pkg:cargo/vs-daemon@0.2.3
 - pkg:cargo/vs-daemon@0.2.4
