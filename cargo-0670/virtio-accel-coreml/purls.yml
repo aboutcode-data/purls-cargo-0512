@@ -15,3 +15,4 @@
 - pkg:cargo/virtio-accel-coreml@0.3.9
 - pkg:cargo/virtio-accel-coreml@0.4.0
 - pkg:cargo/virtio-accel-coreml@0.4.1
+- pkg:cargo/virtio-accel-coreml@0.5.0
