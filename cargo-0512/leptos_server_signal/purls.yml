@@ -8,3 +8,4 @@
 - pkg:cargo/leptos_server_signal@0.5.2
 - pkg:cargo/leptos_server_signal@0.6.0
 - pkg:cargo/leptos_server_signal@0.8.0
+- pkg:cargo/leptos_server_signal@0.9.0
