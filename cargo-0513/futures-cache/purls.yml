@@ -3,6 +3,7 @@
 - pkg:cargo/futures-cache@0.10.1
 - pkg:cargo/futures-cache@0.10.2
 - pkg:cargo/futures-cache@0.10.3
+- pkg:cargo/futures-cache@0.11.0
 - pkg:cargo/futures-cache@0.2.0
 - pkg:cargo/futures-cache@0.3.0
 - pkg:cargo/futures-cache@0.4.0
