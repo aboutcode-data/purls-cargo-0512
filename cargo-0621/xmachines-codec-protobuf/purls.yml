@@ -1,0 +1,5 @@
+- pkg:cargo/xmachines-codec-protobuf@0.0.0
+- pkg:cargo/xmachines-codec-protobuf@1.0.0
+- pkg:cargo/xmachines-codec-protobuf@1.1.0
+- pkg:cargo/xmachines-codec-protobuf@2.0.0
+- pkg:cargo/xmachines-codec-protobuf@2.0.1
