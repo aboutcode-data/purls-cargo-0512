@@ -99,4 +99,6 @@
 - pkg:cargo/dekopon-telemetry@0.86.0
 - pkg:cargo/dekopon-telemetry@0.87.0
 - pkg:cargo/dekopon-telemetry@0.88.0
+- pkg:cargo/dekopon-telemetry@0.89.0
 - pkg:cargo/dekopon-telemetry@0.9.0
+- pkg:cargo/dekopon-telemetry@0.90.0
