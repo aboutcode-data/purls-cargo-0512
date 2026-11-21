@@ -44,6 +44,7 @@
 - pkg:cargo/glacier-cli@0.28.18
 - pkg:cargo/glacier-cli@0.28.19
 - pkg:cargo/glacier-cli@0.28.2
+- pkg:cargo/glacier-cli@0.28.20
 - pkg:cargo/glacier-cli@0.28.3
 - pkg:cargo/glacier-cli@0.28.4
 - pkg:cargo/glacier-cli@0.28.5
