@@ -12,3 +12,10 @@
 - pkg:cargo/yaml-sigil-transcription@0.6.0-rc.1
 - pkg:cargo/yaml-sigil-transcription@0.6.0-rc.2
 - pkg:cargo/yaml-sigil-transcription@0.6.0-rc.3
+- pkg:cargo/yaml-sigil-transcription@0.6.1
+- pkg:cargo/yaml-sigil-transcription@0.6.1-rc.1
+- pkg:cargo/yaml-sigil-transcription@0.6.2
+- pkg:cargo/yaml-sigil-transcription@0.6.2-rc.1
+- pkg:cargo/yaml-sigil-transcription@0.6.2-rc.2
+- pkg:cargo/yaml-sigil-transcription@0.6.2-rc.3
+- pkg:cargo/yaml-sigil-transcription@0.6.3-rc.1
