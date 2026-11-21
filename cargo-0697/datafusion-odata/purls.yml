@@ -27,3 +27,5 @@
 - pkg:cargo/datafusion-odata@51.0.0
 - pkg:cargo/datafusion-odata@52.0.0
 - pkg:cargo/datafusion-odata@53.0.0
+- pkg:cargo/datafusion-odata@54.0.0
+- pkg:cargo/datafusion-odata@55.0.0
