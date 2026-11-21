@@ -114,10 +114,16 @@
 - pkg:cargo/lemmy_db_schema@0.19.19
 - pkg:cargo/lemmy_db_schema@0.19.19-beta.0
 - pkg:cargo/lemmy_db_schema@0.19.19-beta.1
+- pkg:cargo/lemmy_db_schema@0.19.19-jemalloc
 - pkg:cargo/lemmy_db_schema@0.19.2
 - pkg:cargo/lemmy_db_schema@0.19.2-rc.3.publish3
 - pkg:cargo/lemmy_db_schema@0.19.2-rc.3.publish4
 - pkg:cargo/lemmy_db_schema@0.19.2-rc.5
+- pkg:cargo/lemmy_db_schema@0.19.20
+- pkg:cargo/lemmy_db_schema@0.19.21
+- pkg:cargo/lemmy_db_schema@0.19.21-beta.1
+- pkg:cargo/lemmy_db_schema@0.19.21-beta.2
+- pkg:cargo/lemmy_db_schema@0.19.21-beta.3
 - pkg:cargo/lemmy_db_schema@0.19.3
 - pkg:cargo/lemmy_db_schema@0.19.3-rc.1
 - pkg:cargo/lemmy_db_schema@0.19.4
@@ -176,6 +182,9 @@
 - pkg:cargo/lemmy_db_schema@1.0.0-alpha.4
 - pkg:cargo/lemmy_db_schema@1.0.0-alpha.5
 - pkg:cargo/lemmy_db_schema@1.0.0-beta.0
+- pkg:cargo/lemmy_db_schema@1.0.0-beta.1
+- pkg:cargo/lemmy_db_schema@1.0.0-beta.2
+- pkg:cargo/lemmy_db_schema@1.0.0-beta.3
 - pkg:cargo/lemmy_db_schema@1.0.0-test-fix-publish-1
 - pkg:cargo/lemmy_db_schema@1.0.0-test-fix-publish-2
 - pkg:cargo/lemmy_db_schema@1.0.0-test-fix-publish-3
