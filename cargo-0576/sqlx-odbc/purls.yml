@@ -4,3 +4,4 @@
 - pkg:cargo/sqlx-odbc@0.0.2
 - pkg:cargo/sqlx-odbc@0.0.3
 - pkg:cargo/sqlx-odbc@0.0.4
+- pkg:cargo/sqlx-odbc@0.0.5
