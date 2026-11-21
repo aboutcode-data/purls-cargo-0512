@@ -48,6 +48,9 @@
 - pkg:cargo/cfn-teleport@0.52.3
 - pkg:cargo/cfn-teleport@0.52.4
 - pkg:cargo/cfn-teleport@0.52.5
+- pkg:cargo/cfn-teleport@0.52.6
+- pkg:cargo/cfn-teleport@0.52.7
+- pkg:cargo/cfn-teleport@0.52.8
 - pkg:cargo/cfn-teleport@0.6.0
 - pkg:cargo/cfn-teleport@0.7.0
 - pkg:cargo/cfn-teleport@0.8.0
