@@ -26,3 +26,6 @@
 - pkg:cargo/sparse-vector@4.3.7
 - pkg:cargo/sparse-vector@4.3.8
 - pkg:cargo/sparse-vector@4.3.9
+- pkg:cargo/sparse-vector@4.4.0
+- pkg:cargo/sparse-vector@4.4.1
+- pkg:cargo/sparse-vector@4.5.0
