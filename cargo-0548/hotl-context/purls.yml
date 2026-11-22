@@ -20,6 +20,7 @@
 - pkg:cargo/hotl-context@0.3.0
 - pkg:cargo/hotl-context@0.31.0
 - pkg:cargo/hotl-context@0.32.0
+- pkg:cargo/hotl-context@0.33.0
 - pkg:cargo/hotl-context@0.4.0
 - pkg:cargo/hotl-context@0.4.1
 - pkg:cargo/hotl-context@0.6.2
