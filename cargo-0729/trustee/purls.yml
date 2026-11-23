@@ -143,6 +143,7 @@
 - pkg:cargo/trustee@0.23.14
 - pkg:cargo/trustee@0.23.15
 - pkg:cargo/trustee@0.23.16
+- pkg:cargo/trustee@0.23.17
 - pkg:cargo/trustee@0.23.2
 - pkg:cargo/trustee@0.23.3
 - pkg:cargo/trustee@0.23.4
