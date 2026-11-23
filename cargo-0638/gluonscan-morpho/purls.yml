@@ -24,4 +24,5 @@
 - pkg:cargo/gluonscan-morpho@0.3.1
 - pkg:cargo/gluonscan-morpho@0.3.1-beta.1
 - pkg:cargo/gluonscan-morpho@0.3.1-beta.2
+- pkg:cargo/gluonscan-morpho@0.3.2
 - pkg:cargo/gluonscan-morpho@0.3.2-beta.1
