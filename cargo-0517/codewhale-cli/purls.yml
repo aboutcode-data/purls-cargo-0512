@@ -1,5 +1,6 @@
 - pkg:cargo/codewhale-cli@0.10.0
 - pkg:cargo/codewhale-cli@0.10.2
+- pkg:cargo/codewhale-cli@0.10.3
 - pkg:cargo/codewhale-cli@0.8.41
 - pkg:cargo/codewhale-cli@0.8.42
 - pkg:cargo/codewhale-cli@0.8.43
