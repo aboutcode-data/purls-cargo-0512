@@ -94,3 +94,4 @@
 - pkg:cargo/concord@2.6.4
 - pkg:cargo/concord@2.7.0
 - pkg:cargo/concord@2.7.1
+- pkg:cargo/concord@2.7.2
