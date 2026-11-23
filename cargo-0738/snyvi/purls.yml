@@ -72,6 +72,7 @@
 - pkg:cargo/snyvi@1.66.1
 - pkg:cargo/snyvi@1.66.2
 - pkg:cargo/snyvi@1.67.0
+- pkg:cargo/snyvi@1.68.0
 - pkg:cargo/snyvi@1.7.0
 - pkg:cargo/snyvi@1.7.1
 - pkg:cargo/snyvi@1.8.0
