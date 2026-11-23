@@ -14,3 +14,4 @@
 - pkg:cargo/git-simple-encrypt@3.0.3
 - pkg:cargo/git-simple-encrypt@3.1.0
 - pkg:cargo/git-simple-encrypt@3.1.2
+- pkg:cargo/git-simple-encrypt@3.1.3
