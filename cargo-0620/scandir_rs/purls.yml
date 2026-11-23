@@ -1,3 +1,4 @@
 - pkg:cargo/scandir_rs@2.4.2
 - pkg:cargo/scandir_rs@2.5.0
 - pkg:cargo/scandir_rs@2.5.1
+- pkg:cargo/scandir_rs@4.0.0
