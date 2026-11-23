@@ -1,3 +1,4 @@
+- pkg:cargo/kit-transport-memory@0.10.0
 - pkg:cargo/kit-transport-memory@0.5.0
 - pkg:cargo/kit-transport-memory@0.6.0
 - pkg:cargo/kit-transport-memory@0.7.0
