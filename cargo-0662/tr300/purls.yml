@@ -34,3 +34,5 @@
 - pkg:cargo/tr300@4.4.2
 - pkg:cargo/tr300@4.4.3
 - pkg:cargo/tr300@4.4.4
+- pkg:cargo/tr300@4.5.0
+- pkg:cargo/tr300@4.5.1
