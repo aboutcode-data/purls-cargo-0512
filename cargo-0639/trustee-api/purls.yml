@@ -55,6 +55,7 @@
 - pkg:cargo/trustee-api@0.20.13
 - pkg:cargo/trustee-api@0.20.14
 - pkg:cargo/trustee-api@0.20.15
+- pkg:cargo/trustee-api@0.20.16
 - pkg:cargo/trustee-api@0.20.2
 - pkg:cargo/trustee-api@0.20.3
 - pkg:cargo/trustee-api@0.20.4
