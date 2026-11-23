@@ -27,3 +27,4 @@
 - pkg:cargo/cosmian_pkcs11_module@5.26.0
 - pkg:cargo/cosmian_pkcs11_module@5.27.0
 - pkg:cargo/cosmian_pkcs11_module@5.28.0
+- pkg:cargo/cosmian_pkcs11_module@5.29.0

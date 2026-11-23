@@ -6,3 +6,4 @@
 - pkg:cargo/cosmol_viewer_derive@0.6.3
 - pkg:cargo/cosmol_viewer_derive@0.6.3-rc.1
 - pkg:cargo/cosmol_viewer_derive@0.6.3-rc.2
+- pkg:cargo/cosmol_viewer_derive@0.6.4-rc.1
