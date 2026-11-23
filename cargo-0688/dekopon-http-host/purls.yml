@@ -102,3 +102,7 @@
 - pkg:cargo/dekopon-http-host@0.89.0
 - pkg:cargo/dekopon-http-host@0.9.0
 - pkg:cargo/dekopon-http-host@0.90.0
+- pkg:cargo/dekopon-http-host@0.91.0
+- pkg:cargo/dekopon-http-host@0.92.0
+- pkg:cargo/dekopon-http-host@0.93.0
+- pkg:cargo/dekopon-http-host@0.94.0
