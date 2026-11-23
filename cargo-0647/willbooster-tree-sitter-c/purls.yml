@@ -78,6 +78,13 @@
 - pkg:cargo/willbooster-tree-sitter-c@40.0.0
 - pkg:cargo/willbooster-tree-sitter-c@40.0.1
 - pkg:cargo/willbooster-tree-sitter-c@40.0.2
+- pkg:cargo/willbooster-tree-sitter-c@40.0.3
+- pkg:cargo/willbooster-tree-sitter-c@40.0.4
+- pkg:cargo/willbooster-tree-sitter-c@40.0.5
+- pkg:cargo/willbooster-tree-sitter-c@41.0.0
+- pkg:cargo/willbooster-tree-sitter-c@42.0.0
+- pkg:cargo/willbooster-tree-sitter-c@43.0.0
+- pkg:cargo/willbooster-tree-sitter-c@44.0.0
 - pkg:cargo/willbooster-tree-sitter-c@5.0.0
 - pkg:cargo/willbooster-tree-sitter-c@5.0.1
 - pkg:cargo/willbooster-tree-sitter-c@5.0.2
