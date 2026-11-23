@@ -142,6 +142,7 @@
 - pkg:cargo/trusty-common@0.70.3
 - pkg:cargo/trusty-common@0.70.4
 - pkg:cargo/trusty-common@0.70.5
+- pkg:cargo/trusty-common@0.70.6
 - pkg:cargo/trusty-common@0.8.0
 - pkg:cargo/trusty-common@0.8.1
 - pkg:cargo/trusty-common@0.8.2
