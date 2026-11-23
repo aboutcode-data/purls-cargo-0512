@@ -1,1 +1,2 @@
 - pkg:cargo/mcp-trace-capture@0.6.0
+- pkg:cargo/mcp-trace-capture@0.7.1
