@@ -27,3 +27,4 @@
 - pkg:cargo/qmux@0.6.4
 - pkg:cargo/qmux@0.6.5
 - pkg:cargo/qmux@0.6.6
+- pkg:cargo/qmux@0.7.0
