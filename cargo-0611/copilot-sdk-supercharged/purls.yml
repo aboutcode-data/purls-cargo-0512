@@ -26,3 +26,4 @@
 - pkg:cargo/copilot-sdk-supercharged@2.5.1
 - pkg:cargo/copilot-sdk-supercharged@2.5.2
 - pkg:cargo/copilot-sdk-supercharged@2.5.3
+- pkg:cargo/copilot-sdk-supercharged@3.0.0
