@@ -31,6 +31,8 @@
 - pkg:cargo/omoikane@1.11.0
 - pkg:cargo/omoikane@1.12.0
 - pkg:cargo/omoikane@1.12.1
+- pkg:cargo/omoikane@1.13.0
+- pkg:cargo/omoikane@1.14.0
 - pkg:cargo/omoikane@1.2.0
 - pkg:cargo/omoikane@1.3.0
 - pkg:cargo/omoikane@1.3.1
