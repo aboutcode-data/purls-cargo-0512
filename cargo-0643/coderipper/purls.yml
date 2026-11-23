@@ -16,6 +16,7 @@
 - pkg:cargo/coderipper@0.47.13
 - pkg:cargo/coderipper@0.47.14
 - pkg:cargo/coderipper@0.47.15
+- pkg:cargo/coderipper@0.47.18
 - pkg:cargo/coderipper@0.47.5
 - pkg:cargo/coderipper@0.6.11
 - pkg:cargo/coderipper@0.6.14
