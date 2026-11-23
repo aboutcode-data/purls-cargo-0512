@@ -3,6 +3,7 @@
 - pkg:cargo/gix-command@0.11.0
 - pkg:cargo/gix-command@0.12.0
 - pkg:cargo/gix-command@0.12.1
+- pkg:cargo/gix-command@0.12.2
 - pkg:cargo/gix-command@0.2.10
 - pkg:cargo/gix-command@0.2.3
 - pkg:cargo/gix-command@0.2.4

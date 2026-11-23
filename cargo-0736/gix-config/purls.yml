@@ -58,3 +58,4 @@
 - pkg:cargo/gix-config@0.62.0
 - pkg:cargo/gix-config@0.62.1
 - pkg:cargo/gix-config@0.62.2
+- pkg:cargo/gix-config@0.63.0

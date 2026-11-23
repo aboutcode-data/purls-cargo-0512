@@ -13,6 +13,7 @@
 - pkg:cargo/gix-hashtable@0.17.0
 - pkg:cargo/gix-hashtable@0.18.0
 - pkg:cargo/gix-hashtable@0.18.1
+- pkg:cargo/gix-hashtable@0.19.0
 - pkg:cargo/gix-hashtable@0.2.0
 - pkg:cargo/gix-hashtable@0.2.1
 - pkg:cargo/gix-hashtable@0.2.2
