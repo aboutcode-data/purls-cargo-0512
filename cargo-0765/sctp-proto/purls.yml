@@ -16,6 +16,7 @@
 - pkg:cargo/sctp-proto@0.10.6
 - pkg:cargo/sctp-proto@0.10.7
 - pkg:cargo/sctp-proto@0.10.8
+- pkg:cargo/sctp-proto@0.10.9
 - pkg:cargo/sctp-proto@0.2.0
 - pkg:cargo/sctp-proto@0.2.1
 - pkg:cargo/sctp-proto@0.2.2
