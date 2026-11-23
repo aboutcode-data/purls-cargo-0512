@@ -6,3 +6,4 @@
 - pkg:cargo/demesne-runtime@4.0.0
 - pkg:cargo/demesne-runtime@5.0.0
 - pkg:cargo/demesne-runtime@5.0.1
+- pkg:cargo/demesne-runtime@6.0.0
