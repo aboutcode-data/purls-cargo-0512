@@ -54,3 +54,4 @@
 - pkg:cargo/gix-diff@0.68.0
 - pkg:cargo/gix-diff@0.69.0
 - pkg:cargo/gix-diff@0.70.0
+- pkg:cargo/gix-diff@0.71.0
