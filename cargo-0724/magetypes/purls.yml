@@ -43,6 +43,7 @@
 - pkg:cargo/magetypes@0.9.31-beta.1
 - pkg:cargo/magetypes@0.9.31-beta.2
 - pkg:cargo/magetypes@0.9.32
+- pkg:cargo/magetypes@0.9.33
 - pkg:cargo/magetypes@0.9.4
 - pkg:cargo/magetypes@0.9.5
 - pkg:cargo/magetypes@0.9.6
