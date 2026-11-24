@@ -152,3 +152,4 @@
 - pkg:cargo/napi-derive-backend@6.1.6
 - pkg:cargo/napi-derive-backend@7.0.0
 - pkg:cargo/napi-derive-backend@7.0.1
+- pkg:cargo/napi-derive-backend@8.0.0
