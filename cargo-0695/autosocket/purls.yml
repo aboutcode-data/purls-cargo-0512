@@ -108,6 +108,7 @@
 - pkg:cargo/autosocket@6.17.0
 - pkg:cargo/autosocket@6.17.1
 - pkg:cargo/autosocket@6.18.0
+- pkg:cargo/autosocket@6.19.0
 - pkg:cargo/autosocket@6.2.0
 - pkg:cargo/autosocket@6.3.0
 - pkg:cargo/autosocket@6.4.0
