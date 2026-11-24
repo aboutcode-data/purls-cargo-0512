@@ -6,3 +6,4 @@
 - pkg:cargo/pulsify-rocksdb@14.0.0
 - pkg:cargo/pulsify-rocksdb@15.0.0
 - pkg:cargo/pulsify-rocksdb@16.0.0
+- pkg:cargo/pulsify-rocksdb@17.0.0
