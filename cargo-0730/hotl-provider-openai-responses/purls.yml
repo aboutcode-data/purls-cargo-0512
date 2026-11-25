@@ -16,3 +16,5 @@
 - pkg:cargo/hotl-provider-openai-responses@0.31.0
 - pkg:cargo/hotl-provider-openai-responses@0.32.0
 - pkg:cargo/hotl-provider-openai-responses@0.33.0
+- pkg:cargo/hotl-provider-openai-responses@0.34.0
+- pkg:cargo/hotl-provider-openai-responses@0.35.0
