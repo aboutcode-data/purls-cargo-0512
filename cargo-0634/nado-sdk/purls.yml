@@ -21,3 +21,5 @@
 - pkg:cargo/nado-sdk@2.0.0
 - pkg:cargo/nado-sdk@2.1.0
 - pkg:cargo/nado-sdk@3.0.0
+- pkg:cargo/nado-sdk@3.1.0
+- pkg:cargo/nado-sdk@4.0.0
