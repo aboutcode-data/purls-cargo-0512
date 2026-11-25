@@ -38,3 +38,4 @@
 - pkg:cargo/communique@1.6.2
 - pkg:cargo/communique@1.7.0
 - pkg:cargo/communique@1.8.0
+- pkg:cargo/communique@1.9.0
