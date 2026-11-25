@@ -170,6 +170,10 @@
 - pkg:cargo/octolib@0.54.1
 - pkg:cargo/octolib@0.54.2
 - pkg:cargo/octolib@0.55.0
+- pkg:cargo/octolib@0.55.1
+- pkg:cargo/octolib@0.55.2
+- pkg:cargo/octolib@0.55.3
+- pkg:cargo/octolib@0.56.0
 - pkg:cargo/octolib@0.6.0
 - pkg:cargo/octolib@0.7.0
 - pkg:cargo/octolib@0.8.0
