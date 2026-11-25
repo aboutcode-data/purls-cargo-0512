@@ -7,6 +7,7 @@
 - pkg:cargo/corex-fleet@0.13.2
 - pkg:cargo/corex-fleet@0.13.3
 - pkg:cargo/corex-fleet@0.14.0
+- pkg:cargo/corex-fleet@0.15.0
 - pkg:cargo/corex-fleet@0.7.0
 - pkg:cargo/corex-fleet@0.8.0
 - pkg:cargo/corex-fleet@0.8.1
