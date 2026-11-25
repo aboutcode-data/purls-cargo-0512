@@ -17,3 +17,4 @@
 - pkg:cargo/magnetar-driver@1.7.4
 - pkg:cargo/magnetar-driver@1.8.0
 - pkg:cargo/magnetar-driver@2.0.0
+- pkg:cargo/magnetar-driver@2.1.0
