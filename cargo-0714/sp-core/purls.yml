@@ -59,6 +59,7 @@
 - pkg:cargo/sp-core@41.0.0
 - pkg:cargo/sp-core@42.0.0
 - pkg:cargo/sp-core@43.0.0
+- pkg:cargo/sp-core@44.0.0
 - pkg:cargo/sp-core@5.0.0
 - pkg:cargo/sp-core@6.0.0
 - pkg:cargo/sp-core@7.0.0
