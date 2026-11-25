@@ -1,2 +1,4 @@
 - pkg:cargo/encore-clickhouse@2.0.0-beta.10
 - pkg:cargo/encore-clickhouse@2.0.0-beta.11
+- pkg:cargo/encore-clickhouse@2.0.0-beta.13
+- pkg:cargo/encore-clickhouse@2.0.0-beta.14
