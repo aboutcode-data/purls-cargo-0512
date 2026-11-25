@@ -8,4 +8,5 @@
 - pkg:cargo/hash-db@0.15.1
 - pkg:cargo/hash-db@0.15.2
 - pkg:cargo/hash-db@0.16.0
+- pkg:cargo/hash-db@0.17.0
 - pkg:cargo/hash-db@0.9.0
