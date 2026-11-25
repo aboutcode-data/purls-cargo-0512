@@ -6,6 +6,7 @@
 - pkg:cargo/copilot-sdk@2.0.0-preview.2
 - pkg:cargo/copilot-sdk@2.0.1
 - pkg:cargo/copilot-sdk@2.0.1-preview.0
+- pkg:cargo/copilot-sdk@2.0.2
 - pkg:cargo/copilot-sdk@2.0.2-preview.0
 - pkg:cargo/copilot-sdk@2.0.2-preview.1
 - pkg:cargo/copilot-sdk@2.0.2-preview.2
@@ -13,3 +14,11 @@
 - pkg:cargo/copilot-sdk@2.0.2-preview.4
 - pkg:cargo/copilot-sdk@2.0.2-preview.5
 - pkg:cargo/copilot-sdk@2.0.2-preview.6
+- pkg:cargo/copilot-sdk@2.0.2-preview.7
+- pkg:cargo/copilot-sdk@2.0.2-unstable.45286541461.g05667ac
+- pkg:cargo/copilot-sdk@2.0.3-preview.0
+- pkg:cargo/copilot-sdk@2.0.3-preview.1
+- pkg:cargo/copilot-sdk@2.0.3-preview.2
+- pkg:cargo/copilot-sdk@2.0.3-preview.3
+- pkg:cargo/copilot-sdk@2.0.3-preview.4
+- pkg:cargo/copilot-sdk@2.0.3-preview.5
