@@ -21,6 +21,7 @@
 - pkg:cargo/cf-gears-mini-chat-sdk@0.10.30
 - pkg:cargo/cf-gears-mini-chat-sdk@0.10.31
 - pkg:cargo/cf-gears-mini-chat-sdk@0.10.32
+- pkg:cargo/cf-gears-mini-chat-sdk@0.10.33
 - pkg:cargo/cf-gears-mini-chat-sdk@0.10.6
 - pkg:cargo/cf-gears-mini-chat-sdk@0.10.7
 - pkg:cargo/cf-gears-mini-chat-sdk@0.10.8

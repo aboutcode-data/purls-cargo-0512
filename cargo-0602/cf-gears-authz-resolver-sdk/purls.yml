@@ -29,3 +29,4 @@
 - pkg:cargo/cf-gears-authz-resolver-sdk@0.6.4
 - pkg:cargo/cf-gears-authz-resolver-sdk@0.6.5
 - pkg:cargo/cf-gears-authz-resolver-sdk@0.7.0
+- pkg:cargo/cf-gears-authz-resolver-sdk@0.7.1
