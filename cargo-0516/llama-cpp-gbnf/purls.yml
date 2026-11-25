@@ -19,3 +19,5 @@
 - pkg:cargo/llama-cpp-gbnf@0.27.0
 - pkg:cargo/llama-cpp-gbnf@0.28.0
 - pkg:cargo/llama-cpp-gbnf@0.29.0
+- pkg:cargo/llama-cpp-gbnf@0.30.0
+- pkg:cargo/llama-cpp-gbnf@0.31.0

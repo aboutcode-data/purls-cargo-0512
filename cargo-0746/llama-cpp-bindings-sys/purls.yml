@@ -25,6 +25,8 @@
 - pkg:cargo/llama-cpp-bindings-sys@0.29.0
 - pkg:cargo/llama-cpp-bindings-sys@0.3.0
 - pkg:cargo/llama-cpp-bindings-sys@0.3.1
+- pkg:cargo/llama-cpp-bindings-sys@0.30.0
+- pkg:cargo/llama-cpp-bindings-sys@0.31.0
 - pkg:cargo/llama-cpp-bindings-sys@0.4.0
 - pkg:cargo/llama-cpp-bindings-sys@0.4.1
 - pkg:cargo/llama-cpp-bindings-sys@0.4.2
