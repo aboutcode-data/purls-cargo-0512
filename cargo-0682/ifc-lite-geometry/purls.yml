@@ -76,6 +76,7 @@
 - pkg:cargo/ifc-lite-geometry@3.1.3
 - pkg:cargo/ifc-lite-geometry@3.2.0
 - pkg:cargo/ifc-lite-geometry@30.0.0
+- pkg:cargo/ifc-lite-geometry@30.1.0
 - pkg:cargo/ifc-lite-geometry@4.0.0
 - pkg:cargo/ifc-lite-geometry@4.1.0
 - pkg:cargo/ifc-lite-geometry@4.1.1
