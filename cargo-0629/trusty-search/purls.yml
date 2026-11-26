@@ -159,3 +159,4 @@
 - pkg:cargo/trusty-search@0.8.0
 - pkg:cargo/trusty-search@1.0.0
 - pkg:cargo/trusty-search@1.0.1
+- pkg:cargo/trusty-search@1.1.0
