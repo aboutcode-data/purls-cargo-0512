@@ -75,3 +75,4 @@
 - pkg:cargo/gitwig@2.6.5
 - pkg:cargo/gitwig@2.6.6
 - pkg:cargo/gitwig@2.6.7
+- pkg:cargo/gitwig@2.7.0
