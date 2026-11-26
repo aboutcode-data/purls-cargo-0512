@@ -84,3 +84,4 @@
 - pkg:cargo/convert2json@2.6.5
 - pkg:cargo/convert2json@3.0.0
 - pkg:cargo/convert2json@3.0.1
+- pkg:cargo/convert2json@3.0.2
