@@ -41,6 +41,7 @@
 - pkg:cargo/coroflow@0.25.0
 - pkg:cargo/coroflow@0.26.0
 - pkg:cargo/coroflow@0.28.0
+- pkg:cargo/coroflow@0.29.0
 - pkg:cargo/coroflow@0.9.0
 - pkg:cargo/coroflow@0.9.1
 - pkg:cargo/coroflow@0.9.10
