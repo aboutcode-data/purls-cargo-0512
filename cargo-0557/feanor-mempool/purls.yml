@@ -1,3 +1,4 @@
 - pkg:cargo/feanor-mempool@1.0.0
 - pkg:cargo/feanor-mempool@2.0.0
 - pkg:cargo/feanor-mempool@2.1.0
+- pkg:cargo/feanor-mempool@3.0.0
