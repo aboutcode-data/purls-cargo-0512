@@ -49,3 +49,4 @@
 - pkg:cargo/tree-sitter-objectscript-routine@1.9.7
 - pkg:cargo/tree-sitter-objectscript-routine@1.9.8
 - pkg:cargo/tree-sitter-objectscript-routine@1.9.9
+- pkg:cargo/tree-sitter-objectscript-routine@2.0.0
