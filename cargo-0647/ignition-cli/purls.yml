@@ -19,3 +19,7 @@
 - pkg:cargo/ignition-cli@1.7.1
 - pkg:cargo/ignition-cli@1.8.0
 - pkg:cargo/ignition-cli@1.8.1
+- pkg:cargo/ignition-cli@1.9.0
+- pkg:cargo/ignition-cli@1.9.1
+- pkg:cargo/ignition-cli@1.9.2
+- pkg:cargo/ignition-cli@1.9.3
