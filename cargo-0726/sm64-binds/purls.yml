@@ -26,7 +26,11 @@
 - pkg:cargo/sm64-binds@2.0.0
 - pkg:cargo/sm64-binds@2.0.1
 - pkg:cargo/sm64-binds@2.1.1
+- pkg:cargo/sm64-binds@2.1.2
+- pkg:cargo/sm64-binds@2.1.4
 - pkg:cargo/sm64-binds@2.2.0
 - pkg:cargo/sm64-binds@2.3.0
 - pkg:cargo/sm64-binds@2.3.1
 - pkg:cargo/sm64-binds@2.3.2
+- pkg:cargo/sm64-binds@2.3.3
+- pkg:cargo/sm64-binds@2.3.4
