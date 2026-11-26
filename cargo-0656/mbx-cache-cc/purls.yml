@@ -39,6 +39,7 @@
 - pkg:cargo/mbx-cache-cc@0.20.7
 - pkg:cargo/mbx-cache-cc@0.20.8
 - pkg:cargo/mbx-cache-cc@0.21.0
+- pkg:cargo/mbx-cache-cc@0.22.0
 - pkg:cargo/mbx-cache-cc@0.7.0
 - pkg:cargo/mbx-cache-cc@0.7.1
 - pkg:cargo/mbx-cache-cc@0.8.0

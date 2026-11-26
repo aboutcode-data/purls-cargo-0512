@@ -37,6 +37,7 @@
 - pkg:cargo/mbtiles@0.21.2
 - pkg:cargo/mbtiles@0.22.0
 - pkg:cargo/mbtiles@0.23.0
+- pkg:cargo/mbtiles@0.24.0
 - pkg:cargo/mbtiles@0.7.0
 - pkg:cargo/mbtiles@0.7.1
 - pkg:cargo/mbtiles@0.7.2
