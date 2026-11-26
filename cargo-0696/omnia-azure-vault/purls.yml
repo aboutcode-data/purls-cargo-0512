@@ -7,3 +7,4 @@
 - pkg:cargo/omnia-azure-vault@0.30.0
 - pkg:cargo/omnia-azure-vault@0.31.0
 - pkg:cargo/omnia-azure-vault@0.32.0
+- pkg:cargo/omnia-azure-vault@0.32.1
