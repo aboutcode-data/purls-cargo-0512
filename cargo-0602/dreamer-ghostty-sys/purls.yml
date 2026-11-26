@@ -1,2 +1,4 @@
 - pkg:cargo/dreamer-ghostty-sys@0.10.0
 - pkg:cargo/dreamer-ghostty-sys@0.11.0
+- pkg:cargo/dreamer-ghostty-sys@0.12.0
+- pkg:cargo/dreamer-ghostty-sys@0.12.1
