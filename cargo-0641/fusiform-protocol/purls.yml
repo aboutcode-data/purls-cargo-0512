@@ -4,3 +4,5 @@
 - pkg:cargo/fusiform-protocol@0.59.0
 - pkg:cargo/fusiform-protocol@0.71.0
 - pkg:cargo/fusiform-protocol@0.78.0
+- pkg:cargo/fusiform-protocol@0.81.0
+- pkg:cargo/fusiform-protocol@0.88.0
