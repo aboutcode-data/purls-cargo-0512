@@ -25,3 +25,4 @@
 - pkg:cargo/copilot-sdk@2.0.3-preview.5
 - pkg:cargo/copilot-sdk@2.0.4-preview.0
 - pkg:cargo/copilot-sdk@2.0.4-preview.1
+- pkg:cargo/copilot-sdk@2.0.4-preview.2
