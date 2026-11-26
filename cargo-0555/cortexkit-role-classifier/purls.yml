@@ -14,3 +14,4 @@
 - pkg:cargo/cortexkit-role-classifier@0.6.3
 - pkg:cargo/cortexkit-role-classifier@0.6.4
 - pkg:cargo/cortexkit-role-classifier@0.6.5
+- pkg:cargo/cortexkit-role-classifier@0.6.6
