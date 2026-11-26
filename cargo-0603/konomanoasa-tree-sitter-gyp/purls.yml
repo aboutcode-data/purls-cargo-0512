@@ -1,3 +1,5 @@
 - pkg:cargo/konomanoasa-tree-sitter-gyp@0.1.0
 - pkg:cargo/konomanoasa-tree-sitter-gyp@0.2.0
 - pkg:cargo/konomanoasa-tree-sitter-gyp@0.2.1
+- pkg:cargo/konomanoasa-tree-sitter-gyp@0.2.2
+- pkg:cargo/konomanoasa-tree-sitter-gyp@0.2.3

@@ -6,3 +6,5 @@
 - pkg:cargo/konomanoasa-tree-sitter-awk@0.14.0
 - pkg:cargo/konomanoasa-tree-sitter-awk@0.14.1
 - pkg:cargo/konomanoasa-tree-sitter-awk@0.15.0
+- pkg:cargo/konomanoasa-tree-sitter-awk@0.15.1
+- pkg:cargo/konomanoasa-tree-sitter-awk@0.15.2
