@@ -58,6 +58,9 @@
 - pkg:cargo/koda-core@0.6.3
 - pkg:cargo/koda-core@0.6.4
 - pkg:cargo/koda-core@0.7.0
+- pkg:cargo/koda-core@0.7.10
+- pkg:cargo/koda-core@0.7.11
+- pkg:cargo/koda-core@0.7.12
 - pkg:cargo/koda-core@0.7.2
 - pkg:cargo/koda-core@0.7.3
 - pkg:cargo/koda-core@0.7.4
@@ -65,3 +68,4 @@
 - pkg:cargo/koda-core@0.7.6
 - pkg:cargo/koda-core@0.7.7
 - pkg:cargo/koda-core@0.7.8
+- pkg:cargo/koda-core@0.7.9
