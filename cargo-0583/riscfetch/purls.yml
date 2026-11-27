@@ -7,3 +7,5 @@
 - pkg:cargo/riscfetch@2.2.1
 - pkg:cargo/riscfetch@2.3.0
 - pkg:cargo/riscfetch@2.3.1
+- pkg:cargo/riscfetch@2.4.0
+- pkg:cargo/riscfetch@2.5.0
