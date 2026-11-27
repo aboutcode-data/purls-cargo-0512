@@ -18,3 +18,4 @@
 - pkg:cargo/domain-check@1.0.3
 - pkg:cargo/domain-check@1.1.0
 - pkg:cargo/domain-check@1.2.0
+- pkg:cargo/domain-check@1.2.1
