@@ -1,3 +1,5 @@
+- pkg:cargo/genomicsqlite@0.10.0
+- pkg:cargo/genomicsqlite@0.10.0-rc.1
 - pkg:cargo/genomicsqlite@0.5.0
 - pkg:cargo/genomicsqlite@0.5.0-dev.2
 - pkg:cargo/genomicsqlite@0.5.1
