@@ -55,3 +55,4 @@
 - pkg:cargo/flowmacro@0.97.0
 - pkg:cargo/flowmacro@0.98.0
 - pkg:cargo/flowmacro@0.99.0
+- pkg:cargo/flowmacro@1.0.0
