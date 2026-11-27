@@ -15,3 +15,4 @@
 - pkg:cargo/dora-ros2-bridge@1.0.0-rc.5
 - pkg:cargo/dora-ros2-bridge@1.0.1
 - pkg:cargo/dora-ros2-bridge@1.1.0
+- pkg:cargo/dora-ros2-bridge@1.2.0-rc.1

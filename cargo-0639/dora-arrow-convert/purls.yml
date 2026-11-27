@@ -49,3 +49,4 @@
 - pkg:cargo/dora-arrow-convert@1.0.0-rc.5
 - pkg:cargo/dora-arrow-convert@1.0.1
 - pkg:cargo/dora-arrow-convert@1.1.0
+- pkg:cargo/dora-arrow-convert@1.2.0-rc.1
