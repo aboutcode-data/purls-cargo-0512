@@ -1,0 +1,6 @@
+- pkg:cargo/dbt-asdl@0.1.0
+- pkg:cargo/dbt-asdl@0.2.0
+- pkg:cargo/dbt-asdl@0.3.0
+- pkg:cargo/dbt-asdl@1.0.0
+- pkg:cargo/dbt-asdl@1.0.1
+- pkg:cargo/dbt-asdl@2.0.0
