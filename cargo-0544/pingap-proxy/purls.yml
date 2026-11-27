@@ -1,2 +1,5 @@
 - pkg:cargo/pingap-proxy@0.13.0
 - pkg:cargo/pingap-proxy@0.13.1
+- pkg:cargo/pingap-proxy@0.15.0
+- pkg:cargo/pingap-proxy@0.16.0
+- pkg:cargo/pingap-proxy@0.16.1
