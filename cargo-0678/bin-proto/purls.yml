@@ -29,3 +29,6 @@
 - pkg:cargo/bin-proto@0.8.0
 - pkg:cargo/bin-proto@0.9.0
 - pkg:cargo/bin-proto@0.9.1
+- pkg:cargo/bin-proto@1.0.0
+- pkg:cargo/bin-proto@1.0.0-rc1
+- pkg:cargo/bin-proto@1.1.0
