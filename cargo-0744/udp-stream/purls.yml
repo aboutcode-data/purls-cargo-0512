@@ -5,6 +5,7 @@
 - pkg:cargo/udp-stream@0.0.10
 - pkg:cargo/udp-stream@0.0.11
 - pkg:cargo/udp-stream@0.0.12
+- pkg:cargo/udp-stream@0.0.13
 - pkg:cargo/udp-stream@0.0.2
 - pkg:cargo/udp-stream@0.0.3
 - pkg:cargo/udp-stream@0.0.4
