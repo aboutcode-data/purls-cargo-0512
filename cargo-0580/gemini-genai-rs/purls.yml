@@ -2,3 +2,4 @@
 - pkg:cargo/gemini-genai-rs@0.7.0
 - pkg:cargo/gemini-genai-rs@1.0.0
 - pkg:cargo/gemini-genai-rs@2.0.0
+- pkg:cargo/gemini-genai-rs@4.0.0
