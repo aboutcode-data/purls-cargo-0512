@@ -6,3 +6,6 @@
 - pkg:cargo/flake-edit@0.3.2
 - pkg:cargo/flake-edit@0.3.3
 - pkg:cargo/flake-edit@0.3.4
+- pkg:cargo/flake-edit@0.3.6
+- pkg:cargo/flake-edit@0.4.0
+- pkg:cargo/flake-edit@0.4.1
