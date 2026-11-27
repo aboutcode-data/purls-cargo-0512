@@ -103,4 +103,5 @@
 - pkg:cargo/binance-sdk@79.0.0
 - pkg:cargo/binance-sdk@79.1.0
 - pkg:cargo/binance-sdk@8.0.0
+- pkg:cargo/binance-sdk@80.0.0
 - pkg:cargo/binance-sdk@9.0.0
