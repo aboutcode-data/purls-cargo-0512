@@ -33,3 +33,4 @@
 - pkg:cargo/json-from-wast@0.260.0
 - pkg:cargo/json-from-wast@0.261.0
 - pkg:cargo/json-from-wast@0.262.0
+- pkg:cargo/json-from-wast@0.263.0
