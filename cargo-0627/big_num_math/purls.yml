@@ -58,3 +58,6 @@
 - pkg:cargo/big_num_math@6.1.2
 - pkg:cargo/big_num_math@7.0.0
 - pkg:cargo/big_num_math@7.0.1
+- pkg:cargo/big_num_math@7.1.0
+- pkg:cargo/big_num_math@7.1.1
+- pkg:cargo/big_num_math@7.1.2
