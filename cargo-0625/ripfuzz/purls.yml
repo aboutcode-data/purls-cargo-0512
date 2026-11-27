@@ -1,0 +1,8 @@
+- pkg:cargo/ripfuzz@0.1.0
+- pkg:cargo/ripfuzz@0.9.0
+- pkg:cargo/ripfuzz@0.9.1
+- pkg:cargo/ripfuzz@0.9.2
+- pkg:cargo/ripfuzz@0.9.3
+- pkg:cargo/ripfuzz@0.9.4
+- pkg:cargo/ripfuzz@0.9.5
+- pkg:cargo/ripfuzz@0.9.6

@@ -1,3 +1,6 @@
+- pkg:cargo/ridal@0.10.0
+- pkg:cargo/ridal@0.11.0
+- pkg:cargo/ridal@0.12.0
 - pkg:cargo/ridal@0.4.5
 - pkg:cargo/ridal@0.4.6
 - pkg:cargo/ridal@0.4.6-1
@@ -5,3 +8,10 @@
 - pkg:cargo/ridal@0.4.7
 - pkg:cargo/ridal@0.5.0
 - pkg:cargo/ridal@0.5.1
+- pkg:cargo/ridal@0.5.2
+- pkg:cargo/ridal@0.6.0
+- pkg:cargo/ridal@0.7.0
+- pkg:cargo/ridal@0.7.1
+- pkg:cargo/ridal@0.8.0
+- pkg:cargo/ridal@0.8.1
+- pkg:cargo/ridal@0.9.0
