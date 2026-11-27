@@ -1,0 +1,3 @@
+- pkg:cargo/dorm-sqlite@0.1.0
+- pkg:cargo/dorm-sqlite@0.2.0
+- pkg:cargo/dorm-sqlite@0.2.1
