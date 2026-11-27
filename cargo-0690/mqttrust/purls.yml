@@ -8,3 +8,4 @@
 - pkg:cargo/mqttrust@0.5.1
 - pkg:cargo/mqttrust@0.5.2
 - pkg:cargo/mqttrust@0.6.0
+- pkg:cargo/mqttrust@1.0.0
