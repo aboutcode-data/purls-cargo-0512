@@ -8,3 +8,4 @@
 - pkg:cargo/gvm-auth-cli@0.2.3
 - pkg:cargo/gvm-auth-cli@0.3.0
 - pkg:cargo/gvm-auth-cli@0.3.1
+- pkg:cargo/gvm-auth-cli@0.4.0
