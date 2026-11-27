@@ -24,3 +24,6 @@
 - pkg:cargo/kcr_apps_kubeblocks_io@2.20260109.134256
 - pkg:cargo/kcr_apps_kubeblocks_io@3.20260116.134325
 - pkg:cargo/kcr_apps_kubeblocks_io@3.20260123.134912
+- pkg:cargo/kcr_apps_kubeblocks_io@3.20260529.165044
+- pkg:cargo/kcr_apps_kubeblocks_io@3.20260605.160650
+- pkg:cargo/kcr_apps_kubeblocks_io@3.20260612.162513

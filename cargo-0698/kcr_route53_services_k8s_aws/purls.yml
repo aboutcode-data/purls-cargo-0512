@@ -13,3 +13,4 @@
 - pkg:cargo/kcr_route53_services_k8s_aws@2.20250922.130605
 - pkg:cargo/kcr_route53_services_k8s_aws@2.20250929.130656
 - pkg:cargo/kcr_route53_services_k8s_aws@3.20260112.132409
+- pkg:cargo/kcr_route53_services_k8s_aws@3.20260601.182345
