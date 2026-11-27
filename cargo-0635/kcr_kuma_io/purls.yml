@@ -11,3 +11,6 @@
 - pkg:cargo/kcr_kuma_io@2.20251004.164007
 - pkg:cargo/kcr_kuma_io@2.20251115.164114
 - pkg:cargo/kcr_kuma_io@3.20260117.164407
+- pkg:cargo/kcr_kuma_io@3.20260530.173436
+- pkg:cargo/kcr_kuma_io@3.20260606.173915
+- pkg:cargo/kcr_kuma_io@3.20260613.175141

@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_operator_tekton_dev@2.20250924.83446
 - pkg:cargo/kcr_operator_tekton_dev@2.20251001.83426
 - pkg:cargo/kcr_operator_tekton_dev@3.20260114.84113
+- pkg:cargo/kcr_operator_tekton_dev@3.20260603.124754

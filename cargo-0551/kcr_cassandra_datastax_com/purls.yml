@@ -14,3 +14,4 @@
 - pkg:cargo/kcr_cassandra_datastax_com@2.20250929.113734
 - pkg:cargo/kcr_cassandra_datastax_com@2.20260105.114124
 - pkg:cargo/kcr_cassandra_datastax_com@3.20260119.114353
+- pkg:cargo/kcr_cassandra_datastax_com@3.20260601.170014
