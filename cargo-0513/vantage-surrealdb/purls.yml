@@ -71,3 +71,4 @@
 - pkg:cargo/vantage-surrealdb@3.0.0
 - pkg:cargo/vantage-surrealdb@3.1.0
 - pkg:cargo/vantage-surrealdb@3.2.0
+- pkg:cargo/vantage-surrealdb@3.3.0

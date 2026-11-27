@@ -49,3 +49,4 @@
 - pkg:cargo/vantage-api-client@2.4.1
 - pkg:cargo/vantage-api-client@2.4.2
 - pkg:cargo/vantage-api-client@3.0.0
+- pkg:cargo/vantage-api-client@3.0.1
