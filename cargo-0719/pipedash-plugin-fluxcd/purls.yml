@@ -1,0 +1,10 @@
+- pkg:cargo/pipedash-plugin-fluxcd@0.10.0
+- pkg:cargo/pipedash-plugin-fluxcd@0.12.0
+- pkg:cargo/pipedash-plugin-fluxcd@0.13.0
+- pkg:cargo/pipedash-plugin-fluxcd@0.14.0
+- pkg:cargo/pipedash-plugin-fluxcd@0.15.0
+- pkg:cargo/pipedash-plugin-fluxcd@0.4.0
+- pkg:cargo/pipedash-plugin-fluxcd@0.6.0
+- pkg:cargo/pipedash-plugin-fluxcd@0.7.0
+- pkg:cargo/pipedash-plugin-fluxcd@0.8.0
+- pkg:cargo/pipedash-plugin-fluxcd@0.9.0
