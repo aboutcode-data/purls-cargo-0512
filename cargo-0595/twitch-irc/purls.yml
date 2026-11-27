@@ -15,3 +15,7 @@
 - pkg:cargo/twitch-irc@5.0.0
 - pkg:cargo/twitch-irc@5.0.1
 - pkg:cargo/twitch-irc@6.0.0
+- pkg:cargo/twitch-irc@6.1.0
+- pkg:cargo/twitch-irc@6.1.1
+- pkg:cargo/twitch-irc@6.1.2
+- pkg:cargo/twitch-irc@6.1.3
