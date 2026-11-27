@@ -8,3 +8,4 @@
 - pkg:cargo/glean-sym@70.3.0
 - pkg:cargo/glean-sym@71.0.0
 - pkg:cargo/glean-sym@71.1.0
+- pkg:cargo/glean-sym@71.2.0
