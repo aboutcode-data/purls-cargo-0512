@@ -1,0 +1,4 @@
+- pkg:cargo/rings-dns-relay@0.39.0
+- pkg:cargo/rings-dns-relay@1.0.0-pre.5
+- pkg:cargo/rings-dns-relay@1.0.0-pre.6
+- pkg:cargo/rings-dns-relay@1.0.0-pre.8
