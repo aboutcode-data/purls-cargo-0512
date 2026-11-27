@@ -33,3 +33,5 @@
 - pkg:cargo/bitfield@0.19.3
 - pkg:cargo/bitfield@0.19.4
 - pkg:cargo/bitfield@0.19.5
+- pkg:cargo/bitfield@0.20.0
+- pkg:cargo/bitfield@0.21.0
