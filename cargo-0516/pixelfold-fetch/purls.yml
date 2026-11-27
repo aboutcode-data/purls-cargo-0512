@@ -1,2 +1,7 @@
 - pkg:cargo/pixelfold-fetch@0.6.0
 - pkg:cargo/pixelfold-fetch@1.0.0
+- pkg:cargo/pixelfold-fetch@2.0.0
+- pkg:cargo/pixelfold-fetch@2.1.0
+- pkg:cargo/pixelfold-fetch@3.0.0
+- pkg:cargo/pixelfold-fetch@4.0.0
+- pkg:cargo/pixelfold-fetch@5.0.0

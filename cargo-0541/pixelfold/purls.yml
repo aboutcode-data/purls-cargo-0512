@@ -1,2 +1,7 @@
 - pkg:cargo/pixelfold@0.6.0
 - pkg:cargo/pixelfold@1.0.0
+- pkg:cargo/pixelfold@2.0.0
+- pkg:cargo/pixelfold@2.1.0
+- pkg:cargo/pixelfold@3.0.0
+- pkg:cargo/pixelfold@4.0.0
+- pkg:cargo/pixelfold@5.0.0

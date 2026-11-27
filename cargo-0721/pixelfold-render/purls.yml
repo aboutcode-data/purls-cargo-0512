@@ -1,2 +1,7 @@
 - pkg:cargo/pixelfold-render@0.6.0
 - pkg:cargo/pixelfold-render@1.0.0
+- pkg:cargo/pixelfold-render@2.0.0
+- pkg:cargo/pixelfold-render@2.1.0
+- pkg:cargo/pixelfold-render@3.0.0
+- pkg:cargo/pixelfold-render@4.0.0
+- pkg:cargo/pixelfold-render@5.0.0
