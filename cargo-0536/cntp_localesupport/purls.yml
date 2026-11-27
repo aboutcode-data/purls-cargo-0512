@@ -1,3 +1,5 @@
 - pkg:cargo/cntp_localesupport@0.1.0
 - pkg:cargo/cntp_localesupport@0.2.0
 - pkg:cargo/cntp_localesupport@0.3.0
+- pkg:cargo/cntp_localesupport@0.4.0
+- pkg:cargo/cntp_localesupport@0.4.1
