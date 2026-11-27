@@ -29,6 +29,11 @@
 - pkg:cargo/ristretto_vm@0.29.0
 - pkg:cargo/ristretto_vm@0.30.0
 - pkg:cargo/ristretto_vm@0.31.0
+- pkg:cargo/ristretto_vm@0.32.0
+- pkg:cargo/ristretto_vm@0.32.1
+- pkg:cargo/ristretto_vm@0.33.0
+- pkg:cargo/ristretto_vm@0.34.0
+- pkg:cargo/ristretto_vm@0.35.0
 - pkg:cargo/ristretto_vm@0.8.0
 - pkg:cargo/ristretto_vm@0.8.1
 - pkg:cargo/ristretto_vm@0.9.0

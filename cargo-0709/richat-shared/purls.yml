@@ -29,3 +29,4 @@
 - pkg:cargo/richat-shared@7.2.1
 - pkg:cargo/richat-shared@8.0.0
 - pkg:cargo/richat-shared@8.0.1
+- pkg:cargo/richat-shared@9.0.0
