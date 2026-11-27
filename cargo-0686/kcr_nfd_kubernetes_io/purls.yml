@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_nfd_kubernetes_io@2.20250924.165137
 - pkg:cargo/kcr_nfd_kubernetes_io@2.20251001.165038
 - pkg:cargo/kcr_nfd_kubernetes_io@3.20260114.170116
+- pkg:cargo/kcr_nfd_kubernetes_io@3.20260603.200242

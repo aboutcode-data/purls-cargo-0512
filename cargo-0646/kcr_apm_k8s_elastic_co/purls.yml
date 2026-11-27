@@ -12,3 +12,4 @@
 - pkg:cargo/kcr_apm_k8s_elastic_co@2.20250927.135208
 - pkg:cargo/kcr_apm_k8s_elastic_co@3.20260117.135244
 - pkg:cargo/kcr_apm_k8s_elastic_co@3.20260124.135421
+- pkg:cargo/kcr_apm_k8s_elastic_co@3.20260530.145505

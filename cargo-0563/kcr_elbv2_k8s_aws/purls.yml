@@ -14,3 +14,4 @@
 - pkg:cargo/kcr_elbv2_k8s_aws@2.20251116.35339
 - pkg:cargo/kcr_elbv2_k8s_aws@2.20260111.41518
 - pkg:cargo/kcr_elbv2_k8s_aws@3.20260118.41145
+- pkg:cargo/kcr_elbv2_k8s_aws@3.20260531.70259
