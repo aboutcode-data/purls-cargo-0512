@@ -3,4 +3,6 @@
 - pkg:cargo/jsonapi_core_derive@0.2.0
 - pkg:cargo/jsonapi_core_derive@0.2.1
 - pkg:cargo/jsonapi_core_derive@0.3.0
+- pkg:cargo/jsonapi_core_derive@1.0.0
 - pkg:cargo/jsonapi_core_derive@1.0.0-rc.1
+- pkg:cargo/jsonapi_core_derive@1.0.0-rc.2
