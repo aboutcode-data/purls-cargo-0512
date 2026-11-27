@@ -76,3 +76,4 @@
 - pkg:cargo/flowc@0.97.0
 - pkg:cargo/flowc@0.98.0
 - pkg:cargo/flowc@0.99.0
+- pkg:cargo/flowc@1.0.0

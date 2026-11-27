@@ -61,3 +61,4 @@
 - pkg:cargo/flowcore@0.97.0
 - pkg:cargo/flowcore@0.98.0
 - pkg:cargo/flowcore@0.99.0
+- pkg:cargo/flowcore@1.0.0
