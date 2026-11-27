@@ -22,3 +22,4 @@
 - pkg:cargo/qk-trace@0.26.2
 - pkg:cargo/qk-trace@0.26.3
 - pkg:cargo/qk-trace@0.27.0
+- pkg:cargo/qk-trace@0.28.0
