@@ -1,3 +1,4 @@
 - pkg:cargo/bitwarden-core@1.0.0
 - pkg:cargo/bitwarden-core@2.0.0
 - pkg:cargo/bitwarden-core@3.0.0
+- pkg:cargo/bitwarden-core@4.0.0
