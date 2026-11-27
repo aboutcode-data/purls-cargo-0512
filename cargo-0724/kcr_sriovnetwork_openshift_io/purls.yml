@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_sriovnetwork_openshift_io@2.20250926.133638
 - pkg:cargo/kcr_sriovnetwork_openshift_io@2.20251107.133814
 - pkg:cargo/kcr_sriovnetwork_openshift_io@3.20260116.134954
+- pkg:cargo/kcr_sriovnetwork_openshift_io@3.20260529.165249

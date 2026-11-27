@@ -9,3 +9,5 @@
 - pkg:cargo/kcr_policy_karmada_io@2.20250925.154200
 - pkg:cargo/kcr_policy_karmada_io@2.20251002.154048
 - pkg:cargo/kcr_policy_karmada_io@3.20260115.155515
+- pkg:cargo/kcr_policy_karmada_io@3.20260604.175829
+- pkg:cargo/kcr_policy_karmada_io@3.20260611.183449
