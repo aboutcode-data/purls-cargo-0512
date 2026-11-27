@@ -6,3 +6,5 @@
 - pkg:cargo/variadics_macro@0.7.0
 - pkg:cargo/variadics_macro@0.8.0-alpha.0
 - pkg:cargo/variadics_macro@0.8.0-alpha.1
+- pkg:cargo/variadics_macro@0.8.0-alpha.2
+- pkg:cargo/variadics_macro@0.8.0-alpha.3
