@@ -1,4 +1,8 @@
 - pkg:cargo/hunkpick@0.1.0
+- pkg:cargo/hunkpick@0.10.0
+- pkg:cargo/hunkpick@0.11.0
+- pkg:cargo/hunkpick@0.11.1
+- pkg:cargo/hunkpick@0.11.2
 - pkg:cargo/hunkpick@0.2.0
 - pkg:cargo/hunkpick@0.2.1
 - pkg:cargo/hunkpick@0.2.2
@@ -9,3 +13,6 @@
 - pkg:cargo/hunkpick@0.5.1
 - pkg:cargo/hunkpick@0.6.0
 - pkg:cargo/hunkpick@0.7.0
+- pkg:cargo/hunkpick@0.8.0
+- pkg:cargo/hunkpick@0.8.1
+- pkg:cargo/hunkpick@0.9.0
