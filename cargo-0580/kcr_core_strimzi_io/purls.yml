@@ -2,3 +2,4 @@
 - pkg:cargo/kcr_core_strimzi_io@2.20251002.113001
 - pkg:cargo/kcr_core_strimzi_io@2.20251204.113548
 - pkg:cargo/kcr_core_strimzi_io@3.20260115.113829
+- pkg:cargo/kcr_core_strimzi_io@3.20260604.141131

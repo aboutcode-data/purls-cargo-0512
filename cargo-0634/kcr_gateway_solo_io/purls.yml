@@ -1,3 +1,5 @@
 - pkg:cargo/kcr_gateway_solo_io@2.20250920.30420
 - pkg:cargo/kcr_gateway_solo_io@2.20250927.30447
 - pkg:cargo/kcr_gateway_solo_io@3.20260117.33920
+- pkg:cargo/kcr_gateway_solo_io@3.20260530.55619
+- pkg:cargo/kcr_gateway_solo_io@3.20260606.60258
