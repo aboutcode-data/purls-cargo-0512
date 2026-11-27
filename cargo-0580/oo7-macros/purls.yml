@@ -1,3 +1,7 @@
 - pkg:cargo/oo7-macros@0.6.0
 - pkg:cargo/oo7-macros@0.6.0-alpha
+- pkg:cargo/oo7-macros@0.7.0
 - pkg:cargo/oo7-macros@0.7.0-alpha
+- pkg:cargo/oo7-macros@0.7.1
+- pkg:cargo/oo7-macros@0.7.2
+- pkg:cargo/oo7-macros@0.7.3
