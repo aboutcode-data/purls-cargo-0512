@@ -23,3 +23,5 @@
 - pkg:cargo/two_timer@2.2.3
 - pkg:cargo/two_timer@2.2.4
 - pkg:cargo/two_timer@2.2.5
+- pkg:cargo/two_timer@2.3.0
+- pkg:cargo/two_timer@3.0.0
