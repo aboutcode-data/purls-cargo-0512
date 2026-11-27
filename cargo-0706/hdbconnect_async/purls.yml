@@ -16,3 +16,4 @@
 - pkg:cargo/hdbconnect_async@0.30.1
 - pkg:cargo/hdbconnect_async@0.31.0
 - pkg:cargo/hdbconnect_async@0.32.0
+- pkg:cargo/hdbconnect_async@0.33.0
