@@ -1,0 +1,2 @@
+- pkg:cargo/pingora-prometheus@0.9.0
+- pkg:cargo/pingora-prometheus@0.9.1
