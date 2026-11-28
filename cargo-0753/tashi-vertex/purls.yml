@@ -3,3 +3,4 @@
 - pkg:cargo/tashi-vertex@0.13.0
 - pkg:cargo/tashi-vertex@0.14.0
 - pkg:cargo/tashi-vertex@0.15.0
+- pkg:cargo/tashi-vertex@0.16.0-rc3
