@@ -1,5 +1,12 @@
 - pkg:cargo/svastha@0.1.0
 - pkg:cargo/svastha@0.10.0
+- pkg:cargo/svastha@0.11.0
+- pkg:cargo/svastha@0.12.0
+- pkg:cargo/svastha@0.13.0
+- pkg:cargo/svastha@0.14.0
+- pkg:cargo/svastha@0.15.0
+- pkg:cargo/svastha@0.16.0
+- pkg:cargo/svastha@0.17.0
 - pkg:cargo/svastha@0.2.0
 - pkg:cargo/svastha@0.3.0
 - pkg:cargo/svastha@0.4.0

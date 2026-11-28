@@ -25,3 +25,10 @@
 - pkg:cargo/svgr@0.44.2
 - pkg:cargo/svgr@0.45.0
 - pkg:cargo/svgr@0.45.1
+- pkg:cargo/svgr@0.46.0
+- pkg:cargo/svgr@0.46.1
+- pkg:cargo/svgr@0.50.0
+- pkg:cargo/svgr@0.50.0-rc.1
+- pkg:cargo/svgr@0.50.1
+- pkg:cargo/svgr@0.50.2
+- pkg:cargo/svgr@0.50.3
