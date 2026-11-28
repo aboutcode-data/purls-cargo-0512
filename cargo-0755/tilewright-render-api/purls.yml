@@ -3,3 +3,6 @@
 - pkg:cargo/tilewright-render-api@0.6.2
 - pkg:cargo/tilewright-render-api@0.6.3
 - pkg:cargo/tilewright-render-api@0.7.0
+- pkg:cargo/tilewright-render-api@0.7.1
+- pkg:cargo/tilewright-render-api@0.7.2
+- pkg:cargo/tilewright-render-api@0.7.3
