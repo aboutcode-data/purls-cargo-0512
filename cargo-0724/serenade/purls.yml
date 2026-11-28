@@ -1,3 +1,5 @@
+- pkg:cargo/serenade@0.10.0
+- pkg:cargo/serenade@0.10.1
 - pkg:cargo/serenade@0.2.9
 - pkg:cargo/serenade@0.3.0
 - pkg:cargo/serenade@0.3.1
