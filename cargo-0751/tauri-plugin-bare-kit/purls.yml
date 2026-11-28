@@ -4,3 +4,4 @@
 - pkg:cargo/tauri-plugin-bare-kit@0.2.3
 - pkg:cargo/tauri-plugin-bare-kit@0.3.0
 - pkg:cargo/tauri-plugin-bare-kit@0.3.1
+- pkg:cargo/tauri-plugin-bare-kit@0.3.2
