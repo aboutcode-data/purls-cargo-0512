@@ -45,5 +45,6 @@
 - pkg:cargo/tickloop@0.2.7
 - pkg:cargo/tickloop@0.2.73
 - pkg:cargo/tickloop@0.2.75
+- pkg:cargo/tickloop@0.2.76
 - pkg:cargo/tickloop@0.2.8
 - pkg:cargo/tickloop@0.2.9
