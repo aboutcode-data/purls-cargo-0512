@@ -1,1 +1,5 @@
 - pkg:cargo/senddart@1.0.0
+- pkg:cargo/senddart@1.1.0
+- pkg:cargo/senddart@1.1.1
+- pkg:cargo/senddart@1.2.0
+- pkg:cargo/senddart@1.3.0
