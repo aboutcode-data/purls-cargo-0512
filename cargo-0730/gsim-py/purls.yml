@@ -5,3 +5,5 @@
 - pkg:cargo/gsim-py@0.6.3
 - pkg:cargo/gsim-py@0.7.0
 - pkg:cargo/gsim-py@0.7.1
+- pkg:cargo/gsim-py@0.8.0
+- pkg:cargo/gsim-py@0.9.0

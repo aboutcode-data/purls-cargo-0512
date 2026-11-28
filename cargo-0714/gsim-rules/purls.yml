@@ -1,4 +1,5 @@
 - pkg:cargo/gsim-rules@0.10.0
+- pkg:cargo/gsim-rules@0.11.0
 - pkg:cargo/gsim-rules@0.6.0
 - pkg:cargo/gsim-rules@0.8.0
 - pkg:cargo/gsim-rules@0.9.0
