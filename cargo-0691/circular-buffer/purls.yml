@@ -10,4 +10,8 @@
 - pkg:cargo/circular-buffer@0.1.9
 - pkg:cargo/circular-buffer@1.0.0
 - pkg:cargo/circular-buffer@1.1.0
+- pkg:cargo/circular-buffer@1.1.1
 - pkg:cargo/circular-buffer@1.2.0
+- pkg:cargo/circular-buffer@1.2.1
+- pkg:cargo/circular-buffer@2.0.0
+- pkg:cargo/circular-buffer@2.0.1
