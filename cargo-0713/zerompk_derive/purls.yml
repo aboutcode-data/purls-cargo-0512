@@ -9,3 +9,8 @@
 - pkg:cargo/zerompk_derive@0.4.1
 - pkg:cargo/zerompk_derive@0.4.2
 - pkg:cargo/zerompk_derive@0.5.0
+- pkg:cargo/zerompk_derive@0.6.0
+- pkg:cargo/zerompk_derive@0.6.1
+- pkg:cargo/zerompk_derive@0.7.0
+- pkg:cargo/zerompk_derive@0.7.1
+- pkg:cargo/zerompk_derive@0.8.0
