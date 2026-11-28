@@ -8,3 +8,5 @@
 - pkg:cargo/tauri-plugin-iroh-http@0.6.0
 - pkg:cargo/tauri-plugin-iroh-http@0.6.1
 - pkg:cargo/tauri-plugin-iroh-http@0.6.2
+- pkg:cargo/tauri-plugin-iroh-http@0.7.0
+- pkg:cargo/tauri-plugin-iroh-http@0.8.0
