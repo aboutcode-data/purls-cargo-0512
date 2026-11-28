@@ -3,3 +3,5 @@
 - pkg:cargo/bb-drivelist@0.3.0
 - pkg:cargo/bb-drivelist@0.3.1
 - pkg:cargo/bb-drivelist@1.0.0
+- pkg:cargo/bb-drivelist@2.0.0
+- pkg:cargo/bb-drivelist@2.0.1
