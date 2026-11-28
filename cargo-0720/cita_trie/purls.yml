@@ -25,3 +25,5 @@
 - pkg:cargo/cita_trie@5.0.0
 - pkg:cargo/cita_trie@5.0.1
 - pkg:cargo/cita_trie@6.0.0
+- pkg:cargo/cita_trie@6.0.1
+- pkg:cargo/cita_trie@6.0.2
