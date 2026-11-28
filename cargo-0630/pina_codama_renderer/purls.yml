@@ -17,6 +17,7 @@
 - pkg:cargo/pina_codama_renderer@0.23.0
 - pkg:cargo/pina_codama_renderer@0.24.0
 - pkg:cargo/pina_codama_renderer@0.25.0
+- pkg:cargo/pina_codama_renderer@0.25.1
 - pkg:cargo/pina_codama_renderer@0.6.0
 - pkg:cargo/pina_codama_renderer@0.7.0
 - pkg:cargo/pina_codama_renderer@0.8.0

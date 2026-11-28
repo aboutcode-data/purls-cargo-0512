@@ -12,3 +12,4 @@
 - pkg:cargo/pina_cpi_renderer@0.23.0
 - pkg:cargo/pina_cpi_renderer@0.24.0
 - pkg:cargo/pina_cpi_renderer@0.25.0
+- pkg:cargo/pina_cpi_renderer@0.25.1
