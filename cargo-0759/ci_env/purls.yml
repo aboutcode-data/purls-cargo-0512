@@ -6,3 +6,7 @@
 - pkg:cargo/ci_env@0.3.0
 - pkg:cargo/ci_env@0.4.0
 - pkg:cargo/ci_env@0.4.1
+- pkg:cargo/ci_env@0.5.0
+- pkg:cargo/ci_env@0.5.1
+- pkg:cargo/ci_env@0.5.2
+- pkg:cargo/ci_env@0.5.3
