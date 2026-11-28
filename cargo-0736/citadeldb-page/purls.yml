@@ -43,3 +43,4 @@
 - pkg:cargo/citadeldb-page@2.6.0
 - pkg:cargo/citadeldb-page@2.6.1
 - pkg:cargo/citadeldb-page@2.7.0
+- pkg:cargo/citadeldb-page@3.0.0
