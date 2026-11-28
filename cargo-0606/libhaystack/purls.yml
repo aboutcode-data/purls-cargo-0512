@@ -35,3 +35,4 @@
 - pkg:cargo/libhaystack@4.0.0
 - pkg:cargo/libhaystack@4.1.0
 - pkg:cargo/libhaystack@4.1.1
+- pkg:cargo/libhaystack@4.2.0
