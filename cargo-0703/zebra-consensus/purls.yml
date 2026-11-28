@@ -18,6 +18,18 @@
 - pkg:cargo/zebra-consensus@1.0.0-beta.43
 - pkg:cargo/zebra-consensus@1.0.0-beta.45
 - pkg:cargo/zebra-consensus@1.0.0-beta.46
+- pkg:cargo/zebra-consensus@10.0.0
+- pkg:cargo/zebra-consensus@11.0.0
+- pkg:cargo/zebra-consensus@12.0.0
+- pkg:cargo/zebra-consensus@12.0.1
+- pkg:cargo/zebra-consensus@13.0.0
+- pkg:cargo/zebra-consensus@14.0.0
+- pkg:cargo/zebra-consensus@14.0.1
+- pkg:cargo/zebra-consensus@15.0.0
+- pkg:cargo/zebra-consensus@16.0.0
+- pkg:cargo/zebra-consensus@17.0.0
+- pkg:cargo/zebra-consensus@18.0.0
+- pkg:cargo/zebra-consensus@19.0.0
 - pkg:cargo/zebra-consensus@2.0.0
 - pkg:cargo/zebra-consensus@3.0.0
 - pkg:cargo/zebra-consensus@3.1.0
@@ -28,3 +40,7 @@
 - pkg:cargo/zebra-consensus@5.0.1
 - pkg:cargo/zebra-consensus@5.0.2
 - pkg:cargo/zebra-consensus@6.0.0
+- pkg:cargo/zebra-consensus@7.0.0
+- pkg:cargo/zebra-consensus@8.0.0
+- pkg:cargo/zebra-consensus@9.0.0
+- pkg:cargo/zebra-consensus@9.0.1
