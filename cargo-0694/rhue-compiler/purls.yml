@@ -1,0 +1,4 @@
+- pkg:cargo/rhue-compiler@1.0.0
+- pkg:cargo/rhue-compiler@2.0.0
+- pkg:cargo/rhue-compiler@2.1.0
+- pkg:cargo/rhue-compiler@2.2.0
