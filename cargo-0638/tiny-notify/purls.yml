@@ -3,3 +3,7 @@
 - pkg:cargo/tiny-notify@0.5.0-rc.13
 - pkg:cargo/tiny-notify@0.5.1
 - pkg:cargo/tiny-notify@0.5.2
+- pkg:cargo/tiny-notify@0.5.3
+- pkg:cargo/tiny-notify@0.5.4
+- pkg:cargo/tiny-notify@0.6.0-alpha.1
+- pkg:cargo/tiny-notify@0.6.0-alpha.2
