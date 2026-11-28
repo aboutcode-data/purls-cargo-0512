@@ -12,6 +12,7 @@
 - pkg:cargo/pingone-aic-manager@0.16.0
 - pkg:cargo/pingone-aic-manager@0.17.0
 - pkg:cargo/pingone-aic-manager@0.18.0
+- pkg:cargo/pingone-aic-manager@0.19.0
 - pkg:cargo/pingone-aic-manager@0.2.0
 - pkg:cargo/pingone-aic-manager@0.2.1
 - pkg:cargo/pingone-aic-manager@0.3.0
