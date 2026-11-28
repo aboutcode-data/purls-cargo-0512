@@ -12,6 +12,8 @@
 - pkg:cargo/librtmp2@0.16.1
 - pkg:cargo/librtmp2@0.17.0
 - pkg:cargo/librtmp2@0.17.1
+- pkg:cargo/librtmp2@0.17.2
+- pkg:cargo/librtmp2@0.17.3
 - pkg:cargo/librtmp2@0.2.0
 - pkg:cargo/librtmp2@0.2.1
 - pkg:cargo/librtmp2@0.3.0
