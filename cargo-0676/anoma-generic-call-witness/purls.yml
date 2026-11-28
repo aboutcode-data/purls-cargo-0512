@@ -1,2 +1,9 @@
 - pkg:cargo/anoma-generic-call-witness@1.0.0
 - pkg:cargo/anoma-generic-call-witness@1.0.0-rc.0
+- pkg:cargo/anoma-generic-call-witness@2.0.0
+- pkg:cargo/anoma-generic-call-witness@2.0.0-rc.1
+- pkg:cargo/anoma-generic-call-witness@2.0.0-rc.3
+- pkg:cargo/anoma-generic-call-witness@2.0.0-rc.4
+- pkg:cargo/anoma-generic-call-witness@2.0.0-rc.5
+- pkg:cargo/anoma-generic-call-witness@3.0.0-rc.2
+- pkg:cargo/anoma-generic-call-witness@3.0.0-rc.3
