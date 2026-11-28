@@ -21,6 +21,7 @@
 - pkg:cargo/taskfleet@0.21.0
 - pkg:cargo/taskfleet@0.21.1
 - pkg:cargo/taskfleet@0.22.0
+- pkg:cargo/taskfleet@0.23.0
 - pkg:cargo/taskfleet@0.6.1
 - pkg:cargo/taskfleet@0.7.0
 - pkg:cargo/taskfleet@0.7.1
