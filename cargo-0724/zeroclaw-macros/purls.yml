@@ -1,1 +1,5 @@
 - pkg:cargo/zeroclaw-macros@0.1.0
+- pkg:cargo/zeroclaw-macros@0.8.5
+- pkg:cargo/zeroclaw-macros@0.8.6
+- pkg:cargo/zeroclaw-macros@0.8.7
+- pkg:cargo/zeroclaw-macros@0.9.0
