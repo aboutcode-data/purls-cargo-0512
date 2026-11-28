@@ -38,6 +38,7 @@
 - pkg:cargo/sqll@0.14.7
 - pkg:cargo/sqll@0.15.0%2Bsqlite3.54.0
 - pkg:cargo/sqll@0.15.1%2Bsqlite3.54.0
+- pkg:cargo/sqll@0.15.2%2Bsqlite3.54.1
 - pkg:cargo/sqll@0.2.0
 - pkg:cargo/sqll@0.2.1
 - pkg:cargo/sqll@0.2.10
