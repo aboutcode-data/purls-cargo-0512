@@ -4,3 +4,4 @@
 - pkg:cargo/sendmux@0.4.0
 - pkg:cargo/sendmux@0.5.0
 - pkg:cargo/sendmux@0.5.1
+- pkg:cargo/sendmux@1.0.0

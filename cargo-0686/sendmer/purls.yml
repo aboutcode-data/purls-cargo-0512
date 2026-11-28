@@ -1,6 +1,9 @@
 - pkg:cargo/sendmer@0.1.0
 - pkg:cargo/sendmer@0.10.0
 - pkg:cargo/sendmer@0.11.0
+- pkg:cargo/sendmer@0.11.2
+- pkg:cargo/sendmer@0.12.0
+- pkg:cargo/sendmer@0.13.0
 - pkg:cargo/sendmer@0.2.0
 - pkg:cargo/sendmer@0.2.1
 - pkg:cargo/sendmer@0.3.0
