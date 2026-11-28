@@ -8,6 +8,8 @@
 - pkg:cargo/limitador@0.13.0-testing01
 - pkg:cargo/limitador@0.13.1-testing01
 - pkg:cargo/limitador@0.14.0
+- pkg:cargo/limitador@0.14.1
+- pkg:cargo/limitador@0.15.0
 - pkg:cargo/limitador@0.2.0
 - pkg:cargo/limitador@0.3.0
 - pkg:cargo/limitador@0.3.0-dev
