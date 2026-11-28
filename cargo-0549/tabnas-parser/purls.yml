@@ -1,5 +1,15 @@
 - pkg:cargo/tabnas-parser@0.12.10
 - pkg:cargo/tabnas-parser@0.12.11
+- pkg:cargo/tabnas-parser@0.12.12
+- pkg:cargo/tabnas-parser@0.12.13
+- pkg:cargo/tabnas-parser@0.12.14
+- pkg:cargo/tabnas-parser@0.12.15
+- pkg:cargo/tabnas-parser@0.12.16
+- pkg:cargo/tabnas-parser@0.12.17
+- pkg:cargo/tabnas-parser@0.12.18
+- pkg:cargo/tabnas-parser@0.12.19
+- pkg:cargo/tabnas-parser@0.12.20
+- pkg:cargo/tabnas-parser@0.12.21
 - pkg:cargo/tabnas-parser@0.12.6
 - pkg:cargo/tabnas-parser@0.12.7
 - pkg:cargo/tabnas-parser@0.12.8
