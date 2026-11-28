@@ -1,1 +1,2 @@
 - pkg:cargo/x509-tsp@0.1.0
+- pkg:cargo/x509-tsp@0.2.0-rc.0
