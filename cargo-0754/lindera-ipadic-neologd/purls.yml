@@ -75,3 +75,4 @@
 - pkg:cargo/lindera-ipadic-neologd@6.0.0
 - pkg:cargo/lindera-ipadic-neologd@6.1.0
 - pkg:cargo/lindera-ipadic-neologd@6.2.0
+- pkg:cargo/lindera-ipadic-neologd@7.0.0
