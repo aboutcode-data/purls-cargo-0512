@@ -22,3 +22,5 @@
 - pkg:cargo/sci-form-cli@0.9.1
 - pkg:cargo/sci-form-cli@1.0.0
 - pkg:cargo/sci-form-cli@2.0.0
+- pkg:cargo/sci-form-cli@2.1.0
+- pkg:cargo/sci-form-cli@2.2.0
