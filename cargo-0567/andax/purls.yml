@@ -32,6 +32,13 @@
 - pkg:cargo/andax@0.7.8
 - pkg:cargo/andax@0.8.0
 - pkg:cargo/andax@0.8.1
+- pkg:cargo/andax@0.8.10
+- pkg:cargo/andax@0.8.11
+- pkg:cargo/andax@0.8.12
+- pkg:cargo/andax@0.8.13
+- pkg:cargo/andax@0.8.14
+- pkg:cargo/andax@0.8.15
+- pkg:cargo/andax@0.8.17
 - pkg:cargo/andax@0.8.2
 - pkg:cargo/andax@0.8.3
 - pkg:cargo/andax@0.8.5
