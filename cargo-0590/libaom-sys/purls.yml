@@ -11,6 +11,8 @@
 - pkg:cargo/libaom-sys@0.17.1%2Blibaom.3.10.0
 - pkg:cargo/libaom-sys@0.17.1-rc.1%2Blibaom.3.10.0
 - pkg:cargo/libaom-sys@0.17.2%2Blibaom.3.11.0
+- pkg:cargo/libaom-sys@0.18.0%2Blibaom.3.15.3
+- pkg:cargo/libaom-sys@0.18.1%2Blibaom.3.15.3
 - pkg:cargo/libaom-sys@0.5.0
 - pkg:cargo/libaom-sys@0.5.1
 - pkg:cargo/libaom-sys@0.6.0
