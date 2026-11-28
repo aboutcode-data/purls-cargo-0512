@@ -10,3 +10,5 @@
 - pkg:cargo/sv1_api@3.0.0
 - pkg:cargo/sv1_api@4.0.0
 - pkg:cargo/sv1_api@5.0.0
+- pkg:cargo/sv1_api@6.0.0
+- pkg:cargo/sv1_api@7.0.0

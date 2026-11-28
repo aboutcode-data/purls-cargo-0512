@@ -13,3 +13,5 @@
 - pkg:cargo/svgm@0.3.6
 - pkg:cargo/svgm@0.3.7
 - pkg:cargo/svgm@0.3.8
+- pkg:cargo/svgm@0.3.9
+- pkg:cargo/svgm@0.4.0

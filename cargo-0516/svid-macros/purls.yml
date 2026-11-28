@@ -5,3 +5,5 @@
 - pkg:cargo/svid-macros@0.5.1
 - pkg:cargo/svid-macros@0.5.2
 - pkg:cargo/svid-macros@0.5.3
+- pkg:cargo/svid-macros@0.5.4
+- pkg:cargo/svid-macros@0.6.0
