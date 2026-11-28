@@ -5,6 +5,7 @@
 - pkg:cargo/ping-openmls-sdk-core@0.10.1
 - pkg:cargo/ping-openmls-sdk-core@0.10.2
 - pkg:cargo/ping-openmls-sdk-core@0.10.3
+- pkg:cargo/ping-openmls-sdk-core@0.10.5
 - pkg:cargo/ping-openmls-sdk-core@0.3.2
 - pkg:cargo/ping-openmls-sdk-core@0.4.0
 - pkg:cargo/ping-openmls-sdk-core@0.4.1
