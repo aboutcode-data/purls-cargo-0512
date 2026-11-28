@@ -1,3 +1,4 @@
 - pkg:cargo/omega-cognitive-kernel@0.5.6
 - pkg:cargo/omega-cognitive-kernel@0.5.7
 - pkg:cargo/omega-cognitive-kernel@0.6.1
+- pkg:cargo/omega-cognitive-kernel@0.7.1
