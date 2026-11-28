@@ -9,6 +9,7 @@
 - pkg:cargo/litedbmodel_runtime@2.2.12
 - pkg:cargo/litedbmodel_runtime@2.2.13
 - pkg:cargo/litedbmodel_runtime@2.2.14
+- pkg:cargo/litedbmodel_runtime@2.2.15
 - pkg:cargo/litedbmodel_runtime@2.2.2
 - pkg:cargo/litedbmodel_runtime@2.2.3
 - pkg:cargo/litedbmodel_runtime@2.2.4
@@ -17,3 +18,6 @@
 - pkg:cargo/litedbmodel_runtime@2.2.7
 - pkg:cargo/litedbmodel_runtime@2.2.8
 - pkg:cargo/litedbmodel_runtime@2.2.9
+- pkg:cargo/litedbmodel_runtime@2.3.0
+- pkg:cargo/litedbmodel_runtime@2.3.1
+- pkg:cargo/litedbmodel_runtime@2.3.2
