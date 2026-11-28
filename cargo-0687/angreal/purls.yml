@@ -45,3 +45,5 @@
 - pkg:cargo/angreal@2.8.7
 - pkg:cargo/angreal@2.8.8
 - pkg:cargo/angreal@2.9.0
+- pkg:cargo/angreal@2.9.1
+- pkg:cargo/angreal@2.9.2
