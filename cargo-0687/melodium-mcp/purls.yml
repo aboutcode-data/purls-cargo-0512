@@ -1,2 +1,5 @@
 - pkg:cargo/melodium-mcp@0.10.2
 - pkg:cargo/melodium-mcp@0.10.3
+- pkg:cargo/melodium-mcp@0.10.4
+- pkg:cargo/melodium-mcp@0.11.0
+- pkg:cargo/melodium-mcp@0.11.1

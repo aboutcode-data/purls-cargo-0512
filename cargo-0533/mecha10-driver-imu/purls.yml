@@ -1,1 +1,16 @@
+- pkg:cargo/mecha10-driver-imu@0.10.0
 - pkg:cargo/mecha10-driver-imu@0.6.3
+- pkg:cargo/mecha10-driver-imu@0.6.5
+- pkg:cargo/mecha10-driver-imu@0.7.0
+- pkg:cargo/mecha10-driver-imu@0.8.0
+- pkg:cargo/mecha10-driver-imu@0.8.1
+- pkg:cargo/mecha10-driver-imu@0.8.2
+- pkg:cargo/mecha10-driver-imu@0.9.0
+- pkg:cargo/mecha10-driver-imu@1.0.0
+- pkg:cargo/mecha10-driver-imu@2.0.0
+- pkg:cargo/mecha10-driver-imu@3.0.0
+- pkg:cargo/mecha10-driver-imu@4.0.0
+- pkg:cargo/mecha10-driver-imu@4.0.1
+- pkg:cargo/mecha10-driver-imu@4.0.2
+- pkg:cargo/mecha10-driver-imu@4.0.3
+- pkg:cargo/mecha10-driver-imu@4.0.4
