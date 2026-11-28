@@ -10,3 +10,4 @@
 - pkg:cargo/yaml-rt-serde@0.3.1
 - pkg:cargo/yaml-rt-serde@0.3.2
 - pkg:cargo/yaml-rt-serde@0.3.3
+- pkg:cargo/yaml-rt-serde@0.3.4
