@@ -199,6 +199,7 @@
 - pkg:cargo/tauri@2.12.5
 - pkg:cargo/tauri@2.12.6
 - pkg:cargo/tauri@2.12.7
+- pkg:cargo/tauri@2.13.0
 - pkg:cargo/tauri@2.2.0
 - pkg:cargo/tauri@2.2.1
 - pkg:cargo/tauri@2.2.2
