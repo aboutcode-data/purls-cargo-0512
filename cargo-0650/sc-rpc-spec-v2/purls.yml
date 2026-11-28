@@ -57,3 +57,4 @@
 - pkg:cargo/sc-rpc-spec-v2@0.60.0
 - pkg:cargo/sc-rpc-spec-v2@0.61.0
 - pkg:cargo/sc-rpc-spec-v2@0.62.0
+- pkg:cargo/sc-rpc-spec-v2@0.63.0
